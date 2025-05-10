@@ -1,0 +1,470 @@
+[
+  {
+    "course_code": "ARABIC 1A",
+    "units": "5",
+    "title": "Elementary Standard Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC1A"
+  },
+  {
+    "course_code": "ARABIC 1B",
+    "units": "5",
+    "title": "Elementary Standard Arabic",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ARABIC 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC1B"
+  },
+  {
+    "course_code": "ARABIC 1C",
+    "units": "5",
+    "title": "Elementary Standard Arabic",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ARABIC 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC1C"
+  },
+  {
+    "course_code": "ARABIC 8",
+    "units": "12",
+    "title": "Elementary Standard Arabic: Intensive",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC8"
+  },
+  {
+    "course_code": "ARABIC 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC19"
+  },
+  {
+    "course_code": "ARABIC 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC89"
+  },
+  {
+    "course_code": "ARABIC 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC89HC"
+  },
+  {
+    "course_code": "ARABIC 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC99"
+  },
+  {
+    "course_code": "ARABIC 102A",
+    "units": "4",
+    "title": "Intermediate Standard Arabic",
+    "prerequisites": [
+      "ARABIC 1C",
+      "ARABIC 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC102A"
+  },
+  {
+    "course_code": "ARABIC 102B",
+    "units": "4",
+    "title": "Intermediate Standard Arabic",
+    "prerequisites": [
+      "ARABIC 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC102B"
+  },
+  {
+    "course_code": "ARABIC 102C",
+    "units": "4",
+    "title": "Intermediate Standard Arabic",
+    "prerequisites": [
+      "ARABIC 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC102C"
+  },
+  {
+    "course_code": "ARABIC 103A",
+    "units": "4",
+    "title": "Advanced Arabic",
+    "prerequisites": [
+      "ARABIC 102A",
+      "ARABIC 102B",
+      "ARABIC 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC103A"
+  },
+  {
+    "course_code": "ARABIC 103B",
+    "units": "4",
+    "title": "Advanced Arabic",
+    "prerequisites": [
+      "ARABIC 102A",
+      "ARABIC 102B",
+      "ARABIC 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC103B"
+  },
+  {
+    "course_code": "ARABIC 103C",
+    "units": "4",
+    "title": "Advanced Arabic",
+    "prerequisites": [
+      "ARABIC 102A",
+      "ARABIC 102B",
+      "ARABIC 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC103C"
+  },
+  {
+    "course_code": "ARABIC CM106",
+    "units": "4",
+    "title": "Qur'an",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICCM106"
+  },
+  {
+    "course_code": "ARABIC M107",
+    "units": "5",
+    "title": "Islam in West",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM107"
+  },
+  {
+    "course_code": "ARABIC 108",
+    "units": "12",
+    "title": "Summer Intensive Intermediate Arabic",
+    "prerequisites": [
+      "ARABIC 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC108"
+  },
+  {
+    "course_code": "ARABIC M110",
+    "units": "4",
+    "title": "One Thousand and One Nights/Alf Layla Wa-Layla",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM110"
+  },
+  {
+    "course_code": "ARABIC 111A",
+    "units": "4",
+    "title": "Elementary Spoken Egyptian Arabic",
+    "prerequisites": [
+      "ARABIC 1C",
+      "ARABIC 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC111A"
+  },
+  {
+    "course_code": "ARABIC 111B",
+    "units": "4",
+    "title": "Elementary Spoken Egyptian Arabic",
+    "prerequisites": [
+      "ARABIC 1C",
+      "ARABIC 8",
+      "ARABIC 111A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC111B"
+  },
+  {
+    "course_code": "ARABIC 111C",
+    "units": "4",
+    "title": "Elementary Spoken Egyptian Arabic",
+    "prerequisites": [
+      "ARABIC 1C",
+      "ARABIC 8",
+      "ARABIC 111B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC111C"
+  },
+  {
+    "course_code": "ARABIC 111S",
+    "units": "4",
+    "title": "Summer Intensive Elementary Egyptian Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC111S"
+  },
+  {
+    "course_code": "ARABIC 112A",
+    "units": "4",
+    "title": "Advanced Spoken Egyptian Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC112A"
+  },
+  {
+    "course_code": "ARABIC 112B",
+    "units": "4",
+    "title": "Advanced Spoken Egyptian Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC112B"
+  },
+  {
+    "course_code": "ARABIC 112C",
+    "units": "4",
+    "title": "Advanced Spoken Egyptian Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC112C"
+  },
+  {
+    "course_code": "ARABIC 115",
+    "units": "4",
+    "title": "Studies in Arabic Dialectology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC115"
+  },
+  {
+    "course_code": "ARABIC 117",
+    "units": "4",
+    "title": "Levantine Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC117"
+  },
+  {
+    "course_code": "ARABIC 120",
+    "units": "4",
+    "title": "Islamic Texts",
+    "prerequisites": [
+      "ARABIC 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC120"
+  },
+  {
+    "course_code": "ARABIC M123",
+    "units": "4",
+    "title": "Oral Literature and Performance of Arab World",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM123"
+  },
+  {
+    "course_code": "ARABIC 130",
+    "units": "4",
+    "title": "Classical Arabic Texts",
+    "prerequisites": [
+      "ARABIC 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC130"
+  },
+  {
+    "course_code": "ARABIC 132",
+    "units": "4",
+    "title": "Philosophical and Kalam Texts",
+    "prerequisites": [
+      "ARABIC 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC132"
+  },
+  {
+    "course_code": "ARABIC 140",
+    "units": "4",
+    "title": "Readings in Modern Standard Arabic",
+    "prerequisites": [
+      "ARABIC 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC140"
+  },
+  {
+    "course_code": "ARABIC C141",
+    "units": "4",
+    "title": "Modern Arabic Literature",
+    "prerequisites": [
+      "None 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICC141"
+  },
+  {
+    "course_code": "ARABIC 142",
+    "units": "4",
+    "title": "Arabic Media",
+    "prerequisites": [
+      "ARABIC 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC142"
+  },
+  {
+    "course_code": "ARABIC M148",
+    "units": "4",
+    "title": "Contemporary Arab Film and Song",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM148"
+  },
+  {
+    "course_code": "ARABIC 150",
+    "units": "4",
+    "title": "Classical Arabic Literature in English",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC150"
+  },
+  {
+    "course_code": "ARABIC M151",
+    "units": "4",
+    "title": "Modern Arabic Literature in English",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM151"
+  },
+  {
+    "course_code": "ARABIC M155",
+    "units": "4",
+    "title": "Al-Andalus: Literature of Islamic Spain",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM155"
+  },
+  {
+    "course_code": "ARABIC M171",
+    "units": "4",
+    "title": "Culture Area of Maghrib (North Africa)",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM171"
+  },
+  {
+    "course_code": "ARABIC 177",
+    "units": "4",
+    "title": "Variable Topics in Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC177"
+  },
+  {
+    "course_code": "ARABIC 178",
+    "units": "4",
+    "title": "Sociolinguistics of Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC178"
+  },
+  {
+    "course_code": "ARABIC 180",
+    "units": "4",
+    "title": "Linguistics Analysis of Arabic",
+    "prerequisites": [
+      "ARABIC 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC180"
+  },
+  {
+    "course_code": "ARABIC 181",
+    "units": "4",
+    "title": "Translating Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC181"
+  },
+  {
+    "course_code": "ARABIC 188FL",
+    "units": "2",
+    "title": "Special Studies: Readings in Arabic",
+    "prerequisites": [
+      "ARABIC 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC188FL"
+  },
+  {
+    "course_code": "ARABIC 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC189"
+  },
+  {
+    "course_code": "ARABIC 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC189HC"
+  },
+  {
+    "course_code": "ARABIC 197",
+    "units": "24",
+    "title": "Individual Studies in Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC197"
+  },
+  {
+    "course_code": "ARABIC 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Arabic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC199"
+  },
+  {
+    "course_code": "ARABIC C206",
+    "units": "4",
+    "title": "Qur'an",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICC206"
+  },
+  {
+    "course_code": "ARABIC 220",
+    "units": "4",
+    "title": "Seminar: Islamic Texts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC220"
+  },
+  {
+    "course_code": "ARABIC M231",
+    "units": "4",
+    "title": "Texts in Judeo-Arabic",
+    "prerequisites": [
+      "None 102C",
+      "None 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM231"
+  },
+  {
+    "course_code": "ARABIC C241",
+    "units": "4",
+    "title": "Modern Arabic Literature",
+    "prerequisites": [
+      "None 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICC241"
+  },
+  {
+    "course_code": "ARABIC 250",
+    "units": "4",
+    "title": "Seminar: Premodern Arabic Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC250"
+  },
+  {
+    "course_code": "ARABIC 251",
+    "units": "4",
+    "title": "Seminar: Modern Arabic Literature",
+    "prerequisites": [
+      "ARABIC 141"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC251"
+  },
+  {
+    "course_code": "ARABIC M255",
+    "units": "4",
+    "title": "Literatures and Cultures of Maghreb",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM255"
+  },
+  {
+    "course_code": "ARABIC 275",
+    "units": "4",
+    "title": "Encountering Arabic Manuscripts: Introduction to Arabic Paleography and Critical Edition of Manuscripts",
+    "prerequisites": [
+      "ARABIC 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC275"
+  },
+  {
+    "course_code": "ARABIC M288",
+    "units": "4",
+    "title": "Modern Arab Thought",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABICM288"
+  },
+  {
+    "course_code": "ARABIC 496",
+    "units": "2",
+    "title": "Arabic Language Pedagogy Course",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC496"
+  },
+  {
+    "course_code": "ARABIC 596",
+    "units": "28",
+    "title": "Directed Individual Study",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC596"
+  },
+  {
+    "course_code": "ARABIC 597",
+    "units": "28",
+    "title": "Examination Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC597"
+  },
+  {
+    "course_code": "ARABIC 599",
+    "units": "28",
+    "title": "PhD Dissertation Research and Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARABIC599"
+  }
+]

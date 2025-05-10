@@ -1,0 +1,852 @@
+[
+  {
+    "course_code": "AN N EA 10W",
+    "units": "5",
+    "title": "Jerusalem: Holy City",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "AN N EA 3"
+    ],
+    "credit_exclusions": [
+      "AN N EA 12W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA10W"
+  },
+  {
+    "course_code": "AN N EA 12W",
+    "units": "5",
+    "title": "Jerusalem: Holy City",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "Writing II",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "prerequisites": [
+      "AN N EA 3"
+    ],
+    "credit_exclusions": [
+      "AN N EA 10W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA12W"
+  },
+  {
+    "course_code": "AN N EA 14",
+    "units": "5",
+    "title": "Medicine, Magic, and Science in Ancient Times",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "equivalent_courses": [
+      "AN N EA 14W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA14"
+  },
+  {
+    "course_code": "AN N EA 14W",
+    "units": "5",
+    "title": "Medicine, Magic, and Science in Ancient Times",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "AN N EA 3"
+    ],
+    "equivalent_courses": [
+      "AN N EA 14"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA14W"
+  },
+  {
+    "course_code": "AN N EA 15",
+    "units": "5",
+    "title": "Women and Power in Ancient World",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "equivalent_courses": [
+      "AN N EA 15W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA15"
+  },
+  {
+    "course_code": "AN N EA 15W",
+    "units": "5",
+    "title": "Women and Power in Ancient World",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "Writing II",
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "AN N EA 3"
+    ],
+    "equivalent_courses": [
+      "AN N EA 15"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA15W"
+  },
+  {
+    "course_code": "AN N EA 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA19"
+  },
+  {
+    "course_code": "AN N EA 20",
+    "units": "5",
+    "title": "Egyptian Hieroglyphs",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA20"
+  },
+  {
+    "course_code": "AN N EA M50A",
+    "units": "5",
+    "title": "First Civilizations",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM50A"
+  },
+  {
+    "course_code": "AN N EA M50B",
+    "units": "5",
+    "title": "Origins of Judaism, Christianity, and Islam",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM50B"
+  },
+  {
+    "course_code": "AN N EA M60",
+    "units": "5",
+    "title": "Achaemenid Civilization and Empire of Alexander",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "equivalent_courses": [
+      "AN N EA M 60W",
+      "IRANIAN M 60W",
+      "HIST M 60W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM60"
+  },
+  {
+    "course_code": "AN N EA M60W",
+    "units": "5",
+    "title": "Achaemenid Civilization and Empire of Alexander",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "None 3"
+    ],
+    "equivalent_courses": [
+      "HIST M 60",
+      "AN N EA M 60",
+      "IRANIAN M 60"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM60W"
+  },
+  {
+    "course_code": "AN N EA M70",
+    "units": "5",
+    "title": "Demons, Fear, and Uncanny in Ancient World",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM70"
+  },
+  {
+    "course_code": "AN N EA 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA89"
+  },
+  {
+    "course_code": "AN N EA 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA89HC"
+  },
+  {
+    "course_code": "AN N EA 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA99"
+  },
+  {
+    "course_code": "AN N EA CM101A",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, Predynastic Period to New Kingdom",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM101A"
+  },
+  {
+    "course_code": "AN N EA CM101B",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, New Kingdom to Greco-Roman Period",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM101B"
+  },
+  {
+    "course_code": "AN N EA M101C",
+    "units": "4",
+    "title": "Ancient Egyptian Temple and City of Thebes",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM101C"
+  },
+  {
+    "course_code": "AN N EA M103A",
+    "units": "4",
+    "title": "History of Ancient Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM103A"
+  },
+  {
+    "course_code": "AN N EA M103B",
+    "units": "4",
+    "title": "History of Ancient Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM103B"
+  },
+  {
+    "course_code": "AN N EA M104A",
+    "units": "4",
+    "title": "History of Ancient Mesopotamia and Syria",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM104A"
+  },
+  {
+    "course_code": "AN N EA M104B",
+    "units": "4",
+    "title": "Sumerians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM104B"
+  },
+  {
+    "course_code": "AN N EA M104C",
+    "units": "4",
+    "title": "Babylonians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM104C"
+  },
+  {
+    "course_code": "AN N EA M104D",
+    "units": "4",
+    "title": "Assyrians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM104D"
+  },
+  {
+    "course_code": "AN N EA M105",
+    "units": "4",
+    "title": "Archaeology of Egypt and Sudan",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM105"
+  },
+  {
+    "course_code": "AN N EA M110A",
+    "units": "4",
+    "title": "Iranian Civilization: History of Achaemenid Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM110A"
+  },
+  {
+    "course_code": "AN N EA M110B",
+    "units": "4",
+    "title": "Iranian Civilization: History of Arsacid (Parthian) Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM110B"
+  },
+  {
+    "course_code": "AN N EA M110C",
+    "units": "4",
+    "title": "Iranian Civilization: History of Early Sasanian Empire\u2014From Ardashir I to Rise of Peroz (circa 224-459 CE)",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM110C"
+  },
+  {
+    "course_code": "AN N EA 120A",
+    "units": "5",
+    "title": "Elementary Ancient Egyptian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA120A"
+  },
+  {
+    "course_code": "AN N EA 120B",
+    "units": "5",
+    "title": "Elementary Ancient Egyptian",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "AN N EA 120A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA120B"
+  },
+  {
+    "course_code": "AN N EA 120C",
+    "units": "5",
+    "title": "Elementary Ancient Egyptian",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "AN N EA 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA120C"
+  },
+  {
+    "course_code": "AN N EA 121A",
+    "units": "5",
+    "title": "Intermediate Ancient Egyptian Readings",
+    "prerequisites": [
+      "AN N EA 120C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA121A"
+  },
+  {
+    "course_code": "AN N EA 121B",
+    "units": "5",
+    "title": "Intermediate Ancient Egyptian Readings",
+    "prerequisites": [
+      "AN N EA 121A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA121B"
+  },
+  {
+    "course_code": "AN N EA 121C",
+    "units": "5",
+    "title": "Intermediate Ancient Egyptian Readings",
+    "prerequisites": [
+      "AN N EA 121B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA121C"
+  },
+  {
+    "course_code": "AN N EA 122",
+    "units": "12",
+    "title": "Elementary Ancient Egyptian: Intensive",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA122"
+  },
+  {
+    "course_code": "AN N EA C123A",
+    "units": "5",
+    "title": "Coptic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC123A"
+  },
+  {
+    "course_code": "AN N EA C123B",
+    "units": "5",
+    "title": "Coptic",
+    "prerequisites": [
+      "None 123A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC123B"
+  },
+  {
+    "course_code": "AN N EA 124",
+    "units": "4",
+    "title": "Middle Egyptian Technical Literature",
+    "prerequisites": [
+      "AN N EA 121C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA124"
+  },
+  {
+    "course_code": "AN N EA 125A",
+    "units": "4",
+    "title": "Digital Cultural Mapping Core Course A: Place, Time, and Digital World",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA125A"
+  },
+  {
+    "course_code": "AN N EA M125B",
+    "units": "4",
+    "title": "Digital Cultural Mapping Core Course B: Google Earth, Geographic Information Systems, Hypercities, and Timelines",
+    "prerequisites": [
+      "None 125A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM125B"
+  },
+  {
+    "course_code": "AN N EA M125C",
+    "units": "4",
+    "title": "Digital Cultural Mapping Core Course C: Summer Research",
+    "prerequisites": [
+      "None 125B",
+      "None 125B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM125C"
+  },
+  {
+    "course_code": "AN N EA M130",
+    "units": "5",
+    "title": "Ancient Egyptian Religion",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM130"
+  },
+  {
+    "course_code": "AN N EA M135",
+    "units": "4",
+    "title": "Religion in Ancient Israel",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM135"
+  },
+  {
+    "course_code": "AN N EA 140A",
+    "units": "4",
+    "title": "Elementary Sumerian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA140A"
+  },
+  {
+    "course_code": "AN N EA 140B",
+    "units": "4",
+    "title": "Elementary Sumerian",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "AN N EA 140A",
+      "AN N EA 140B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA140B"
+  },
+  {
+    "course_code": "AN N EA 140C",
+    "units": "4",
+    "title": "Elementary Sumerian",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "AN N EA 140A",
+      "AN N EA 140B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA140C"
+  },
+  {
+    "course_code": "AN N EA M141",
+    "units": "4",
+    "title": "Elementary Akkadian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM141"
+  },
+  {
+    "course_code": "AN N EA 150A",
+    "units": "4",
+    "title": "Heroes, Gods, and Monsters: Literature and Epic in Mesopotamia",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA150A"
+  },
+  {
+    "course_code": "AN N EA 150B",
+    "units": "4",
+    "title": "Survey of Ancient Near Eastern Literatures in English: Egypt",
+    "prerequisites": [
+      "AN N EA 103A",
+      "AN N EA 103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA150B"
+  },
+  {
+    "course_code": "AN N EA 160",
+    "units": "4",
+    "title": "Origins of Agriculture",
+    "prerequisites": [
+      "AN N EA 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA160"
+  },
+  {
+    "course_code": "AN N EA 161",
+    "units": "4",
+    "title": "Archaeology of Prehistoric Mesopotamia",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA161"
+  },
+  {
+    "course_code": "AN N EA 162",
+    "units": "5",
+    "title": "Archaeology, Identity, and Bible",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA162"
+  },
+  {
+    "course_code": "AN N EA CM163",
+    "units": "4",
+    "title": "Archaeology of Iran",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM163"
+  },
+  {
+    "course_code": "AN N EA M164",
+    "units": "4",
+    "title": "Archaeology of Levant",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM164"
+  },
+  {
+    "course_code": "AN N EA C165",
+    "units": "4",
+    "title": "Egyptian Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC165"
+  },
+  {
+    "course_code": "AN N EA M166",
+    "units": "4",
+    "title": "Art and Death in Ancient Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM166"
+  },
+  {
+    "course_code": "AN N EA M167",
+    "units": "4",
+    "title": "Magic in Ancient World",
+    "prerequisites": [
+      "None 10",
+      "None 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM167"
+  },
+  {
+    "course_code": "AN N EA M168A",
+    "units": "4",
+    "title": "Elementary Hittite",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM168A"
+  },
+  {
+    "course_code": "AN N EA M168B",
+    "units": "4",
+    "title": "Elementary Hittite",
+    "prerequisites": [
+      "None 168A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM168B"
+  },
+  {
+    "course_code": "AN N EA CM169",
+    "units": "4",
+    "title": "Introduction to Archaeological Sciences",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM169"
+  },
+  {
+    "course_code": "AN N EA M170",
+    "units": "4",
+    "title": "Bible and Its Interpreters",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM170"
+  },
+  {
+    "course_code": "AN N EA M172",
+    "units": "4",
+    "title": "Elementary Luwian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM172"
+  },
+  {
+    "course_code": "AN N EA 175",
+    "units": "4",
+    "title": "Conceptions of Race in Ancient Egypt",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA175"
+  },
+  {
+    "course_code": "AN N EA C177",
+    "units": "4",
+    "title": "Variable Topics in Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC177"
+  },
+  {
+    "course_code": "AN N EA M179",
+    "units": "4",
+    "title": "Cultural Heritage and Identity Representation: Creating Fowler and Virtual Exhibit",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM179"
+  },
+  {
+    "course_code": "AN N EA M185D",
+    "units": "4",
+    "title": "Religions of Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM185D"
+  },
+  {
+    "course_code": "AN N EA 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AN N EA 101E"
+    ],
+    "corequisites": [
+      "AN N EA 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA188SA"
+  },
+  {
+    "course_code": "AN N EA 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AN N EA 188S"
+    ],
+    "corequisites": [
+      "AN N EA 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA188SB"
+  },
+  {
+    "course_code": "AN N EA 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AN N EA 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA188SC"
+  },
+  {
+    "course_code": "AN N EA 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA189"
+  },
+  {
+    "course_code": "AN N EA 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA189HC"
+  },
+  {
+    "course_code": "AN N EA 197",
+    "units": "24",
+    "title": "Individual Studies in Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA197"
+  },
+  {
+    "course_code": "AN N EA 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA199"
+  },
+  {
+    "course_code": "AN N EA M201",
+    "units": "4",
+    "title": "Archaeological Research Design",
+    "prerequisites": [
+      "None 201A",
+      "None 201B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM201"
+  },
+  {
+    "course_code": "AN N EA M208",
+    "units": "4",
+    "title": "Topics in Ancient Iranian History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM208"
+  },
+  {
+    "course_code": "AN N EA 210",
+    "units": "4",
+    "title": "Late Egyptian",
+    "prerequisites": [
+      "AN N EA 121A",
+      "AN N EA 121B",
+      "AN N EA 121C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA210"
+  },
+  {
+    "course_code": "AN N EA 211A",
+    "units": "4",
+    "title": "Egyptian Texts of Greco-Roman Period",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA211A"
+  },
+  {
+    "course_code": "AN N EA 211B",
+    "units": "4",
+    "title": "Egyptian Texts of Greco-Roman Period",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA211B"
+  },
+  {
+    "course_code": "AN N EA 215",
+    "units": "4",
+    "title": "Readings in Middle Kingdom Literature",
+    "prerequisites": [
+      "AN N EA 120A",
+      "AN N EA 120B",
+      "AN N EA 120C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA215"
+  },
+  {
+    "course_code": "AN N EA 220",
+    "units": "4",
+    "title": "Seminar: Ancient Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA220"
+  },
+  {
+    "course_code": "AN N EA 221A",
+    "units": "4",
+    "title": "Demotic",
+    "prerequisites": [
+      "AN N EA 121C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA221A"
+  },
+  {
+    "course_code": "AN N EA 221B",
+    "units": "4",
+    "title": "Demotic",
+    "prerequisites": [
+      "AN N EA 221A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA221B"
+  },
+  {
+    "course_code": "AN N EA C223A",
+    "units": "5",
+    "title": "Coptic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC223A"
+  },
+  {
+    "course_code": "AN N EA C223B",
+    "units": "5",
+    "title": "Coptic",
+    "prerequisites": [
+      "None 223A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC223B"
+  },
+  {
+    "course_code": "AN N EA 225",
+    "units": "24",
+    "title": "Readings on the Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA225"
+  },
+  {
+    "course_code": "AN N EA 230",
+    "units": "4",
+    "title": "Seminar: Ancient Syria/Palestine",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA230"
+  },
+  {
+    "course_code": "AN N EA 240A",
+    "units": "4",
+    "title": "Seminar: Sumerian Language and Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA240A"
+  },
+  {
+    "course_code": "AN N EA 240B",
+    "units": "4",
+    "title": "Seminar: Sumerian Language and Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA240B"
+  },
+  {
+    "course_code": "AN N EA 240C",
+    "units": "4",
+    "title": "Seminar: Sumerian Language and Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA240C"
+  },
+  {
+    "course_code": "AN N EA CM259",
+    "units": "4",
+    "title": "Archaeology of Iran",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM259"
+  },
+  {
+    "course_code": "AN N EA 260",
+    "units": "24",
+    "title": "Seminar: Ancient Near Eastern Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA260"
+  },
+  {
+    "course_code": "AN N EA 261",
+    "units": "28",
+    "title": "Practical Field Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA261"
+  },
+  {
+    "course_code": "AN N EA 262",
+    "units": "4",
+    "title": "Seminar: Object Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA262"
+  },
+  {
+    "course_code": "AN N EA 263",
+    "units": "4",
+    "title": "Seminar: Egyptian Monuments",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA263"
+  },
+  {
+    "course_code": "AN N EA 264",
+    "units": "4",
+    "title": "Egyptian Museum Collections",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA264"
+  },
+  {
+    "course_code": "AN N EA M265",
+    "units": "4",
+    "title": "Depositional History and Stratigraphic Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM265"
+  },
+  {
+    "course_code": "AN N EA C266",
+    "units": "4",
+    "title": "Egyptian Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC266"
+  },
+  {
+    "course_code": "AN N EA C267A",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, Predynastic Period to New Kingdom",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC267A"
+  },
+  {
+    "course_code": "AN N EA C267B",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, New Kingdom to Greco-Roman Period",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC267B"
+  },
+  {
+    "course_code": "AN N EA CM269",
+    "units": "4",
+    "title": "Introduction to Archaeological Sciences",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEACM269"
+  },
+  {
+    "course_code": "AN N EA 270",
+    "units": "4",
+    "title": "Old Egyptian",
+    "prerequisites": [
+      "AN N EA 120A",
+      "AN N EA 120B",
+      "AN N EA 120C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA270"
+  },
+  {
+    "course_code": "AN N EA C277",
+    "units": "4",
+    "title": "Variable Topics in Ancient Near East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAC277"
+  },
+  {
+    "course_code": "AN N EA 596",
+    "units": "28",
+    "title": "Directed Individual Study",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA596"
+  },
+  {
+    "course_code": "AN N EA 597",
+    "units": "28",
+    "title": "Examination Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA597"
+  },
+  {
+    "course_code": "AN N EA 599",
+    "units": "28",
+    "title": "PhD Dissertation Research and Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA599"
+  }
+]

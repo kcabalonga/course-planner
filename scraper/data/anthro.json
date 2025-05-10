@@ -1,0 +1,1529 @@
+[
+  {
+    "course_code": "ANTHRO 1",
+    "units": "5",
+    "title": "Human Evolution",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO1"
+  },
+  {
+    "course_code": "ANTHRO 2",
+    "units": "5",
+    "title": "Archaeology: Introduction",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO2"
+  },
+  {
+    "course_code": "ANTHRO 3",
+    "units": "5",
+    "title": "Culture and Society",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO3"
+  },
+  {
+    "course_code": "ANTHRO 4",
+    "units": "5",
+    "title": "Culture and Communication",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO4"
+  },
+  {
+    "course_code": "ANTHRO 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO19"
+  },
+  {
+    "course_code": "ANTHRO M67W",
+    "units": "5",
+    "title": "Making and Studying Modern Middle East",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "None 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM67W"
+  },
+  {
+    "course_code": "ANTHRO 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO89"
+  },
+  {
+    "course_code": "ANTHRO 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO89HC"
+  },
+  {
+    "course_code": "ANTHRO 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO99"
+  },
+  {
+    "course_code": "ANTHRO 100",
+    "units": "4",
+    "title": "History of Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO100"
+  },
+  {
+    "course_code": "ANTHRO 110",
+    "units": "4",
+    "title": "Principles of Archaeology",
+    "prerequisites": [
+      "ANTHRO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO110"
+  },
+  {
+    "course_code": "ANTHRO CM110Q",
+    "units": "4",
+    "title": "Introduction to Archaeological Sciences",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROCM110Q"
+  },
+  {
+    "course_code": "ANTHRO 111",
+    "units": "4",
+    "title": "Theory in Anthropological Archaeology",
+    "prerequisites": [
+      "ANTHRO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO111"
+  },
+  {
+    "course_code": "ANTHRO 112P",
+    "units": "4",
+    "title": "Selected Topics in Historical Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO112P"
+  },
+  {
+    "course_code": "ANTHRO 112Q",
+    "units": "4",
+    "title": "Archaeology of Chiefdoms",
+    "prerequisites": [
+      "ANTHRO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO112Q"
+  },
+  {
+    "course_code": "ANTHRO 112R",
+    "units": "4",
+    "title": "Cities Past and Present",
+    "prerequisites": [
+      "ANTHRO 2",
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO112R"
+  },
+  {
+    "course_code": "ANTHRO 112S",
+    "units": "4",
+    "title": "Politics of Past",
+    "prerequisites": [
+      "ANTHRO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO112S"
+  },
+  {
+    "course_code": "ANTHRO 113P",
+    "units": "4",
+    "title": "Archaeology of North America",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO113P"
+  },
+  {
+    "course_code": "ANTHRO 113Q",
+    "units": "4",
+    "title": "California Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO113Q"
+  },
+  {
+    "course_code": "ANTHRO 113R",
+    "units": "4",
+    "title": "Southwestern Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO113R"
+  },
+  {
+    "course_code": "ANTHRO 114P",
+    "units": "4",
+    "title": "Ancient Civilizations of Mesoamerica",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO114P"
+  },
+  {
+    "course_code": "ANTHRO 114Q",
+    "units": "4",
+    "title": "Ancient Civilizations of Andean South America",
+    "prerequisites": [
+      "ANTHRO 2",
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO114Q"
+  },
+  {
+    "course_code": "ANTHRO M115",
+    "units": "4",
+    "title": "Archaeology of Egypt and Sudan",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM115"
+  },
+  {
+    "course_code": "ANTHRO 115P",
+    "units": "4",
+    "title": "Archaeology of the African Diaspora",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO115P"
+  },
+  {
+    "course_code": "ANTHRO 116P",
+    "units": "4",
+    "title": "Archaeology of South Asia",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO116P"
+  },
+  {
+    "course_code": "ANTHRO 116Q",
+    "units": "4",
+    "title": "Selected Topics in Archaeology of China",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO116Q"
+  },
+  {
+    "course_code": "ANTHRO M116R",
+    "units": "4",
+    "title": "Archaeological Landscapes of China",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM116R"
+  },
+  {
+    "course_code": "ANTHRO 116S",
+    "units": "4",
+    "title": "Selected Topics in Archaeology of Southeast Asia",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO116S"
+  },
+  {
+    "course_code": "ANTHRO 116XP",
+    "units": "4",
+    "title": "Collaborative and Community-Engaged Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO116XP"
+  },
+  {
+    "course_code": "ANTHRO C117",
+    "units": "4",
+    "title": "Selected Laboratory Topics in Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC117"
+  },
+  {
+    "course_code": "ANTHRO 117P",
+    "units": "4",
+    "title": "Selected Laboratory Topics in Archaeology",
+    "prerequisites": [
+      "ANTHRO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO117P"
+  },
+  {
+    "course_code": "ANTHRO 118Q",
+    "units": "4",
+    "title": "Conquest and Colonialism",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO118Q"
+  },
+  {
+    "course_code": "ANTHRO 118R",
+    "units": "4",
+    "title": "Religion and Urbanism",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO118R"
+  },
+  {
+    "course_code": "ANTHRO 119",
+    "units": "4",
+    "title": "Selected Topics in Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO119"
+  },
+  {
+    "course_code": "ANTHRO 120",
+    "units": "4",
+    "title": "Survey of Biological Anthropology",
+    "prerequisites": [
+      "ANTHRO 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO120"
+  },
+  {
+    "course_code": "ANTHRO 124P",
+    "units": "4",
+    "title": "Human Behavioral Ecology",
+    "prerequisites": [
+      "ANTHRO 1",
+      "ANTHRO 1",
+      "ANTHRO 7B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO124P"
+  },
+  {
+    "course_code": "ANTHRO 124Q",
+    "units": "4",
+    "title": "Evolutionary Psychology",
+    "prerequisites": [
+      "ANTHRO 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO124Q"
+  },
+  {
+    "course_code": "ANTHRO M124R",
+    "units": "4",
+    "title": "Evolution of Language",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM124R"
+  },
+  {
+    "course_code": "ANTHRO 124S",
+    "units": "4",
+    "title": "Evolution of Human Sexual Behavior",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO124S"
+  },
+  {
+    "course_code": "ANTHRO 124T",
+    "units": "4",
+    "title": "Evolution of Personality",
+    "prerequisites": [
+      "ANTHRO 1",
+      "ANTHRO 1",
+      "ANTHRO 7B",
+      "ANTHRO 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO124T"
+  },
+  {
+    "course_code": "ANTHRO 126M",
+    "units": "4",
+    "title": "Molecular Anthropology",
+    "prerequisites": [
+      "ANTHRO 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO126M"
+  },
+  {
+    "course_code": "ANTHRO M126N",
+    "units": "4",
+    "title": "Genes, Disease, and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM126N"
+  },
+  {
+    "course_code": "ANTHRO 126P",
+    "units": "4",
+    "title": "Paleopathology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO126P"
+  },
+  {
+    "course_code": "ANTHRO 126Q",
+    "units": "4",
+    "title": "Evolution of Genus Homo",
+    "prerequisites": [
+      "ANTHRO 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO126Q"
+  },
+  {
+    "course_code": "ANTHRO 128P",
+    "units": "4",
+    "title": "Primate Behavior Nonhuman to Human",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO128P"
+  },
+  {
+    "course_code": "ANTHRO M128Q",
+    "units": "4",
+    "title": "Animal Communication",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM128Q"
+  },
+  {
+    "course_code": "ANTHRO M128S",
+    "units": "4",
+    "title": "Primate Genetics, Ecology, and Conservation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM128S"
+  },
+  {
+    "course_code": "ANTHRO M128T",
+    "units": "4",
+    "title": "Amazon in Anthropocene",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM128T"
+  },
+  {
+    "course_code": "ANTHRO 129",
+    "units": "4",
+    "title": "Selected Topics in Biological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO129"
+  },
+  {
+    "course_code": "ANTHRO 130",
+    "units": "4",
+    "title": "Study of Culture",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO130"
+  },
+  {
+    "course_code": "ANTHRO 131",
+    "units": "4",
+    "title": "Critical Social Theory",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO131"
+  },
+  {
+    "course_code": "ANTHRO 132",
+    "units": "4",
+    "title": "Anthropology of Environment",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO132"
+  },
+  {
+    "course_code": "ANTHRO 133",
+    "units": "4",
+    "title": "Anthropology of Food",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO133"
+  },
+  {
+    "course_code": "ANTHRO 134",
+    "units": "4",
+    "title": "Anthropology of Migration",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO134"
+  },
+  {
+    "course_code": "ANTHRO 135",
+    "units": "4",
+    "title": "Visual Anthropology: Documentary Photography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO135"
+  },
+  {
+    "course_code": "ANTHRO 135R",
+    "units": "4",
+    "title": "Multimedia Ethnography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO135R"
+  },
+  {
+    "course_code": "ANTHRO 135S",
+    "units": "5",
+    "title": "Sex, Race, and Difference in Transnational Film",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO135S"
+  },
+  {
+    "course_code": "ANTHRO 136A",
+    "units": "4",
+    "title": "Introduction to Psychological Anthropology: Historical Development",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO136A"
+  },
+  {
+    "course_code": "ANTHRO 136B",
+    "units": "4",
+    "title": "Introduction to Psychological Anthropology: Current Topics and Research",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO136B"
+  },
+  {
+    "course_code": "ANTHRO 136M",
+    "units": "4",
+    "title": "Medical Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO136M"
+  },
+  {
+    "course_code": "ANTHRO 137P",
+    "units": "4",
+    "title": "Anthropology of Deviance and Abnormality",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO137P"
+  },
+  {
+    "course_code": "ANTHRO 137Q",
+    "units": "4",
+    "title": "Psychoanalysis and Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO137Q"
+  },
+  {
+    "course_code": "ANTHRO 138P",
+    "units": "5",
+    "title": "Field Methods in Cultural Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO138P"
+  },
+  {
+    "course_code": "ANTHRO M138Q",
+    "units": "4",
+    "title": "Fieldwork in Asian American and Pacific Islander Communities",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM138Q"
+  },
+  {
+    "course_code": "ANTHRO 139",
+    "units": "4",
+    "title": "Selected Topics in Cultural Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO139"
+  },
+  {
+    "course_code": "ANTHRO 140",
+    "units": "4",
+    "title": "Study of Social Systems",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO140"
+  },
+  {
+    "course_code": "ANTHRO 141",
+    "units": "4",
+    "title": "Careers in Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO141"
+  },
+  {
+    "course_code": "ANTHRO 142P",
+    "units": "4",
+    "title": "Anthropology of Religion",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO142P"
+  },
+  {
+    "course_code": "ANTHRO 142Q",
+    "units": "4",
+    "title": "Ethnic and Religious Minorities",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO142Q"
+  },
+  {
+    "course_code": "ANTHRO 143",
+    "units": "4",
+    "title": "Economic Anthropology",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO143"
+  },
+  {
+    "course_code": "ANTHRO C144M",
+    "units": "4",
+    "title": "Multispecies Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC144M"
+  },
+  {
+    "course_code": "ANTHRO M144P",
+    "units": "4",
+    "title": "Constructing Race",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM144P"
+  },
+  {
+    "course_code": "ANTHRO M144Q",
+    "units": "4",
+    "title": "Afro-American Experience in U.S.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM144Q"
+  },
+  {
+    "course_code": "ANTHRO 144R",
+    "units": "4",
+    "title": "Anthros and Indians: Racism, Colonialism, and Development of Anthropology in America",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "ANTHRO 160A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO144R"
+  },
+  {
+    "course_code": "ANTHRO C144S",
+    "units": "4",
+    "title": "Repatriation of Native American Human Remains and Cultural Objects",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC144S"
+  },
+  {
+    "course_code": "ANTHRO M145P",
+    "units": "4",
+    "title": "Marriage, Family, and Kinship",
+    "prerequisites": [
+      "None 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM145P"
+  },
+  {
+    "course_code": "ANTHRO M145Q",
+    "units": "4",
+    "title": "Selected Topics in Gender Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM145Q"
+  },
+  {
+    "course_code": "ANTHRO M145R",
+    "units": "4",
+    "title": "Women and Social Movements",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM145R"
+  },
+  {
+    "course_code": "ANTHRO 145S",
+    "units": "4",
+    "title": "Culture, Gender, Sexuality",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO145S"
+  },
+  {
+    "course_code": "ANTHRO M145T",
+    "units": "4",
+    "title": "Women's Voices: Their Critique of Anthropology of Japan",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM145T"
+  },
+  {
+    "course_code": "ANTHRO 146",
+    "units": "4",
+    "title": "Urban Anthropology",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO146"
+  },
+  {
+    "course_code": "ANTHRO 146S",
+    "units": "4",
+    "title": "Disability Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO146S"
+  },
+  {
+    "course_code": "ANTHRO 147",
+    "units": "4",
+    "title": "Development Anthropology",
+    "prerequisites": [
+      "ANTHRO 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO147"
+  },
+  {
+    "course_code": "ANTHRO 147P",
+    "units": "4",
+    "title": "Anthropology of Violence",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO147P"
+  },
+  {
+    "course_code": "ANTHRO M148",
+    "units": "5",
+    "title": "(When) Do Leaders Make Differences?",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM148"
+  },
+  {
+    "course_code": "ANTHRO 149",
+    "units": "4",
+    "title": "Selected Topics in Social Anthropology",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO149"
+  },
+  {
+    "course_code": "ANTHRO M150",
+    "units": "5",
+    "title": "Language in Culture",
+    "prerequisites": [
+      "None 4",
+      "None 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM150"
+  },
+  {
+    "course_code": "ANTHRO 151",
+    "units": "5",
+    "title": "Ethnography of Everyday Speech",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO151"
+  },
+  {
+    "course_code": "ANTHRO M152P",
+    "units": "4",
+    "title": "Language Development and Socialization",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM152P"
+  },
+  {
+    "course_code": "ANTHRO 152Q",
+    "units": "4",
+    "title": "Language and Social Organization through Life Cycle",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO152Q"
+  },
+  {
+    "course_code": "ANTHRO 152R",
+    "units": "4",
+    "title": "Language, Culture, and Education",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO152R"
+  },
+  {
+    "course_code": "ANTHRO 153",
+    "units": "4",
+    "title": "Language and Identity",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO153"
+  },
+  {
+    "course_code": "ANTHRO 154P",
+    "units": "4",
+    "title": "Multilingualism: Communities and Histories in Contact",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO154P"
+  },
+  {
+    "course_code": "ANTHRO 154Q",
+    "units": "4",
+    "title": "Gender and Language in Society",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO154Q"
+  },
+  {
+    "course_code": "ANTHRO 154SL",
+    "units": "4",
+    "title": "Gender and Language across Communities",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO154SL"
+  },
+  {
+    "course_code": "ANTHRO 155",
+    "units": "4",
+    "title": "Native American Languages and Their Speakers",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "ANTHRO 4",
+      "ANTHRO 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO155"
+  },
+  {
+    "course_code": "ANTHRO M156",
+    "units": "4",
+    "title": "Language Endangerment and Linguistic Revitalization",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "None 4",
+      "None 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM156"
+  },
+  {
+    "course_code": "ANTHRO C157P",
+    "units": "4",
+    "title": "Language and Politics",
+    "prerequisites": [
+      "None 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC157P"
+  },
+  {
+    "course_code": "ANTHRO M158",
+    "units": "4",
+    "title": "Culture of Jazz Aesthetics",
+    "prerequisites": [
+      "None 3",
+      "None 4",
+      "None 20A",
+      "None 20B",
+      "None 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM158"
+  },
+  {
+    "course_code": "ANTHRO 158P",
+    "units": "4",
+    "title": "Global Hip Hop Culture(s): Hip Hop, Race, and Social Justice from South Central to South Africa",
+    "prerequisites": [
+      "ANTHRO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO158P"
+  },
+  {
+    "course_code": "ANTHRO 159",
+    "units": "4",
+    "title": "Selected Topics in Linguistic Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO159"
+  },
+  {
+    "course_code": "ANTHRO 160A",
+    "units": "4",
+    "title": "Native North Americans",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO160A"
+  },
+  {
+    "course_code": "ANTHRO 160B",
+    "units": "4",
+    "title": "Change and Continuity among Native North Americans",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "ANTHRO 160A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO160B"
+  },
+  {
+    "course_code": "ANTHRO 161",
+    "units": "4",
+    "title": "Latin American Communities",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO161"
+  },
+  {
+    "course_code": "ANTHRO 162",
+    "units": "4",
+    "title": "Ethnography of South America",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO162"
+  },
+  {
+    "course_code": "ANTHRO 163P",
+    "units": "4",
+    "title": "Ideology and Social Change in Contemporary China",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO163P"
+  },
+  {
+    "course_code": "ANTHRO 163Q",
+    "units": "4",
+    "title": "Societies of Central Asia",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO163Q"
+  },
+  {
+    "course_code": "ANTHRO 163R",
+    "units": "4",
+    "title": "Japan",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO163R"
+  },
+  {
+    "course_code": "ANTHRO 166P",
+    "units": "4",
+    "title": "Sub-Saharan Africa",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO166P"
+  },
+  {
+    "course_code": "ANTHRO M166Q",
+    "units": "4",
+    "title": "Culture Area of Maghrib (North Africa)",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM166Q"
+  },
+  {
+    "course_code": "ANTHRO 167",
+    "units": "4",
+    "title": "Culture Area of Middle East",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO167"
+  },
+  {
+    "course_code": "ANTHRO 168P",
+    "units": "4",
+    "title": "Cultures of Pacific",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO168P"
+  },
+  {
+    "course_code": "ANTHRO M168Q",
+    "units": "4",
+    "title": "Ethnic Identity and Ethnic Relations in Hawai'i",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM168Q"
+  },
+  {
+    "course_code": "ANTHRO 169",
+    "units": "4",
+    "title": "Selected Topics in Regional Cultures",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO169"
+  },
+  {
+    "course_code": "ANTHRO 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ANTHRO 101E"
+    ],
+    "corequisites": [
+      "ANTHRO 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SA"
+  },
+  {
+    "course_code": "ANTHRO 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ANTHRO 188S"
+    ],
+    "corequisites": [
+      "ANTHRO 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SB"
+  },
+  {
+    "course_code": "ANTHRO 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ANTHRO 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SC"
+  },
+  {
+    "course_code": "ANTHRO 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO189"
+  },
+  {
+    "course_code": "ANTHRO 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO189HC"
+  },
+  {
+    "course_code": "ANTHRO 191",
+    "units": "4",
+    "title": "Variable Topics Research Seminars: Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191"
+  },
+  {
+    "course_code": "ANTHRO 191HA",
+    "units": "4",
+    "title": "Beginning Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191HA"
+  },
+  {
+    "course_code": "ANTHRO 191HB",
+    "units": "4",
+    "title": "Field Methods",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191HB"
+  },
+  {
+    "course_code": "ANTHRO 191HC",
+    "units": "4",
+    "title": "Data Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191HC"
+  },
+  {
+    "course_code": "ANTHRO 191HD",
+    "units": "4",
+    "title": "Writing for Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191HD"
+  },
+  {
+    "course_code": "ANTHRO 191HE",
+    "units": "4",
+    "title": "Writing for Publication and Conference Presentations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO191HE"
+  },
+  {
+    "course_code": "ANTHRO 193",
+    "units": "1",
+    "title": "Journal Club Seminars: Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO193"
+  },
+  {
+    "course_code": "ANTHRO 194",
+    "units": "1",
+    "title": "Research Group Seminars: Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO194"
+  },
+  {
+    "course_code": "ANTHRO 195CE",
+    "units": "4",
+    "title": "Community and Corporate Internships in Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO195CE"
+  },
+  {
+    "course_code": "ANTHRO 197",
+    "units": "28",
+    "title": "Individual Studies in Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO197"
+  },
+  {
+    "course_code": "ANTHRO 199",
+    "units": "28",
+    "title": "Directed Research in Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO199"
+  },
+  {
+    "course_code": "ANTHRO 200",
+    "units": "4",
+    "title": "Anthropology Graduate Proseminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO200"
+  },
+  {
+    "course_code": "ANTHRO M201A",
+    "units": "4",
+    "title": "Graduate Core Seminar: Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM201A"
+  },
+  {
+    "course_code": "ANTHRO M201B",
+    "units": "4",
+    "title": "Graduate Core Seminar: Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM201B"
+  },
+  {
+    "course_code": "ANTHRO M201C",
+    "units": "4",
+    "title": "Archaeological Research Design",
+    "prerequisites": [
+      "None 201A",
+      "None 201B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM201C"
+  },
+  {
+    "course_code": "ANTHRO 202A",
+    "units": "4",
+    "title": "Core Seminar: Biological Anthropology Colloquium",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO202A"
+  },
+  {
+    "course_code": "ANTHRO 202B",
+    "units": "4",
+    "title": "Core Seminar: Biological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO202B"
+  },
+  {
+    "course_code": "ANTHRO 202C",
+    "units": "4",
+    "title": "Core Seminar: Biological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO202C"
+  },
+  {
+    "course_code": "ANTHRO 203A",
+    "units": "4",
+    "title": "Core Seminar: Sociocultural Anthropology\u2014Historical and Philosophical Foundations of Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO203A"
+  },
+  {
+    "course_code": "ANTHRO 203B",
+    "units": "4",
+    "title": "Core Seminar: Sociocultural Anthropology\u2014Sociocultural Systems and Ethnography, Anthropology at Mid-Century",
+    "prerequisites": [
+      "ANTHRO 203A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO203B"
+  },
+  {
+    "course_code": "ANTHRO 203C",
+    "units": "4",
+    "title": "Core Seminar: Sociocultural Anthropology\u2014Scientific and Interpretive Frameworks in Contemporary Anthropology",
+    "prerequisites": [
+      "ANTHRO 203B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO203C"
+  },
+  {
+    "course_code": "ANTHRO 204A",
+    "units": "4",
+    "title": "Core Seminar: Linguistic Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO204A"
+  },
+  {
+    "course_code": "ANTHRO 204B",
+    "units": "4",
+    "title": "Core Seminar: Linguistic Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO204B"
+  },
+  {
+    "course_code": "ANTHRO 210",
+    "units": "4",
+    "title": "Analytical Methods in Archaeological Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO210"
+  },
+  {
+    "course_code": "ANTHRO CM210Q",
+    "units": "4",
+    "title": "Introduction to Archaeological Sciences",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROCM210Q"
+  },
+  {
+    "course_code": "ANTHRO 211",
+    "units": "4",
+    "title": "Classification in Archaeology: Method and Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO211"
+  },
+  {
+    "course_code": "ANTHRO 212P",
+    "units": "4",
+    "title": "Explanation of Societal Change",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO212P"
+  },
+  {
+    "course_code": "ANTHRO 212Q",
+    "units": "4",
+    "title": "Archaeology of Urbanism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO212Q"
+  },
+  {
+    "course_code": "ANTHRO 214",
+    "units": "4",
+    "title": "Selected Topics in Prehistoric Civilizations of New World",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO214"
+  },
+  {
+    "course_code": "ANTHRO M216",
+    "units": "4",
+    "title": "Topics in Asian Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM216"
+  },
+  {
+    "course_code": "ANTHRO CM217",
+    "units": "4",
+    "title": "Selected Laboratory Topics in Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROCM217"
+  },
+  {
+    "course_code": "ANTHRO 219",
+    "units": "4",
+    "title": "Selected Topics in Anthropological/Archaeological Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO219"
+  },
+  {
+    "course_code": "ANTHRO 221",
+    "units": "2",
+    "title": "Behavior, Evolution, and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO221"
+  },
+  {
+    "course_code": "ANTHRO 222",
+    "units": "4",
+    "title": "Graduate Core Seminar: Biological Anthropology in Review",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO222"
+  },
+  {
+    "course_code": "ANTHRO 223",
+    "units": "2",
+    "title": "Experimental Biological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO223"
+  },
+  {
+    "course_code": "ANTHRO 229",
+    "units": "4",
+    "title": "Current Problems in Biological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO229"
+  },
+  {
+    "course_code": "ANTHRO 230",
+    "units": "4",
+    "title": "Practice Theory and Beyond",
+    "prerequisites": [
+      "ANTHRO 203A",
+      "ANTHRO 203B",
+      "ANTHRO 203C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO230"
+  },
+  {
+    "course_code": "ANTHRO 232P",
+    "units": "4",
+    "title": "Anthropology and Media Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO232P"
+  },
+  {
+    "course_code": "ANTHRO 232Q",
+    "units": "4",
+    "title": "Ethnographies of Information Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO232Q"
+  },
+  {
+    "course_code": "ANTHRO 233P",
+    "units": "4",
+    "title": "Advanced Seminar: Medical Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO233P"
+  },
+  {
+    "course_code": "ANTHRO M233Q",
+    "units": "4",
+    "title": "Latin America: Traditional Medicine, Shamanism, and Folk Illness",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM233Q"
+  },
+  {
+    "course_code": "ANTHRO M233R",
+    "units": "4",
+    "title": "Health and Culture in Americas",
+    "prerequisites": [
+      "None 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM233R"
+  },
+  {
+    "course_code": "ANTHRO 233T",
+    "units": "4",
+    "title": "Narrative and Times of Trouble",
+    "prerequisites": [
+      "ANTHRO 203A",
+      "ANTHRO 203B",
+      "ANTHRO 203C",
+      "ANTHRO 204",
+      "ANTHRO 252A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO233T"
+  },
+  {
+    "course_code": "ANTHRO 234",
+    "units": "2",
+    "title": "Mind, Medicine, and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO234"
+  },
+  {
+    "course_code": "ANTHRO 235",
+    "units": "4",
+    "title": "Individual in Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO235"
+  },
+  {
+    "course_code": "ANTHRO 236",
+    "units": "4",
+    "title": "Seminar: Psychocultural Studies and Medical Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO236"
+  },
+  {
+    "course_code": "ANTHRO M237",
+    "units": "4",
+    "title": "Psychological Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM237"
+  },
+  {
+    "course_code": "ANTHRO M238",
+    "units": "4",
+    "title": "Native American Revitalization Movements",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM238"
+  },
+  {
+    "course_code": "ANTHRO 239",
+    "units": "48",
+    "title": "Selected Topics in Field Ethnography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO239"
+  },
+  {
+    "course_code": "ANTHRO 239Q",
+    "units": "4",
+    "title": "Ethnographic Methods in Sociocultural Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO239Q"
+  },
+  {
+    "course_code": "ANTHRO M239R",
+    "units": "4",
+    "title": "Latinx Photoethnography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM239R"
+  },
+  {
+    "course_code": "ANTHRO 241",
+    "units": "2",
+    "title": "Culture, Power, Social Change",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO241"
+  },
+  {
+    "course_code": "ANTHRO 242",
+    "units": "4",
+    "title": "Urban Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO242"
+  },
+  {
+    "course_code": "ANTHRO M243",
+    "units": "4",
+    "title": "Gender Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM243"
+  },
+  {
+    "course_code": "ANTHRO C244M",
+    "units": "4",
+    "title": "Multispecies Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC244M"
+  },
+  {
+    "course_code": "ANTHRO M244P",
+    "units": "4",
+    "title": "Contemporary Issues of American Indians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM244P"
+  },
+  {
+    "course_code": "ANTHRO C244S",
+    "units": "4",
+    "title": "Repatriation of Native American Human Remains and Cultural Objects",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC244S"
+  },
+  {
+    "course_code": "ANTHRO M245",
+    "units": "4",
+    "title": "Critical Theory of African Diaspora",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM245"
+  },
+  {
+    "course_code": "ANTHRO 246",
+    "units": "4",
+    "title": "Contemporary Problems in Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO246"
+  },
+  {
+    "course_code": "ANTHRO M247P",
+    "units": "4",
+    "title": "Japan in Age of Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM247P"
+  },
+  {
+    "course_code": "ANTHRO M247Q",
+    "units": "2",
+    "title": "Central Asian Studies: Discipline, Methods, Debates",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM247Q"
+  },
+  {
+    "course_code": "ANTHRO 247R",
+    "units": "4",
+    "title": "Modernization and Taiwan Indigenous Societies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO247R"
+  },
+  {
+    "course_code": "ANTHRO M248",
+    "units": "4",
+    "title": "Anthropology and History of Mediterranean",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM248"
+  },
+  {
+    "course_code": "ANTHRO 249",
+    "units": "4",
+    "title": "Selected Topics in Social Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO249"
+  },
+  {
+    "course_code": "ANTHRO 252A",
+    "units": "4",
+    "title": "Ethnography of Communication",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO252A"
+  },
+  {
+    "course_code": "ANTHRO 252B",
+    "units": "4",
+    "title": "Ethnographic Methods in Language, Interaction, and Culture",
+    "prerequisites": [
+      "ANTHRO 252A",
+      "ANTHRO 244A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO252B"
+  },
+  {
+    "course_code": "ANTHRO 253",
+    "units": "4",
+    "title": "Language Ideologies: Political Economy of Language Beliefs and Practices",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO253"
+  },
+  {
+    "course_code": "ANTHRO 254",
+    "units": "2",
+    "title": "Discourse Laboratory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO254"
+  },
+  {
+    "course_code": "ANTHRO M255",
+    "units": "4",
+    "title": "Native American Languages and Discourses of Indigeneity",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM255"
+  },
+  {
+    "course_code": "ANTHRO M256",
+    "units": "4",
+    "title": "Language, Culture, and Education",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM256"
+  },
+  {
+    "course_code": "ANTHRO 257",
+    "units": "4",
+    "title": "Topics in Semantics and Pragmatics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO257"
+  },
+  {
+    "course_code": "ANTHRO C257P",
+    "units": "4",
+    "title": "Language and Politics",
+    "prerequisites": [
+      "None 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROC257P"
+  },
+  {
+    "course_code": "ANTHRO 258",
+    "units": "4",
+    "title": "Language Socialization",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO258"
+  },
+  {
+    "course_code": "ANTHRO 259",
+    "units": "4",
+    "title": "Selected Topics in Linguistic Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO259"
+  },
+  {
+    "course_code": "ANTHRO 282",
+    "units": "4",
+    "title": "Research Design in Cultural Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO282"
+  },
+  {
+    "course_code": "ANTHRO 283",
+    "units": "4",
+    "title": "Proposal Writing Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO283"
+  },
+  {
+    "course_code": "ANTHRO 284B",
+    "units": "4",
+    "title": "Quantitative Research Methodology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO284B"
+  },
+  {
+    "course_code": "ANTHRO M285A",
+    "units": "4",
+    "title": "Qualitative Research: Design and Data Collection",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM285A"
+  },
+  {
+    "course_code": "ANTHRO M285B",
+    "units": "4",
+    "title": "Qualitative Research: Analysis and Dissemination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHROM285B"
+  },
+  {
+    "course_code": "ANTHRO 288",
+    "units": "4",
+    "title": "Relational Models Theory and Research Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO288"
+  },
+  {
+    "course_code": "ANTHRO 294",
+    "units": "1",
+    "title": "Human Complex Systems Forum",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO294"
+  },
+  {
+    "course_code": "ANTHRO 295",
+    "units": "4",
+    "title": "Phenomenological Anthropology",
+    "prerequisites": [
+      "ANTHRO 203A",
+      "ANTHRO 203B",
+      "ANTHRO 203C",
+      "ANTHRO 204A",
+      "ANTHRO 204B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO295"
+  },
+  {
+    "course_code": "ANTHRO 299",
+    "units": "4",
+    "title": "Selected Topics in Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO299"
+  },
+  {
+    "course_code": "ANTHRO 495",
+    "units": "24",
+    "title": "Teaching Anthropology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO495"
+  },
+  {
+    "course_code": "ANTHRO 501",
+    "units": "28",
+    "title": "Cooperative Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO501"
+  },
+  {
+    "course_code": "ANTHRO 596",
+    "units": "28",
+    "title": "Individual Studies for Graduate Students",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO596"
+  },
+  {
+    "course_code": "ANTHRO 597",
+    "units": "212",
+    "title": "Preparation for PhD Qualifying Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO597"
+  },
+  {
+    "course_code": "ANTHRO 598",
+    "units": "212",
+    "title": "Research for and Preparation of MA Capstone Report or Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO598"
+  },
+  {
+    "course_code": "ANTHRO 599",
+    "units": "212",
+    "title": "Research for PhD Dissertation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO599"
+  }
+]

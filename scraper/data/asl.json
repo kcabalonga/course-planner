@@ -1,0 +1,132 @@
+[
+  {
+    "course_code": "ASL 1",
+    "units": "5",
+    "title": "Elementary American Sign Language",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL1"
+  },
+  {
+    "course_code": "ASL 2",
+    "units": "5",
+    "title": "Elementary American Sign Language",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ASL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL2"
+  },
+  {
+    "course_code": "ASL 3",
+    "units": "5",
+    "title": "Elementary American Sign Language",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ASL 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL3"
+  },
+  {
+    "course_code": "ASL 4",
+    "units": "5",
+    "title": "Intermediate American Sign Language",
+    "prerequisites": [
+      "ASL 3",
+      "ASL 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL4"
+  },
+  {
+    "course_code": "ASL 5",
+    "units": "5",
+    "title": "Intermediate American Sign Language",
+    "prerequisites": [
+      "ASL 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL5"
+  },
+  {
+    "course_code": "ASL 6",
+    "units": "5",
+    "title": "Intermediate American Sign Language",
+    "prerequisites": [
+      "ASL 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL6"
+  },
+  {
+    "course_code": "ASL 8",
+    "units": "15",
+    "title": "Intensive Elementary American Sign Language",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "credit_exclusions": [
+      "ASL 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL8"
+  },
+  {
+    "course_code": "ASL 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL19"
+  },
+  {
+    "course_code": "ASL 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL89"
+  },
+  {
+    "course_code": "ASL 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL89HC"
+  },
+  {
+    "course_code": "ASL 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL99"
+  },
+  {
+    "course_code": "ASL M115",
+    "units": "4",
+    "title": "Enforcing Normalcy: Deaf and Disability Studies",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASLM115"
+  },
+  {
+    "course_code": "ASL M120",
+    "units": "4",
+    "title": "History of Deaf Communities in America",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASLM120"
+  },
+  {
+    "course_code": "ASL 121",
+    "units": "4",
+    "title": "History of Mass Media and Deaf Community",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL121"
+  },
+  {
+    "course_code": "ASL 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL189"
+  },
+  {
+    "course_code": "ASL 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASL189HC"
+  }
+]

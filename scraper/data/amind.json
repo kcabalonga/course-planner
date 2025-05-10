@@ -1,0 +1,492 @@
+[
+  {
+    "course_code": "AM IND M10",
+    "units": "5",
+    "title": "Introduction to American Indian Studies",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM10"
+  },
+  {
+    "course_code": "AM IND M18",
+    "units": "2",
+    "title": "Leadership and Student-Initiated Retention",
+    "credit_exclusions": [
+      "AM IND M 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM18"
+  },
+  {
+    "course_code": "AM IND 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND19"
+  },
+  {
+    "course_code": "AM IND 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND89"
+  },
+  {
+    "course_code": "AM IND 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND89HC"
+  },
+  {
+    "course_code": "AM IND 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND99"
+  },
+  {
+    "course_code": "AM IND M118",
+    "units": "4",
+    "title": "Student-Initiated Retention and Outreach Issues in Higher Education",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM118"
+  },
+  {
+    "course_code": "AM IND C120",
+    "units": "4",
+    "title": "Working in Tribal Communities: Introduction",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC120"
+  },
+  {
+    "course_code": "AM IND C121",
+    "units": "4",
+    "title": "Working in Tribal Communities: Preparing for Fieldwork",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC121"
+  },
+  {
+    "course_code": "AM IND C122XP",
+    "units": "4",
+    "title": "Working in Tribal Communities: Community-Engaged Learning",
+    "prerequisites": [
+      "None 121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC122XP"
+  },
+  {
+    "course_code": "AM IND M123",
+    "units": "4",
+    "title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM123"
+  },
+  {
+    "course_code": "AM IND M129",
+    "units": "4",
+    "title": "Participatory Action Research on Youth Organizing for Racial Justice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM129"
+  },
+  {
+    "course_code": "AM IND C130",
+    "units": "4",
+    "title": "California Indian Strategies for Contemporary Challenges",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC130"
+  },
+  {
+    "course_code": "AM IND 140",
+    "units": "4",
+    "title": "Federal Indian Law and Policy",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND140"
+  },
+  {
+    "course_code": "AM IND C145",
+    "units": "4",
+    "title": "Contemporary Indigenous Nations",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC145"
+  },
+  {
+    "course_code": "AM IND 158",
+    "units": "4",
+    "title": "Nation Building",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND158"
+  },
+  {
+    "course_code": "AM IND M161",
+    "units": "4",
+    "title": "Comparative American Indian Societies",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "None 10",
+      "None 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM161"
+  },
+  {
+    "course_code": "AM IND M162",
+    "units": "4",
+    "title": "Language Endangerment and Linguistic Revitalization",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "None 10",
+      "None 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM162"
+  },
+  {
+    "course_code": "AM IND CM168",
+    "units": "4",
+    "title": "Healthcare for American Indians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDCM168"
+  },
+  {
+    "course_code": "AM IND C170",
+    "units": "4",
+    "title": "California Indian History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC170"
+  },
+  {
+    "course_code": "AM IND C175",
+    "units": "4",
+    "title": "Cultures of Native Southern California",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC175"
+  },
+  {
+    "course_code": "AM IND C178",
+    "units": "4",
+    "title": "California Experiences in Native Cultural Resource Management",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC178"
+  },
+  {
+    "course_code": "AM IND 180",
+    "units": "4",
+    "title": "Introduction to and Practicum in Native American Languages",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND180"
+  },
+  {
+    "course_code": "AM IND M186",
+    "units": "5",
+    "title": "Indigenous Film",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM186"
+  },
+  {
+    "course_code": "AM IND 187",
+    "units": "4",
+    "title": "Special Topics in American Indian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND187"
+  },
+  {
+    "course_code": "AM IND M187A",
+    "units": "4",
+    "title": "Special Topics in American Indian and Gender Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM187A"
+  },
+  {
+    "course_code": "AM IND 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND189"
+  },
+  {
+    "course_code": "AM IND 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND189HC"
+  },
+  {
+    "course_code": "AM IND 195",
+    "units": "4",
+    "title": "Community Internships in American Indian Studies",
+    "prerequisites": [
+      "AM IND 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND195"
+  },
+  {
+    "course_code": "AM IND M195CE",
+    "units": "4",
+    "title": "Comparative Approaches to Community and Corporate Internships",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM195CE"
+  },
+  {
+    "course_code": "AM IND 197",
+    "units": "24",
+    "title": "Individual Studies in American Indian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND197"
+  },
+  {
+    "course_code": "AM IND 198A",
+    "units": "4",
+    "title": "Honors Research in American Indian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198A"
+  },
+  {
+    "course_code": "AM IND 198B",
+    "units": "4",
+    "title": "Honors Research in American Indian Studies",
+    "prerequisites": [
+      "AM IND 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198B"
+  },
+  {
+    "course_code": "AM IND 198C",
+    "units": "4",
+    "title": "Honors Research in American Indian Studies",
+    "prerequisites": [
+      "AM IND 198B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198C"
+  },
+  {
+    "course_code": "AM IND 199",
+    "units": "28",
+    "title": "Directed Research or Senior Project in American Indian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND199"
+  },
+  {
+    "course_code": "AM IND 199C",
+    "units": "4",
+    "title": "Individual Studies: Capstone Synthesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND199C"
+  },
+  {
+    "course_code": "AM IND M200B",
+    "units": "4",
+    "title": "Cultural World Views of Native America",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM200B"
+  },
+  {
+    "course_code": "AM IND M200C",
+    "units": "4",
+    "title": "Contemporary Issues of American Indians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM200C"
+  },
+  {
+    "course_code": "AM IND 201",
+    "units": "4",
+    "title": "Introduction to Interdisciplinary Methods in American Indian and Indigenous Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND201"
+  },
+  {
+    "course_code": "AM IND 202",
+    "units": "4",
+    "title": "Key Theories and Concepts in American Indian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND202"
+  },
+  {
+    "course_code": "AM IND M203",
+    "units": "4",
+    "title": "Advanced Historiography: American Indian Peoples",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM203"
+  },
+  {
+    "course_code": "AM IND M207",
+    "units": "4",
+    "title": "Economic Principles and Economic Development in Indigenous Communities",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM207"
+  },
+  {
+    "course_code": "AM IND M208",
+    "units": "4",
+    "title": "Native American Languages and Discourses of Indigeneity",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM208"
+  },
+  {
+    "course_code": "AM IND C220",
+    "units": "4",
+    "title": "Working in Tribal Communities: Introduction",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC220"
+  },
+  {
+    "course_code": "AM IND C221",
+    "units": "4",
+    "title": "Working in Tribal Communities: Preparing for Fieldwork",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC221"
+  },
+  {
+    "course_code": "AM IND C222XP",
+    "units": "4",
+    "title": "Working in Tribal Communities: Community-Engaged Learning",
+    "prerequisites": [
+      "None 221"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC222XP"
+  },
+  {
+    "course_code": "AM IND 228A",
+    "units": "34",
+    "title": "Tribal Legal Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND228A"
+  },
+  {
+    "course_code": "AM IND 228B",
+    "units": "12",
+    "title": "Tribal Legal Systems",
+    "prerequisites": [
+      "AM IND 228A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND228B"
+  },
+  {
+    "course_code": "AM IND C230",
+    "units": "4",
+    "title": "California Indian Strategies for Contemporary Challenges",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC230"
+  },
+  {
+    "course_code": "AM IND 238A",
+    "units": "3",
+    "title": "Tribal Legal Development Clinic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND238A"
+  },
+  {
+    "course_code": "AM IND 238B",
+    "units": "1",
+    "title": "Tribal Legal Development Clinic",
+    "prerequisites": [
+      "AM IND 238A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND238B"
+  },
+  {
+    "course_code": "AM IND C245",
+    "units": "4",
+    "title": "Contemporary Indigenous Nations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC245"
+  },
+  {
+    "course_code": "AM IND 261",
+    "units": "4",
+    "title": "Comparative Indigenous Societies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND261"
+  },
+  {
+    "course_code": "AM IND 265",
+    "units": "46",
+    "title": "Federal Indian Law I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND265"
+  },
+  {
+    "course_code": "AM IND M265A",
+    "units": "18",
+    "title": "Federal Indian Law I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM265A"
+  },
+  {
+    "course_code": "AM IND 265B",
+    "units": "18",
+    "title": "Federal Indian Law I",
+    "prerequisites": [
+      "AM IND 265A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND265B"
+  },
+  {
+    "course_code": "AM IND M267",
+    "units": "18",
+    "title": "Federal Indian Law II",
+    "prerequisites": [
+      "None 238A",
+      "None 238B",
+      "None 265A",
+      "None 265B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM267"
+  },
+  {
+    "course_code": "AM IND M267A",
+    "units": "18",
+    "title": "Federal Indian Law II",
+    "prerequisites": [
+      "None 238A",
+      "None 238B",
+      "None 265A",
+      "None 265B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM267A"
+  },
+  {
+    "course_code": "AM IND 267B",
+    "units": "18",
+    "title": "Federal Indian Law II",
+    "prerequisites": [
+      "AM IND 267A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND267B"
+  },
+  {
+    "course_code": "AM IND C268",
+    "units": "4",
+    "title": "Healthcare for American Indians",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC268"
+  },
+  {
+    "course_code": "AM IND C270",
+    "units": "4",
+    "title": "California Indian History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC270"
+  },
+  {
+    "course_code": "AM IND M272",
+    "units": "34",
+    "title": "Seminar: Cultural Property Law",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM272"
+  },
+  {
+    "course_code": "AM IND 274",
+    "units": "46",
+    "title": "Good Native Governance",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND274"
+  },
+  {
+    "course_code": "AM IND C275",
+    "units": "4",
+    "title": "Cultures of Native Southern California",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC275"
+  },
+  {
+    "course_code": "AM IND C278",
+    "units": "4",
+    "title": "California Experiences in Native Cultural Resource Management",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC278"
+  },
+  {
+    "course_code": "AM IND 280A",
+    "units": "2",
+    "title": "Indigenous Peoples in International Law",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND280A"
+  },
+  {
+    "course_code": "AM IND 280B",
+    "units": "1",
+    "title": "Indigenous Peoples in International Law",
+    "prerequisites": [
+      "AM IND 280A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND280B"
+  },
+  {
+    "course_code": "AM IND 596",
+    "units": "48",
+    "title": "Directed Individual Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND596"
+  },
+  {
+    "course_code": "AM IND 598",
+    "units": "48",
+    "title": "Research for and Preparation of MA Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND598"
+  }
+]

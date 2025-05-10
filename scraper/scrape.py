@@ -150,7 +150,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["AF AMER"] 
+    departments = ["ARCH&UD", "ARMENIA", "ART", ] 
 
     os.makedirs("data", exist_ok=True)
 
