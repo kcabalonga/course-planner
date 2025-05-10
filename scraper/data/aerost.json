@@ -1,0 +1,140 @@
+[
+  {
+    "course_code": "AERO ST A",
+    "units": "0",
+    "title": "Leadership Laboratory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROSTA"
+  },
+  {
+    "course_code": "AERO ST 1A",
+    "units": "2",
+    "title": "Heritage and Values",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST1A"
+  },
+  {
+    "course_code": "AERO ST 1B",
+    "units": "2",
+    "title": "Heritage and Values",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST1B"
+  },
+  {
+    "course_code": "AERO ST 1C",
+    "units": "2",
+    "title": "Heritage and Values",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST1C"
+  },
+  {
+    "course_code": "AERO ST 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST19"
+  },
+  {
+    "course_code": "AERO ST 20A",
+    "units": "2",
+    "title": "Team and Leadership Fundamentals",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST20A"
+  },
+  {
+    "course_code": "AERO ST 20B",
+    "units": "2",
+    "title": "Team and Leadership Fundamentals",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST20B"
+  },
+  {
+    "course_code": "AERO ST 20C",
+    "units": "2",
+    "title": "Team and Leadership Fundamentals",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST20C"
+  },
+  {
+    "course_code": "AERO ST 130A",
+    "units": "4",
+    "title": "Air Force Leadership Studies",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST130A"
+  },
+  {
+    "course_code": "AERO ST 130B",
+    "units": "4",
+    "title": "Air Force Leadership Studies",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST130B"
+  },
+  {
+    "course_code": "AERO ST 130C",
+    "units": "4",
+    "title": "Air Force Leadership Studies",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST130C"
+  },
+  {
+    "course_code": "AERO ST 140A",
+    "units": "4",
+    "title": "National Security Affairs/Preparation for Active Duty",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST140A"
+  },
+  {
+    "course_code": "AERO ST 140B",
+    "units": "4",
+    "title": "National Security Affairs/Preparation for Active Duty",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST140B"
+  },
+  {
+    "course_code": "AERO ST 140C",
+    "units": "4",
+    "title": "National Security Affairs/Preparation for Active Duty",
+    "prerequisites": [
+      "AERO ST 1A",
+      "AERO ST 1B",
+      "AERO ST 1C",
+      "AERO ST 20A",
+      "AERO ST 20B",
+      "AERO ST 20C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST140C"
+  },
+  {
+    "course_code": "AERO ST 197",
+    "units": "24",
+    "title": "Individual Studies in Aerospace Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AEROST197"
+  }
+]

@@ -1,0 +1,1055 @@
+[
+  {
+    "course_code": "AF AMER 1",
+    "units": "5",
+    "title": "Introduction to Black Studies",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER1"
+  },
+  {
+    "course_code": "AF AMER 2A",
+    "units": "4",
+    "title": "Africa and Middle East",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER2A"
+  },
+  {
+    "course_code": "AF AMER 2B",
+    "units": "5",
+    "title": "Race and U.S. Military Intervention in Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER2B"
+  },
+  {
+    "course_code": "AF AMER 2C",
+    "units": "5",
+    "title": "Black Folks Kung Fu Fightin': Black America, Martial Arts, and Popular Culture",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER2C"
+  },
+  {
+    "course_code": "AF AMER M5",
+    "units": "5",
+    "title": "Social Organization of Black Communities",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM5"
+  },
+  {
+    "course_code": "AF AMER 6",
+    "units": "5",
+    "title": "Trends in Black Intellectual Thought",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER6"
+  },
+  {
+    "course_code": "AF AMER M7A",
+    "units": "4",
+    "title": "Elementary Yoruba",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM7A"
+  },
+  {
+    "course_code": "AF AMER M7B",
+    "units": "4",
+    "title": "Elementary Yoruba",
+    "prerequisites": [
+      "None 7A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM7B"
+  },
+  {
+    "course_code": "AF AMER M7C",
+    "units": "4",
+    "title": "Elementary Yoruba",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "None 7B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM7C"
+  },
+  {
+    "course_code": "AF AMER M8A",
+    "units": "4",
+    "title": "Elementary Tigrinya",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM8A"
+  },
+  {
+    "course_code": "AF AMER M8B",
+    "units": "4",
+    "title": "Elementary Tigrinya",
+    "prerequisites": [
+      "None 8A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM8B"
+  },
+  {
+    "course_code": "AF AMER M9A",
+    "units": "4",
+    "title": "Elementary Amharic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM9A"
+  },
+  {
+    "course_code": "AF AMER M9B",
+    "units": "4",
+    "title": "Elementary Amharic",
+    "prerequisites": [
+      "None 9A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM9B"
+  },
+  {
+    "course_code": "AF AMER M9C",
+    "units": "4",
+    "title": "Elementary Amharic",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "None 9B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM9C"
+  },
+  {
+    "course_code": "AF AMER M10A",
+    "units": "5",
+    "title": "History of Africa to 1800",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM10A"
+  },
+  {
+    "course_code": "AF AMER M18",
+    "units": "2",
+    "title": "Leadership and Student-Initiated Retention",
+    "credit_exclusions": [
+      "AF AMER M 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM18"
+  },
+  {
+    "course_code": "AF AMER 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER19"
+  },
+  {
+    "course_code": "AF AMER 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER89"
+  },
+  {
+    "course_code": "AF AMER 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER89HC"
+  },
+  {
+    "course_code": "AF AMER 96W",
+    "units": "5",
+    "title": "Variable Topics in Black Studies",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "AF AMER 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER96W"
+  },
+  {
+    "course_code": "AF AMER 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER99"
+  },
+  {
+    "course_code": "AF AMER M102",
+    "units": "6",
+    "title": "Culture, Media, and Los Angeles",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM102"
+  },
+  {
+    "course_code": "AF AMER M103A",
+    "units": "4",
+    "title": "African American Theater History: Slavery to Mid-1800s",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM103A"
+  },
+  {
+    "course_code": "AF AMER M103B",
+    "units": "4",
+    "title": "African American Theater History: Minstrel Stage to Rise of American Musical",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM103B"
+  },
+  {
+    "course_code": "AF AMER M103E",
+    "units": "4",
+    "title": "Modern African American Drama: Harlem Renaissance to Black Arts Movement",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM103E"
+  },
+  {
+    "course_code": "AF AMER M103J",
+    "units": "4",
+    "title": "Contemporary Black Theater: Modern Civil Rights Era to Black Lives Matter and Beyond",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM103J"
+  },
+  {
+    "course_code": "AF AMER M104A",
+    "units": "5",
+    "title": "Early African American Literature",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104A"
+  },
+  {
+    "course_code": "AF AMER M104B",
+    "units": "5",
+    "title": "African American Literature from Harlem Renaissance to 1960s",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104B"
+  },
+  {
+    "course_code": "AF AMER M104C",
+    "units": "5",
+    "title": "African American Literature of 1960s and 1970s",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104C"
+  },
+  {
+    "course_code": "AF AMER M104D",
+    "units": "5",
+    "title": "Contemporary African American Literature",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104D"
+  },
+  {
+    "course_code": "AF AMER M104E",
+    "units": "5",
+    "title": "Topics in African American Literature and Culture",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104E"
+  },
+  {
+    "course_code": "AF AMER 105A",
+    "units": "4",
+    "title": "Ideology and Black Consciousness",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER105A"
+  },
+  {
+    "course_code": "AF AMER 105B",
+    "units": "4",
+    "title": "Issues in Pan-African Biography and Autobiography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER105B"
+  },
+  {
+    "course_code": "AF AMER 105C",
+    "units": "4",
+    "title": "Africa, African Americans, and History of Capitalism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER105C"
+  },
+  {
+    "course_code": "AF AMER 105D",
+    "units": "4",
+    "title": "African American-Caribbean Relations: Difference, Solidarity, and Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER105D"
+  },
+  {
+    "course_code": "AF AMER 106A",
+    "units": "4",
+    "title": "Africa and World",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER106A"
+  },
+  {
+    "course_code": "AF AMER 106B",
+    "units": "4",
+    "title": "Militarism, International Security, and African American Political Thought",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER106B"
+  },
+  {
+    "course_code": "AF AMER M107",
+    "units": "5",
+    "title": "Cultural History of Rap",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM107"
+  },
+  {
+    "course_code": "AF AMER 108",
+    "units": "4",
+    "title": "Jazz and Political Imagination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER108"
+  },
+  {
+    "course_code": "AF AMER M109",
+    "units": "4",
+    "title": "Women in Jazz",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM109"
+  },
+  {
+    "course_code": "AF AMER CM110",
+    "units": "4",
+    "title": "Bibliography and Research Methods in Rap Music/Hip-Hop Studies",
+    "prerequisites": [
+      "None 107"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM110"
+  },
+  {
+    "course_code": "AF AMER 110A",
+    "units": "4",
+    "title": "Race, Science, and Society",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER110A"
+  },
+  {
+    "course_code": "AF AMER 110B",
+    "units": "4",
+    "title": "Reproducing While Black: Politics of Black Reproduction",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER110B"
+  },
+  {
+    "course_code": "AF AMER 110C",
+    "units": "4",
+    "title": "Black Health Matters: Wellness, Health, and Self-Care",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER110C"
+  },
+  {
+    "course_code": "AF AMER CM110D",
+    "units": "4",
+    "title": "Posthumans",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM110D"
+  },
+  {
+    "course_code": "AF AMER M111",
+    "units": "4",
+    "title": "Ellingtonia",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM111"
+  },
+  {
+    "course_code": "AF AMER 112A",
+    "units": "4",
+    "title": "Sunken Place: Racism, Survival, and Black Horror Aesthetic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER112A"
+  },
+  {
+    "course_code": "AF AMER 112B",
+    "units": "4",
+    "title": "Aboard Mothership: Introduction to Afrofuturism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER112B"
+  },
+  {
+    "course_code": "AF AMER CM113B",
+    "units": "5",
+    "title": "Legislative Theater for Race and Gender Justice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM113B"
+  },
+  {
+    "course_code": "AF AMER M113D",
+    "units": "4",
+    "title": "Spoken Word Workshop: Creative Writing and Performance Practicum",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM113D"
+  },
+  {
+    "course_code": "AF AMER CM113XP",
+    "units": "4",
+    "title": "Narratives of Justice: Disrupting School-to-Prison Pipeline\u2014Arts, Activism, and Agency",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM113XP"
+  },
+  {
+    "course_code": "AF AMER M114C",
+    "units": "4",
+    "title": "African American Political Thought",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM114C"
+  },
+  {
+    "course_code": "AF AMER M115",
+    "units": "4",
+    "title": "We Gone Be Alright: Developing Next Generation of Black Organizers",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM115"
+  },
+  {
+    "course_code": "AF AMER M116A",
+    "units": "5",
+    "title": "African American Musical Heritage",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM116A"
+  },
+  {
+    "course_code": "AF AMER M116B",
+    "units": "5",
+    "title": "African American Musical Heritage",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM116B"
+  },
+  {
+    "course_code": "AF AMER M118",
+    "units": "4",
+    "title": "Student-Initiated Retention and Outreach Issues in Higher Education",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM118"
+  },
+  {
+    "course_code": "AF AMER M120",
+    "units": "4",
+    "title": "Race, Inequality, and Public Policy",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM120"
+  },
+  {
+    "course_code": "AF AMER M121",
+    "units": "4",
+    "title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM121"
+  },
+  {
+    "course_code": "AF AMER M123",
+    "units": "4",
+    "title": "Global Hip Hop",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM123"
+  },
+  {
+    "course_code": "AF AMER M124",
+    "units": "4",
+    "title": "Comparative Racialization and Indigeneity",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM124"
+  },
+  {
+    "course_code": "AF AMER M129B",
+    "units": "4",
+    "title": "Participatory Action Research on Youth Organizing for Racial Justice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM129B"
+  },
+  {
+    "course_code": "AF AMER CM135A",
+    "units": "4",
+    "title": "African American Art before 1900",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM135A"
+  },
+  {
+    "course_code": "AF AMER CM135B",
+    "units": "4",
+    "title": "African American Art, 1900 to 1963",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM135B"
+  },
+  {
+    "course_code": "AF AMER 140",
+    "units": "4",
+    "title": "Radical Black Imaginaries: Politics, Identity, and Struggle",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER140"
+  },
+  {
+    "course_code": "AF AMER M141",
+    "units": "4",
+    "title": "African American Women's History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM141"
+  },
+  {
+    "course_code": "AF AMER M142",
+    "units": "4",
+    "title": "Race, Gender, and Punishment",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM142"
+  },
+  {
+    "course_code": "AF AMER M144",
+    "units": "4",
+    "title": "Ethnic Politics: African American Politics",
+    "prerequisites": [
+      "None 40"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM144"
+  },
+  {
+    "course_code": "AF AMER M148",
+    "units": "4",
+    "title": "Politics of Struggle: Race, Solidarity, and Resistance",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM148"
+  },
+  {
+    "course_code": "AF AMER M150D",
+    "units": "4",
+    "title": "Recent African American Urban History: Funk Music and Politics of Black Popular Culture",
+    "satisfies": [
+      "American History and Institutions"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM150D"
+  },
+  {
+    "course_code": "AF AMER M154C",
+    "units": "4",
+    "title": "Black Experience in Latin America and Caribbean I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM154C"
+  },
+  {
+    "course_code": "AF AMER M154D",
+    "units": "4",
+    "title": "Black Experience in Latin America and Caribbean II",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM154D"
+  },
+  {
+    "course_code": "AF AMER M155",
+    "units": "4",
+    "title": "Afro-Latina/o Experience(s) in U.S.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM155"
+  },
+  {
+    "course_code": "AF AMER M158A",
+    "units": "4",
+    "title": "Comparative Slavery Systems",
+    "satisfies": [
+      "American History and Institutions"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM158A"
+  },
+  {
+    "course_code": "AF AMER M158B",
+    "units": "4",
+    "title": "Introduction to Afro-American History",
+    "satisfies": [
+      "American History and Institutions",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM158B"
+  },
+  {
+    "course_code": "AF AMER M158C",
+    "units": "4",
+    "title": "Introduction to Afro-American History",
+    "satisfies": [
+      "American History and Institutions"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM158C"
+  },
+  {
+    "course_code": "AF AMER M158E",
+    "units": "4",
+    "title": "African American Nationalism in First Half of 20th Century",
+    "satisfies": [
+      "American History and Institutions"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM158E"
+  },
+  {
+    "course_code": "AF AMER M159P",
+    "units": "4",
+    "title": "Constructing Race",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM159P"
+  },
+  {
+    "course_code": "AF AMER M164",
+    "units": "4",
+    "title": "Afro-American Experience in U.S.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM164"
+  },
+  {
+    "course_code": "AF AMER M165",
+    "units": "4",
+    "title": "Sociology of Race and Labor",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM165"
+  },
+  {
+    "course_code": "AF AMER CM166",
+    "units": "4",
+    "title": "Future of Work in Decarcerated California",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM166"
+  },
+  {
+    "course_code": "AF AMER CM166B",
+    "units": "4",
+    "title": "Future of Work in Decarcerated California II: Applied Research and Policy Analysis for Implementation of Justice Transformation",
+    "prerequisites": [
+      "CM 166"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM166B"
+  },
+  {
+    "course_code": "AF AMER M167",
+    "units": "4",
+    "title": "Worker Center Movement: Next Wave Organizing for Justice for Immigrant Workers",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM167"
+  },
+  {
+    "course_code": "AF AMER M170A",
+    "units": "4",
+    "title": "Diasporic Nonfiction: Media Engagements with Memory and Displacement I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM170A"
+  },
+  {
+    "course_code": "AF AMER M170B",
+    "units": "4",
+    "title": "Diasporic Nonfiction: Media Engagements with Memory and Displacement II",
+    "prerequisites": [
+      "None 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM170B"
+  },
+  {
+    "course_code": "AF AMER M172",
+    "units": "4",
+    "title": "Afro-American Woman in U.S.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM172"
+  },
+  {
+    "course_code": "AF AMER M173",
+    "units": "4",
+    "title": "Nonviolence and Social Movements",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM173"
+  },
+  {
+    "course_code": "AF AMER 174",
+    "units": "4",
+    "title": "Intraracial Differences in 20th-Century Black America",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER174"
+  },
+  {
+    "course_code": "AF AMER 175",
+    "units": "5",
+    "title": "Racial and Ethnic Disparities in Healthcare",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER175"
+  },
+  {
+    "course_code": "AF AMER 176",
+    "units": "4",
+    "title": "Race, Racism, and Law",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER176"
+  },
+  {
+    "course_code": "AF AMER 177",
+    "units": "4",
+    "title": "African Americans in Higher Education",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER177"
+  },
+  {
+    "course_code": "AF AMER M178",
+    "units": "4",
+    "title": "Sociology of Caribbean",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM178"
+  },
+  {
+    "course_code": "AF AMER M179A",
+    "units": "5",
+    "title": "Topics in African American Literature",
+    "prerequisites": [
+      "None 3",
+      "None 3H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM179A"
+  },
+  {
+    "course_code": "AF AMER 184A",
+    "units": "4",
+    "title": "Research in Black Life, Institutions, and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER184A"
+  },
+  {
+    "course_code": "AF AMER 184B",
+    "units": "4",
+    "title": "Research in Black Life, Institutions, and Culture II",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER184B"
+  },
+  {
+    "course_code": "AF AMER 184C",
+    "units": "4",
+    "title": "Research in Black Life, Institutions and Culture III: Comparative Black Studies Research Perspectives and Methods",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER184C"
+  },
+  {
+    "course_code": "AF AMER 188A",
+    "units": "4",
+    "title": "Special Courses in African American Studies",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER188A"
+  },
+  {
+    "course_code": "AF AMER 188B",
+    "units": "5",
+    "title": "Race and Public Policy",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER188B"
+  },
+  {
+    "course_code": "AF AMER 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AF AMER 101E"
+    ],
+    "corequisites": [
+      "AF AMER 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER188SA"
+  },
+  {
+    "course_code": "AF AMER 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AF AMER 188S"
+    ],
+    "corequisites": [
+      "AF AMER 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER188SB"
+  },
+  {
+    "course_code": "AF AMER 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "AF AMER 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER188SC"
+  },
+  {
+    "course_code": "AF AMER 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER189"
+  },
+  {
+    "course_code": "AF AMER 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER189HC"
+  },
+  {
+    "course_code": "AF AMER C191",
+    "units": "4",
+    "title": "Variable Topics Research Seminars: Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERC191"
+  },
+  {
+    "course_code": "AF AMER M194A",
+    "units": "5",
+    "title": "Language, Literacy, and Human Development Research Group Seminars",
+    "prerequisites": [
+      "None 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM194A"
+  },
+  {
+    "course_code": "AF AMER M194B",
+    "units": "5",
+    "title": "Culture, Gender, and Human Development Research Group Seminars",
+    "prerequisites": [
+      "None 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM194B"
+  },
+  {
+    "course_code": "AF AMER M194C",
+    "units": "5",
+    "title": "Culture, Communications, and Human Development Research Group Seminars",
+    "prerequisites": [
+      "None 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM194C"
+  },
+  {
+    "course_code": "AF AMER 195",
+    "units": "4",
+    "title": "Community or Corporate Internships in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER195"
+  },
+  {
+    "course_code": "AF AMER M195CE",
+    "units": "4",
+    "title": "Comparative Approaches to Community and Corporate Internships",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM195CE"
+  },
+  {
+    "course_code": "AF AMER 196",
+    "units": "4",
+    "title": "Research Apprenticeship in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER196"
+  },
+  {
+    "course_code": "AF AMER 197",
+    "units": "28",
+    "title": "Individual Studies in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER197"
+  },
+  {
+    "course_code": "AF AMER 198A",
+    "units": "24",
+    "title": "Honors Research in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER198A"
+  },
+  {
+    "course_code": "AF AMER 198B",
+    "units": "24",
+    "title": "Honors Research in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER198B"
+  },
+  {
+    "course_code": "AF AMER 198C",
+    "units": "24",
+    "title": "Honors Research in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER198C"
+  },
+  {
+    "course_code": "AF AMER 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER199"
+  },
+  {
+    "course_code": "AF AMER M200A",
+    "units": "4",
+    "title": "Advanced Historiography: African American",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM200A"
+  },
+  {
+    "course_code": "AF AMER M200B",
+    "units": "4",
+    "title": "Political Economy of Race",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM200B"
+  },
+  {
+    "course_code": "AF AMER M200C",
+    "units": "4",
+    "title": "Black Families and Relationships",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM200C"
+  },
+  {
+    "course_code": "AF AMER 200D",
+    "units": "4",
+    "title": "African American Women's History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER200D"
+  },
+  {
+    "course_code": "AF AMER M200E",
+    "units": "4",
+    "title": "Studies in Afro-American Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM200E"
+  },
+  {
+    "course_code": "AF AMER M200G",
+    "units": "4",
+    "title": "Race, Class, and Gender: Constructing Black Womanhood and Black Manhood in America",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM200G"
+  },
+  {
+    "course_code": "AF AMER 200H",
+    "units": "4",
+    "title": "Social Politics of Recent African American Music and Popular Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER200H"
+  },
+  {
+    "course_code": "AF AMER 201A",
+    "units": "4",
+    "title": "Survey of Black Studies Research: Themes, Issues, and Concepts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER201A"
+  },
+  {
+    "course_code": "AF AMER 201B",
+    "units": "4",
+    "title": "Survey of African American Studies Research Part 2: Introduction to Research Methods",
+    "prerequisites": [
+      "AF AMER 201A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER201B"
+  },
+  {
+    "course_code": "AF AMER 201C",
+    "units": "4",
+    "title": "Research Proposal Writing Seminar",
+    "prerequisites": [
+      "AF AMER 201A",
+      "AF AMER 201B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER201C"
+  },
+  {
+    "course_code": "AF AMER M202",
+    "units": "4",
+    "title": "Critical Theory of African Diaspora",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM202"
+  },
+  {
+    "course_code": "AF AMER 203A",
+    "units": "4",
+    "title": "Pan-Africanism: History and Historiography, 1804-1974",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER203A"
+  },
+  {
+    "course_code": "AF AMER 203B",
+    "units": "4",
+    "title": "Readings in African Political Economy",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER203B"
+  },
+  {
+    "course_code": "AF AMER CM210",
+    "units": "4",
+    "title": "Bibliography and Research Methods in Rap Music/Hip-Hop Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM210"
+  },
+  {
+    "course_code": "AF AMER C210D",
+    "units": "4",
+    "title": "Posthumans",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERC210D"
+  },
+  {
+    "course_code": "AF AMER M211",
+    "units": "4",
+    "title": "Seminar: African American Music",
+    "prerequisites": [
+      "None 110A",
+      "None 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM211"
+  },
+  {
+    "course_code": "AF AMER CM213B",
+    "units": "5",
+    "title": "Legislative Theater for Race and Gender Justice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM213B"
+  },
+  {
+    "course_code": "AF AMER CM213XP",
+    "units": "4",
+    "title": "Narratives of Justice: Disrupting School-to-Prison Pipeline\u2014Arts, Activism, and Agency",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM213XP"
+  },
+  {
+    "course_code": "AF AMER CM235A",
+    "units": "4",
+    "title": "African American Art before 1900",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM235A"
+  },
+  {
+    "course_code": "AF AMER CM235B",
+    "units": "4",
+    "title": "African American Art, 1900 to 1963",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM235B"
+  },
+  {
+    "course_code": "AF AMER M240",
+    "units": "3",
+    "title": "Assessment and Treatment of African American Families",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM240"
+  },
+  {
+    "course_code": "AF AMER 241",
+    "units": "4",
+    "title": "Special Topics in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER241"
+  },
+  {
+    "course_code": "AF AMER M256",
+    "units": "4",
+    "title": "Topics in African American Art",
+    "prerequisites": [
+      "CM 235A",
+      "CM 235B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM256"
+  },
+  {
+    "course_code": "AF AMER C266",
+    "units": "4",
+    "title": "Future of Work in Decarcerated California",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERC266"
+  },
+  {
+    "course_code": "AF AMER C266B",
+    "units": "4",
+    "title": "Future of Work in Decarcerated California II: Applied Research and Policy Analysis for Implementation of Justice Transformation",
+    "prerequisites": [
+      "None 266"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERC266B"
+  },
+  {
+    "course_code": "AF AMER 270A",
+    "units": "4",
+    "title": "Survey of Afro-American Research",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER270A"
+  },
+  {
+    "course_code": "AF AMER C291",
+    "units": "4",
+    "title": "Special Topics in Afro-American Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERC291"
+  },
+  {
+    "course_code": "AF AMER 596",
+    "units": "4",
+    "title": "Directed Readings and Tutorials",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER596"
+  },
+  {
+    "course_code": "AF AMER 597",
+    "units": "48",
+    "title": "Preparation for MA Comprehensive Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER597"
+  },
+  {
+    "course_code": "AF AMER 598",
+    "units": "48",
+    "title": "Research for and Preparation of MA Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER598"
+  }
+]
