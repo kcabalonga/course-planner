@@ -92,7 +92,7 @@
       "General Education - Historical Analysis (Society & Culture)"
     ],
     "prerequisites": [
-      "AN N EA 3"
+      "ENGCOMP 3"
     ],
     "equivalent_courses": [
       "AN N EA 15"
@@ -176,7 +176,7 @@
       "Writing II"
     ],
     "prerequisites": [
-      "AN N EA 3"
+      "ENGCOMP 3"
     ],
     "equivalent_courses": [
       "HIST M60",
@@ -353,9 +353,9 @@
     "description": "(Same as History M110C and Iranian M110C.) Lecture, three hours; discussion, one hour (when scheduled). From fall of Arsacids to Muslim conquest of Iran. Emphasis on political and economic history, evolution of state structure, empire\u2019s religious landscape (Mazdism, Manicheism, Exilarchate, Church of Persia, Mazdakism), Persian and Roman/Byzantine interactions, Persia and East. Further accent on Persian-Roman conflicts and cooperation, Persia and Huns. P/NP or letter grading.",
     "cross_listed": [
       "IRANIAN M110C",
-      "AN N EA 224",
+      "IRANIAN 224",
       "HIST M110C",
-      "AN N EA 224"
+      "HIST 224"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEAM110C"
   },
@@ -533,8 +533,8 @@
       "Foreign Language - Level 2"
     ],
     "prerequisites": [
-      "AN N EA 140A",
-      "AN N EA 140B"
+      "SEMITIC 140A",
+      "SEMITIC 140B"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA140B"
   },
@@ -547,8 +547,8 @@
       "Foreign Language - Level 3"
     ],
     "prerequisites": [
-      "AN N EA 140A",
-      "AN N EA 140B"
+      "SEMITIC 140A",
+      "SEMITIC 140B"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANNEA140C"
   },
@@ -768,7 +768,7 @@
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
     "prerequisites": [
-      "AN N E 188SA"
+      "AN N EA 188SA"
     ],
     "corequisites": [
       "HNRS 101E"
@@ -819,8 +819,8 @@
     "title": "Archaeological Research Design",
     "description": "(Same as Anthropology M201C and Archaeology M201C.) Seminar, three hours. Requisites: Archaeology M201A, M201B. How to design archaeological projects in preparation for MA thesis or PhD phase. Students do exploratory research to select subject, then write research design that could form basis for extensive paper, grant application, or oral examination. Students work closely with faculty members and report weekly on their progress. Preparation of at least two oral progress-report presentations, one on theoretical framework and one on practical aspects of project. Final written research design that incorporates theoretical and practical aspects of research and formulates bridging arguments required. S/U or letter grading.",
     "prerequisites": [
-      "ARCHEOL M201A",
-      "ARCHEOL M201B"
+      "ARCHAEOL M201A",
+      "ARCHAEOL M201B"
     ],
     "cross_listed": [
       "ANTHRO M201C",

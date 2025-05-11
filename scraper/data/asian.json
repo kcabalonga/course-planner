@@ -1,0 +1,783 @@
+[
+  {
+    "course_code": "ASIAN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN19"
+  },
+  {
+    "course_code": "ASIAN M20",
+    "units": 5,
+    "title": "Visible Language: Study of Writing",
+    "description": "(Same as Indo-European Studies M20, Near Eastern Languages M20, Slavic M20, and Southeast Asian M20.) Lecture, three hours; discussion, one hour. Consideration of concrete means of language representation in writing systems. Earliest representations of language known are those of Near East dating to end of 4th millennium BC. While literate civilizations of Egypt, Indus Valley, China, and Mesoamerica left little evidence of corresponding earliest developments, their antiquity and, in case of China and Mesoamerica, their evident isolation mark these centers as loci of independent developments in writing. Basic characteristics of early scripts, assessment of modern alphabetic writing systems, and presentation of conceptual basis of semiotic language representation. Origins and development of early non-Western writing systems. How Greco-Roman alphabet arose in 1st millennium BC and how it compares to other modern writing systems. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "SEASIAN M20",
+      "I E STD M20",
+      "SLAVC M20",
+      "NR EAST M20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANM20"
+  },
+  {
+    "course_code": "ASIAN 30",
+    "units": 5,
+    "title": "Languages and Cultures of Asia",
+    "description": "Lecture, three hours; discussion, one hour. Comparative perspective on Asian languages, with emphasis on three major East Asian languages\u2014Chinese, Japanese, and Korean\u2014to show what they share and how they differ in terms of linguistic features, historical development, and larger cultural settings in which these three languages are used. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN30"
+  },
+  {
+    "course_code": "ASIAN M60",
+    "units": 5,
+    "title": "Introduction to Buddhism",
+    "description": "(Same as Religion M60A.) Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course M60W. Knowledge of Asian languages not required. General survey of development of Buddhism in India, with focus on those religious doctrines and meditative practices most essential to various Asian traditions of Buddhism. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "equivalent_courses": [
+      "RELIGN M60W",
+      "ASIAN M60W"
+    ],
+    "cross_listed": [
+      "RELIGN M60A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANM60"
+  },
+  {
+    "course_code": "ASIAN M60W",
+    "units": 5,
+    "title": "Introduction to Buddhism",
+    "description": "(Same as Religion M60W.) Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course M60. Knowledge of Asian languages not required. General survey of Buddhist worldview and lifestyle, with focus on those religious doctrines and meditative practices most essential to various Asian traditions of Buddhism. Particular attention to problems involved in study of religion. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "equivalent_courses": [
+      "RELIGN M60A",
+      "ASIAN M60"
+    ],
+    "cross_listed": [
+      "RELIGN M60W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANM60W"
+  },
+  {
+    "course_code": "ASIAN M61",
+    "units": 5,
+    "title": "Introduction to Zen Buddhism",
+    "description": "(Same as Religion M61.) Lecture, three hours; discussion, one hour. Knowledge of Asian languages not required. Introduction to Zen traditions and to interplay between Zen and other fundamental cultural and religious concerns in East Asia. Topics include role of Zen within Buddhist thought and practice, artistic and literary arts, society, and daily life. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "RELIGN M61"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANM61"
+  },
+  {
+    "course_code": "ASIAN 70A",
+    "units": 5,
+    "title": "Popular Culture in East Asia: 17th through 19th Centuries",
+    "description": "Lecture, three hours; discussion, one hour. Popular culture in China, Japan, Korea, and Vietnam. Topics include popular religion, language, literature, arts, material culture, cinema, and music. Themes include identities, gender, sexuality, and class relations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN70A"
+  },
+  {
+    "course_code": "ASIAN 70B",
+    "units": 5,
+    "title": "Popular Culture in East Asia: 1895 to 1945",
+    "description": "Lecture, three hours; discussion, one hour. Popular culture in China, Japan, Korea, and Vietnam. Topics include popular religion, language, literature, arts, material culture, cinema, and music. Themes include identities, gender, sexuality, and class relations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN70B"
+  },
+  {
+    "course_code": "ASIAN 70C",
+    "units": 5,
+    "title": "Popular Culture in East Asia from 1945",
+    "description": "Lecture, three hours; discussion, one hour. Popular culture in China, Japan, Korea, and Vietnam. Topics include popular religion, language, literature, arts, material culture, cinema, and music. Themes include identities, gender, sexuality, and class relations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN70C"
+  },
+  {
+    "course_code": "ASIAN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN89"
+  },
+  {
+    "course_code": "ASIAN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN89HC"
+  },
+  {
+    "course_code": "ASIAN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN99"
+  },
+  {
+    "course_code": "ASIAN 100",
+    "units": 4,
+    "title": "Methods in Asian Linguistics",
+    "description": "Lecture, three hours; discussion, one hour. Research methodologies for dealing with Asian languages, with emphases on bibliographical, data, and professional resources, issues in analyzing and presenting language examples, explaining language phenomena beyond what is observed, cross-linguistic comparisons, oral presentation skills, and writing reports in organized ways. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN100"
+  },
+  {
+    "course_code": "ASIAN 104",
+    "units": 4,
+    "title": "Asian Language Pedagogy",
+    "description": "Lecture, three hours; discussion, one hour. Required of all Asian Languages and Linguistics majors. Current issues in teaching Asian languages. Pedagogical grammar, curricular development, social, cultural, and cognitive foundations of Asian language acquisition, best practices in teaching Asian language writing systems, special issues in teaching heritage students, comparisons of K-12 language teaching and college language teaching, assessment methods, and emerging trends in Asian language teaching. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN104"
+  },
+  {
+    "course_code": "ASIAN 120FL",
+    "units": 2,
+    "title": "Readings in East Asian Languages",
+    "description": "Seminar, two hours. Requisite: Chinese 6 or 6A or 6C or Japanese 6 or Korean 6 or 6A. Enforced corequisite: course 120. Additional work in major East Asian languages to enrich and augment work assigned in course 120, including reading, writing, and other exercises in Chinese, Japanese, and Korean. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 6",
+      "CHIN 6A",
+      "CHIN 6C",
+      "JAPAN 6",
+      "KOREA 6",
+      "KOREA 6A"
+    ],
+    "corequisites": [
+      "ASIAN 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN120FL"
+  },
+  {
+    "course_code": "ASIAN 121",
+    "units": 3,
+    "title": "Field Methods in Asian Languages and Cultures",
+    "description": "Lecture, three hours. Recommended preparation: at least one year of one Asian language. Examination and application of methodologies to better understand language and culture acquisition by working directly with native speaker of Asian language and/or through available materials. One language per term to be selected from languages spoken in Southeast Asia, South Asia, and East Asia. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN121"
+  },
+  {
+    "course_code": "ASIAN CM124",
+    "units": 4,
+    "title": "Teaching and Learning of Heritage Languages",
+    "description": "(Same as Near Eastern Languages CM114 and Slavic CM114.) Lecture, three hours. Consideration of issues relevant to heritage language learners (HLL) and to heritage language (HL) instruction. Readings and discussion on such topics as definitions of HLs and HLLs; linguistic, demographic, sociolinguistic, and sociocultural profile of HLLs, particularly HL groups most represented among UCLA students; institutional and instructor attitudes toward HLLs; impact of student motivation and expectations on HL curriculum and teaching approaches; similarities and differences between HLLs and foreign language learners (FLLs) regarding teaching methods and materials; diagnostic testing and needs analysis; use of oral/aural proficiency as springboard for literacy instruction; optimization of instruction of mixed HL and FL classes. Action research component included. Concurrently scheduled with course CM224. P/NP or letter grading.",
+    "cross_listed": [
+      "NR EAST CM114",
+      "SLAVC CM114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANCM124"
+  },
+  {
+    "course_code": "ASIAN 130",
+    "units": 4,
+    "title": "Ideas of Culture in East Asian Studies",
+    "description": "Lecture, three hours. Knowledge of Asian languages not required. Literature and intellectual discourse of modern Japan and Korea from 1910 to 1945. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN130"
+  },
+  {
+    "course_code": "ASIAN 135",
+    "units": 4,
+    "title": "Asian Foodways across Borders",
+    "description": "Lecture, two and one half hours. Examination of Asian foodways from 19th century to present, looking at how Asian and Western foods have impacted each other as they cross borders. Offers insight into how political, economic, and cultural forces of globalization manifest themselves in everyday life. Focus is on East Asian cuisines, but students are encouraged to incorporate additional information on South and Southeast Asian cuisines. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN135"
+  },
+  {
+    "course_code": "ASIAN 140",
+    "units": 4,
+    "title": "Topics in Asian Digital Humanities",
+    "description": "Lecture, three hours. Knowledge of Asian languages not required. Examination of how human cultures and digital media production intersect to understand how people connect through production, dissemination, and consumption of digital information, applying methods such as multi-media storytelling, information design, and content analysis in Asian contexts to humanistic questions. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN140"
+  },
+  {
+    "course_code": "ASIAN 151",
+    "units": 4,
+    "title": "Buddhist Literature in Translation",
+    "description": "Lecture, three hours. Recommended preparation: prior course on Buddhism or traditional Asian religions. Knowledge of Asian languages not required. Readings from variety of Buddhist literature of Indic and non-Indic origin, with emphasis on key Buddhist themes and critical issues in cross-cultural interpretations of Asian religious texts. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN151"
+  },
+  {
+    "course_code": "ASIAN 152",
+    "units": 4,
+    "title": "Tibetan Buddhism",
+    "description": "Lecture, three hours. Knowledge of Asian languages not required. Survey of thought and practices of Buddhism in Tibet from its beginnings to present. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN152"
+  },
+  {
+    "course_code": "ASIAN 155",
+    "units": 4,
+    "title": "Buddhism, Film, and Media",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Recommended requisite: course M60 (or Religion M60A) or M60W (or Religion M60W). Examination of issues related to Buddhism in globalizing world, with focus on changing and diverse presentations of Buddhism in film, print, and new media. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN155"
+  },
+  {
+    "course_code": "ASIAN 158",
+    "units": 4,
+    "title": "Sinophone Literature: Theories and Texts",
+    "description": "Lecture, three hours. Preparation: one upper-division humanities course. Survey of foundational theories of Sinophone studies concerning issues such as Chineseness, diaspora, ethnicity, identity, and multilingualism. Reading of key Sinophone literary texts from Asia. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN158"
+  },
+  {
+    "course_code": "ASIAN 161",
+    "units": 4,
+    "title": "Topics in Asian Religions",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Asian languages not required. In-depth examination of selected topics in one or more religious traditions of Asia. Topics vary, but may include death, gender, and state and religion. May be repeated for credit with topic change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN161"
+  },
+  {
+    "course_code": "ASIAN 162",
+    "units": 4,
+    "title": "Buddhist Meditation Traditions",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Asian languages not required. Survey of theory and practice of meditation in Buddhism, with emphasis on Theravada and Zen schools. Topics include various typologies of meditation, symbiotic relationship between meditation and soteriology, and processes by which doctrinal innovation prompts changes in meditative praxis. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN162"
+  },
+  {
+    "course_code": "ASIAN 163",
+    "units": 4,
+    "title": "Buddhism across Boundaries",
+    "description": "Lecture, two hours; discussion, one hour. Recommended preparation: prior course on Buddhism or traditional Asian religions. Knowledge of Asian languages not required. Investigation of various themes in development of Buddhist traditions across historical periods as well as national and cultural boundaries, including issues of praxis, politics, and translation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN163"
+  },
+  {
+    "course_code": "ASIAN 164",
+    "units": 4,
+    "title": "Buddhism and Early Religious History of Pakistan, Afghanistan, and Central Asia: Introduction",
+    "description": "Lecture, three hours. Knowledge of Asian languages not required. Survey of regions and religions of Central Asia, especially Buddhism in Afghanistan and Pakistan. Topics include archaeological, art historical material, and linguistic approaches to history of religions. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN164"
+  },
+  {
+    "course_code": "ASIAN C170",
+    "units": 4,
+    "title": "Approaches to Study of Religion",
+    "description": "Seminar, three hours. Investigation of many ways in which religion and religions may be studied, including anthropological, sociological, psychological, phenomenological, political, reductionist, and other approaches. Readings of primary and secondary sources of modern scholarship. Concurrently scheduled with course C270. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANC170"
+  },
+  {
+    "course_code": "ASIAN 184",
+    "units": 4,
+    "title": "Women in History: East Asia",
+    "description": "Lecture, three hours. Knowledge of Korean not required. Survey of East Asian histories, cultures, and societies from perspective of women and women's empowerment to see how gendered concepts are mediated and reconstructed through negotiations by women and men with processes of political, social, and cultural changes. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN184"
+  },
+  {
+    "course_code": "ASIAN 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN188SA"
+  },
+  {
+    "course_code": "ASIAN 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ASIAN 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN188SB"
+  },
+  {
+    "course_code": "ASIAN 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ASIAN 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN188SC"
+  },
+  {
+    "course_code": "ASIAN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN189"
+  },
+  {
+    "course_code": "ASIAN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN189HC"
+  },
+  {
+    "course_code": "ASIAN 190",
+    "units": 1,
+    "title": "Research Colloquia in Asian Languages and Cultures",
+    "description": "Seminar, one hour. Corequisite: course 198A or 198B or 198C or 199. Designed to bring together advanced undergraduate students undertaking individual supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. May be repeated for credit. P/NP grading.",
+    "prerequisites": [
+      "ASIAN 198A",
+      "ASIAN 198B",
+      "ASIAN 198C",
+      "ASIAN 199"
+    ],
+    "corequisites": [
+      "ASIAN 198A",
+      "ASIAN 198B",
+      "ASIAN 198C",
+      "ASIAN 199"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN190"
+  },
+  {
+    "course_code": "ASIAN 191A",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Life Writing in East Asia",
+    "description": "Seminar, three hours. Research seminar on selected topics. Readings of biography and autobiography as elements of East Asian cultural traditions, with focus rotating between China, Japan, and Korea. Readings in English and relevant East Asian languages, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN191A"
+  },
+  {
+    "course_code": "ASIAN 191B",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Buddhist Studies",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Research seminar on selected topics in Buddhist studies. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN191B"
+  },
+  {
+    "course_code": "ASIAN 191H",
+    "units": 4,
+    "title": "Honors Research Seminars: Asian Languages and Cultures",
+    "description": "Seminar, three hours. Limited to departmental and College honors students. Introduction to research methods and critical approaches to study of Asia in preparation for writing of senior honors thesis. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN191H"
+  },
+  {
+    "course_code": "ASIAN 193",
+    "units": 2,
+    "title": "Speaker Series Seminars: Asian Languages and Cultures",
+    "description": "Seminar, two hours. Limited to undergraduate students. Introduction to latest scholarship in field of Asian studies. Attendance at selected scholarly presentations required, as well as sessions with faculty adviser to discuss presentations and published works of speakers. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN193"
+  },
+  {
+    "course_code": "ASIAN 195",
+    "units": 4,
+    "title": "Community Internships in Asian Languages and Cultures",
+    "description": "Tutorial, one hour; fieldwork, eight hours. Limited to juniors/seniors. Internship in supervised setting in community cultural or organizational setting. Students meet on regular basis with instructor and provide periodic journal reports of their experience. Final paper that combines academic research and knowledge gained from community experience required. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN195"
+  },
+  {
+    "course_code": "ASIAN 198A",
+    "units": 4,
+    "title": "Honors Research in Asian Languages and Cultures",
+    "description": "Tutorial, three hours. Preparation: one undergraduate departmental seminar. Limited to junior/senior departmental majors. Development of honors thesis under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN198A"
+  },
+  {
+    "course_code": "ASIAN 198B",
+    "units": 4,
+    "title": "Honors Research in Asian Languages and Cultures",
+    "description": "Tutorial, three hours. Enforced requisite: course 198A. Limited to junior/senior departmental majors. Continuation of work initiated in course 198A. Presentation of research and relevant progress to supervising faculty member. May be repeated for credit. Individual contract required. In Progress grading (credit to be given only on completion of course 198C).",
+    "prerequisites": [
+      "ASIAN 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN198B"
+  },
+  {
+    "course_code": "ASIAN 198C",
+    "units": 4,
+    "title": "Honors Research in Asian Languages and Cultures",
+    "description": "Tutorial, three hours. Enforced requisite: course 198B. Limited to junior/senior departmental majors. Completion of research developed in courses 198A, 198B. Presentation of honors project to supervising faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "ASIAN 198B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN198C"
+  },
+  {
+    "course_code": "ASIAN 199",
+    "units": 2,
+    "title": "Directed Research in Asian Languages and Cultures",
+    "description": "Tutorial, to be arranged. Recommended preparation: advanced reading knowledge of one Asian language. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated once with consent of instructor. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN199"
+  },
+  {
+    "course_code": "ASIAN 200",
+    "units": 4,
+    "title": "Research Methods in East Asian Linguistics",
+    "description": "Seminar, three hours. Research methodologies for East Asian languages, with emphasis on compiling bibliographic data and using professional resources for research. Examination of issues in analyzing language examples, theoretical implications of linguistic data, and applications of functional linguistics in order to explain language phenomena. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN200"
+  },
+  {
+    "course_code": "ASIAN 201",
+    "units": 4,
+    "title": "Proseminar: Approaches to Buddhist Studies",
+    "description": "Seminar, three hours. Designed for graduate students in Buddhist studies. Introduction to history of field, bibliography, relations with other disciplines, and current issues and research trends. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN201"
+  },
+  {
+    "course_code": "ASIAN 202",
+    "units": 4,
+    "title": "Proseminar: Functional Approaches to Japanese/Korean Linguistics",
+    "description": "Seminar, four hours. Preparation: three years of Japanese or Korean, one year of any East Asian language, one functional linguistics course. Survey of recent empirical and theoretical research in syntax, semantico-pragmatics, theory of language change, and comparative sociolinguistics in Japanese/Korean. May be repeated for credit with consent of instructors. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN202"
+  },
+  {
+    "course_code": "ASIAN 203",
+    "units": 4,
+    "title": "Variable Topics in East Asian Linguistics",
+    "description": "Seminar, three hours. Advanced course that explores topics in East Asian linguistics through critical reading of current research on Asian languages and in-depth analysis of linguistic data. Topics include linguistic structure, communicative function, pragmatics, language, society, and culture, and language change. May be repeated for credit. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN203"
+  },
+  {
+    "course_code": "ASIAN 204A",
+    "units": 4,
+    "title": "Issues and Practices in Teaching Asian Languages",
+    "description": "Lecture, three hours. Course 204A is enforced requisite to 204B. Critical reading and discussion of major pedagogical issues in teaching Asian languages (chiefly Chinese, Japanese, Korean) as second languages, with focus on second language acquisition theories and best practices as related to Asian language teaching. In Progress grading (credit to be given only on completion of course 204B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN204A"
+  },
+  {
+    "course_code": "ASIAN 204B",
+    "units": 4,
+    "title": "Issues and Practices in Teaching Asian Languages",
+    "description": "Lecture, three hours. Enforced requisite: course 204A. Critical reading and discussion of major pedagogical issues in teaching Asian languages (chiefly Chinese, Japanese, Korean) as second languages, with focus on second language acquisition theories and best practices as related to Asian language teaching. S/U or letter grading.",
+    "prerequisites": [
+      "ASIAN 204A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN204B"
+  },
+  {
+    "course_code": "ASIAN 205",
+    "units": 4,
+    "title": "Variable Topics in East Asian Culture and History",
+    "description": "Seminar, three hours. Selected topics in East Asian culture and history, with focus on China, Japan, and Korea. May be repeated for credit with topic change. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN205"
+  },
+  {
+    "course_code": "ASIAN 206A",
+    "units": 4,
+    "title": "MA Practicum: Issues in Teaching Asian Languages and Classroom Practices",
+    "description": "Seminar, two hours; teaching practice, two hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students under training to become language instructors at K-12 or postsecondary level. Activities generally involve instruction, tutorial, assessment, material development, and other professional practices, with goal for students to gain actual experience. Discussion includes varied aspects of language teaching as profession. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN206A"
+  },
+  {
+    "course_code": "ASIAN 206B",
+    "units": 4,
+    "title": "MA Practicum: Instructional Apprenticeship in Teaching Asian Languages",
+    "description": "Seminar, three hours; teaching practice, two to four hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students under training to become language instructors at K-12 or postsecondary level. Activities generally involve lesson design, delivering instructions and tutorials, preparing and performing assessment, material development, and other professional practices, with goal for students to gain actual experience as language teacher. Discussion provides forum to examine varied aspects of language teaching as profession. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN206B"
+  },
+  {
+    "course_code": "ASIAN 206C",
+    "units": 4,
+    "title": "MA Practicum: Best Practices in Teaching Asian Languages",
+    "description": "Seminar, three hours; teaching practice, two to four hours. Training and supervised Asian language practicum in form of in-person, online, and/or peer-based instructional activities for MA students under training to become language instructors at K-12 or postsecondary level. Activities generally involve lesson design, delivering instructions and tutorials, preparing and performing assessment, material development, and other professional practices, with goal for students to gain actual experience as language teacher. Discussion provides forum to examine varied aspects of language teaching as profession. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN206C"
+  },
+  {
+    "course_code": "ASIAN 210",
+    "units": 4,
+    "title": "Proseminar: Cultural and Comparative Studies",
+    "description": "Seminar, three hours. Designed for graduate students. Introduction to theoretical topics relevant to comparative study of East Asian cultures in modern period. Readings include Western theoretical works balanced with texts taking congruent approaches to East Asian topics. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN210"
+  },
+  {
+    "course_code": "ASIAN 215",
+    "units": 2,
+    "title": "Seminar: Cultural Studies Theory",
+    "description": "Seminar, two hours. Requisite: course 210. Reading and discussion of recent theoretical works in cultural studies. S/U grading.",
+    "prerequisites": [
+      "ASIAN 210"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN215"
+  },
+  {
+    "course_code": "ASIAN 216",
+    "units": 4,
+    "title": "Seminar: History and Asia",
+    "description": "Seminar, three hours. Designed for graduate students. Readings and discussion of major historiographical trends, with focus on how they have been applied to Asia. Topics include Marxist histories, Annales school and cultural history, microhistories, gender, space, historical memory, postcolonial histories, subaltern, and modernity and Asia. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN216"
+  },
+  {
+    "course_code": "ASIAN 220A",
+    "units": 4,
+    "title": "Seminar: Topics in Cultural Studies",
+    "description": "Seminar, three hours. Complements course 210. Further investigation of methodology and materials of cultural studies in connection with specific topics selected by instructors. May be repeated for credit. In Progress grading (credit to be given only on completion of course 220B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN220A"
+  },
+  {
+    "course_code": "ASIAN 220B",
+    "units": 4,
+    "title": "Seminar: Topics in Cultural Studies",
+    "description": "Seminar, three hours. Complements course 210. Further investigation of methodology and materials of cultural studies in connection with specific topics selected by instructors. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN220B"
+  },
+  {
+    "course_code": "ASIAN 222A",
+    "units": 4,
+    "title": "Corpus Linguistics",
+    "description": "Seminar, three hours. Construction and exploitation of computerized language corpora for studying issues in areas such as lexicology, discourse grammar, language change and variation, language learning, and teaching. Discussion of special issues in working with East Asian language corpora. In Progress grading (credit to be given only on completion of course 222B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN222A"
+  },
+  {
+    "course_code": "ASIAN 222B",
+    "units": 4,
+    "title": "Corpus Linguistics",
+    "description": "Seminar, three hours. Construction and exploitation of computerized language corpora for studying issues in areas such as lexicology, discourse grammar, language change and variation, language learning, and teaching. Discussion of special issues in working with East Asian language corpora. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN222B"
+  },
+  {
+    "course_code": "ASIAN CM224",
+    "units": 4,
+    "title": "Teaching and Learning of Heritage Languages",
+    "description": "(Same as Near Eastern Languages CM214 and Slavic CM214.) Lecture, three hours. Consideration of issues relevant to heritage language learners (HLL) and to heritage language (HL) instruction. Readings and discussion on such topics as definitions of HLs and HLLs; linguistic, demographic, sociolinguistic, and sociocultural profile of HLLs, particularly HL groups most represented among UCLA students; institutional and instructor attitudes toward HLLs; impact of student motivation and expectations on HL curriculum and teaching approaches; similarities and differences between HLLs and foreign language learners (FLLs) regarding teaching methods and materials; diagnostic testing and needs analysis; use of oral/aural proficiency as springboard for literacy instruction; optimization of instruction of mixed HL and FL classes. Action research component included. Concurrently scheduled with course CM124. S/U or letter grading.",
+    "cross_listed": [
+      "SLAVC CM214",
+      "NR EAST CM214"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANCM224"
+  },
+  {
+    "course_code": "ASIAN 230A",
+    "units": 4,
+    "title": "Seminar: Theoretical Topics in East Asian Literature",
+    "description": "Seminar, three hours. Preparation: reading knowledge of at least one East Asian language. Concerns of literary theory that are brought to fore by reading of literature from or about East Asia. Readings from both Western and Eastern theorists; issues of translation, comparison, and categorization. In Progress grading (credit to be given only on completion of course 230B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN230A"
+  },
+  {
+    "course_code": "ASIAN 230B",
+    "units": 4,
+    "title": "Seminar: Theoretical Topics in East Asian Literature",
+    "description": "Seminar, three hours. Preparation: reading knowledge of at least one East Asian language. Concerns of literary theory that are brought to fore by reading of literature from or about East Asia. Readings from both Western and Eastern theorists; issues of translation, comparison, and categorization. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN230B"
+  },
+  {
+    "course_code": "ASIAN 240A",
+    "units": 4,
+    "title": "Seminar: Topics in East Asian Literary History",
+    "description": "Seminar, three hours. Preparation: reading knowledge of at least one East Asian language. Critical issues common to literary historiography in East Asia, including periodization, canon, ideology, interaction between high and low culture, written and oral, etc. In Progress grading (credit to be given only on completion of course 240B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN240A"
+  },
+  {
+    "course_code": "ASIAN 240B",
+    "units": 4,
+    "title": "Seminar: Topics in East Asian Literary History",
+    "description": "Seminar, three hours. Preparation: reading knowledge of at least one East Asian language. Critical issues common to literary historiography in East Asia, including periodization, canon, ideology, interaction between high and low culture, written and oral, etc. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN240B"
+  },
+  {
+    "course_code": "ASIAN 243",
+    "units": 2,
+    "title": "Translation Workshop: East Asian Texts",
+    "description": "Seminar, two hours. Requisite: Chinese 200A or Japanese 200 or Korean 200. Translation, grammatical analysis, and discussion of selections from premodern texts that enjoyed classical status throughout East Asia. S/U grading.",
+    "prerequisites": [
+      "CHIN 200A",
+      "JAPAN 200",
+      "KOREA 200"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN243"
+  },
+  {
+    "course_code": "ASIAN 245A",
+    "units": 4,
+    "title": "Seminar: Position of Modernity in East Asian Literature",
+    "description": "Seminar, three hours. Preparation: at least five years of one East Asian language. Designed for graduate students. Conceptual architecture and archaeology of modernity, with readings largely from European sources. In-class debate probes relevance of these readings for work as Asianists. In Progress grading (credit to be given only on completion of course 245B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN245A"
+  },
+  {
+    "course_code": "ASIAN 245B",
+    "units": 4,
+    "title": "Seminar: Position of Modernity in East Asian Literature",
+    "description": "Seminar, three hours. Preparation: at least five years of one East Asian language. Designed for graduate students. Focus on Asian writings. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN245B"
+  },
+  {
+    "course_code": "ASIAN 255",
+    "units": 4,
+    "title": "Topics in Southeast Asian Literature and/or Cinema",
+    "description": "Seminar, three hours. Knowledge of one Southeast Asian language recommended but not required. Theoretical concerns raised by works from Southeast Asia, one Southeast Asian nation, and/or Southeast Asian diasporas. Critical and historical examination of literary and/or film representations connected to practices of empire, nation, diaspora, and globalization. May be repeated for credit. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN255"
+  },
+  {
+    "course_code": "ASIAN 261A",
+    "units": 2,
+    "title": "Current Issues in Buddhist Studies",
+    "description": "Seminar, 90 minutes. Knowledge of Asian languages not required. Critical reading and discussion of recent scholarship in Buddhist studies and closely related fields. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN261A"
+  },
+  {
+    "course_code": "ASIAN 261B",
+    "units": 2,
+    "title": "Current Issues in Buddhist Studies",
+    "description": "Seminar, 90 minutes. Knowledge of Asian languages not required. Critical reading and discussion of recent scholarship in Buddhist studies and closely related fields. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN261B"
+  },
+  {
+    "course_code": "ASIAN 261C",
+    "units": 2,
+    "title": "Current Issues in Buddhist Studies",
+    "description": "Seminar, 90 minutes. Knowledge of Asian languages not required. Critical reading and discussion of recent scholarship in Buddhist studies and closely related fields. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN261C"
+  },
+  {
+    "course_code": "ASIAN 265A",
+    "units": 4,
+    "title": "Seminar: Selected Topics in Buddhist Studies",
+    "description": "Seminar, three hours. Coverage varies. May be repeated for credit. In Progress grading (credit to be given only on completion of course 265B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN265A"
+  },
+  {
+    "course_code": "ASIAN 265B",
+    "units": 4,
+    "title": "Seminar: Selected Topics in Buddhist Studies",
+    "description": "Seminar, three hours. Coverage varies. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN265B"
+  },
+  {
+    "course_code": "ASIAN C270",
+    "units": 4,
+    "title": "Approaches to Study of Religion",
+    "description": "Seminar, three hours. Investigation of many ways in which religion and religions may be studied, including anthropological, sociological, psychological, phenomenological, political, reductionist, and other approaches. Readings of primary and secondary sources of modern scholarship. Concurrently scheduled with course C170. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANC270"
+  },
+  {
+    "course_code": "ASIAN 281A",
+    "units": 4,
+    "title": "Field Methods for Study of East Asian Oral Traditions",
+    "description": "Seminar, three hours. Description and evaluation of modern approaches to collecting and documenting oral tradition as text, performance, and sociocultural event, providing hands-on experience in fieldwork and archiving methods. Consideration of approaches ranging from written transcription and textualization to audio and video presentations. In Progress grading (credit to be given only on completion of course 281B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN281A"
+  },
+  {
+    "course_code": "ASIAN 281B",
+    "units": 4,
+    "title": "Field Methods for Study of East Asian Oral Traditions",
+    "description": "Seminar, three hours. Description and evaluation of modern approaches to collecting and documenting oral tradition as text, performance, and sociocultural event, providing hands-on experience in fieldwork and archiving methods. Consideration of approaches ranging from written transcription and textualization to audio and video presentations. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN281B"
+  },
+  {
+    "course_code": "ASIAN M292",
+    "units": 4,
+    "title": "Japan in Age of Empire",
+    "description": "(Same as Anthropology M247P and History M286.) Seminar, three hours. Designed for graduate students. Since late 19th century, Japan expanded its empire into East and Southeast Asia. Coverage of that period and array of anthropological studies conducted in Japan\u2019s colonies and occupied areas in this hardly explored area of study of colonialism. S/U or letter grading.",
+    "cross_listed": [
+      "HIST M286",
+      "ANTHRO M247P"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIANM292"
+  },
+  {
+    "course_code": "ASIAN 293",
+    "units": 4,
+    "title": "Graduate Student Colloquium",
+    "description": "Research group meeting, three hours. Designed to provide graduate students in Asian studies with opportunity to present their research to other students and faculty members. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN293"
+  },
+  {
+    "course_code": "ASIAN 297",
+    "units": 4,
+    "title": "Life Writing in East Asia",
+    "description": "Seminar, three hours. Readings of biography and autobiography as elements of East Asian cultural traditions, with focus rotating between China, Japan, and Korea. Readings in English and relevant East Asian languages. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN297"
+  },
+  {
+    "course_code": "ASIAN 299",
+    "units": 2,
+    "title": "Independent Study",
+    "description": "Tutorial, to be arranged. Designed for graduate students. Guided research and writing of research paper. May be repeated, but only 4 units may be applied toward MA degree. May not be applied toward PhD degree. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN299"
+  },
+  {
+    "course_code": "ASIAN 301",
+    "units": 4,
+    "title": "Teaching East Asian Language as Foreign Language",
+    "description": "Lecture, four hours. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN301"
+  },
+  {
+    "course_code": "ASIAN 495",
+    "units": 4,
+    "title": "Teaching Asian Languages at College Level",
+    "description": "Seminar, three hours. Preparation: appointment as teaching assistant in East Asian languages and cultures or South and Southeast Asian languages and cultures. Study in team-teaching, teaching methodology, developing course materials, and testing. Participation in peer observations and workshops required. Students receive unit credit toward full-time equivalence but not toward any degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN495"
+  },
+  {
+    "course_code": "ASIAN 496A",
+    "units": 2,
+    "title": "Teaching Asian Languages Practicum",
+    "description": "Seminar, two hours. Preparation: appointment as teaching assistant in Asian languages. Study in teaching methodologies, assessment, and developing course materials. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN496A"
+  },
+  {
+    "course_code": "ASIAN 496C",
+    "units": 2,
+    "title": "Computer Technologies for Teaching College-Level Chinese",
+    "description": "Lecture, two hours. Intended for current or potential teaching assistants in Chinese. Introduction to tools and technology designed to enrich classroom learning, help effectively manage student records, and expose students to current computer software and web resources. May not be applied toward degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN496C"
+  },
+  {
+    "course_code": "ASIAN 496E",
+    "units": 2,
+    "title": "Computer Technologies for Teaching College-Level East Asian Languages",
+    "description": "Lecture, two hours. Intended for current or potential teaching assistants in East Asian languages. Introduction to tools and technology designed to enrich classroom learning, help effectively manage student records, and expose students to current computer software and web resources. May not be applied toward degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN496E"
+  },
+  {
+    "course_code": "ASIAN 496J",
+    "units": 2,
+    "title": "Computer Technologies for Teaching College-Level Japanese",
+    "description": "Lecture, two hours. Intended for current or potential teaching assistants in Japanese. Introduction to tools and technology designed to enrich classroom learning, help effectively manage student records, and expose students to current computer software and web resources. May not be applied toward degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN496J"
+  },
+  {
+    "course_code": "ASIAN 496K",
+    "units": 2,
+    "title": "Computer Technologies for Teaching College-Level Korean",
+    "description": "Lecture, two hours. Intended for current or potential teaching assistants in Korean. Introduction to tools and technology designed to enrich classroom learning, help effectively manage student records, and expose students to current computer software and web resources. May not be applied toward degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN496K"
+  },
+  {
+    "course_code": "ASIAN 501",
+    "units": 2,
+    "title": "Cooperative Program",
+    "description": "Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN501"
+  },
+  {
+    "course_code": "ASIAN 596",
+    "units": 2,
+    "title": "Directed Individual Studies",
+    "description": "Tutorial, to be arranged. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN596"
+  },
+  {
+    "course_code": "ASIAN 597",
+    "units": 4,
+    "title": "Preparation for MA Comprehensive Examination or PhD Qualifying Examinations",
+    "description": "Tutorial, to be arranged. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN597"
+  },
+  {
+    "course_code": "ASIAN 598",
+    "units": 4,
+    "title": "Research for and Preparation of MA Thesis",
+    "description": "Tutorial, to be arranged. Maximum of 8 units may be applied toward MA degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN598"
+  },
+  {
+    "course_code": "ASIAN 599",
+    "units": 4,
+    "title": "Research for and Preparation of PhD Dissertation",
+    "description": "Tutorial, to be arranged. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ASIAN599"
+  }
+]

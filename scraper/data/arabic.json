@@ -471,7 +471,7 @@
     "description": "(Same as Hebrew M231.) Lecture, three hours. Requisites: course 102C, Hebrew 102C. Reading of Judeo-Arabic texts by Maimonides (medieval religion, medicine, philosophy) and more recent texts in Judeo-Arabic dialects of Iraq and Egypt, with discussion of grammar and deviations from norms of classical Arabic. S/U or letter grading.",
     "prerequisites": [
       "ARABIC 102C",
-      "ARABIC 102C"
+      "HEBREW 102C"
     ],
     "cross_listed": [
       "HEBREW M231"

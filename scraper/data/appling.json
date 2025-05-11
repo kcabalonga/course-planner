@@ -1,0 +1,40 @@
+[
+  {
+    "course_code": "APPLING 30W",
+    "units": 5,
+    "title": "Language and Social Interaction",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 30. Exploration of range of topics related to study of language and social interaction in both mundane and professional settings, particularly how language affects social lives and how social organization affects use of language. Topics include different approaches to study of language in social interaction (theories and research methodologies), issues regarding language and social identity (such as socioeconomic status, race, gender, and situational identity), and issues concerning language and culture (such as cross-cultural misunderstanding and language socialization). Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPLING30W"
+  },
+  {
+    "course_code": "APPLING 596",
+    "units": 2,
+    "title": "Directed Individual Study",
+    "description": "Tutorial, to be arranged. Limited to MA and PhD students. Independent study in one area of applied linguistics. May not be applied toward MA course requirements. Up to 8 units may be applied toward PhD course requirements. May be repeated for credit. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPLING596"
+  },
+  {
+    "course_code": "APPLING 597",
+    "units": 4,
+    "title": "Preparation for PhD Candidacy Examination",
+    "description": "Tutorial, to be arranged. Preparation: completion of at least six courses of 32-unit requirement for PhD. May not be applied toward 32-unit requirement. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPLING597"
+  },
+  {
+    "course_code": "APPLING 599",
+    "units": 4,
+    "title": "Research for and Preparation of PhD Dissertation",
+    "description": "Tutorial, to be arranged. Preparation: advancement to PhD candidacy. Required of all PhD candidates each term they are registered and engaged in dissertation preparation. May be repeated for credit but may not be applied toward PhD course requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPLING599"
+  }
+]

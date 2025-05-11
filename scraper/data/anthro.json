@@ -367,8 +367,10 @@
     "course_code": "ANTHRO 126M",
     "units": 4,
     "title": "Molecular Anthropology",
-    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course1. Introduction to ways in which molecular data are analyzed to answer questions concerning human evolutionary history. Topics include introduction to basic concepts and methods used to understand molecular evolution and origin and history of human species. Students learn principles of population genetics and molecular phylogenetics, and learn how to apply these methods to human and non-human primate DNA sequence data. P/NP or letter grading.",
-    "prerequisites": [],
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 1. Introduction to ways in which molecular data are analyzed to answer questions concerning human evolutionary history. Topics include introduction to basic concepts and methods used to understand molecular evolution and origin and history of human species. Students learn principles of population genetics and molecular phylogenetics, and learn how to apply these methods to human and non-human primate DNA sequence data. P/NP or letter grading.",
+    "prerequisites": [
+      "ANTHRO 1"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO126M"
   },
   {
@@ -790,7 +792,7 @@
     "description": "(Same as Linguistics M146.) Lecture, three hours; discussion, one hour; fieldwork, two hours. Requisite: course 4 or Linguistics 20. Study of language as aspect of culture; relation of habitual thought and behavior to language; and language and classification of experience. Holistic approach to study of language, with emphasis on relationship of linguistic anthropology to fields of biological, cultural, and social anthropology, as well as archaeology. (Core course for linguistics field.) P/NP or letter grading.",
     "prerequisites": [
       "ANTHRO 4",
-      "ANTHRO 20"
+      "LING 20"
     ],
     "cross_listed": [
       "LING M146"
@@ -893,7 +895,7 @@
     ],
     "prerequisites": [
       "ANTHRO 4",
-      "ANTHRO M10"
+      "AM IND M10"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO155"
   },
@@ -907,7 +909,7 @@
     ],
     "prerequisites": [
       "ANTHRO 4",
-      "ANTHRO M10"
+      "AM IND M10"
     ],
     "cross_listed": [
       "AM IND M162"
@@ -932,9 +934,9 @@
     "prerequisites": [
       "ANTHRO 3",
       "ANTHRO 4",
-      "ANTHRO 20A",
-      "ANTHRO 20B",
-      "ANTHRO 20C"
+      "ETHNMUS 20A",
+      "ETHNMUS 20B",
+      "ETHNMUS 20C"
     ],
     "cross_listed": [
       "ETHNMUS M130",
@@ -1098,11 +1100,8 @@
     "units": 1,
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
-    "prerequisites": [
-      "ANTHRO 101E"
-    ],
     "corequisites": [
-      "ANTHRO 101E"
+      "HNRS 101E"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SA"
   },
@@ -1112,10 +1111,10 @@
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
     "prerequisites": [
-      "ANTHRO 188S"
+      "ANTHRO 188SA"
     ],
     "corequisites": [
-      "ANTHRO 101E"
+      "HNRS 101E"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SB"
   },
@@ -1125,7 +1124,7 @@
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
     "prerequisites": [
-      "ANTHRO 188S"
+      "ANTHRO 188SB"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO188SC"
   },
@@ -1473,9 +1472,6 @@
     "units": 4,
     "title": "Health and Culture in Americas",
     "description": "(Same as Community Health Sciences M260 and Latin American Studies M260.) Lecture, three hours. Recommended requisite: Community Health Sciences 132. Health issues throughout Americas, especially indigenous/Mestizo Latin American populations. Holistic approach covering politics, economics, history, geography, human rights, maternal/child health, culture. Letter grading.",
-    "prerequisites": [
-      "ANTHRO 132"
-    ],
     "cross_listed": [
       "COM HLT M260",
       "LATN AM M260"
@@ -1688,7 +1684,7 @@
     "description": "Seminar, three hours. Requisite: course 252A or Sociology 244A. Ethnographic approaches to recording and analyzing communicative events and practices in their sociocultural context, involving student-initiated fieldwork in community setting. Emphasis on hands-on activities within theoretical frameworks that consider language as social and cultural practice. Devoted to skills related to collecting socially and culturally meaningful data. Letter grading.",
     "prerequisites": [
       "ANTHRO 252A",
-      "ANTHRO 244A"
+      "SOCIOL 244A"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ANTHRO252B"
   },

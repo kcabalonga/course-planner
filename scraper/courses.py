@@ -15,7 +15,7 @@ SUBJECT_NORMALIZATION = {
     "Physics": "PHYSICS",
     "Psychology": "PSYCH",
     "Political Science": "POL SCI",
-    "Sociology": "SOC",
+    "Sociology": "SOCIOL",
     "Statistics": "STATS",
     "Program in Computing": "PIC",
     "Honors Collegium": "HNRS",
@@ -25,12 +25,37 @@ SUBJECT_NORMALIZATION = {
     "Architecture and Urban Design": "ARCH&UD",
     "Anthropology": "ANTHRO",
     "Classics": "CLASSIC",
-    "Archaeology": "ARCHAEOL",
+    "Archaeology": "ARCHEOL",
     "Life Sciences": "LIFESCI",
     "Aerospace Studies": "AERO ST",
     "African American Studies": "AF AMER",
     "African Studies": "AFRC ST",
-    "American Indian Studies": "AM IND"
+    "American Indian Studies": "AM IND",
+    "American Sign Language": "ASL",
+    "Ancient Near East": "AN N EA",
+    "Semitics": "SEMITIC",
+    "Anesthesiology": "ANES",
+    "Applied Chemical Sciences": "APP CHM",
+    "Applied Linguistics": "APPLING",
+    "Arabic": "ARABIC",
+    "English as a Second Language": "ESL",
+    "Hebrew": "HEBREW",
+    "Armenian": "ARMENIA",
+    "Art": "ART",
+    "Art History": "ART HIS",
+    "Arts and Architecture": "ART&ARC",
+    "Arts Education": "ARTS ED",
+    "Asian": "ASIAN",
+    "Asian American Studies": "ASIA AM",
+    "Astronomy": "ASTR",
+    "Atmospheric and Oceanic Sciences": "A&O SCI",
+    "History": "HIST",
+    "Chinese": "CHIN",
+    "Japanese": "JAPAN",
+    "Korean": "KOREA",
+    "Religion": "RELIGN",
+    "Filipino": "FILIPNO",
+    "Earth, Planetary, and Space Sciences": "EPS SCI",
 }
 
 def extract_course_links(page):
@@ -186,7 +211,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["AFRC ST", "AM IND"] 
+    departments = ["ARMENIA", "ART", "ART HIS", "ART&ARC", "ARTS ED", "ASIAN", "ASIA AM", "ASTR", "A&O SCI"] 
 
     os.makedirs("data", exist_ok=True)
 

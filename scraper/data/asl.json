@@ -1,14 +1,16 @@
 [
   {
     "course_code": "ASL 1",
-    "units": "5",
+    "units": 5,
     "title": "Elementary American Sign Language",
+    "description": "Lecture, five hours. Introduction to fundamentals of American sign language. P/NP or letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL1"
   },
   {
     "course_code": "ASL 2",
-    "units": "5",
+    "units": 5,
     "title": "Elementary American Sign Language",
+    "description": "Lecture, five hours. Enforced requisite: course 1. Introduction to fundamentals of American sign language. P/NP or letter grading.",
     "satisfies": [
       "Foreign Language - Level 2"
     ],
@@ -19,8 +21,9 @@
   },
   {
     "course_code": "ASL 3",
-    "units": "5",
+    "units": 5,
     "title": "Elementary American Sign Language",
+    "description": "Lecture, five hours. Enforced requisite: course 2. Introduction to fundamentals of American sign language. P/NP or letter grading.",
     "satisfies": [
       "Foreign Language - Level 3"
     ],
@@ -31,8 +34,9 @@
   },
   {
     "course_code": "ASL 4",
-    "units": "5",
+    "units": 5,
     "title": "Intermediate American Sign Language",
+    "description": "Lecture, five hours. Enforced requisite: course 3 or 8. Intermediate American sign language. P/NP or letter grading.",
     "prerequisites": [
       "ASL 3",
       "ASL 8"
@@ -41,8 +45,9 @@
   },
   {
     "course_code": "ASL 5",
-    "units": "5",
+    "units": 5,
     "title": "Intermediate American Sign Language",
+    "description": "Lecture, five hours. Enforced requisite: course 4. Intermediate American sign language. P/NP or letter grading.",
     "prerequisites": [
       "ASL 4"
     ],
@@ -50,8 +55,9 @@
   },
   {
     "course_code": "ASL 6",
-    "units": "5",
+    "units": 5,
     "title": "Intermediate American Sign Language",
+    "description": "Lecture, five hours. Enforced requisite: course 5. Intermediate American sign language. P/NP or letter grading.",
     "prerequisites": [
       "ASL 5"
     ],
@@ -59,8 +65,9 @@
   },
   {
     "course_code": "ASL 8",
-    "units": "15",
+    "units": 15,
     "title": "Intensive Elementary American Sign Language",
+    "description": "Lecture, 20 hours. Not open to students with credit for course 3 or students who have learned, from whatever source, enough American sign language to qualify for more advanced courses. Intensive elementary instruction in American sign language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading.",
     "satisfies": [
       "Foreign Language - Level 3"
     ],
@@ -71,62 +78,77 @@
   },
   {
     "course_code": "ASL 19",
-    "units": "1",
+    "units": 1,
     "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL19"
   },
   {
     "course_code": "ASL 89",
-    "units": "1",
+    "units": 1,
     "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL89"
   },
   {
     "course_code": "ASL 89HC",
-    "units": "1",
+    "units": 1,
     "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL89HC"
   },
   {
     "course_code": "ASL 99",
-    "units": "12",
+    "units": 1,
     "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL99"
   },
   {
     "course_code": "ASL M115",
-    "units": "4",
+    "units": 4,
     "title": "Enforcing Normalcy: Deaf and Disability Studies",
+    "description": "(Same as Disability Studies M115.) Lecture, three hours. Exploration of historical, medical, social, political, philosophical, and cultural influences that have constructed categories of normalcy, disability, and deafness. Building on writing of Michel Foucault and critical work in field of disability studies, inquiry into institutions that have enforced standards of normalcy throughout 19th and 20th centuries to present. Primary attention to rise of medical authority in West, history of eugenics, and contemporary bioethics issues confronting disability and deaf communities. P/NP or letter grading.",
     "satisfies": [
       "Diversity - Arts and Architecture"
+    ],
+    "cross_listed": [
+      "DIS STD M115"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASLM115"
   },
   {
     "course_code": "ASL M120",
-    "units": "4",
+    "units": 4,
     "title": "History of Deaf Communities in America",
+    "description": "(Same as History M147E.) Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. Study of history and culture of deaf communities in America (circa 1800 to present) by exploring major events impacting deaf people, including development of sign language, deaf education, audism, politics of deafness, eugenics, deaf revolution movements, and role of hearing technology. Historical development of emergence, growth, and survival of America\u2019s deaf community and development of deaf identity over time. P/NP or letter grading.",
     "satisfies": [
       "Diversity - Arts and Architecture"
+    ],
+    "cross_listed": [
+      "HIST M147E"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASLM120"
   },
   {
     "course_code": "ASL 121",
-    "units": "4",
+    "units": 4,
     "title": "History of Mass Media and Deaf Community",
+    "description": "Lecture, three hours. Historical survey of mass media (print, film, television, and Internet) as sources and interpreters of deafness and deaf people within context of U.S. social and cultural history. Examination of historical changes in products of mass media within deaf community and ways of critiquing media sources. P/NP or letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL121"
   },
   {
     "course_code": "ASL 189",
-    "units": "1",
+    "units": 1,
     "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL189"
   },
   {
     "course_code": "ASL 189HC",
-    "units": "1",
+    "units": 1,
     "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
     "url": "https://catalog.registrar.ucla.edu/course/2024/ASL189HC"
   }
 ]

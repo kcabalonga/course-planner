@@ -1,0 +1,128 @@
+[
+  {
+    "course_code": "APP CHM C102",
+    "units": 4,
+    "title": "Data Management in Science",
+    "description": "Lecture, four hours. Trains students for different aspects of data management in science. Topics include introduction and application of statistical tests, using Python to help sort data, and brief explanation of machine learning and its role in data analysis. With real-life examples and interactive in-class discussions, students are equipped with necessary data-management skills in both academic and industrial settings. Concurrently scheduled with course C202. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC102"
+  },
+  {
+    "course_code": "APP CHM C106",
+    "units": 4,
+    "title": "Medicinal Chemistry and Drug Discovery",
+    "description": "Lecture, four hours. Provides students with knowledge of the drug discovery process. The range of topics gives key insight into the development of pharmaceuticals in the modern world, using relevant case-studies to demonstrate real-world applications of fundamentals. Students are required to have an appreciation of the synthetic methods. Concurrently scheduled with course C206. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC106"
+  },
+  {
+    "course_code": "APP CHM C107",
+    "units": 4,
+    "title": "Advanced Functional Materials",
+    "description": "Lecture, four hours. Examination of synthesis of polymeric materials and their characterization, and basics of 3D printing. Students complete a 3D printing project, in which they select a structure of an existing polymerization catalyst and learn basic CAD skills to transform it into a 3D printed object. Includes literature presentations on current scientific articles. Concurrently scheduled with course C207. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC107"
+  },
+  {
+    "course_code": "APP CHM 201A",
+    "units": 4,
+    "title": "Modern Analytical Methods in Chemistry",
+    "description": "Laboratory, six hours; discussion, two hours. Introduction to fundamental principles and applied aspects of using holistic tools to interrogate matter at various length-scales. Covers essential technologies and concepts practiced in small molecule, materials, and biomaterials-based research. Emphasis on fundamentals and advantages/limitations of techniques. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM201A"
+  },
+  {
+    "course_code": "APP CHM 201B",
+    "units": 4,
+    "title": "Modern Analytical Methods in Chemistry",
+    "description": "Laboratory, six hours; discussion, two hours. Introduction to fundamental principles and applied aspects of using holistic tools to interrogate matter at various length-scales. Covers essential technologies and concepts practiced in small molecule, materials, and biomaterials-based research. Emphasis on fundamentals and advantages/limitations of techniques. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM201B"
+  },
+  {
+    "course_code": "APP CHM C202",
+    "units": 4,
+    "title": "Data Management in Science",
+    "description": "(Formerly numbered 202.) Lecture, four hours. Recommended preparation: general coding experience in Python 3. Trains students for different aspects of data management in science. Topics include introduction and application of statistical tests, using Python to help sort data, and brief explanation of machine learning and its role in data analysis. With real-life examples and interactive in-class discussions, students are equipped with necessary data-management skills in both academic and industrial settings. Concurrently scheduled with course C102. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC202"
+  },
+  {
+    "course_code": "APP CHM 203",
+    "units": 5,
+    "title": "Synthetic Methods",
+    "description": "Laboratory, eight hours; discussion, two hours. Synthesis of organic, inorganic and organometallic compounds, including air-sensitive materials; advanced chromatographic and ion exchange methods; spectroscopic characterization and applications. Laboratory projects emphasize advanced characterization tools, team work, and project management. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM203"
+  },
+  {
+    "course_code": "APP CHM 204",
+    "units": 3,
+    "title": "Workflow Management",
+    "description": "Lecture, three hours. Offers training for workflow management in science. Topics include common practices needed for science communication, developing various forms of written documentation, and navigating major organizational and team work challenges. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM204"
+  },
+  {
+    "course_code": "APP CHM 205A",
+    "units": 2,
+    "title": "Careers in Chemistry",
+    "description": "Seminar, two hours. Various non-academic speakers give presentations on career paths in areas such as industry, government, research and development, education, law, and health care, and explain skills that are helpful for the respective career. Students are exposed to a variety of industry opportunities and enhance industry networking capabilities through speaker interactions. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM205A"
+  },
+  {
+    "course_code": "APP CHM 205B",
+    "units": 2,
+    "title": "Careers in Chemistry",
+    "description": "Seminar, two hours. Various non-academic speakers give presentations on career paths in areas such as industry, government, research and development, education, law, and health care, and explain skills that are helpful for respective career. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM205B"
+  },
+  {
+    "course_code": "APP CHM C206",
+    "units": 4,
+    "title": "Medicinal Chemistry and Drug Discovery",
+    "description": "(Formerly numbered 206.) Lecture, four hours. Provides students with knowledge of the drug discovery process. The range of topics gives key insight into the development of pharmaceuticals in the modern world, using relevant case-studies to demonstrate real-world applications of fundamentals. Students are required to have an appreciation of the synthetic methods. Concurrently scheduled with course C106. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC206"
+  },
+  {
+    "course_code": "APP CHM C207",
+    "units": 4,
+    "title": "Advanced Functional Materials",
+    "description": "(Formerly numbered 207.) Lecture, four hours. Examination of synthesis of polymeric materials and their characterization, and basics of 3D printing. Students complete a 3D printing project, in which they select a structure of an existing polymerization catalyst and learn basic CAD skills to transform it into a 3D printed object. Includes literature presentations on current scientific articles. Concurrently scheduled with course C107. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC207"
+  },
+  {
+    "course_code": "APP CHM 208A",
+    "units": 8,
+    "title": "Capstone Project",
+    "description": "Tutorial, eight hours. Development of skill set that is directly translatable to various work environments across chemical industry and other chemistry-related jobs outside of academia. Students build critical thinking skills and learn to work in team on applied chemistry projects. Students are advised to collaborate with campus researchers/experts in humanities, social science, and business/policy fields to improve their communication and project management skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM208A"
+  },
+  {
+    "course_code": "APP CHM 208B",
+    "units": 8,
+    "title": "Capstone Project",
+    "description": "Tutorial, eight hours. Development of skill set that is directly translatable to various work environments across chemical industry and other chemistry-related jobs outside of academia. Students build critical thinking skills and learn to work in team on applied chemistry projects. Students are advised to collaborate with campus researchers/experts in humanities, social science, and business/policy fields to improve their communication and project management skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM208B"
+  },
+  {
+    "course_code": "APP CHM 208C",
+    "units": 8,
+    "title": "Capstone Project",
+    "description": "Tutorial, eight hours. Development of skill set that is directly translatable to various work environments across chemical industry and other chemistry-related jobs outside of academia. Students build critical thinking skills and learn to work in team on applied chemistry projects. Students are advised to collaborate with campus researchers/experts in humanities, social science, and business/policy fields to improve their communication and project management skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM208C"
+  },
+  {
+    "course_code": "APP CHM 209",
+    "units": 2,
+    "title": "Modern Topics in Applied Chemical Sciences",
+    "description": "Seminar, two hours. Survey of modern topics in applied chemical sciences that are relevant to research done by Master of Applied Chemical Sciences students as part of their capstone projects. Features presentations on current scientific articles and ongoing research. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM209"
+  },
+  {
+    "course_code": "APP CHM 495",
+    "units": 2,
+    "title": "Teaching Assistant Seminar",
+    "description": "Seminar, two hours; discussion, two hours. Designed for graduate students. First-time teaching assistants (TAs) are given a supportive group environment with the goal of addressing practical and pedagogical aspects of teaching. Students gain resources to become more effective and reflective as teachers. Discussion of challenges and triumphs to enhance current skill sets and develop new tools for future instructional positions. Topics include active learning, peer instruction, and other collaborative or group activities that promote transparency and equity in the classroom. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM495"
+  },
+  {
+    "course_code": "APP CHM 596",
+    "units": 2,
+    "title": "Directed Individual Research",
+    "description": "Tutorial, to be arranged. Directed study or research by supervising faculty member. Research group meetings, seminars, and discussions. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHM596"
+  }
+]

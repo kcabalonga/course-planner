@@ -1054,9 +1054,6 @@
     "units": 1,
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
-    "prerequisites": [
-      "HNRS 101E"
-    ],
     "corequisites": [
       "HNRS 101E"
     ],
