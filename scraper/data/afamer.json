@@ -172,7 +172,7 @@
     ],
     "cross_listed": [
       "HIST M10A",
-      "AF AMER 1800"
+      "History of Africa to 1800"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM10A"
   },
@@ -221,7 +221,7 @@
       "Writing II"
     ],
     "prerequisites": [
-      "AF AMER 3"
+      "ENGCOMP 3"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMER96W"
   },
@@ -289,8 +289,8 @@
     "title": "Early African American Literature",
     "description": "(Same as English M104A.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3 or 3H. Introductory survey of African American literature from 18th century through World War I, including oral and written forms (folktales, spirituals, sermons; fiction, poetry, essays), by authors such as Phillis Wheatley, Frances Harper, Frederick Douglass, Harriet Jacobs, Charles Chesnutt, Booker T. Washington, and Pauline Hopkins. P/NP or letter grading.",
     "prerequisites": [
-      "AF AMER 3",
-      "AF AMER 3H"
+      "ENGCOMP 3",
+      "ENGCOMP 3H"
     ],
     "cross_listed": [
       "ENGL M104A"
@@ -303,12 +303,12 @@
     "title": "African American Literature from Harlem Renaissance to 1960s",
     "description": "(Same as English M104B.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3 or 3H. Introductory survey of 20th-century African American literature from New Negro Movement of post-World War I period to 1960s, including oral materials (ballads, blues, speeches) and fiction, poetry, and essays by authors such as Jean Toomer, Claude McKay, Langston Hughes, Nella Larsen, Zora Neale Hurston, Richard Wright, Ann Petry, James Baldwin, Gwendolyn Brooks, and Ralph Ellison. P/NP or letter grading.",
     "prerequisites": [
-      "AF AMER 3",
-      "AF AMER 3H"
+      "ENGCOMP 3",
+      "ENGCOMP 3H"
     ],
     "cross_listed": [
       "ENGL M104B",
-      "AF AMER 1960"
+      "African American Literature from Harlem Renaissance to 1960"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104B"
   },
@@ -318,13 +318,13 @@
     "title": "African American Literature of 1960s and 1970s",
     "description": "(Same as English M104C.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3 or 3H. Introductory survey of African American literary expression from late 1950s through 1970s. Topics include rise of Black Arts Movement of 1960s and emergence of black women\u2019s writing in early 1970s, with focus on authors such as Lorraine Hansberry, Amiri Baraka, Nikki Giovanni, Alice Walker, Toni Morrison, Ishmael Reed, Audre Lorde, Paule Marshall, and Ernest Gaines. P/NP or letter grading.",
     "prerequisites": [
-      "AF AMER 3",
-      "AF AMER 3H"
+      "ENGCOMP 3",
+      "ENGCOMP 3H"
     ],
     "cross_listed": [
       "ENGL M104C",
-      "AF AMER 1960",
-      "AF AMER 1970"
+      "African American Literature of 1960",
+      "African American Literature of 1970"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM104C"
   },
@@ -334,8 +334,8 @@
     "title": "Contemporary African American Literature",
     "description": "(Same as English M104D.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3 or 3H. Introductory survey of African American literature from 1980s to present covering range of genres, with emphasis on diversity of perspectives and styles that have emerged over past 30 years or so. Authors may include Toni Morrison, August Wilson, Octavia Butler, Anna Deavere Smith, June Jordan, Charles Johnson, and Rita Dove. P/NP or letter grading.",
     "prerequisites": [
-      "AF AMER 3",
-      "AF AMER 3H"
+      "ENGCOMP 3",
+      "ENGCOMP 3H"
     ],
     "cross_listed": [
       "ENGL M104D"
@@ -348,8 +348,8 @@
     "title": "Topics in African American Literature and Culture",
     "description": "(Same as English M104E.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3 or 3H. Variable topics lecture course that provides opportunity to cover African American literature from wide range of theoretical, historical, format, and thematic perspectives. Topics may include African American autobiography, 20th-century African American literature and film, black diaspora literature, postmodern African American fiction, Afro-Futurism, and African American satire. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
     "prerequisites": [
-      "AF AMER 3",
-      "AF AMER 3H"
+      "ENGCOMP 3",
+      "ENGCOMP 3H"
     ],
     "cross_listed": [
       "ENGL M104E"
@@ -444,7 +444,9 @@
     "prerequisites": [
       "AF AMER M107"
     ],
-    "cross_listed": [],
+    "cross_listed": [
+      "ETHNMUS CM120"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM110"
   },
   {
@@ -511,7 +513,9 @@
     "units": 5,
     "title": "Legislative Theater for Race and Gender Justice",
     "description": "(Same as World Arts and Cultures CM113B.) Lecture, three hours; discussion, one hour (when scheduled). Exploration and application of range of interactive methods and arts-based strategies with participants from UCLA and broader Los Angeles community in order to research and influence public policy and legislative change. Students and campus partners create and perform legislative theater addressing issues of race, gender, and criminal justice system. Critical texts, collaborative work, and creative methods are used to engage perspectives on justice. Analysis of diverse and growing body of work on systems of justice through research, writing, workshops, performances, and critiques of own original writings and performances developed in response to visiting scholars and community partners. Concurrently scheduled with course CM213B. P/NP or letter grading.",
-    "cross_listed": [],
+    "cross_listed": [
+      "WL ARTS CM113B"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM113B"
   },
   {
@@ -529,7 +533,9 @@
     "units": 4,
     "title": "Narratives of Justice: Disrupting School-to-Prison Pipeline\u2014Arts, Activism, and Agency",
     "description": "(Formerly numbered CM113.) (Same as Education CM125XP.) Lecture, four hours; discussion, one hour. Exploration of policies and practices, art and activism, and other forms of agency engaging school-to-prison pipeline. Concurrently scheduled with course CM213XP. P/NP or letter grading.",
-    "cross_listed": [],
+    "cross_listed": [
+      "EDUC CM125X"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM113XP"
   },
   {
@@ -662,7 +668,8 @@
       "Diversity - Arts and Architecture"
     ],
     "cross_listed": [
-      "None 1900"
+      "ART HIS CM135A",
+      "African American Art before 1900"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM135A"
   },
@@ -675,8 +682,9 @@
       "Diversity - Arts and Architecture"
     ],
     "cross_listed": [
-      "None 1900",
-      "None 1963"
+      "ART HIS CM135B",
+      "African American Art, 1900",
+      "African American Art, 1963"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM135B"
   },
@@ -823,7 +831,7 @@
     ],
     "cross_listed": [
       "HIST M150E",
-      "AF AMER 20"
+      "African American Nationalism in First Half of 20"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERM158E"
   },
@@ -1046,6 +1054,9 @@
     "units": 1,
     "title": "Individual Studies for USIE Facilitators",
     "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
     "corequisites": [
       "HNRS 101E"
     ],
@@ -1317,7 +1328,9 @@
     "units": 4,
     "title": "Bibliography and Research Methods in Rap Music/Hip-Hop Studies",
     "description": "(Same as Ethnomusicology CM220.) Seminar, three hours. Preparation: ongoing work or preparatory research in rap music/hip-hop studies. Designed for graduate students conducting research on hip-hop in preparation for comprehensive examination preparation, and graduate research projects including master\u2019s thesis and dissertation. In-depth examination of intellectual history of rap music/hip-hop studies scholarship. Examination of readings related to intellectual history of rap music scholarship and allied traditions (including breakdance and graffiti). Exploration of broad range of research methods and archival/library centers specific to hip-hop studies. Concurrently scheduled with course CM110. Letter grading.",
-    "cross_listed": [],
+    "cross_listed": [
+      "ETHNMUS CM220"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM210"
   },
   {
@@ -1333,8 +1346,8 @@
     "title": "Seminar: African American Music",
     "description": "(Same as Ethnomusicology M211.) Seminar, three hours. Requisites: Ethnomusicology M110A, M110B. Designed for graduate students. In-depth examination of intellectual history of African American music scholarship. Intensive investigation of problems, theories, interdisciplinary methods/schools of research, and bibliography related to study of African American music. Letter grading.",
     "prerequisites": [
-      "AF AMER M110A",
-      "AF AMER M110B"
+      "ETHNMUS M110A",
+      "ETHNMUS M110B"
     ],
     "cross_listed": [
       "ETHNMUS M211"
@@ -1346,7 +1359,9 @@
     "units": 5,
     "title": "Legislative Theater for Race and Gender Justice",
     "description": "(Same as World Arts and Cultures CM213B.) Lecture, three hours; discussion, one hour (when scheduled). Exploration and application of range of interactive methods and arts-based strategies with participants from UCLA and broader Los Angeles community in order to research and influence public policy and legislative change. Students and campus partners create and perform legislative theater addressing issues of race, gender, and criminal justice system. Critical texts, collaborative work, and creative methods are used to engage perspectives on justice. Analysis of diverse and growing body of work on systems of justice through research, writing, workshops, performances, and critiques of own original writings and performances developed in response to visiting scholars and community partners. Concurrently scheduled with course CM113B. S/U or letter grading.",
-    "cross_listed": [],
+    "cross_listed": [
+      "WL ARTS CM213B"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM213B"
   },
   {
@@ -1354,7 +1369,9 @@
     "units": 4,
     "title": "Narratives of Justice: Disrupting School-to-Prison Pipeline\u2014Arts, Activism, and Agency",
     "description": "(Formerly numbered CM213.) (Same as Education CM229B.) Lecture, four hours; discussion, one hour. Exploration of policies and practices, art and activism, and other forms of agency engaging school-to-prison pipeline. Concurrently scheduled with course CM113XP. S/U or letter grading.",
-    "cross_listed": [],
+    "cross_listed": [
+      "EDUC CM229B"
+    ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM213XP"
   },
   {
@@ -1363,7 +1380,8 @@
     "title": "African American Art before 1900",
     "description": "(Same as Art History CM235A.) Lecture, three hours. Detailed inquiry into work to circa 1900 of African American artists whose works provide insightful and critical commentary about major features of American life and society. Concurrently scheduled with course CM135A. S/U or letter grading.",
     "cross_listed": [
-      "None 1900"
+      "ART HIS CM235A",
+      "African American Art before 1900"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM235A"
   },
@@ -1373,8 +1391,9 @@
     "title": "African American Art, 1900 to 1963",
     "description": "(Same as Art History CM235B.) Lecture, three hours. Detailed inquiry into work of African American artists from Columbian Exposition to 1963 March on Washington within context of social, political, and cultural engagement, as well as in codification of modern black life in U.S. Concurrently scheduled with course CM135B. S/U or letter grading.",
     "cross_listed": [
-      "None 1900",
-      "None 1963"
+      "ART HIS CM235B",
+      "African American Art, 1900",
+      "African American Art, 1963"
     ],
     "url": "https://catalog.registrar.ucla.edu/course/2024/AFAMERCM235B"
   },

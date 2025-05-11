@@ -27,7 +27,10 @@ SUBJECT_NORMALIZATION = {
     "Classics": "CLASSIC",
     "Archaeology": "ARCHAEOL",
     "Life Sciences": "LIFESCI",
-    "Aerospace Studies": "AERO ST"
+    "Aerospace Studies": "AERO ST",
+    "African American Studies": "AF AMER",
+    "African Studies": "AFRC ST",
+    "American Indian Studies": "AM IND"
 }
 
 def extract_course_links(page):
@@ -126,7 +129,7 @@ def normalize_text(text, course_code=None):
 
     text = re.sub(r"\b[Cc]ourse\s+([A-Z]{0,2}\d+[A-Z]?)", lambda m: f"{fallback_subject} {m.group(1)}", text)
 
-    matches = re.findall(r"([A-Z& ]+)?\s+([A-Z]{0,2})?(\d+[A-Z]?)", text)
+    matches = re.findall(r"([A-Z][A-Za-z,&' ]+)?\s+([A-Z]{0,2})?(\d+[A-Z]?)", text)
     normalized = []
     current_subject = fallback_subject
 
@@ -136,8 +139,9 @@ def normalize_text(text, course_code=None):
         if not subject or subject.lower() == "none":
             continue
 
-        if subject in SUBJECT_NORMALIZATION:
-            subject = SUBJECT_NORMALIZATION[subject]
+        subject_key = subject.strip()
+        if subject_key in SUBJECT_NORMALIZATION:
+            subject = SUBJECT_NORMALIZATION[subject_key]
 
         current_subject = subject
 
@@ -182,7 +186,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["AERO ST"] 
+    departments = ["AFRC ST", "AM IND"] 
 
     os.makedirs("data", exist_ok=True)
 
