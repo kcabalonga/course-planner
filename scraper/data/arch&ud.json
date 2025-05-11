@@ -1,0 +1,545 @@
+[
+  {
+    "course_code": "ARCH&UD 1",
+    "units": "23",
+    "title": "Introduction to Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD1"
+  },
+  {
+    "course_code": "ARCH&UD 10A",
+    "units": "5",
+    "title": "Histories of Architecture and Urbanism I",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD10A"
+  },
+  {
+    "course_code": "ARCH&UD 10B",
+    "units": "5",
+    "title": "Histories of Architecture and Urbanism II",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD10B"
+  },
+  {
+    "course_code": "ARCH&UD 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD19"
+  },
+  {
+    "course_code": "ARCH&UD 30",
+    "units": "5",
+    "title": "Introduction to Architectural Studies",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD30"
+  },
+  {
+    "course_code": "ARCH&UD 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD89"
+  },
+  {
+    "course_code": "ARCH&UD 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD99"
+  },
+  {
+    "course_code": "ARCH&UD 102",
+    "units": "2",
+    "title": "Introduction to Representation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD102"
+  },
+  {
+    "course_code": "ARCH&UD 103",
+    "units": "6",
+    "title": "Introduction to Architectural Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD103"
+  },
+  {
+    "course_code": "ARCH&UD 121",
+    "units": "6",
+    "title": "Studio I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD121"
+  },
+  {
+    "course_code": "ARCH&UD 122",
+    "units": "6",
+    "title": "Studio II",
+    "prerequisites": [
+      "None 121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD122"
+  },
+  {
+    "course_code": "ARCH&UD 123",
+    "units": "6",
+    "title": "Studio III",
+    "prerequisites": [
+      "None 121",
+      "None 122"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD123"
+  },
+  {
+    "course_code": "ARCH&UD M125B",
+    "units": "4",
+    "title": "Digital Cultural Mapping Core Course B: Google Earth, Geographic Information Systems, Hypercities, and Timelines",
+    "prerequisites": [
+      "None 125A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM125B"
+  },
+  {
+    "course_code": "ARCH&UD M125C",
+    "units": "4",
+    "title": "Digital Cultural Mapping Core Course C: Summer Research",
+    "prerequisites": [
+      "None 125B",
+      "None 125B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM125C"
+  },
+  {
+    "course_code": "ARCH&UD 131",
+    "units": "5",
+    "title": "Issues in Contemporary Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD131"
+  },
+  {
+    "course_code": "ARCH&UD 132",
+    "units": "5",
+    "title": "Histories of Housing and Domesticity: 19th Century to the Present",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD132"
+  },
+  {
+    "course_code": "ARCH&UD 133",
+    "units": "5",
+    "title": "Spatial Justice and the City",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD133"
+  },
+  {
+    "course_code": "ARCH&UD 141",
+    "units": "5",
+    "title": "Technology I: Projections",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD141"
+  },
+  {
+    "course_code": "ARCH&UD 142",
+    "units": "5",
+    "title": "Technology II: Building Materials and Methods",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD142"
+  },
+  {
+    "course_code": "ARCH&UD 143",
+    "units": "5",
+    "title": "Technology III: Digital Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD143"
+  },
+  {
+    "course_code": "ARCH&UD CM153",
+    "units": "4",
+    "title": "Introduction to Sustainable Architecture and Community Planning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDCM153"
+  },
+  {
+    "course_code": "ARCH&UD C188CS",
+    "units": "4",
+    "title": "Special Topics in Architecture and Urban Design\u2014Critical Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDC188CS"
+  },
+  {
+    "course_code": "ARCH&UD 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "None 101E"
+    ],
+    "corequisites": [
+      "None 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD188SA"
+  },
+  {
+    "course_code": "ARCH&UD 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "None 188S"
+    ],
+    "corequisites": [
+      "None 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD188SB"
+  },
+  {
+    "course_code": "ARCH&UD 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "None 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD188SC"
+  },
+  {
+    "course_code": "ARCH&UD C188T",
+    "units": "4",
+    "title": "Special Topics in Architecture and Urban Design\u2014Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDC188T"
+  },
+  {
+    "course_code": "ARCH&UD 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD189"
+  },
+  {
+    "course_code": "ARCH&UD 191",
+    "units": "4",
+    "title": "Interventions: Urban Humanities in Action (Capstone Studio)",
+    "prerequisites": [
+      "None 30",
+      "None 151"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD191"
+  },
+  {
+    "course_code": "ARCH&UD 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Architecture and Urban Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD199"
+  },
+  {
+    "course_code": "ARCH&UD M201",
+    "units": "4",
+    "title": "Theories of Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM201"
+  },
+  {
+    "course_code": "ARCH&UD 220",
+    "units": "2",
+    "title": "Introduction to Computers",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD220"
+  },
+  {
+    "course_code": "ARCH&UD 221",
+    "units": "2",
+    "title": "Architectural Mediation I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD221"
+  },
+  {
+    "course_code": "ARCH&UD 222",
+    "units": "2",
+    "title": "Architectural Mediation II",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD222"
+  },
+  {
+    "course_code": "ARCH&UD 223",
+    "units": "2",
+    "title": "Architectural Mediation III",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD223"
+  },
+  {
+    "course_code": "ARCH&UD 226C",
+    "units": "4",
+    "title": "Computer Visualization",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD226C"
+  },
+  {
+    "course_code": "ARCH&UD 227D",
+    "units": "4",
+    "title": "Design and Building Models",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD227D"
+  },
+  {
+    "course_code": "ARCH&UD CM247A",
+    "units": "4",
+    "title": "Introduction to Sustainable Architecture and Community Planning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDCM247A"
+  },
+  {
+    "course_code": "ARCH&UD M271",
+    "units": "4",
+    "title": "Elements of Urban Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM271"
+  },
+  {
+    "course_code": "ARCH&UD M272",
+    "units": "4",
+    "title": "Introduction to Market-Rate Real Estate Development and Finance",
+    "prerequisites": [
+      "None 220A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM272"
+  },
+  {
+    "course_code": "ARCH&UD 286",
+    "units": "4",
+    "title": "Roman Architecture and Urbanism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD286"
+  },
+  {
+    "course_code": "ARCH&UD 288",
+    "units": "4",
+    "title": "Renaissance Architecture and Urbanism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD288"
+  },
+  {
+    "course_code": "ARCH&UD 289",
+    "units": "24",
+    "title": "Special Topics in Architecture and Urban Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD289"
+  },
+  {
+    "course_code": "ARCH&UD C289CS",
+    "units": "4",
+    "title": "Special Topics in Architecture and Urban Design\u2014Critical Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDC289CS"
+  },
+  {
+    "course_code": "ARCH&UD C289T",
+    "units": "4",
+    "title": "Special Topics in Architecture and Urban Design\u2014Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDC289T"
+  },
+  {
+    "course_code": "ARCH&UD 290",
+    "units": "5",
+    "title": "Special Topics in Critical Studies in Architectural Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD290"
+  },
+  {
+    "course_code": "ARCH&UD 291",
+    "units": "4",
+    "title": "Theory of Architectural Programming",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD291"
+  },
+  {
+    "course_code": "ARCH&UD M293",
+    "units": "4",
+    "title": "Politics, Ideology, and Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM293"
+  },
+  {
+    "course_code": "ARCH&UD 294A",
+    "units": "4",
+    "title": "Environmental Psychology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD294A"
+  },
+  {
+    "course_code": "ARCH&UD 294B",
+    "units": "4",
+    "title": "Environmental Psychology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD294B"
+  },
+  {
+    "course_code": "ARCH&UD M295",
+    "units": "4",
+    "title": "Introduction to Urban Humanities",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM295"
+  },
+  {
+    "course_code": "ARCH&UD 296",
+    "units": "4",
+    "title": "Proseminar: Critical Studies in Architectural Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD296"
+  },
+  {
+    "course_code": "ARCH&UD 401",
+    "units": "6",
+    "title": "Advanced Topics Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD401"
+  },
+  {
+    "course_code": "ARCH&UD 402",
+    "units": "6",
+    "title": "Final Advanced Topics Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD402"
+  },
+  {
+    "course_code": "ARCH&UD 403A",
+    "units": "2",
+    "title": "Research Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD403A"
+  },
+  {
+    "course_code": "ARCH&UD 403B",
+    "units": "2",
+    "title": "Research Studio",
+    "prerequisites": [
+      "None 403A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD403B"
+  },
+  {
+    "course_code": "ARCH&UD 403C",
+    "units": "6",
+    "title": "Research Studio",
+    "prerequisites": [
+      "None 403B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD403C"
+  },
+  {
+    "course_code": "ARCH&UD M404",
+    "units": "4",
+    "title": "Joint Planning/Architecture Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUDM404"
+  },
+  {
+    "course_code": "ARCH&UD 411",
+    "units": "6",
+    "title": "Introductory Design Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD411"
+  },
+  {
+    "course_code": "ARCH&UD 412",
+    "units": "6",
+    "title": "Building Design Studio",
+    "prerequisites": [
+      "None 411"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD412"
+  },
+  {
+    "course_code": "ARCH&UD 413",
+    "units": "6",
+    "title": "Building Design with Landscape Studio",
+    "prerequisites": [
+      "None 412"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD413"
+  },
+  {
+    "course_code": "ARCH&UD 414",
+    "units": "6",
+    "title": "Major Building Design Studio",
+    "prerequisites": [
+      "None 413"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD414"
+  },
+  {
+    "course_code": "ARCH&UD 415",
+    "units": "6",
+    "title": "Comprehensive Studio",
+    "prerequisites": [
+      "None 414"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD415"
+  },
+  {
+    "course_code": "ARCH&UD 431",
+    "units": "4",
+    "title": "Structures I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD431"
+  },
+  {
+    "course_code": "ARCH&UD 432",
+    "units": "4",
+    "title": "Structures II",
+    "prerequisites": [
+      "None 431"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD432"
+  },
+  {
+    "course_code": "ARCH&UD 433",
+    "units": "4",
+    "title": "Structures III",
+    "prerequisites": [
+      "None 432"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD433"
+  },
+  {
+    "course_code": "ARCH&UD 436",
+    "units": "2",
+    "title": "Introduction to Building Construction",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD436"
+  },
+  {
+    "course_code": "ARCH&UD 437",
+    "units": "4",
+    "title": "Building Construction",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD437"
+  },
+  {
+    "course_code": "ARCH&UD 441",
+    "units": "4",
+    "title": "Environmental Control Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD441"
+  },
+  {
+    "course_code": "ARCH&UD 442",
+    "units": "4",
+    "title": "Building Climatology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD442"
+  },
+  {
+    "course_code": "ARCH&UD 461",
+    "units": "4",
+    "title": "Architectural Practice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD461"
+  },
+  {
+    "course_code": "ARCH&UD 495",
+    "units": "2",
+    "title": "Teaching Architectural History, Theory, and Criticism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD495"
+  },
+  {
+    "course_code": "ARCH&UD 496",
+    "units": "28",
+    "title": "Special Projects in Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD496"
+  },
+  {
+    "course_code": "ARCH&UD 497",
+    "units": "28",
+    "title": "Special Projects in Urban Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD497"
+  },
+  {
+    "course_code": "ARCH&UD 498",
+    "units": "4",
+    "title": "Comprehensive Examination Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD498"
+  },
+  {
+    "course_code": "ARCH&UD 501",
+    "units": "28",
+    "title": "Cooperative Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD501"
+  },
+  {
+    "course_code": "ARCH&UD 596",
+    "units": "28",
+    "title": "Directed Individual Research and Study in Architecture and Urban Design",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD596"
+  },
+  {
+    "course_code": "ARCH&UD 597",
+    "units": "28",
+    "title": "Preparation for Comprehensive Examination or PhD Qualifying Examinations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD597"
+  },
+  {
+    "course_code": "ARCH&UD 598",
+    "units": "28",
+    "title": "Preparation in Architecture/Urban Design for Master's Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD598"
+  },
+  {
+    "course_code": "ARCH&UD 599",
+    "units": "28",
+    "title": "PhD Dissertation Research in Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARCHUD599"
+  }
+]

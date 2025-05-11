@@ -1,0 +1,671 @@
+[
+  {
+    "course_code": "ART 1A",
+    "units": "4",
+    "title": "Drawing",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART1A"
+  },
+  {
+    "course_code": "ART 1B",
+    "units": "4",
+    "title": "Sculpture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART1B"
+  },
+  {
+    "course_code": "ART 11A",
+    "units": "4",
+    "title": "Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART11A"
+  },
+  {
+    "course_code": "ART 11B",
+    "units": "4",
+    "title": "Photography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART11B"
+  },
+  {
+    "course_code": "ART 11C",
+    "units": "4",
+    "title": "Printmaking",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART11C"
+  },
+  {
+    "course_code": "ART 11D",
+    "units": "4",
+    "title": "New Genres",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART11D"
+  },
+  {
+    "course_code": "ART 11E",
+    "units": "4",
+    "title": "Ceramics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART11E"
+  },
+  {
+    "course_code": "ART 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART19"
+  },
+  {
+    "course_code": "ART 20",
+    "units": "2",
+    "title": "Production",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART20"
+  },
+  {
+    "course_code": "ART 21A",
+    "units": "2",
+    "title": "Production: Photographic Print",
+    "prerequisites": [
+      "ART 11B"
+    ],
+    "credit_exclusions": [
+      "ART 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART21A"
+  },
+  {
+    "course_code": "ART 21B",
+    "units": "2",
+    "title": "Production: Moving Image and Sound",
+    "credit_exclusions": [
+      "ART 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART21B"
+  },
+  {
+    "course_code": "ART 31A",
+    "units": "5",
+    "title": "Rise of Modernism in Global Context",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART31A"
+  },
+  {
+    "course_code": "ART 31B",
+    "units": "5",
+    "title": "Global Modernism",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART31B"
+  },
+  {
+    "course_code": "ART 31C",
+    "units": "5",
+    "title": "Modernism and Its Discontents",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART31C"
+  },
+  {
+    "course_code": "ART 70",
+    "units": "3",
+    "title": "Summer Art Institute: Special Topics in Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART70"
+  },
+  {
+    "course_code": "ART 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART89"
+  },
+  {
+    "course_code": "ART 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART99"
+  },
+  {
+    "course_code": "ART 100",
+    "units": "5",
+    "title": "Issues in Contemporary Art",
+    "prerequisites": [
+      "ART 31A",
+      "ART 31B",
+      "ART 31C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART100"
+  },
+  {
+    "course_code": "ART 130",
+    "units": "5",
+    "title": "Advanced Drawing",
+    "prerequisites": [
+      "ART 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART130"
+  },
+  {
+    "course_code": "ART 130A",
+    "units": "5",
+    "title": "Advanced Drawing: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART130A"
+  },
+  {
+    "course_code": "ART 132",
+    "units": "5",
+    "title": "Survey of Critical Thought",
+    "prerequisites": [
+      "ART 31A",
+      "ART 31B",
+      "ART 31C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART132"
+  },
+  {
+    "course_code": "ART 133",
+    "units": "5",
+    "title": "Advanced Painting",
+    "prerequisites": [
+      "ART 11A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART133"
+  },
+  {
+    "course_code": "ART 133A",
+    "units": "5",
+    "title": "Advanced Painting: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 11A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART133A"
+  },
+  {
+    "course_code": "ART 137",
+    "units": "5",
+    "title": "Advanced New Genres",
+    "prerequisites": [
+      "ART 11D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART137"
+  },
+  {
+    "course_code": "ART 137A",
+    "units": "5",
+    "title": "Advanced New Genre: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 11D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART137A"
+  },
+  {
+    "course_code": "ART 140",
+    "units": "5",
+    "title": "Advanced Printmaking",
+    "prerequisites": [
+      "ART 11C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART140"
+  },
+  {
+    "course_code": "ART 145",
+    "units": "5",
+    "title": "Advanced Sculpture",
+    "prerequisites": [
+      "ART 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART145"
+  },
+  {
+    "course_code": "ART 145A",
+    "units": "5",
+    "title": "Advanced Sculpture: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART145A"
+  },
+  {
+    "course_code": "ART 147",
+    "units": "5",
+    "title": "Advanced Photography",
+    "prerequisites": [
+      "ART 11B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART147"
+  },
+  {
+    "course_code": "ART 147A",
+    "units": "5",
+    "title": "Advanced Photography: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 11B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART147A"
+  },
+  {
+    "course_code": "ART 148",
+    "units": "5",
+    "title": "Advanced Ceramics",
+    "prerequisites": [
+      "ART 11E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART148"
+  },
+  {
+    "course_code": "ART 148A",
+    "units": "5",
+    "title": "Advanced Ceramics: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 11E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART148A"
+  },
+  {
+    "course_code": "ART 149",
+    "units": "5",
+    "title": "Advanced Interdisciplinary Studio",
+    "prerequisites": [
+      "ART 31A",
+      "ART 31B",
+      "ART 31C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART149"
+  },
+  {
+    "course_code": "ART 149A",
+    "units": "5",
+    "title": "Advanced Interdisciplinary Studio: Topics in Anti-Racism, Equity, Diversity, and Inclusion",
+    "prerequisites": [
+      "ART 31A",
+      "ART 31B",
+      "ART 31C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART149A"
+  },
+  {
+    "course_code": "ART 150",
+    "units": "5",
+    "title": "Senior Capstone",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART150"
+  },
+  {
+    "course_code": "ART 170",
+    "units": "24",
+    "title": "Special Topics in Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART170"
+  },
+  {
+    "course_code": "ART C180",
+    "units": "4",
+    "title": "Seminar: Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC180"
+  },
+  {
+    "course_code": "ART C181",
+    "units": "4",
+    "title": "Exhibition and System",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC181"
+  },
+  {
+    "course_code": "ART C182",
+    "units": "4",
+    "title": "Exhibitions and Public Programs",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC182"
+  },
+  {
+    "course_code": "ART C183",
+    "units": "24",
+    "title": "Special Topics in Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC183"
+  },
+  {
+    "course_code": "ART M184",
+    "units": "4",
+    "title": "Chicana Art and Artists",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM184"
+  },
+  {
+    "course_code": "ART M185",
+    "units": "4",
+    "title": "Whose Monument Where: Course on Public Art",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "None 186A",
+      "None 186B",
+      "None 186C"
+    ],
+    "corequisites": [
+      "None 186A",
+      "None 186B",
+      "None 186C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM185"
+  },
+  {
+    "course_code": "ART M186A",
+    "units": "4",
+    "title": "Beyond Mexican Mural: Beginning Muralism and Community Development",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "None 186A"
+    ],
+    "corequisites": [
+      "None 186A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186A"
+  },
+  {
+    "course_code": "ART M186AL",
+    "units": "4",
+    "title": "Beyond Mexican Mural: Beginning Muralism and Community Laboratory",
+    "prerequisites": [
+      "None 186A"
+    ],
+    "corequisites": [
+      "None 186A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186AL"
+  },
+  {
+    "course_code": "ART M186B",
+    "units": "4",
+    "title": "Beyond Mexican Mural: Intermediate Muralism and Community Development",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "None 186A",
+      "None 186A"
+    ],
+    "corequisites": [
+      "None 186B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186B"
+  },
+  {
+    "course_code": "ART M186BL",
+    "units": "4",
+    "title": "Beyond Mexican Mural: Intermediate Muralism and Community Laboratory",
+    "prerequisites": [
+      "None 186A",
+      "None 186A"
+    ],
+    "corequisites": [
+      "None 186B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186BL"
+  },
+  {
+    "course_code": "ART M186C",
+    "units": "4",
+    "title": "Beyond Mexican Mural: Advanced Muralism and Community Development",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "None 186B",
+      "None 186B"
+    ],
+    "corequisites": [
+      "None 186C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186C"
+  },
+  {
+    "course_code": "ART M186CL",
+    "units": "2",
+    "title": "Beyond Mexican Mural: Advanced Muralism and Community Laboratory",
+    "prerequisites": [
+      "None 186B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTM186CL"
+  },
+  {
+    "course_code": "ART C187",
+    "units": "2",
+    "title": "Contemporary Art Collections in Los Angeles",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC187"
+  },
+  {
+    "course_code": "ART 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART 101E"
+    ],
+    "corequisites": [
+      "ART 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART188SA"
+  },
+  {
+    "course_code": "ART 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART 188S"
+    ],
+    "corequisites": [
+      "ART 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART188SB"
+  },
+  {
+    "course_code": "ART 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART188SC"
+  },
+  {
+    "course_code": "ART 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART189"
+  },
+  {
+    "course_code": "ART 190",
+    "units": "1",
+    "title": "Studio/Research Colloquia in Art",
+    "prerequisites": [
+      "ART 197",
+      "ART 198"
+    ],
+    "corequisites": [
+      "ART 197",
+      "ART 198"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART190"
+  },
+  {
+    "course_code": "ART 193",
+    "units": "1",
+    "title": "Journal Club Seminars: Current Topics in Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART193"
+  },
+  {
+    "course_code": "ART 195",
+    "units": "24",
+    "title": "Community Internships in Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART195"
+  },
+  {
+    "course_code": "ART 197",
+    "units": "24",
+    "title": "Individual Studies in Art",
+    "prerequisites": [
+      "ART 190"
+    ],
+    "corequisites": [
+      "ART 190"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART197"
+  },
+  {
+    "course_code": "ART 198",
+    "units": "24",
+    "title": "Honors Research in Art",
+    "prerequisites": [
+      "ART 190"
+    ],
+    "corequisites": [
+      "ART 190"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART198"
+  },
+  {
+    "course_code": "ART 201",
+    "units": "4",
+    "title": "Contemporary Histories of Art and Cultural Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART201"
+  },
+  {
+    "course_code": "ART 271",
+    "units": "28",
+    "title": "Graduate Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART271"
+  },
+  {
+    "course_code": "ART 272",
+    "units": "28",
+    "title": "Graduate Printmaking",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART272"
+  },
+  {
+    "course_code": "ART 273",
+    "units": "28",
+    "title": "Graduate Sculpture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART273"
+  },
+  {
+    "course_code": "ART 274",
+    "units": "28",
+    "title": "Graduate Photography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART274"
+  },
+  {
+    "course_code": "ART 275",
+    "units": "28",
+    "title": "Graduate New Genres",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART275"
+  },
+  {
+    "course_code": "ART 276",
+    "units": "4",
+    "title": "Graduate Group Critique",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART276"
+  },
+  {
+    "course_code": "ART 277",
+    "units": "28",
+    "title": "Graduate Ceramics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART277"
+  },
+  {
+    "course_code": "ART 278",
+    "units": "28",
+    "title": "Interdisciplinary Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART278"
+  },
+  {
+    "course_code": "ART 279",
+    "units": "28",
+    "title": "Open Area Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART279"
+  },
+  {
+    "course_code": "ART C280",
+    "units": "4",
+    "title": "Seminar: Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC280"
+  },
+  {
+    "course_code": "ART C281",
+    "units": "4",
+    "title": "Exhibition and System",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC281"
+  },
+  {
+    "course_code": "ART C282",
+    "units": "4",
+    "title": "Exhibitions and Public Programs",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC282"
+  },
+  {
+    "course_code": "ART C283",
+    "units": "24",
+    "title": "Special Topics in Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC283"
+  },
+  {
+    "course_code": "ART 284",
+    "units": "24",
+    "title": "Special Topics Technical Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART284"
+  },
+  {
+    "course_code": "ART C287",
+    "units": "2",
+    "title": "Contemporary Art Collections in Los Angeles",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTC287"
+  },
+  {
+    "course_code": "ART 400A",
+    "units": "2",
+    "title": "Visiting Artists Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART400A"
+  },
+  {
+    "course_code": "ART 400B",
+    "units": "2",
+    "title": "Visiting Artists Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART400B"
+  },
+  {
+    "course_code": "ART 400C",
+    "units": "4",
+    "title": "Visiting Artists Studio",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART400C"
+  },
+  {
+    "course_code": "ART 401",
+    "units": "2",
+    "title": "MFA Working Groups",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART401"
+  },
+  {
+    "course_code": "ART 495",
+    "units": "2",
+    "title": "Teaching Assistant Training Practicum",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART495"
+  },
+  {
+    "course_code": "ART 501",
+    "units": "28",
+    "title": "Cooperative Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART501"
+  },
+  {
+    "course_code": "ART 596",
+    "units": "28",
+    "title": "Directed Individual Study or Research",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART596"
+  },
+  {
+    "course_code": "ART 597",
+    "units": "212",
+    "title": "Preparation for Master's Comprehensive Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ART597"
+  }
+]

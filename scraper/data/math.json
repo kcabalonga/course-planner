@@ -1,0 +1,2853 @@
+[
+  {
+    "course_code": "MATH 1",
+    "units": "4",
+    "title": "Precalculus",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH1"
+  },
+  {
+    "course_code": "MATH 3A",
+    "units": "4",
+    "title": "Calculus for Life Sciences Students",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "prerequisites": [
+      "MATH 48",
+      "MATH 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH3A"
+  },
+  {
+    "course_code": "MATH 3B",
+    "units": "4",
+    "title": "Calculus for Life Sciences Students",
+    "prerequisites": [
+      "MATH 3A"
+    ],
+    "credit_exclusions": [
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH3B"
+  },
+  {
+    "course_code": "MATH 3C",
+    "units": "4",
+    "title": "Ordinary Differential Equations with Linear Algebra for Life Sciences Students",
+    "prerequisites": [
+      "MATH 3B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH3C"
+  },
+  {
+    "course_code": "MATH 11N",
+    "units": "4",
+    "title": "Gateway to Mathematics: Number Theory",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH11N"
+  },
+  {
+    "course_code": "MATH 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH19"
+  },
+  {
+    "course_code": "MATH 31A",
+    "units": "4",
+    "title": "Differential and Integral Calculus",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "prerequisites": [
+      "MATH 1"
+    ],
+    "equivalent_courses": [
+      "MATH 31A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH31A"
+  },
+  {
+    "course_code": "MATH 31AL",
+    "units": "5",
+    "title": "Differential and Integral Calculus Laboratory",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "prerequisites": [
+      "MATH 1"
+    ],
+    "equivalent_courses": [
+      "MATH 31A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH31AL"
+  },
+  {
+    "course_code": "MATH 31B",
+    "units": "4",
+    "title": "Integration and Infinite Series",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "credit_exclusions": [
+      "MATH 3B"
+    ],
+    "equivalent_courses": [
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH31B"
+  },
+  {
+    "course_code": "MATH 31BH",
+    "units": "4",
+    "title": "Integration and Infinite Series (Honors)",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "equivalent_courses": [
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH31BH"
+  },
+  {
+    "course_code": "MATH 31E",
+    "units": "4",
+    "title": "Calculus for Economics Students",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "credit_exclusions": [
+      "MATH 3B",
+      "MATH 31B",
+      "MATH 3C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH31E"
+  },
+  {
+    "course_code": "MATH 32A",
+    "units": "4",
+    "title": "Calculus of Several Variables",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "equivalent_courses": [
+      "MATH 32A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH32A"
+  },
+  {
+    "course_code": "MATH 32AH",
+    "units": "4",
+    "title": "Calculus of Several Variables (Honors)",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "equivalent_courses": [
+      "MATH 32A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH32AH"
+  },
+  {
+    "course_code": "MATH 32B",
+    "units": "4",
+    "title": "Calculus of Several Variables",
+    "prerequisites": [
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH32B"
+  },
+  {
+    "course_code": "MATH 32BH",
+    "units": "4",
+    "title": "Calculus of Several Variables (Honors)",
+    "prerequisites": [
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH32BH"
+  },
+  {
+    "course_code": "MATH M32T",
+    "units": "4",
+    "title": "Essential Calculus for Mathematical Biologists",
+    "prerequisites": [
+      "None 30A",
+      "None 30B"
+    ],
+    "credit_exclusions": [
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM32T"
+  },
+  {
+    "course_code": "MATH 33A",
+    "units": "4",
+    "title": "Linear Algebra and Applications",
+    "prerequisites": [
+      "MATH 3B",
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH33A"
+  },
+  {
+    "course_code": "MATH 33AH",
+    "units": "4",
+    "title": "Linear Algebra and Applications (Honors)",
+    "prerequisites": [
+      "MATH 3B",
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH33AH"
+  },
+  {
+    "course_code": "MATH 33B",
+    "units": "4",
+    "title": "Differential Equations",
+    "prerequisites": [
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH33B"
+  },
+  {
+    "course_code": "MATH 42",
+    "units": "4",
+    "title": "Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 10",
+      "MATH 12",
+      "MATH 13",
+      "MATH 31",
+      "MATH 10A",
+      "MATH 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH42"
+  },
+  {
+    "course_code": "MATH 61",
+    "units": "4",
+    "title": "Introduction to Discrete Structures",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "credit_exclusions": [
+      "MATH 184",
+      "MATH 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH61"
+  },
+  {
+    "course_code": "MATH 70",
+    "units": "4",
+    "title": "Introduction to Probability",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH70"
+  },
+  {
+    "course_code": "MATH 73XP",
+    "units": "3",
+    "title": "Key Issues in K-12 Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH73XP"
+  },
+  {
+    "course_code": "MATH 74XP",
+    "units": "3",
+    "title": "Mathematics and Pedagogy for Teaching Elementary Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH74XP"
+  },
+  {
+    "course_code": "MATH 75XP",
+    "units": "3",
+    "title": "Mathematics and Pedagogy for Teaching Middle School Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH75XP"
+  },
+  {
+    "course_code": "MATH 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH89"
+  },
+  {
+    "course_code": "MATH 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH89HC"
+  },
+  {
+    "course_code": "MATH 94",
+    "units": "6",
+    "title": "Mathematical Outreach: Explorations of Mathematics in the Physical World",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH94"
+  },
+  {
+    "course_code": "MATH 95",
+    "units": "4",
+    "title": "Transition to Upper-Division Mathematics",
+    "prerequisites": [
+      "MATH 32A",
+      "MATH 32B"
+    ],
+    "credit_exclusions": [
+      "MATH 131A",
+      "MATH 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH95"
+  },
+  {
+    "course_code": "MATH 97",
+    "units": "4",
+    "title": "Variable Topics in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH97"
+  },
+  {
+    "course_code": "MATH 98XA",
+    "units": "1",
+    "title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH98XA"
+  },
+  {
+    "course_code": "MATH 98XB",
+    "units": "1",
+    "title": "PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH98XB"
+  },
+  {
+    "course_code": "MATH 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH99"
+  },
+  {
+    "course_code": "MATH 100",
+    "units": "4",
+    "title": "Problem Solving",
+    "prerequisites": [
+      "MATH 31A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH100"
+  },
+  {
+    "course_code": "MATH 101",
+    "units": "4",
+    "title": "Advanced Problem Solving",
+    "prerequisites": [
+      "MATH 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH101"
+  },
+  {
+    "course_code": "MATH 103A",
+    "units": "2",
+    "title": "Mathematics and Pedagogy for Teaching Middle School Mathematics",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH103A"
+  },
+  {
+    "course_code": "MATH 103B",
+    "units": "2",
+    "title": "Observation and Participation: Mathematics Instruction",
+    "prerequisites": [
+      "MATH 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH103B"
+  },
+  {
+    "course_code": "MATH 103C",
+    "units": "2",
+    "title": "Observation and Participation: Mathematics Instruction",
+    "prerequisites": [
+      "MATH 103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH103C"
+  },
+  {
+    "course_code": "MATH 105A",
+    "units": "4",
+    "title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 117",
+      "MATH 120A",
+      "MATH 123",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH105A"
+  },
+  {
+    "course_code": "MATH 105B",
+    "units": "4",
+    "title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+    "prerequisites": [
+      "MATH 105A",
+      "MATH 110A",
+      "MATH 117",
+      "MATH 120A",
+      "MATH 123",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH105B"
+  },
+  {
+    "course_code": "MATH 105C",
+    "units": "4",
+    "title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+    "prerequisites": [
+      "MATH 105A",
+      "MATH 105B",
+      "MATH 110A",
+      "MATH 117",
+      "MATH 120A",
+      "MATH 123",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH105C"
+  },
+  {
+    "course_code": "MATH 106",
+    "units": "4",
+    "title": "History of Mathematics",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH106"
+  },
+  {
+    "course_code": "MATH 110A",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "credit_exclusions": [
+      "MATH 117"
+    ],
+    "equivalent_courses": [
+      "MATH 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH110A"
+  },
+  {
+    "course_code": "MATH 110AH",
+    "units": "4",
+    "title": "Algebra (Honors)",
+    "equivalent_courses": [
+      "MATH 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH110AH"
+  },
+  {
+    "course_code": "MATH 110B",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 117"
+    ],
+    "equivalent_courses": [
+      "MATH 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH110B"
+  },
+  {
+    "course_code": "MATH 110BH",
+    "units": "4",
+    "title": "Algebra (Honors)",
+    "equivalent_courses": [
+      "MATH 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH110BH"
+  },
+  {
+    "course_code": "MATH 110C",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH110C"
+  },
+  {
+    "course_code": "MATH 111",
+    "units": "4",
+    "title": "Theory of Numbers",
+    "prerequisites": [
+      "MATH 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH111"
+  },
+  {
+    "course_code": "MATH 114C",
+    "units": "4",
+    "title": "Computability Theory",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 131A",
+      "MATH 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH114C"
+  },
+  {
+    "course_code": "MATH 114L",
+    "units": "4",
+    "title": "Mathematical Logic",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 131A",
+      "MATH 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH114L"
+  },
+  {
+    "course_code": "MATH M114S",
+    "units": "4",
+    "title": "Introduction to Set Theory",
+    "prerequisites": [
+      "None 110A",
+      "None 131A",
+      "None 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM114S"
+  },
+  {
+    "course_code": "MATH 115A",
+    "units": "5",
+    "title": "Linear Algebra",
+    "prerequisites": [
+      "MATH 33A"
+    ],
+    "equivalent_courses": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH115A"
+  },
+  {
+    "course_code": "MATH 115AH",
+    "units": "5",
+    "title": "Linear Algebra (Honors)",
+    "prerequisites": [
+      "MATH 33A"
+    ],
+    "equivalent_courses": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH115AH"
+  },
+  {
+    "course_code": "MATH 115B",
+    "units": "4",
+    "title": "Linear Algebra",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH115B"
+  },
+  {
+    "course_code": "MATH 116",
+    "units": "4",
+    "title": "Mathematical Cryptology",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "equivalent_courses": [
+      "COMPTNG 130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH116"
+  },
+  {
+    "course_code": "MATH 117",
+    "units": "4",
+    "title": "Algebra for Applications",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "credit_exclusions": [
+      "MATH 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH117"
+  },
+  {
+    "course_code": "MATH 118",
+    "units": "4",
+    "title": "Mathematical Methods of Data Theory",
+    "prerequisites": [
+      "MATH 42",
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH118"
+  },
+  {
+    "course_code": "MATH 120A",
+    "units": "4",
+    "title": "Differential Geometry",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH120A"
+  },
+  {
+    "course_code": "MATH 120B",
+    "units": "4",
+    "title": "Differential Geometry",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 120A",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH120B"
+  },
+  {
+    "course_code": "MATH 121",
+    "units": "4",
+    "title": "Introduction to Topology",
+    "prerequisites": [
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH121"
+  },
+  {
+    "course_code": "MATH 123",
+    "units": "4",
+    "title": "Foundations of Geometry",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH123"
+  },
+  {
+    "course_code": "MATH 131A",
+    "units": "4",
+    "title": "Analysis",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "equivalent_courses": [
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH131A"
+  },
+  {
+    "course_code": "MATH 131AH",
+    "units": "4",
+    "title": "Analysis (Honors)",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "equivalent_courses": [
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH131AH"
+  },
+  {
+    "course_code": "MATH 131B",
+    "units": "4",
+    "title": "Analysis",
+    "prerequisites": [
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 131A"
+    ],
+    "equivalent_courses": [
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH131B"
+  },
+  {
+    "course_code": "MATH 131BH",
+    "units": "4",
+    "title": "Analysis (Honors)",
+    "equivalent_courses": [
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH131BH"
+  },
+  {
+    "course_code": "MATH 131C",
+    "units": "4",
+    "title": "Topics in Analysis",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH131C"
+  },
+  {
+    "course_code": "MATH 132",
+    "units": "4",
+    "title": "Complex Analysis for Applications",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH132"
+  },
+  {
+    "course_code": "MATH 132H",
+    "units": "4",
+    "title": "Complex Analysis (Honors)",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH132H"
+  },
+  {
+    "course_code": "MATH 133",
+    "units": "4",
+    "title": "Introduction to Fourier Analysis",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 33B",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH133"
+  },
+  {
+    "course_code": "MATH 134",
+    "units": "4",
+    "title": "Linear and Nonlinear Systems of Differential Equations",
+    "prerequisites": [
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH134"
+  },
+  {
+    "course_code": "MATH 135",
+    "units": "4",
+    "title": "Ordinary Differential Equations",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH135"
+  },
+  {
+    "course_code": "MATH 136",
+    "units": "4",
+    "title": "Partial Differential Equations",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH136"
+  },
+  {
+    "course_code": "MATH 142",
+    "units": "4",
+    "title": "Mathematical Modeling",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH142"
+  },
+  {
+    "course_code": "MATH 146",
+    "units": "4",
+    "title": "Methods of Applied Mathematics",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH146"
+  },
+  {
+    "course_code": "MATH M148",
+    "units": "4",
+    "title": "Experience of Data Science",
+    "prerequisites": [
+      "None 118",
+      "None 131A",
+      "None 156",
+      "None 101C",
+      "None 170S",
+      "None 100B",
+      "None 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM148"
+  },
+  {
+    "course_code": "MATH 151A",
+    "units": "4",
+    "title": "Applied Numerical Methods",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 10A",
+      "MATH 31"
+    ],
+    "equivalent_courses": [
+      "MATH 151A",
+      "MATH 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH151A"
+  },
+  {
+    "course_code": "MATH 151AH",
+    "units": "4",
+    "title": "Numerical Analysis Part 1 (Honors)",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 131A",
+      "MATH 31",
+      "MATH 10A"
+    ],
+    "equivalent_courses": [
+      "MATH 151A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH151AH"
+  },
+  {
+    "course_code": "MATH 151B",
+    "units": "4",
+    "title": "Applied Numerical Methods",
+    "prerequisites": [
+      "MATH 151A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH151B"
+  },
+  {
+    "course_code": "MATH 151BH",
+    "units": "4",
+    "title": "Numerical Analysis Part 2 (Honors)",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 115A",
+      "MATH 131A",
+      "MATH 131A",
+      "MATH 151A",
+      "MATH 151A",
+      "MATH 31",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH151BH"
+  },
+  {
+    "course_code": "MATH 155",
+    "units": "4",
+    "title": "Mathematical Imaging",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B",
+      "MATH 115A",
+      "MATH 10A",
+      "MATH 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH155"
+  },
+  {
+    "course_code": "MATH 156",
+    "units": "4",
+    "title": "Machine Learning",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 164",
+      "MATH 170A",
+      "MATH 170E",
+      "MATH 100A",
+      "MATH 31",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH156"
+  },
+  {
+    "course_code": "MATH 164",
+    "units": "4",
+    "title": "Optimization",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH164"
+  },
+  {
+    "course_code": "MATH 167",
+    "units": "4",
+    "title": "Mathematical Game Theory",
+    "prerequisites": [
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH167"
+  },
+  {
+    "course_code": "MATH 168",
+    "units": "4",
+    "title": "Introduction to Networks",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 170E",
+      "MATH 170A",
+      "MATH 131A",
+      "MATH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH168"
+  },
+  {
+    "course_code": "MATH 170A",
+    "units": "4",
+    "title": "Probability Theory I",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 131A"
+    ],
+    "credit_exclusions": [
+      "EC ENGR 131A"
+    ],
+    "equivalent_courses": [
+      "STATS 100A",
+      "MATH 170E",
+      "MATH 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH170A"
+  },
+  {
+    "course_code": "MATH 170B",
+    "units": "4",
+    "title": "Probability Theory II",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH170B"
+  },
+  {
+    "course_code": "MATH 170E",
+    "units": "4",
+    "title": "Introduction to Probability and Statistics 1: Probability",
+    "prerequisites": [
+      "MATH 32B"
+    ],
+    "credit_exclusions": [
+      "EC ENGR 131A"
+    ],
+    "equivalent_courses": [
+      "STATS 100A",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH170E"
+  },
+  {
+    "course_code": "MATH 170S",
+    "units": "4",
+    "title": "Introduction to Probability and Statistics 2: Statistics",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 170A",
+      "MATH 170E",
+      "MATH 100A"
+    ],
+    "credit_exclusions": [
+      "STATS 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH170S"
+  },
+  {
+    "course_code": "MATH 171",
+    "units": "4",
+    "title": "Stochastic Processes",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 170E",
+      "MATH 170A",
+      "MATH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH171"
+  },
+  {
+    "course_code": "MATH 174E",
+    "units": "4",
+    "title": "Mathematics of Finance for Mathematics/Economics Students",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 170A",
+      "MATH 170E",
+      "MATH 100A"
+    ],
+    "credit_exclusions": [
+      "STATS C 183",
+      "STATS C 283",
+      "ECON 141"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH174E"
+  },
+  {
+    "course_code": "MATH 177",
+    "units": "4",
+    "title": "Theory of Interest and Applications",
+    "prerequisites": [
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH177"
+  },
+  {
+    "course_code": "MATH 178A",
+    "units": "4",
+    "title": "Foundations of Actuarial Mathematics: Life Insurance and Annuities",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 170A",
+      "MATH 170E",
+      "MATH 100A",
+      "MATH 175",
+      "MATH 177"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH178A"
+  },
+  {
+    "course_code": "MATH 178B",
+    "units": "4",
+    "title": "Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics",
+    "prerequisites": [
+      "MATH 170B",
+      "MATH 170S",
+      "MATH 100B",
+      "MATH 178A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH178B"
+  },
+  {
+    "course_code": "MATH 178C",
+    "units": "4",
+    "title": "Foundations of Actuarial Mathematics: Loss Models",
+    "prerequisites": [
+      "MATH 178B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH178C"
+  },
+  {
+    "course_code": "MATH 179",
+    "units": "4",
+    "title": "Advanced Topic in Financial Mathematics",
+    "prerequisites": [
+      "MATH 174E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH179"
+  },
+  {
+    "course_code": "MATH 180",
+    "units": "4",
+    "title": "Graph Theory",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 61"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH180"
+  },
+  {
+    "course_code": "MATH 182",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "MATH 3C",
+      "MATH 32A",
+      "MATH 61"
+    ],
+    "credit_exclusions": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH182"
+  },
+  {
+    "course_code": "MATH 184",
+    "units": "4",
+    "title": "Enumerative Combinatorics",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 61",
+      "MATH 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH184"
+  },
+  {
+    "course_code": "MATH 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "MATH 101E"
+    ],
+    "corequisites": [
+      "MATH 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH188SA"
+  },
+  {
+    "course_code": "MATH 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "MATH 188S"
+    ],
+    "corequisites": [
+      "MATH 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH188SB"
+  },
+  {
+    "course_code": "MATH 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "MATH 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH188SC"
+  },
+  {
+    "course_code": "MATH 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH189"
+  },
+  {
+    "course_code": "MATH 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH189HC"
+  },
+  {
+    "course_code": "MATH 190A",
+    "units": "1",
+    "title": "Seminar: Current Literature in History and Development of Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190A"
+  },
+  {
+    "course_code": "MATH 190B",
+    "units": "1",
+    "title": "Seminar: Current Literature in Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190B"
+  },
+  {
+    "course_code": "MATH 190C",
+    "units": "1",
+    "title": "Seminar: Current Literature in Algebra",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190C"
+  },
+  {
+    "course_code": "MATH 190D",
+    "units": "1",
+    "title": "Seminar: Current Literature in Logic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190D"
+  },
+  {
+    "course_code": "MATH 190E",
+    "units": "1",
+    "title": "Seminar: Current Literature in Geometry",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190E"
+  },
+  {
+    "course_code": "MATH 190F",
+    "units": "1",
+    "title": "Seminar: Current Literature in Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190F"
+  },
+  {
+    "course_code": "MATH 190G",
+    "units": "1",
+    "title": "Seminar: Current Literature in Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190G"
+  },
+  {
+    "course_code": "MATH 190H",
+    "units": "1",
+    "title": "Seminar: Current Literature in Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190H"
+  },
+  {
+    "course_code": "MATH 190I",
+    "units": "1",
+    "title": "Seminar: Current Literature in Functional Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190I"
+  },
+  {
+    "course_code": "MATH 190J",
+    "units": "1",
+    "title": "Seminar: Current Literature in Applied Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190J"
+  },
+  {
+    "course_code": "MATH 190K",
+    "units": "1",
+    "title": "Seminar: Current Literature in Probability",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190K"
+  },
+  {
+    "course_code": "MATH 190L",
+    "units": "1",
+    "title": "Seminar: Current Literature in Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190L"
+  },
+  {
+    "course_code": "MATH 190M",
+    "units": "1",
+    "title": "Seminar: Current Literature in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190M"
+  },
+  {
+    "course_code": "MATH 190N",
+    "units": "1",
+    "title": "Seminar: Current Literature in Combinatorics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190N"
+  },
+  {
+    "course_code": "MATH 190O",
+    "units": "1",
+    "title": "Seminar: Current Literature in Cryptography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH190O"
+  },
+  {
+    "course_code": "MATH 191",
+    "units": "4",
+    "title": "Variable Topics Research Seminars: Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH191"
+  },
+  {
+    "course_code": "MATH 191H",
+    "units": "4",
+    "title": "Honors Research Seminars: Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH191H"
+  },
+  {
+    "course_code": "MATH M192A",
+    "units": "1",
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM192A"
+  },
+  {
+    "course_code": "MATH 192B",
+    "units": "24",
+    "title": "Collaborative Learning Theory and Practice",
+    "prerequisites": [
+      "MATH 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH192B"
+  },
+  {
+    "course_code": "MATH 195",
+    "units": "4",
+    "title": "Community Internships in Mathematics Education",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH195"
+  },
+  {
+    "course_code": "MATH 197",
+    "units": "24",
+    "title": "Individual Studies in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH197"
+  },
+  {
+    "course_code": "MATH 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH199"
+  },
+  {
+    "course_code": "MATH 201A",
+    "units": "4",
+    "title": "Topics in Algebra and Analysis",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH201A"
+  },
+  {
+    "course_code": "MATH 201B",
+    "units": "4",
+    "title": "Topics in Algebra and Analysis",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH201B"
+  },
+  {
+    "course_code": "MATH 201C",
+    "units": "4",
+    "title": "Topics in Algebra and Analysis",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH201C"
+  },
+  {
+    "course_code": "MATH 202A",
+    "units": "4",
+    "title": "Mathematical Models and Applications",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH202A"
+  },
+  {
+    "course_code": "MATH 202B",
+    "units": "4",
+    "title": "Mathematical Models and Applications",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH202B"
+  },
+  {
+    "course_code": "MATH 203",
+    "units": "4",
+    "title": "Master's Linear Algebra",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH203"
+  },
+  {
+    "course_code": "MATH 204",
+    "units": "4",
+    "title": "Master's Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH204"
+  },
+  {
+    "course_code": "MATH 205A",
+    "units": "4",
+    "title": "Number Theory",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH205A"
+  },
+  {
+    "course_code": "MATH 205B",
+    "units": "4",
+    "title": "Number Theory",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH205B"
+  },
+  {
+    "course_code": "MATH 205C",
+    "units": "4",
+    "title": "Number Theory",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH205C"
+  },
+  {
+    "course_code": "MATH 206A",
+    "units": "4",
+    "title": "Combinatorial Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH206A"
+  },
+  {
+    "course_code": "MATH 206B",
+    "units": "4",
+    "title": "Combinatorial Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH206B"
+  },
+  {
+    "course_code": "MATH 207A",
+    "units": "4",
+    "title": "Topics in Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH207A"
+  },
+  {
+    "course_code": "MATH 207B",
+    "units": "4",
+    "title": "Topics in Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH207B"
+  },
+  {
+    "course_code": "MATH 207C",
+    "units": "4",
+    "title": "Topics in Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH207C"
+  },
+  {
+    "course_code": "MATH M208A",
+    "units": "4",
+    "title": "Topics in Applied Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM208A"
+  },
+  {
+    "course_code": "MATH M208B",
+    "units": "4",
+    "title": "Topics in Applied Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM208B"
+  },
+  {
+    "course_code": "MATH M209A",
+    "units": "4",
+    "title": "Cryptography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM209A"
+  },
+  {
+    "course_code": "MATH M209B",
+    "units": "4",
+    "title": "Cryptographic Protocols",
+    "prerequisites": [
+      "None 209A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM209B"
+  },
+  {
+    "course_code": "MATH 210A",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 110B",
+      "MATH 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH210A"
+  },
+  {
+    "course_code": "MATH 210B",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 110B",
+      "MATH 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH210B"
+  },
+  {
+    "course_code": "MATH 210C",
+    "units": "4",
+    "title": "Algebra",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 110B",
+      "MATH 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH210C"
+  },
+  {
+    "course_code": "MATH 211",
+    "units": "4",
+    "title": "Structure of Rings",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH211"
+  },
+  {
+    "course_code": "MATH 212A",
+    "units": "4",
+    "title": "Homological Algebra",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH212A"
+  },
+  {
+    "course_code": "MATH 212B",
+    "units": "4",
+    "title": "Homological Algebra",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 210B",
+      "MATH 210C",
+      "MATH 212A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH212B"
+  },
+  {
+    "course_code": "MATH 213A",
+    "units": "4",
+    "title": "Theory of Groups",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH213A"
+  },
+  {
+    "course_code": "MATH 213B",
+    "units": "4",
+    "title": "Theory of Groups",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH213B"
+  },
+  {
+    "course_code": "MATH 214A",
+    "units": "4",
+    "title": "Introduction to Algebraic Geometry",
+    "prerequisites": [
+      "MATH 215A",
+      "MATH 210A",
+      "MATH 210B",
+      "MATH 210C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH214A"
+  },
+  {
+    "course_code": "MATH 214B",
+    "units": "4",
+    "title": "Introduction to Algebraic Geometry",
+    "prerequisites": [
+      "MATH 214A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH214B"
+  },
+  {
+    "course_code": "MATH 215A",
+    "units": "4",
+    "title": "Commutative Algebra",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH215A"
+  },
+  {
+    "course_code": "MATH 215B",
+    "units": "4",
+    "title": "Commutative Algebra",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH215B"
+  },
+  {
+    "course_code": "MATH 216A",
+    "units": "4",
+    "title": "Further Topics in Algebra",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 210B",
+      "MATH 210C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH216A"
+  },
+  {
+    "course_code": "MATH 216B",
+    "units": "4",
+    "title": "Further Topics in Algebra",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 210B",
+      "MATH 210C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH216B"
+  },
+  {
+    "course_code": "MATH 216C",
+    "units": "4",
+    "title": "Further Topics in Algebra",
+    "prerequisites": [
+      "MATH 210A",
+      "MATH 210B",
+      "MATH 210C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH216C"
+  },
+  {
+    "course_code": "MATH M217",
+    "units": "4",
+    "title": "Geometry and Physics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM217"
+  },
+  {
+    "course_code": "MATH 218A",
+    "units": "4",
+    "title": "Discrete Mathematics: Probabilistic Methods",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH218A"
+  },
+  {
+    "course_code": "MATH 218B",
+    "units": "4",
+    "title": "Discrete Mathematics: Algebraic Methods",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH218B"
+  },
+  {
+    "course_code": "MATH 218C",
+    "units": "4",
+    "title": "Topics in Discrete Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH218C"
+  },
+  {
+    "course_code": "MATH 220A",
+    "units": "4",
+    "title": "Mathematical Logic",
+    "prerequisites": [
+      "MATH 114S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH220A"
+  },
+  {
+    "course_code": "MATH 220B",
+    "units": "4",
+    "title": "Mathematical Logic",
+    "prerequisites": [
+      "MATH 114S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH220B"
+  },
+  {
+    "course_code": "MATH 220C",
+    "units": "4",
+    "title": "Mathematical Logic",
+    "prerequisites": [
+      "MATH 114S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH220C"
+  },
+  {
+    "course_code": "MATH 222A",
+    "units": "4",
+    "title": "Lattice Theory and Algebraic Systems",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH222A"
+  },
+  {
+    "course_code": "MATH 222B",
+    "units": "4",
+    "title": "Lattice Theory and Algebraic Systems",
+    "prerequisites": [
+      "MATH 210A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH222B"
+  },
+  {
+    "course_code": "MATH 223C",
+    "units": "4",
+    "title": "Topics in Computability Theory",
+    "prerequisites": [
+      "MATH 220A",
+      "MATH 220B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH223C"
+  },
+  {
+    "course_code": "MATH 223D",
+    "units": "4",
+    "title": "Topics in Descriptive Set Theory",
+    "prerequisites": [
+      "MATH 220A",
+      "MATH 220B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH223D"
+  },
+  {
+    "course_code": "MATH 223M",
+    "units": "4",
+    "title": "Topics in Model Theory",
+    "prerequisites": [
+      "MATH 220A",
+      "MATH 220B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH223M"
+  },
+  {
+    "course_code": "MATH 223S",
+    "units": "4",
+    "title": "Topics in Set Theory",
+    "prerequisites": [
+      "MATH 220A",
+      "MATH 220B",
+      "MATH 220C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH223S"
+  },
+  {
+    "course_code": "MATH 225A",
+    "units": "4",
+    "title": "Smooth Manifolds",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH225A"
+  },
+  {
+    "course_code": "MATH 225B",
+    "units": "4",
+    "title": "Differential Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH225B"
+  },
+  {
+    "course_code": "MATH 225C",
+    "units": "4",
+    "title": "Algebraic Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH225C"
+  },
+  {
+    "course_code": "MATH 226A",
+    "units": "4",
+    "title": "Differential Geometry",
+    "prerequisites": [
+      "MATH 225A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH226A"
+  },
+  {
+    "course_code": "MATH 226B",
+    "units": "4",
+    "title": "Differential Geometry",
+    "prerequisites": [
+      "MATH 225A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH226B"
+  },
+  {
+    "course_code": "MATH 226C",
+    "units": "4",
+    "title": "Differential Geometry",
+    "prerequisites": [
+      "MATH 225A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH226C"
+  },
+  {
+    "course_code": "MATH 227A",
+    "units": "4",
+    "title": "Algebraic Topology",
+    "prerequisites": [
+      "MATH 225B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH227A"
+  },
+  {
+    "course_code": "MATH 227B",
+    "units": "4",
+    "title": "Algebraic Topology",
+    "prerequisites": [
+      "MATH 225B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH227B"
+  },
+  {
+    "course_code": "MATH 229A",
+    "units": "4",
+    "title": "Lie Groups and Lie Algebras",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH229A"
+  },
+  {
+    "course_code": "MATH 229B",
+    "units": "4",
+    "title": "Lie Groups and Lie Algebras",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH229B"
+  },
+  {
+    "course_code": "MATH 229C",
+    "units": "4",
+    "title": "Lie Groups and Lie Algebras",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH229C"
+  },
+  {
+    "course_code": "MATH 233",
+    "units": "4",
+    "title": "Partial Differential Equations on Manifolds",
+    "prerequisites": [
+      "MATH 226A",
+      "MATH 251A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH233"
+  },
+  {
+    "course_code": "MATH 234",
+    "units": "4",
+    "title": "Topics in Differential Geometry",
+    "prerequisites": [
+      "MATH 226A",
+      "MATH 226B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH234"
+  },
+  {
+    "course_code": "MATH 235",
+    "units": "4",
+    "title": "Topics in Manifold Theory",
+    "prerequisites": [
+      "MATH 225A",
+      "MATH 225B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH235"
+  },
+  {
+    "course_code": "MATH 236",
+    "units": "4",
+    "title": "Topics in Geometric Topology",
+    "prerequisites": [
+      "MATH 225A",
+      "MATH 225B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH236"
+  },
+  {
+    "course_code": "MATH 237",
+    "units": "4",
+    "title": "Topics in Algebraic Topology",
+    "prerequisites": [
+      "MATH 227A",
+      "MATH 227B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH237"
+  },
+  {
+    "course_code": "MATH 238A",
+    "units": "4",
+    "title": "Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH238A"
+  },
+  {
+    "course_code": "MATH 238B",
+    "units": "4",
+    "title": "Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH238B"
+  },
+  {
+    "course_code": "MATH 240",
+    "units": "4",
+    "title": "Methods of Set Theory",
+    "prerequisites": [
+      "MATH 110A",
+      "MATH 110B",
+      "MATH 121",
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH240"
+  },
+  {
+    "course_code": "MATH 245A",
+    "units": "4",
+    "title": "Real Analysis",
+    "prerequisites": [
+      "MATH 121",
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH245A"
+  },
+  {
+    "course_code": "MATH 245B",
+    "units": "4",
+    "title": "Real Analysis",
+    "prerequisites": [
+      "MATH 121",
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH245B"
+  },
+  {
+    "course_code": "MATH 245C",
+    "units": "4",
+    "title": "Real Analysis",
+    "prerequisites": [
+      "MATH 121",
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH245C"
+  },
+  {
+    "course_code": "MATH 246A",
+    "units": "4",
+    "title": "Complex Analysis",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH246A"
+  },
+  {
+    "course_code": "MATH 246B",
+    "units": "4",
+    "title": "Complex Analysis",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH246B"
+  },
+  {
+    "course_code": "MATH 246C",
+    "units": "4",
+    "title": "Complex Analysis",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH246C"
+  },
+  {
+    "course_code": "MATH 247A",
+    "units": "4",
+    "title": "Classical Fourier Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH247A"
+  },
+  {
+    "course_code": "MATH 247B",
+    "units": "4",
+    "title": "Classical Fourier Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH247B"
+  },
+  {
+    "course_code": "MATH 250A",
+    "units": "4",
+    "title": "Ordinary Differential Equations",
+    "prerequisites": [
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH250A"
+  },
+  {
+    "course_code": "MATH 250B",
+    "units": "4",
+    "title": "Nonlinear Ordinary Differential Equations",
+    "prerequisites": [
+      "MATH 250A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH250B"
+  },
+  {
+    "course_code": "MATH 250C",
+    "units": "4",
+    "title": "Advanced Topics in Ordinary Differential Equations",
+    "prerequisites": [
+      "MATH 250A",
+      "MATH 250B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH250C"
+  },
+  {
+    "course_code": "MATH 251A",
+    "units": "4",
+    "title": "Introductory Partial Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH251A"
+  },
+  {
+    "course_code": "MATH 251B",
+    "units": "4",
+    "title": "Topics in Partial Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH251B"
+  },
+  {
+    "course_code": "MATH 251C",
+    "units": "4",
+    "title": "Topics in Partial Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH251C"
+  },
+  {
+    "course_code": "MATH 252A",
+    "units": "4",
+    "title": "Topics in Complex Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH252A"
+  },
+  {
+    "course_code": "MATH 252B",
+    "units": "4",
+    "title": "Topics in Complex Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH252B"
+  },
+  {
+    "course_code": "MATH 253A",
+    "units": "4",
+    "title": "Several Complex Variables",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH253A"
+  },
+  {
+    "course_code": "MATH 253B",
+    "units": "4",
+    "title": "Several Complex Variables",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH253B"
+  },
+  {
+    "course_code": "MATH 254A",
+    "units": "4",
+    "title": "Topics in Real Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH254A"
+  },
+  {
+    "course_code": "MATH 254B",
+    "units": "4",
+    "title": "Topics in Real Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C",
+      "MATH 246A",
+      "MATH 246B",
+      "MATH 246C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH254B"
+  },
+  {
+    "course_code": "MATH 255A",
+    "units": "4",
+    "title": "Functional Analysis",
+    "prerequisites": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 265A",
+      "MATH 265B",
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH255A"
+  },
+  {
+    "course_code": "MATH 255B",
+    "units": "4",
+    "title": "Topics in Functional Analysis",
+    "prerequisites": [
+      "MATH 255A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH255B"
+  },
+  {
+    "course_code": "MATH 255C",
+    "units": "4",
+    "title": "Topics in Functional Analysis",
+    "prerequisites": [
+      "MATH 255A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH255C"
+  },
+  {
+    "course_code": "MATH 256A",
+    "units": "4",
+    "title": "Topological Groups and Their Representations",
+    "prerequisites": [
+      "MATH 255A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH256A"
+  },
+  {
+    "course_code": "MATH 256B",
+    "units": "4",
+    "title": "Topological Groups and Their Representations",
+    "prerequisites": [
+      "MATH 255A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH256B"
+  },
+  {
+    "course_code": "MATH 259A",
+    "units": "4",
+    "title": "Operator Algebras in Hilbert Space",
+    "prerequisites": [
+      "MATH 255A",
+      "MATH 255B",
+      "MATH 255C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH259A"
+  },
+  {
+    "course_code": "MATH 259B",
+    "units": "4",
+    "title": "Operator Algebras in Hilbert Space",
+    "prerequisites": [
+      "MATH 255A",
+      "MATH 255B",
+      "MATH 255C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH259B"
+  },
+  {
+    "course_code": "MATH 260",
+    "units": "4",
+    "title": "Introduction to Applied Mathematics",
+    "prerequisites": [
+      "MATH 142"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH260"
+  },
+  {
+    "course_code": "MATH 261",
+    "units": "4",
+    "title": "Game Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH261"
+  },
+  {
+    "course_code": "MATH 264",
+    "units": "4",
+    "title": "Applied Complex Analysis",
+    "prerequisites": [
+      "MATH 246A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH264"
+  },
+  {
+    "course_code": "MATH 265A",
+    "units": "4",
+    "title": "Real Analysis for Applications",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "credit_exclusions": [
+      "MATH 245A",
+      "MATH 245C",
+      "MATH 245B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH265A"
+  },
+  {
+    "course_code": "MATH 265B",
+    "units": "4",
+    "title": "Real Analysis for Applications",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B"
+    ],
+    "credit_exclusions": [
+      "MATH 245A",
+      "MATH 245B",
+      "MATH 245C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH265B"
+  },
+  {
+    "course_code": "MATH 266A",
+    "units": "4",
+    "title": "Applied Ordinary Differential Equations",
+    "prerequisites": [
+      "MATH 131A",
+      "MATH 131B",
+      "MATH 132",
+      "MATH 134",
+      "MATH 135",
+      "MATH 146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH266A"
+  },
+  {
+    "course_code": "MATH 266B",
+    "units": "4",
+    "title": "Applied Partial Differential Equations",
+    "prerequisites": [
+      "MATH 266A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH266B"
+  },
+  {
+    "course_code": "MATH 266C",
+    "units": "4",
+    "title": "Applied Partial Differential Equations",
+    "prerequisites": [
+      "MATH 266A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH266C"
+  },
+  {
+    "course_code": "MATH 266D",
+    "units": "4",
+    "title": "Applied Differential Equations",
+    "prerequisites": [
+      "MATH 266A",
+      "MATH 266B",
+      "MATH 266C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH266D"
+  },
+  {
+    "course_code": "MATH 266E",
+    "units": "4",
+    "title": "Applied Differential Equations",
+    "prerequisites": [
+      "MATH 266A",
+      "MATH 266B",
+      "MATH 266C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH266E"
+  },
+  {
+    "course_code": "MATH M268A",
+    "units": "4",
+    "title": "Functional Analysis for Applied Mathematics and Engineering",
+    "prerequisites": [
+      "None 115A",
+      "None 115B",
+      "None 208A",
+      "None 131A",
+      "None 131B",
+      "None 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM268A"
+  },
+  {
+    "course_code": "MATH M268B",
+    "units": "4",
+    "title": "Topics in Functional Analysis for Applied Mathematics and Engineering",
+    "prerequisites": [
+      "None 268A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATHM268B"
+  },
+  {
+    "course_code": "MATH 268C",
+    "units": "4",
+    "title": "Topics in Applied Functional Analysis",
+    "prerequisites": [
+      "MATH 255A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH268C"
+  },
+  {
+    "course_code": "MATH 269A",
+    "units": "4",
+    "title": "Advanced Numerical Analysis",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH269A"
+  },
+  {
+    "course_code": "MATH 269B",
+    "units": "4",
+    "title": "Advanced Numerical Analysis",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH269B"
+  },
+  {
+    "course_code": "MATH 269C",
+    "units": "4",
+    "title": "Advanced Numerical Analysis",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH269C"
+  },
+  {
+    "course_code": "MATH 270A",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Techniques of Scientific Computing",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270A"
+  },
+  {
+    "course_code": "MATH 270B",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Computational Linear Algebra",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270B"
+  },
+  {
+    "course_code": "MATH 270C",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Computational Linear Algebra",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270C"
+  },
+  {
+    "course_code": "MATH 270D",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270D"
+  },
+  {
+    "course_code": "MATH 270E",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270E"
+  },
+  {
+    "course_code": "MATH 270F",
+    "units": "4",
+    "title": "Mathematical Aspects of Scientific Computing: Parallel Numerical Algorithms",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 151A",
+      "MATH 151B",
+      "MATH 270B",
+      "MATH 270C",
+      "MATH 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH270F"
+  },
+  {
+    "course_code": "MATH 271A",
+    "units": "4",
+    "title": "Tensor Analysis",
+    "prerequisites": [
+      "MATH 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH271A"
+  },
+  {
+    "course_code": "MATH 271B",
+    "units": "4",
+    "title": "Analytical Mechanics",
+    "prerequisites": [
+      "MATH 271A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH271B"
+  },
+  {
+    "course_code": "MATH 271C",
+    "units": "4",
+    "title": "Introduction to Relativity",
+    "prerequisites": [
+      "MATH 271A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH271C"
+  },
+  {
+    "course_code": "MATH 271D",
+    "units": "4",
+    "title": "Wave Mechanics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH271D"
+  },
+  {
+    "course_code": "MATH 272A",
+    "units": "4",
+    "title": "Foundations of Continuum Mechanics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH272A"
+  },
+  {
+    "course_code": "MATH 272B",
+    "units": "4",
+    "title": "Mathematical Aspects of Fluid Mechanics",
+    "prerequisites": [
+      "MATH 272A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH272B"
+  },
+  {
+    "course_code": "MATH 272C",
+    "units": "4",
+    "title": "Magnetohydrodynamics",
+    "prerequisites": [
+      "MATH 272A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH272C"
+  },
+  {
+    "course_code": "MATH 272D",
+    "units": "4",
+    "title": "Rotating Fluids and Geophysical Fluid Dynamics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH272D"
+  },
+  {
+    "course_code": "MATH 273A",
+    "units": "4",
+    "title": "Optimization and Calculus of Variations: Basic Optimization Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH273A"
+  },
+  {
+    "course_code": "MATH 273B",
+    "units": "4",
+    "title": "Optimization and Calculus of Variations: Calculus of Variations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH273B"
+  },
+  {
+    "course_code": "MATH 273C",
+    "units": "4",
+    "title": "Optimization and Calculus of Variations: Numerical Optimization",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH273C"
+  },
+  {
+    "course_code": "MATH 274A",
+    "units": "4",
+    "title": "Asymptotic Methods",
+    "prerequisites": [
+      "MATH 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH274A"
+  },
+  {
+    "course_code": "MATH 274B",
+    "units": "4",
+    "title": "Perturbation Methods",
+    "prerequisites": [
+      "MATH 266A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH274B"
+  },
+  {
+    "course_code": "MATH 274C",
+    "units": "4",
+    "title": "Perturbation Methods",
+    "prerequisites": [
+      "MATH 266A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH274C"
+  },
+  {
+    "course_code": "MATH 275A",
+    "units": "4",
+    "title": "Probability Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH275A"
+  },
+  {
+    "course_code": "MATH 275B",
+    "units": "4",
+    "title": "Probability Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH275B"
+  },
+  {
+    "course_code": "MATH 275C",
+    "units": "4",
+    "title": "Stochastic Processes",
+    "prerequisites": [
+      "MATH 275B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH275C"
+  },
+  {
+    "course_code": "MATH 275D",
+    "units": "4",
+    "title": "Stochastic Calculus",
+    "prerequisites": [
+      "MATH 275C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH275D"
+  },
+  {
+    "course_code": "MATH 275E",
+    "units": "4",
+    "title": "Stochastic Particle Systems",
+    "prerequisites": [
+      "MATH 275C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH275E"
+  },
+  {
+    "course_code": "MATH 276",
+    "units": "4",
+    "title": "Topics in Network Science",
+    "prerequisites": [
+      "MATH 115A",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH276"
+  },
+  {
+    "course_code": "MATH 280",
+    "units": "4",
+    "title": "Programming++ for Mathematics Graduate Students",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH280"
+  },
+  {
+    "course_code": "MATH 285A",
+    "units": "4",
+    "title": "Seminar: History and Development of Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285A"
+  },
+  {
+    "course_code": "MATH 285B",
+    "units": "4",
+    "title": "Seminar: Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285B"
+  },
+  {
+    "course_code": "MATH 285C",
+    "units": "4",
+    "title": "Seminar: Algebra",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285C"
+  },
+  {
+    "course_code": "MATH 285D",
+    "units": "4",
+    "title": "Seminar: Logic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285D"
+  },
+  {
+    "course_code": "MATH 285E",
+    "units": "4",
+    "title": "Seminar: Geometry",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285E"
+  },
+  {
+    "course_code": "MATH 285F",
+    "units": "4",
+    "title": "Seminar: Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285F"
+  },
+  {
+    "course_code": "MATH 285G",
+    "units": "4",
+    "title": "Seminar: Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285G"
+  },
+  {
+    "course_code": "MATH 285H",
+    "units": "4",
+    "title": "Seminar: Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285H"
+  },
+  {
+    "course_code": "MATH 285I",
+    "units": "4",
+    "title": "Seminar: Functional Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285I"
+  },
+  {
+    "course_code": "MATH 285J",
+    "units": "4",
+    "title": "Seminar: Applied Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285J"
+  },
+  {
+    "course_code": "MATH 285K",
+    "units": "4",
+    "title": "Seminar: Probability",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285K"
+  },
+  {
+    "course_code": "MATH 285L",
+    "units": "4",
+    "title": "Seminar: Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285L"
+  },
+  {
+    "course_code": "MATH 285N",
+    "units": "4",
+    "title": "Seminar: Combinatorics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285N"
+  },
+  {
+    "course_code": "MATH 285P",
+    "units": "4",
+    "title": "Seminar: Representation Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH285P"
+  },
+  {
+    "course_code": "MATH 290A",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in History and Development of Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290A"
+  },
+  {
+    "course_code": "MATH 290B",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290B"
+  },
+  {
+    "course_code": "MATH 290C",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Algebra",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290C"
+  },
+  {
+    "course_code": "MATH 290D",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Logic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290D"
+  },
+  {
+    "course_code": "MATH 290E",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Geometry",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290E"
+  },
+  {
+    "course_code": "MATH 290F",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290F"
+  },
+  {
+    "course_code": "MATH 290G",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290G"
+  },
+  {
+    "course_code": "MATH 290H",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290H"
+  },
+  {
+    "course_code": "MATH 290I",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Functional Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290I"
+  },
+  {
+    "course_code": "MATH 290J",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Applied Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290J"
+  },
+  {
+    "course_code": "MATH 290K",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Probability",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290K"
+  },
+  {
+    "course_code": "MATH 290L",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290L"
+  },
+  {
+    "course_code": "MATH 290M",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290M"
+  },
+  {
+    "course_code": "MATH 290N",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Combinatorics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290N"
+  },
+  {
+    "course_code": "MATH 290O",
+    "units": "4",
+    "title": "Participating Seminar: Current Literature in Cryptography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH290O"
+  },
+  {
+    "course_code": "MATH 296A",
+    "units": "1",
+    "title": "Research Seminar: History and Development of Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296A"
+  },
+  {
+    "course_code": "MATH 296B",
+    "units": "1",
+    "title": "Research Seminar: Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296B"
+  },
+  {
+    "course_code": "MATH 296C",
+    "units": "1",
+    "title": "Research Seminar: Algebra",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296C"
+  },
+  {
+    "course_code": "MATH 296D",
+    "units": "1",
+    "title": "Research Seminar: Logic",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296D"
+  },
+  {
+    "course_code": "MATH 296E",
+    "units": "1",
+    "title": "Research Seminar: Geometry",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296E"
+  },
+  {
+    "course_code": "MATH 296F",
+    "units": "1",
+    "title": "Research Seminar: Topology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296F"
+  },
+  {
+    "course_code": "MATH 296G",
+    "units": "1",
+    "title": "Research Seminar: Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296G"
+  },
+  {
+    "course_code": "MATH 296H",
+    "units": "1",
+    "title": "Research Seminar: Differential Equations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296H"
+  },
+  {
+    "course_code": "MATH 296I",
+    "units": "1",
+    "title": "Research Seminar: Functional Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296I"
+  },
+  {
+    "course_code": "MATH 296J",
+    "units": "1",
+    "title": "Research Seminar: Applied Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296J"
+  },
+  {
+    "course_code": "MATH 296K",
+    "units": "1",
+    "title": "Research Seminar: Probability",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296K"
+  },
+  {
+    "course_code": "MATH 296L",
+    "units": "1",
+    "title": "Research Seminar: Dynamical Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296L"
+  },
+  {
+    "course_code": "MATH 296M",
+    "units": "1",
+    "title": "Research Seminar: Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296M"
+  },
+  {
+    "course_code": "MATH 296N",
+    "units": "1",
+    "title": "Research Seminar: Combinatorics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH296N"
+  },
+  {
+    "course_code": "MATH 370A",
+    "units": "4",
+    "title": "Teaching of Mathematics",
+    "prerequisites": [
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH370A"
+  },
+  {
+    "course_code": "MATH 370B",
+    "units": "4",
+    "title": "Teaching of Mathematics",
+    "prerequisites": [
+      "MATH 33B",
+      "MATH 370A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH370B"
+  },
+  {
+    "course_code": "MATH 495",
+    "units": "2",
+    "title": "Teaching College Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH495"
+  },
+  {
+    "course_code": "MATH 495B",
+    "units": "24",
+    "title": "Technology and Teaching",
+    "prerequisites": [
+      "MATH 495"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH495B"
+  },
+  {
+    "course_code": "MATH 501",
+    "units": "28",
+    "title": "Cooperative Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH501"
+  },
+  {
+    "course_code": "MATH 596",
+    "units": "28",
+    "title": "Directed Individual Study or Research",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH596"
+  },
+  {
+    "course_code": "MATH 599",
+    "units": "212",
+    "title": "Research in Mathematics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATH599"
+  }
+]

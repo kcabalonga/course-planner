@@ -1,0 +1,1753 @@
+[
+  {
+    "course_code": "ART HIS 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS19"
+  },
+  {
+    "course_code": "ART HIS 20",
+    "units": "5",
+    "title": "Ancient Art",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS20"
+  },
+  {
+    "course_code": "ART HIS 21",
+    "units": "5",
+    "title": "Medieval Art",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS21"
+  },
+  {
+    "course_code": "ART HIS 22",
+    "units": "5",
+    "title": "Renaissance and Baroque Art",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS22"
+  },
+  {
+    "course_code": "ART HIS 23",
+    "units": "5",
+    "title": "Modern Art",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS23"
+  },
+  {
+    "course_code": "ART HIS 24",
+    "units": "5",
+    "title": "Architecture in Modern World",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS24"
+  },
+  {
+    "course_code": "ART HIS 25",
+    "units": "5",
+    "title": "Museum Studies",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS25"
+  },
+  {
+    "course_code": "ART HIS 27",
+    "units": "5",
+    "title": "Art and Architecture of Ancient Americas",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS27"
+  },
+  {
+    "course_code": "ART HIS 28",
+    "units": "5",
+    "title": "Arts of Africa",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS28"
+  },
+  {
+    "course_code": "ART HIS 29",
+    "units": "5",
+    "title": "Chinese Art",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS29"
+  },
+  {
+    "course_code": "ART HIS 30",
+    "units": "5",
+    "title": "Arts of Japan",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS30"
+  },
+  {
+    "course_code": "ART HIS 31",
+    "units": "5",
+    "title": "Art of India and Southeast Asia",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS31"
+  },
+  {
+    "course_code": "ART HIS 32",
+    "units": "5",
+    "title": "Arts of the Mediterranean",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS32"
+  },
+  {
+    "course_code": "ART HIS 88",
+    "units": "4",
+    "title": "Lower-Division Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS88"
+  },
+  {
+    "course_code": "ART HIS 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS89"
+  },
+  {
+    "course_code": "ART HIS 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS89HC"
+  },
+  {
+    "course_code": "ART HIS 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS99"
+  },
+  {
+    "course_code": "ART HIS 100",
+    "units": "4",
+    "title": "Art Historical Theories and Methodologies",
+    "prerequisites": [
+      "ART HIS 20",
+      "ART HIS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS100"
+  },
+  {
+    "course_code": "ART HIS M110A",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, Predynastic Period to New Kingdom",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110A"
+  },
+  {
+    "course_code": "ART HIS M110B",
+    "units": "4",
+    "title": "Art and Architecture of Ancient Egypt, New Kingdom to Greco-Roman Period",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110B"
+  },
+  {
+    "course_code": "ART HIS M110C",
+    "units": "4",
+    "title": "Ancient Egyptian Temple and City of Thebes",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110C"
+  },
+  {
+    "course_code": "ART HIS M110D",
+    "units": "4",
+    "title": "Art and Death in Ancient Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110D"
+  },
+  {
+    "course_code": "ART HIS M111",
+    "units": "4",
+    "title": "Minoan Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM111"
+  },
+  {
+    "course_code": "ART HIS M111E",
+    "units": "4",
+    "title": "Archaeology of Levant",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM111E"
+  },
+  {
+    "course_code": "ART HIS M112A",
+    "units": "4",
+    "title": "Mycenaean Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112A"
+  },
+  {
+    "course_code": "ART HIS M112B",
+    "units": "4",
+    "title": "Archaic Greek Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112B"
+  },
+  {
+    "course_code": "ART HIS M112C",
+    "units": "4",
+    "title": "Classical Greek Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112C"
+  },
+  {
+    "course_code": "ART HIS M112D",
+    "units": "4",
+    "title": "Hellenistic Greek Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112D"
+  },
+  {
+    "course_code": "ART HIS M113A",
+    "units": "4",
+    "title": "Etruscan Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 20",
+      "None 51B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113A"
+  },
+  {
+    "course_code": "ART HIS M113B",
+    "units": "4",
+    "title": "Roman Art and Archaeology",
+    "prerequisites": [
+      "None 20",
+      "None 20",
+      "None 51B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113B"
+  },
+  {
+    "course_code": "ART HIS M113C",
+    "units": "4",
+    "title": "Late Roman Art",
+    "prerequisites": [
+      "None 20",
+      "None 20",
+      "None 51B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113C"
+  },
+  {
+    "course_code": "ART HIS M114A",
+    "units": "4",
+    "title": "Classical Archaeology: Greco-Roman Architecture",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 20",
+      "None 51A",
+      "None 51B",
+      "None 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114A"
+  },
+  {
+    "course_code": "ART HIS M114B",
+    "units": "4",
+    "title": "Classical Archaeology: Greco-Roman Sculpture",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 20",
+      "None 51A",
+      "None 51B",
+      "None 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114B"
+  },
+  {
+    "course_code": "ART HIS M114C",
+    "units": "4",
+    "title": "Classical Archaeology: Greco-Roman Painting",
+    "prerequisites": [
+      "None 20",
+      "None 10",
+      "None 20",
+      "None 51A",
+      "None 51B",
+      "None 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114C"
+  },
+  {
+    "course_code": "ART HIS C114D",
+    "units": "4",
+    "title": "Selected Topics in Ancient Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC114D"
+  },
+  {
+    "course_code": "ART HIS CM115A",
+    "units": "4",
+    "title": "Late Antique Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM115A"
+  },
+  {
+    "course_code": "ART HIS C115B",
+    "units": "4",
+    "title": "Early Medieval Art and Architecture",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115B"
+  },
+  {
+    "course_code": "ART HIS 115C",
+    "units": "4",
+    "title": "Romanesque Art and Architecture",
+    "prerequisites": [
+      "ART HIS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS115C"
+  },
+  {
+    "course_code": "ART HIS C115D",
+    "units": "4",
+    "title": "Gothic Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115D"
+  },
+  {
+    "course_code": "ART HIS 115E",
+    "units": "4",
+    "title": "Late Gothic Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS115E"
+  },
+  {
+    "course_code": "ART HIS C115F",
+    "units": "4",
+    "title": "Medieval Paris",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115F"
+  },
+  {
+    "course_code": "ART HIS C116A",
+    "units": "4",
+    "title": "Middle Byzantine Art and Architecture",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC116A"
+  },
+  {
+    "course_code": "ART HIS C116B",
+    "units": "4",
+    "title": "Late Byzantine Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC116B"
+  },
+  {
+    "course_code": "ART HIS C117A",
+    "units": "4",
+    "title": "Medieval Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC117A"
+  },
+  {
+    "course_code": "ART HIS C117B",
+    "units": "4",
+    "title": "Selected Topics in Medieval Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC117B"
+  },
+  {
+    "course_code": "ART HIS M118A",
+    "units": "4",
+    "title": "Medieval Armenian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM118A"
+  },
+  {
+    "course_code": "ART HIS M118B",
+    "units": "4",
+    "title": "Armenian Painting, 17th to 20th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM118B"
+  },
+  {
+    "course_code": "ART HIS C118C",
+    "units": "4",
+    "title": "Selected Topics in Armenian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC118C"
+  },
+  {
+    "course_code": "ART HIS 119A",
+    "units": "4",
+    "title": "Western Islamic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS119A"
+  },
+  {
+    "course_code": "ART HIS 119B",
+    "units": "4",
+    "title": "Eastern Islamic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS119B"
+  },
+  {
+    "course_code": "ART HIS M119C",
+    "units": "4",
+    "title": "Introduction to Islamic Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM119C"
+  },
+  {
+    "course_code": "ART HIS M119D",
+    "units": "4",
+    "title": "Archaeology and Art of Christian and Islamic Egypt",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM119D"
+  },
+  {
+    "course_code": "ART HIS C120",
+    "units": "4",
+    "title": "Selected Topics in Islamic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC120"
+  },
+  {
+    "course_code": "ART HIS 121A",
+    "units": "4",
+    "title": "Italian Renaissance Art of 14th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121A"
+  },
+  {
+    "course_code": "ART HIS 121B",
+    "units": "4",
+    "title": "Italian Renaissance Art of 15th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121B"
+  },
+  {
+    "course_code": "ART HIS 121C",
+    "units": "4",
+    "title": "Italian Renaissance Art of 16th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121C"
+  },
+  {
+    "course_code": "ART HIS 121D",
+    "units": "4",
+    "title": "Late Renaissance Art: Counter-Reformation",
+    "prerequisites": [
+      "ART HIS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121D"
+  },
+  {
+    "course_code": "ART HIS 124",
+    "units": "4",
+    "title": "Northern Renaissance Art",
+    "prerequisites": [
+      "ART HIS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS124"
+  },
+  {
+    "course_code": "ART HIS C125A",
+    "units": "4",
+    "title": "Southern Baroque Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC125A"
+  },
+  {
+    "course_code": "ART HIS 125B",
+    "units": "4",
+    "title": "Northern Baroque Art",
+    "prerequisites": [
+      "ART HIS 125A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS125B"
+  },
+  {
+    "course_code": "ART HIS C126",
+    "units": "4",
+    "title": "Selected Topics in Early Modern Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC126"
+  },
+  {
+    "course_code": "ART HIS 127A",
+    "units": "4",
+    "title": "European Art of 17th and 18th Centuries",
+    "prerequisites": [
+      "ART HIS 20",
+      "ART HIS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS127A"
+  },
+  {
+    "course_code": "ART HIS 127B",
+    "units": "4",
+    "title": "European Art of 19th Century",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS127B"
+  },
+  {
+    "course_code": "ART HIS M127C",
+    "units": "4",
+    "title": "Cultural and Intellectual History of Modern Europe, 19th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM127C"
+  },
+  {
+    "course_code": "ART HIS C128A",
+    "units": "4",
+    "title": "History of Photography, 1839 to 1910",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128A"
+  },
+  {
+    "course_code": "ART HIS C128B",
+    "units": "4",
+    "title": "History of Photography, 1910 to Present",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128B"
+  },
+  {
+    "course_code": "ART HIS C128C",
+    "units": "4",
+    "title": "History of Photography: Selected Topics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128C"
+  },
+  {
+    "course_code": "ART HIS C129A",
+    "units": "4",
+    "title": "Modern Art, 1900 to 1950",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129A"
+  },
+  {
+    "course_code": "ART HIS C129B",
+    "units": "4",
+    "title": "Dada, 1915 to 1923",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129B"
+  },
+  {
+    "course_code": "ART HIS C129C",
+    "units": "4",
+    "title": "Surrealism, 1924 to 1939",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129C"
+  },
+  {
+    "course_code": "ART HIS 130",
+    "units": "4",
+    "title": "Selected Topics in Modern Art",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS130"
+  },
+  {
+    "course_code": "ART HIS C131A",
+    "units": "4",
+    "title": "Contemporary Art, 1940s to 1950s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131A"
+  },
+  {
+    "course_code": "ART HIS C131B",
+    "units": "4",
+    "title": "Contemporary Art, 1960s to 1970s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131B"
+  },
+  {
+    "course_code": "ART HIS C131C",
+    "units": "4",
+    "title": "Contemporary Art, 1980s to 1990s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131C"
+  },
+  {
+    "course_code": "ART HIS 132",
+    "units": "4",
+    "title": "Selected Topics in Contemporary Art",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS132"
+  },
+  {
+    "course_code": "ART HIS C133A",
+    "units": "4",
+    "title": "American Art before Civil War",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133A"
+  },
+  {
+    "course_code": "ART HIS C133B",
+    "units": "4",
+    "title": "American Art in Gilded Age, 1860 to 1900",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133B"
+  },
+  {
+    "course_code": "ART HIS C133C",
+    "units": "4",
+    "title": "American Art, 1900 to 1945",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133C"
+  },
+  {
+    "course_code": "ART HIS 133D",
+    "units": "4",
+    "title": "Architecture in U.S.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS133D"
+  },
+  {
+    "course_code": "ART HIS 133E",
+    "units": "4",
+    "title": "American Houses",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS133E"
+  },
+  {
+    "course_code": "ART HIS CM135A",
+    "units": "4",
+    "title": "African American Art before 1900",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM135A"
+  },
+  {
+    "course_code": "ART HIS CM135B",
+    "units": "4",
+    "title": "African American Art, 1900 to 1963",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM135B"
+  },
+  {
+    "course_code": "ART HIS C136A",
+    "units": "4",
+    "title": "Selected Topics in African American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC136A"
+  },
+  {
+    "course_code": "ART HIS 137",
+    "units": "4",
+    "title": "Arts of Native North America",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS137"
+  },
+  {
+    "course_code": "ART HIS CM139A",
+    "units": "4",
+    "title": "Maya Art and Architecture",
+    "prerequisites": [
+      "None 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM139A"
+  },
+  {
+    "course_code": "ART HIS C139B",
+    "units": "4",
+    "title": "Aztec Art and Architecture",
+    "prerequisites": [
+      "None 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC139B"
+  },
+  {
+    "course_code": "ART HIS C139C",
+    "units": "4",
+    "title": "Inca Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC139C"
+  },
+  {
+    "course_code": "ART HIS C140",
+    "units": "4",
+    "title": "Selected Topics in Arts of Indigenous Americas",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC140"
+  },
+  {
+    "course_code": "ART HIS CM141",
+    "units": "4",
+    "title": "Colonial Latin American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM141"
+  },
+  {
+    "course_code": "ART HIS C142A",
+    "units": "4",
+    "title": "Mexican Art in Modern Age",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC142A"
+  },
+  {
+    "course_code": "ART HIS C142B",
+    "units": "4",
+    "title": "Latin American Art of 20th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC142B"
+  },
+  {
+    "course_code": "ART HIS 143",
+    "units": "4",
+    "title": "Selected Topics in Latin American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS143"
+  },
+  {
+    "course_code": "ART HIS 144",
+    "units": "4",
+    "title": "Caribbean Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS144"
+  },
+  {
+    "course_code": "ART HIS C145A",
+    "units": "4",
+    "title": "Architecture and Urbanism in Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC145A"
+  },
+  {
+    "course_code": "ART HIS C145B",
+    "units": "4",
+    "title": "Contemporary Arts of Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC145B"
+  },
+  {
+    "course_code": "ART HIS C146A",
+    "units": "4",
+    "title": "Selected Topics in African Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC146A"
+  },
+  {
+    "course_code": "ART HIS 147",
+    "units": "4",
+    "title": "Arts of Oceania",
+    "prerequisites": [
+      "ART HIS 28"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS147"
+  },
+  {
+    "course_code": "ART HIS C148A",
+    "units": "4",
+    "title": "Art and Material Culture, Neolithic to 210 BC",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148A"
+  },
+  {
+    "course_code": "ART HIS C148B",
+    "units": "4",
+    "title": "Art and Material Culture of Early Imperial China, 210 BC to AD 906",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148B"
+  },
+  {
+    "course_code": "ART HIS C148C",
+    "units": "4",
+    "title": "Art and Material Culture of Late Imperial China, 906 to 1911",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148C"
+  },
+  {
+    "course_code": "ART HIS C148D",
+    "units": "4",
+    "title": "Advanced Chinese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148D"
+  },
+  {
+    "course_code": "ART HIS C148E",
+    "units": "4",
+    "title": "Art in Modern China",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148E"
+  },
+  {
+    "course_code": "ART HIS C148F",
+    "units": "4",
+    "title": "Advanced Chinese Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148F"
+  },
+  {
+    "course_code": "ART HIS C148G",
+    "units": "4",
+    "title": "Gardens in Chinese Art and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148G"
+  },
+  {
+    "course_code": "ART HIS C149",
+    "units": "4",
+    "title": "Selected Topics in Chinese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC149"
+  },
+  {
+    "course_code": "ART HIS 150A",
+    "units": "4",
+    "title": "Japanese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS150A"
+  },
+  {
+    "course_code": "ART HIS C150B",
+    "units": "4",
+    "title": "Advanced Japanese Art",
+    "prerequisites": [
+      "None 150A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC150B"
+  },
+  {
+    "course_code": "ART HIS C151",
+    "units": "4",
+    "title": "Selected Topics in Japanese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC151"
+  },
+  {
+    "course_code": "ART HIS 152A",
+    "units": "4",
+    "title": "Arts of Korea",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS152A"
+  },
+  {
+    "course_code": "ART HIS C152B",
+    "units": "4",
+    "title": "History of Korean Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152B"
+  },
+  {
+    "course_code": "ART HIS C152C",
+    "units": "4",
+    "title": "History of Korean Ceramics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152C"
+  },
+  {
+    "course_code": "ART HIS C152D",
+    "units": "4",
+    "title": "History of Korean Buddhist Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152D"
+  },
+  {
+    "course_code": "ART HIS C153",
+    "units": "4",
+    "title": "Selected Topics in Korean Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC153"
+  },
+  {
+    "course_code": "ART HIS 154A",
+    "units": "4",
+    "title": "Early Art of India",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154A"
+  },
+  {
+    "course_code": "ART HIS 154B",
+    "units": "4",
+    "title": "Later Art of India",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154B"
+  },
+  {
+    "course_code": "ART HIS C154C",
+    "units": "4",
+    "title": "Advanced Indian Art",
+    "prerequisites": [
+      "None 154A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC154C"
+  },
+  {
+    "course_code": "ART HIS 154D",
+    "units": "4",
+    "title": "Modern and Contemporary South Asian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154D"
+  },
+  {
+    "course_code": "ART HIS C155",
+    "units": "4",
+    "title": "Selected Topics in South and Southeast Asian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC155"
+  },
+  {
+    "course_code": "ART HIS 156",
+    "units": "4",
+    "title": "Arts of Southeast Asia",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS156"
+  },
+  {
+    "course_code": "ART HIS C158A",
+    "units": "4",
+    "title": "Selected Topics in Asian Arts and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC158A"
+  },
+  {
+    "course_code": "ART HIS C160",
+    "units": "4",
+    "title": "Art and Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC160"
+  },
+  {
+    "course_code": "ART HIS 161",
+    "units": "4",
+    "title": "Cities in History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS161"
+  },
+  {
+    "course_code": "ART HIS C169",
+    "units": "4",
+    "title": "Selected Topics in Architectural History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC169"
+  },
+  {
+    "course_code": "ART HIS C170A",
+    "units": "4",
+    "title": "Museum Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC170A"
+  },
+  {
+    "course_code": "ART HIS C170B",
+    "units": "24",
+    "title": "Museum Studies Practicum",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC170B"
+  },
+  {
+    "course_code": "ART HIS C171",
+    "units": "4",
+    "title": "Selected Topics in Museum Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC171"
+  },
+  {
+    "course_code": "ART HIS C172A",
+    "units": "4",
+    "title": "Preservation of Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC172A"
+  },
+  {
+    "course_code": "ART HIS C172B",
+    "units": "4",
+    "title": "Art: Fakes, Forgeries, and Authenticity",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC172B"
+  },
+  {
+    "course_code": "ART HIS M179",
+    "units": "4",
+    "title": "Cultural Heritage and Identity Representation: Creating Fowler and Virtual Exhibit",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM179"
+  },
+  {
+    "course_code": "ART HIS 185",
+    "units": "4",
+    "title": "Undergraduate Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS185"
+  },
+  {
+    "course_code": "ART HIS 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART HIS 101E"
+    ],
+    "corequisites": [
+      "ART HIS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SA"
+  },
+  {
+    "course_code": "ART HIS 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART HIS 188S"
+    ],
+    "corequisites": [
+      "ART HIS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SB"
+  },
+  {
+    "course_code": "ART HIS 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "ART HIS 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SC"
+  },
+  {
+    "course_code": "ART HIS 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS189"
+  },
+  {
+    "course_code": "ART HIS 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS189HC"
+  },
+  {
+    "course_code": "ART HIS 195",
+    "units": "3",
+    "title": "Museum Studies Internship",
+    "prerequisites": [
+      "ART HIS 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS195"
+  },
+  {
+    "course_code": "ART HIS 196",
+    "units": "24",
+    "title": "Research Apprenticeship in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS196"
+  },
+  {
+    "course_code": "ART HIS 197A",
+    "units": "24",
+    "title": "Individual Studies in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS197A"
+  },
+  {
+    "course_code": "ART HIS 197B",
+    "units": "2",
+    "title": "Individual Capstone Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS197B"
+  },
+  {
+    "course_code": "ART HIS 198A",
+    "units": "4",
+    "title": "Honors Research in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS198A"
+  },
+  {
+    "course_code": "ART HIS 198B",
+    "units": "4",
+    "title": "Honors Research in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS198B"
+  },
+  {
+    "course_code": "ART HIS 199",
+    "units": "24",
+    "title": "Directed Research in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS199"
+  },
+  {
+    "course_code": "ART HIS 200",
+    "units": "4",
+    "title": "Art Historical Theories and Methodologies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS200"
+  },
+  {
+    "course_code": "ART HIS 201",
+    "units": "4",
+    "title": "Topics in Historiography of Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS201"
+  },
+  {
+    "course_code": "ART HIS 202",
+    "units": "4",
+    "title": "Topics in Theory and Criticism in Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS202"
+  },
+  {
+    "course_code": "ART HIS 203",
+    "units": "4",
+    "title": "Topics in Architectural History and Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS203"
+  },
+  {
+    "course_code": "ART HIS 207",
+    "units": "4",
+    "title": "Consortium Scholar Seminar at Getty Research Institute",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS207"
+  },
+  {
+    "course_code": "ART HIS 210",
+    "units": "4",
+    "title": "Egyptian Art",
+    "prerequisites": [
+      "ART HIS 110A",
+      "ART HIS 110B",
+      "ART HIS 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS210"
+  },
+  {
+    "course_code": "ART HIS 212A",
+    "units": "4",
+    "title": "Topics in Aegean Art",
+    "prerequisites": [
+      "ART HIS 111",
+      "ART HIS 112A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS212A"
+  },
+  {
+    "course_code": "ART HIS 212B",
+    "units": "4",
+    "title": "Topics in Classical Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS212B"
+  },
+  {
+    "course_code": "ART HIS 212C",
+    "units": "4",
+    "title": "Classical Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS212C"
+  },
+  {
+    "course_code": "ART HIS C214D",
+    "units": "4",
+    "title": "Selected Topics in Ancient Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC214D"
+  },
+  {
+    "course_code": "ART HIS C215A",
+    "units": "4",
+    "title": "Late Antique Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC215A"
+  },
+  {
+    "course_code": "ART HIS C215B",
+    "units": "4",
+    "title": "Early Medieval Art and Architecture",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC215B"
+  },
+  {
+    "course_code": "ART HIS C215D",
+    "units": "4",
+    "title": "Gothic Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC215D"
+  },
+  {
+    "course_code": "ART HIS C215F",
+    "units": "4",
+    "title": "Medieval Paris",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC215F"
+  },
+  {
+    "course_code": "ART HIS C216A",
+    "units": "4",
+    "title": "Middle Byzantine Art and Architecture",
+    "prerequisites": [
+      "None 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC216A"
+  },
+  {
+    "course_code": "ART HIS C216B",
+    "units": "4",
+    "title": "Late Byzantine Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC216B"
+  },
+  {
+    "course_code": "ART HIS C217A",
+    "units": "4",
+    "title": "Medieval Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC217A"
+  },
+  {
+    "course_code": "ART HIS C217B",
+    "units": "4",
+    "title": "Selected Topics in Medieval Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC217B"
+  },
+  {
+    "course_code": "ART HIS 217C",
+    "units": "4",
+    "title": "Medieval Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS217C"
+  },
+  {
+    "course_code": "ART HIS 217D",
+    "units": "4",
+    "title": "Byzantine Art, Architecture, and Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS217D"
+  },
+  {
+    "course_code": "ART HIS C218",
+    "units": "4",
+    "title": "Selected Topics in Armenian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC218"
+  },
+  {
+    "course_code": "ART HIS C220A",
+    "units": "4",
+    "title": "Selected Topics in Islamic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC220A"
+  },
+  {
+    "course_code": "ART HIS 220B",
+    "units": "4",
+    "title": "Advanced Studies in Islamic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS220B"
+  },
+  {
+    "course_code": "ART HIS 222A",
+    "units": "4",
+    "title": "Italian Renaissance Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS222A"
+  },
+  {
+    "course_code": "ART HIS 224A",
+    "units": "4",
+    "title": "Northern Renaissance Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS224A"
+  },
+  {
+    "course_code": "ART HIS C225",
+    "units": "4",
+    "title": "Southern Baroque Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC225"
+  },
+  {
+    "course_code": "ART HIS 225B",
+    "units": "4",
+    "title": "Early Modern Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS225B"
+  },
+  {
+    "course_code": "ART HIS C226",
+    "units": "4",
+    "title": "Selected Topics in Early Modern Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC226"
+  },
+  {
+    "course_code": "ART HIS C228A",
+    "units": "4",
+    "title": "History of Photography, 1839 to 1910",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC228A"
+  },
+  {
+    "course_code": "ART HIS C228B",
+    "units": "4",
+    "title": "History of Photography, 1910 to Present",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC228B"
+  },
+  {
+    "course_code": "ART HIS C228C",
+    "units": "4",
+    "title": "History of Photography: Selected Topics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC228C"
+  },
+  {
+    "course_code": "ART HIS 228D",
+    "units": "4",
+    "title": "History and Theory of Photography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS228D"
+  },
+  {
+    "course_code": "ART HIS C229A",
+    "units": "4",
+    "title": "Modern Art, 1900 to 1950",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC229A"
+  },
+  {
+    "course_code": "ART HIS C229B",
+    "units": "4",
+    "title": "Dada, 1915 to 1923",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC229B"
+  },
+  {
+    "course_code": "ART HIS C229C",
+    "units": "4",
+    "title": "Surrealism, 1924 to 1939",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC229C"
+  },
+  {
+    "course_code": "ART HIS 230A",
+    "units": "4",
+    "title": "European Art, 1700 to 1900",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS230A"
+  },
+  {
+    "course_code": "ART HIS M230B",
+    "units": "4",
+    "title": "Seminar: Modern European History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM230B"
+  },
+  {
+    "course_code": "ART HIS M230C",
+    "units": "4",
+    "title": "Seminar: Modern European History",
+    "prerequisites": [
+      "None 230B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM230C"
+  },
+  {
+    "course_code": "ART HIS 230D",
+    "units": "4",
+    "title": "Modern Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS230D"
+  },
+  {
+    "course_code": "ART HIS C231A",
+    "units": "4",
+    "title": "Contemporary Art, 1940s to 1950s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC231A"
+  },
+  {
+    "course_code": "ART HIS C231B",
+    "units": "4",
+    "title": "Contemporary Art, 1960s to 1970s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC231B"
+  },
+  {
+    "course_code": "ART HIS C231C",
+    "units": "4",
+    "title": "Contemporary Art, 1980s to 1990s",
+    "prerequisites": [
+      "None 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC231C"
+  },
+  {
+    "course_code": "ART HIS 232",
+    "units": "4",
+    "title": "Contemporary Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS232"
+  },
+  {
+    "course_code": "ART HIS C233A",
+    "units": "4",
+    "title": "American Art before Civil War",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC233A"
+  },
+  {
+    "course_code": "ART HIS C233B",
+    "units": "4",
+    "title": "American Art in Gilded Age, 1860 to 1900",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC233B"
+  },
+  {
+    "course_code": "ART HIS C233C",
+    "units": "4",
+    "title": "American Art, 1900 to 1945",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC233C"
+  },
+  {
+    "course_code": "ART HIS 234",
+    "units": "4",
+    "title": "American Art",
+    "prerequisites": [
+      "ART HIS 233A",
+      "ART HIS 233B",
+      "ART HIS 233C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS234"
+  },
+  {
+    "course_code": "ART HIS CM235A",
+    "units": "4",
+    "title": "African American Art before 1900",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM235A"
+  },
+  {
+    "course_code": "ART HIS CM235B",
+    "units": "4",
+    "title": "African American Art, 1900 to 1963",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM235B"
+  },
+  {
+    "course_code": "ART HIS M236",
+    "units": "4",
+    "title": "Topics in African American Art",
+    "prerequisites": [
+      "CM 235A",
+      "CM 235B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM236"
+  },
+  {
+    "course_code": "ART HIS C236A",
+    "units": "4",
+    "title": "Selected Topics in African American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC236A"
+  },
+  {
+    "course_code": "ART HIS 237",
+    "units": "4",
+    "title": "Native North American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS237"
+  },
+  {
+    "course_code": "ART HIS C239A",
+    "units": "4",
+    "title": "Maya Art and Architecture",
+    "prerequisites": [
+      "None 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC239A"
+  },
+  {
+    "course_code": "ART HIS C239B",
+    "units": "4",
+    "title": "Aztec Art and Architecture",
+    "prerequisites": [
+      "None 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC239B"
+  },
+  {
+    "course_code": "ART HIS C239C",
+    "units": "4",
+    "title": "Inca Art and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC239C"
+  },
+  {
+    "course_code": "ART HIS C240A",
+    "units": "4",
+    "title": "Selected Topics in Arts of Indigenous Americas",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC240A"
+  },
+  {
+    "course_code": "ART HIS 240B",
+    "units": "4",
+    "title": "Art and Architecture of Indigenous Americas",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS240B"
+  },
+  {
+    "course_code": "ART HIS C241",
+    "units": "4",
+    "title": "Colonial Latin American Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC241"
+  },
+  {
+    "course_code": "ART HIS C242A",
+    "units": "4",
+    "title": "Mexican Art in Modern Age",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC242A"
+  },
+  {
+    "course_code": "ART HIS C242B",
+    "units": "4",
+    "title": "Latin American Art of 20th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC242B"
+  },
+  {
+    "course_code": "ART HIS M243",
+    "units": "4",
+    "title": "Hemispheric and Transnational Approaches to Contemporary Art in Americas",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM243"
+  },
+  {
+    "course_code": "ART HIS C245A",
+    "units": "4",
+    "title": "Architecture and Urbanism in Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC245A"
+  },
+  {
+    "course_code": "ART HIS C245B",
+    "units": "4",
+    "title": "Contemporary Arts of Africa",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC245B"
+  },
+  {
+    "course_code": "ART HIS 246",
+    "units": "4",
+    "title": "African Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS246"
+  },
+  {
+    "course_code": "ART HIS C246A",
+    "units": "4",
+    "title": "Selected Topics in African Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC246A"
+  },
+  {
+    "course_code": "ART HIS 247",
+    "units": "4",
+    "title": "Oceanic Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS247"
+  },
+  {
+    "course_code": "ART HIS C248A",
+    "units": "4",
+    "title": "Art and Material Culture, Neolithic to 210 BC",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248A"
+  },
+  {
+    "course_code": "ART HIS C248B",
+    "units": "4",
+    "title": "Art and Material Culture of Early Imperial China, 210 BC to AD 906",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248B"
+  },
+  {
+    "course_code": "ART HIS C248C",
+    "units": "4",
+    "title": "Art and Material Culture of Late Imperial China, 906 to 1911",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248C"
+  },
+  {
+    "course_code": "ART HIS C248D",
+    "units": "4",
+    "title": "Advanced Chinese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248D"
+  },
+  {
+    "course_code": "ART HIS C248E",
+    "units": "4",
+    "title": "Art in Modern China",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248E"
+  },
+  {
+    "course_code": "ART HIS C248F",
+    "units": "4",
+    "title": "Advanced Chinese Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248F"
+  },
+  {
+    "course_code": "ART HIS C248G",
+    "units": "4",
+    "title": "Gardens in Chinese Art and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC248G"
+  },
+  {
+    "course_code": "ART HIS C249A",
+    "units": "4",
+    "title": "Selected Topics in Chinese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC249A"
+  },
+  {
+    "course_code": "ART HIS 249B",
+    "units": "4",
+    "title": "Chinese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS249B"
+  },
+  {
+    "course_code": "ART HIS C250",
+    "units": "4",
+    "title": "Advanced Japanese Art",
+    "prerequisites": [
+      "None 150A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC250"
+  },
+  {
+    "course_code": "ART HIS C251A",
+    "units": "4",
+    "title": "Selected Topics in Japanese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC251A"
+  },
+  {
+    "course_code": "ART HIS 251B",
+    "units": "4",
+    "title": "Japanese Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS251B"
+  },
+  {
+    "course_code": "ART HIS C252A",
+    "units": "4",
+    "title": "History of Korean Painting",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC252A"
+  },
+  {
+    "course_code": "ART HIS C252B",
+    "units": "4",
+    "title": "History of Korean Ceramics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC252B"
+  },
+  {
+    "course_code": "ART HIS C252C",
+    "units": "4",
+    "title": "History of Korean Buddhist Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC252C"
+  },
+  {
+    "course_code": "ART HIS C253A",
+    "units": "4",
+    "title": "Selected Topics in Korean Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC253A"
+  },
+  {
+    "course_code": "ART HIS 253B",
+    "units": "4",
+    "title": "Selected Topics in Korean Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS253B"
+  },
+  {
+    "course_code": "ART HIS C254A",
+    "units": "4",
+    "title": "Advanced Indian Art",
+    "prerequisites": [
+      "None 154A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC254A"
+  },
+  {
+    "course_code": "ART HIS 254B",
+    "units": "4",
+    "title": "Modern and Contemporary South Asian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS254B"
+  },
+  {
+    "course_code": "ART HIS C255A",
+    "units": "4",
+    "title": "Selected Topics in South and Southeast Asian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC255A"
+  },
+  {
+    "course_code": "ART HIS 255B",
+    "units": "4",
+    "title": "Indian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS255B"
+  },
+  {
+    "course_code": "ART HIS C258A",
+    "units": "4",
+    "title": "Selected Topics in Asian Arts and Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC258A"
+  },
+  {
+    "course_code": "ART HIS M258B",
+    "units": "4",
+    "title": "Topics in Asian Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM258B"
+  },
+  {
+    "course_code": "ART HIS 258C",
+    "units": "28",
+    "title": "Fieldwork in Archaeology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS258C"
+  },
+  {
+    "course_code": "ART HIS C260A",
+    "units": "4",
+    "title": "Art and Empire",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC260A"
+  },
+  {
+    "course_code": "ART HIS 260B",
+    "units": "4",
+    "title": "Problems in Postcolonial Criticism",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS260B"
+  },
+  {
+    "course_code": "ART HIS C269",
+    "units": "4",
+    "title": "Selected Topics in Architectural History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC269"
+  },
+  {
+    "course_code": "ART HIS C270A",
+    "units": "4",
+    "title": "Museum Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC270A"
+  },
+  {
+    "course_code": "ART HIS C270B",
+    "units": "24",
+    "title": "Museum Studies Practicum",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC270B"
+  },
+  {
+    "course_code": "ART HIS C271",
+    "units": "4",
+    "title": "Selected Topics in Museum Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC271"
+  },
+  {
+    "course_code": "ART HIS C272A",
+    "units": "4",
+    "title": "Preservation of Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC272A"
+  },
+  {
+    "course_code": "ART HIS M272B",
+    "units": "4",
+    "title": "Principles, Practice, and Ethics in Conservation of Cultural Heritage",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM272B"
+  },
+  {
+    "course_code": "ART HIS C272C",
+    "units": "4",
+    "title": "Art: Fakes, Forgeries, and Authenticity",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC272C"
+  },
+  {
+    "course_code": "ART HIS 273",
+    "units": "4",
+    "title": "Studies in Materials and Production of Artworks",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS273"
+  },
+  {
+    "course_code": "ART HIS 495",
+    "units": "14",
+    "title": "Teaching Art History",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS495"
+  },
+  {
+    "course_code": "ART HIS 496",
+    "units": "14",
+    "title": "Teaching with Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS496"
+  },
+  {
+    "course_code": "ART HIS 501",
+    "units": "28",
+    "title": "Cooperative Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS501"
+  },
+  {
+    "course_code": "ART HIS 596",
+    "units": "28",
+    "title": "Directed Individual Study or Research",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS596"
+  },
+  {
+    "course_code": "ART HIS 597",
+    "units": "212",
+    "title": "Preparation for MA Comprehensive Examination or PhD Qualifying Examinations",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS597"
+  },
+  {
+    "course_code": "ART HIS 598",
+    "units": "212",
+    "title": "Research for and Preparation of MA Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS598"
+  },
+  {
+    "course_code": "ART HIS 599",
+    "units": "212",
+    "title": "Research for and Preparation of PhD Dissertation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS599"
+  }
+]

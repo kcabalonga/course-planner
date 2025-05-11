@@ -1,0 +1,1584 @@
+[
+  {
+    "course_code": "COM SCI 1",
+    "units": "1",
+    "title": "Freshman Computer Science Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI1"
+  },
+  {
+    "course_code": "COM SCI 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI19"
+  },
+  {
+    "course_code": "COM SCI 30",
+    "units": "4",
+    "title": "Principles and Practices of Computing",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI30"
+  },
+  {
+    "course_code": "COM SCI 31",
+    "units": "4",
+    "title": "Introduction to Computer Science I",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI31"
+  },
+  {
+    "course_code": "COM SCI 32",
+    "units": "4",
+    "title": "Introduction to Computer Science II",
+    "prerequisites": [
+      "COM SCI 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI32"
+  },
+  {
+    "course_code": "COM SCI 33",
+    "units": "5",
+    "title": "Introduction to Computer Organization",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI33"
+  },
+  {
+    "course_code": "COM SCI 35L",
+    "units": "4",
+    "title": "Software Construction",
+    "prerequisites": [
+      "COM SCI 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI35L"
+  },
+  {
+    "course_code": "COM SCI M51A",
+    "units": "4",
+    "title": "Logic Design of Digital Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM51A"
+  },
+  {
+    "course_code": "COM SCI 97",
+    "units": "14",
+    "title": "Variable Topics in Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI97"
+  },
+  {
+    "course_code": "COM SCI 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI99"
+  },
+  {
+    "course_code": "COM SCI 111",
+    "units": "5",
+    "title": "Operating Systems Principles",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 33",
+      "COM SCI 35L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI111"
+  },
+  {
+    "course_code": "COM SCI 112",
+    "units": "4",
+    "title": "Modeling Uncertainty in Information Systems",
+    "prerequisites": [
+      "COM SCI 111",
+      "COM SCI 110",
+      "COM SCI 131A",
+      "COM SCI 170A",
+      "COM SCI 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI112"
+  },
+  {
+    "course_code": "COM SCI 117",
+    "units": "4",
+    "title": "Computer Networks: Physical Layer",
+    "credit_exclusions": [
+      "COM SCI M 171L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI117"
+  },
+  {
+    "course_code": "COM SCI 118",
+    "units": "4",
+    "title": "Computer Network Fundamentals",
+    "prerequisites": [
+      "COM SCI 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI118"
+  },
+  {
+    "course_code": "COM SCI M119",
+    "units": "4",
+    "title": "Fundamentals of Embedded Networked Systems",
+    "prerequisites": [
+      "None 33"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM119"
+  },
+  {
+    "course_code": "COM SCI C121",
+    "units": "4",
+    "title": "Probabilistic Models in Computational Genomics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC121"
+  },
+  {
+    "course_code": "COM SCI C122",
+    "units": "4",
+    "title": "Algorithms in Computational Genomics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC122"
+  },
+  {
+    "course_code": "COM SCI C124",
+    "units": "4",
+    "title": "Machine Learning Applications in Genetics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 33A",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC124"
+  },
+  {
+    "course_code": "COM SCI 130",
+    "units": "4",
+    "title": "Software Engineering",
+    "prerequisites": [
+      "COM SCI 111",
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI130"
+  },
+  {
+    "course_code": "COM SCI 131",
+    "units": "4",
+    "title": "Programming Languages",
+    "prerequisites": [
+      "COM SCI 33",
+      "COM SCI 35L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI131"
+  },
+  {
+    "course_code": "COM SCI 132",
+    "units": "4",
+    "title": "Compiler Construction",
+    "prerequisites": [
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI132"
+  },
+  {
+    "course_code": "COM SCI 133",
+    "units": "4",
+    "title": "Parallel and Distributed Computing",
+    "prerequisites": [
+      "COM SCI 131",
+      "COM SCI 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI133"
+  },
+  {
+    "course_code": "COM SCI 134",
+    "units": "4",
+    "title": "Distributed Systems",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI134"
+  },
+  {
+    "course_code": "COM SCI 136",
+    "units": "4",
+    "title": "Introduction to Computer Security",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI136"
+  },
+  {
+    "course_code": "COM SCI C137A",
+    "units": "4",
+    "title": "Prototyping Programming Languages",
+    "prerequisites": [
+      "None 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC137A"
+  },
+  {
+    "course_code": "COM SCI C137B",
+    "units": "4",
+    "title": "Programming Language Design",
+    "prerequisites": [
+      "None 137A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC137B"
+  },
+  {
+    "course_code": "COM SCI M138",
+    "units": "4",
+    "title": "Computer System Security",
+    "prerequisites": [
+      "None 33"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM138"
+  },
+  {
+    "course_code": "COM SCI 143",
+    "units": "4",
+    "title": "Data Management Systems",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 10C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI143"
+  },
+  {
+    "course_code": "COM SCI 144",
+    "units": "4",
+    "title": "Web Applications",
+    "prerequisites": [
+      "COM SCI 143"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI144"
+  },
+  {
+    "course_code": "COM SCI 145",
+    "units": "4",
+    "title": "Introduction to Data Mining",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI145"
+  },
+  {
+    "course_code": "COM SCI M146",
+    "units": "4",
+    "title": "Introduction to Machine Learning",
+    "prerequisites": [
+      "None 32",
+      "None 10C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM146"
+  },
+  {
+    "course_code": "COM SCI M148",
+    "units": "4",
+    "title": "Introduction to Data Science",
+    "prerequisites": [
+      "None 31",
+      "None 10A",
+      "None 10B",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM148"
+  },
+  {
+    "course_code": "COM SCI M151B",
+    "units": "4",
+    "title": "Computer Systems Architecture",
+    "prerequisites": [
+      "None 33",
+      "None 51A",
+      "None 16"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM151B"
+  },
+  {
+    "course_code": "COM SCI M152A",
+    "units": "2",
+    "title": "Introductory Digital Design Laboratory",
+    "prerequisites": [
+      "None 51A",
+      "None 16"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM152A"
+  },
+  {
+    "course_code": "COM SCI 152B",
+    "units": "4",
+    "title": "Digital Design Project Laboratory",
+    "prerequisites": [
+      "COM SCI 151B",
+      "COM SCI 116C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI152B"
+  },
+  {
+    "course_code": "COM SCI 161",
+    "units": "4",
+    "title": "Fundamentals of Artificial Intelligence",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI161"
+  },
+  {
+    "course_code": "COM SCI 162",
+    "units": "4",
+    "title": "Natural Language Processing",
+    "prerequisites": [
+      "COM SCI 145",
+      "COM SCI 146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI162"
+  },
+  {
+    "course_code": "COM SCI 163",
+    "units": "4",
+    "title": "Deep Learning for Computer Vision",
+    "prerequisites": [
+      "COM SCI 124",
+      "COM SCI 145",
+      "COM SCI 146",
+      "COM SCI 148",
+      "COM SCI 161",
+      "COM SCI 162",
+      "COM SCI 147",
+      "COM SCI 149"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI163"
+  },
+  {
+    "course_code": "COM SCI 168",
+    "units": "4",
+    "title": "Computational Methods for Medical Imaging",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 10C",
+      "COM SCI 33A",
+      "COM SCI 110",
+      "COM SCI 131A",
+      "COM SCI 170A",
+      "COM SCI 170E",
+      "COM SCI 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI168"
+  },
+  {
+    "course_code": "COM SCI 170A",
+    "units": "4",
+    "title": "Mathematical Modeling and Methods for Computer Science",
+    "prerequisites": [
+      "COM SCI 180",
+      "COM SCI 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI170A"
+  },
+  {
+    "course_code": "COM SCI M171L",
+    "units": "24",
+    "title": "Data Communication Systems Laboratory",
+    "credit_exclusions": [
+      "COM SCI 117"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM171L"
+  },
+  {
+    "course_code": "COM SCI 172",
+    "units": "4",
+    "title": "Real-Time Three-Dimensional Animation",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI172"
+  },
+  {
+    "course_code": "COM SCI 174A",
+    "units": "4",
+    "title": "Introduction to Computer Graphics",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI174A"
+  },
+  {
+    "course_code": "COM SCI 174B",
+    "units": "4",
+    "title": "Introduction to Computer Graphics: Three-Dimensional Photography and Rendering",
+    "prerequisites": [
+      "COM SCI 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI174B"
+  },
+  {
+    "course_code": "COM SCI C174C",
+    "units": "4",
+    "title": "Computer Animation",
+    "prerequisites": [
+      "None 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC174C"
+  },
+  {
+    "course_code": "COM SCI 180",
+    "units": "4",
+    "title": "Introduction to Algorithms and Complexity",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 61"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI180"
+  },
+  {
+    "course_code": "COM SCI 181",
+    "units": "4",
+    "title": "Theory of Computing",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI181"
+  },
+  {
+    "course_code": "COM SCI M182",
+    "units": "4",
+    "title": "Dynamic Biosystem Modeling and Simulation Methodology",
+    "prerequisites": [
+      "None 30A",
+      "None 30B",
+      "None 3A",
+      "None 3B",
+      "None 31A",
+      "None 31B"
+    ],
+    "corequisites": [
+      "None 3C",
+      "None 32A",
+      "None 32T"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM182"
+  },
+  {
+    "course_code": "COM SCI 183",
+    "units": "4",
+    "title": "Introduction to Cryptography",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI183"
+  },
+  {
+    "course_code": "COM SCI M184",
+    "units": "2",
+    "title": "Introduction to Computational and Systems Biology",
+    "prerequisites": [
+      "None 31",
+      "None 20",
+      "None 20",
+      "None 10A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM184"
+  },
+  {
+    "course_code": "COM SCI CM186",
+    "units": "5",
+    "title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+    "prerequisites": [
+      "None 30A",
+      "None 30B",
+      "None 32A",
+      "None 32T",
+      "None 33A",
+      "None 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM186"
+  },
+  {
+    "course_code": "COM SCI CM187",
+    "units": "4",
+    "title": "Research Communication in Computational and Systems Biology",
+    "prerequisites": [
+      "None 182",
+      "CM 186",
+      "None 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM187"
+  },
+  {
+    "course_code": "COM SCI 188",
+    "units": "4",
+    "title": "Special Courses in Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188"
+  },
+  {
+    "course_code": "COM SCI 188SA",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "COM SCI 101E"
+    ],
+    "corequisites": [
+      "COM SCI 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SA"
+  },
+  {
+    "course_code": "COM SCI 188SB",
+    "units": "1",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "COM SCI 188S"
+    ],
+    "corequisites": [
+      "COM SCI 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SB"
+  },
+  {
+    "course_code": "COM SCI 188SC",
+    "units": "2",
+    "title": "Individual Studies for USIE Facilitators",
+    "prerequisites": [
+      "COM SCI 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SC"
+  },
+  {
+    "course_code": "COM SCI 192",
+    "units": "2",
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "prerequisites": [
+      "COM SCI 192A",
+      "COM SCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI192"
+  },
+  {
+    "course_code": "COM SCI M192A",
+    "units": "1",
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM192A"
+  },
+  {
+    "course_code": "COM SCI 194",
+    "units": "4",
+    "title": "Research Group Seminars: Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI194"
+  },
+  {
+    "course_code": "COM SCI 199",
+    "units": "28",
+    "title": "Directed Research in Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI199"
+  },
+  {
+    "course_code": "COM SCI 201",
+    "units": "2",
+    "title": "Computer Science Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI201"
+  },
+  {
+    "course_code": "COM SCI 202",
+    "units": "4",
+    "title": "Advanced Computer Science Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI202"
+  },
+  {
+    "course_code": "COM SCI 205",
+    "units": "4",
+    "title": "Health Analytics",
+    "prerequisites": [
+      "COM SCI 31",
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI205"
+  },
+  {
+    "course_code": "COM SCI 211",
+    "units": "4",
+    "title": "Network Protocol and Systems Software Design for Wireless and Mobile",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI211"
+  },
+  {
+    "course_code": "COM SCI 212A",
+    "units": "4",
+    "title": "Queueing Systems Theory",
+    "prerequisites": [
+      "COM SCI 112",
+      "COM SCI 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI212A"
+  },
+  {
+    "course_code": "COM SCI M213A",
+    "units": "4",
+    "title": "Embedded Systems",
+    "prerequisites": [
+      "None 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM213A"
+  },
+  {
+    "course_code": "COM SCI M213B",
+    "units": "4",
+    "title": "Energy-Aware Computing and Cyber-Physical Systems",
+    "prerequisites": [
+      "None 51A",
+      "None 16"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM213B"
+  },
+  {
+    "course_code": "COM SCI 214",
+    "units": "4",
+    "title": "Big Data Systems",
+    "prerequisites": [
+      "COM SCI 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI214"
+  },
+  {
+    "course_code": "COM SCI 215",
+    "units": "4",
+    "title": "Internet of Things: Connectivity and Sensing",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI215"
+  },
+  {
+    "course_code": "COM SCI 216",
+    "units": "4",
+    "title": "Network Algorithmics",
+    "prerequisites": [
+      "COM SCI 211"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI216"
+  },
+  {
+    "course_code": "COM SCI 217A",
+    "units": "4",
+    "title": "Internet Architecture and Protocols",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI217A"
+  },
+  {
+    "course_code": "COM SCI 217B",
+    "units": "4",
+    "title": "Advanced Topics in Internet Research",
+    "prerequisites": [
+      "COM SCI 217A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI217B"
+  },
+  {
+    "course_code": "COM SCI 218",
+    "units": "4",
+    "title": "Advanced Computer Networks",
+    "prerequisites": [
+      "COM SCI 112",
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI218"
+  },
+  {
+    "course_code": "COM SCI 219",
+    "units": "4",
+    "title": "Current Topics in Computer System Modeling Analysis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI219"
+  },
+  {
+    "course_code": "COM SCI C221",
+    "units": "4",
+    "title": "Probabilistic Models in Computational Genomics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC221"
+  },
+  {
+    "course_code": "COM SCI C222",
+    "units": "4",
+    "title": "Algorithms in Computational Genomics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC222"
+  },
+  {
+    "course_code": "COM SCI C224",
+    "units": "4",
+    "title": "Machine Learning Applications in Genetics",
+    "prerequisites": [
+      "None 32",
+      "None 10C",
+      "None 33A",
+      "None 110",
+      "None 131A",
+      "None 170A",
+      "None 170E",
+      "None 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC224"
+  },
+  {
+    "course_code": "COM SCI 225",
+    "units": "4",
+    "title": "Methods and Applications in Computational Genomics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI225"
+  },
+  {
+    "course_code": "COM SCI 226",
+    "units": "4",
+    "title": "Machine Learning in Computational Genomics",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 10C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI226"
+  },
+  {
+    "course_code": "COM SCI 229S",
+    "units": "4",
+    "title": "Seminar: Current Topics in Computational Genomics",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI229S"
+  },
+  {
+    "course_code": "COM SCI 230",
+    "units": "4",
+    "title": "Software Engineering",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI230"
+  },
+  {
+    "course_code": "COM SCI 231",
+    "units": "4",
+    "title": "Types and Programming Languages",
+    "prerequisites": [
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI231"
+  },
+  {
+    "course_code": "COM SCI 232",
+    "units": "4",
+    "title": "Static Program Analysis",
+    "prerequisites": [
+      "COM SCI 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI232"
+  },
+  {
+    "course_code": "COM SCI 233A",
+    "units": "4",
+    "title": "Parallel Programming",
+    "prerequisites": [
+      "COM SCI 111",
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI233A"
+  },
+  {
+    "course_code": "COM SCI 233B",
+    "units": "4",
+    "title": "Verification of Concurrent Programs",
+    "prerequisites": [
+      "COM SCI 233A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI233B"
+  },
+  {
+    "course_code": "COM SCI 234",
+    "units": "4",
+    "title": "Computer-Aided Verification",
+    "prerequisites": [
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI234"
+  },
+  {
+    "course_code": "COM SCI 235",
+    "units": "4",
+    "title": "Advanced Operating Systems",
+    "prerequisites": [
+      "COM SCI 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI235"
+  },
+  {
+    "course_code": "COM SCI 236",
+    "units": "4",
+    "title": "Computer Security",
+    "prerequisites": [
+      "COM SCI 111",
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI236"
+  },
+  {
+    "course_code": "COM SCI C237A",
+    "units": "4",
+    "title": "Prototyping Programming Languages",
+    "prerequisites": [
+      "None 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC237A"
+  },
+  {
+    "course_code": "COM SCI C237B",
+    "units": "4",
+    "title": "Programming Language Design",
+    "prerequisites": [
+      "None 237A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC237B"
+  },
+  {
+    "course_code": "COM SCI M238",
+    "units": "4",
+    "title": "Quantum Programming",
+    "prerequisites": [
+      "None 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM238"
+  },
+  {
+    "course_code": "COM SCI 238B",
+    "units": "4",
+    "title": "Quantum Algorithms",
+    "prerequisites": [
+      "COM SCI 238"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI238B"
+  },
+  {
+    "course_code": "COM SCI 239",
+    "units": "4",
+    "title": "Current Topics in Computer Science: Programming Languages and Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI239"
+  },
+  {
+    "course_code": "COM SCI 240A",
+    "units": "4",
+    "title": "Databases and Knowledge Bases",
+    "prerequisites": [
+      "COM SCI 143"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI240A"
+  },
+  {
+    "course_code": "COM SCI 240B",
+    "units": "4",
+    "title": "Advanced Data and Knowledge Bases",
+    "prerequisites": [
+      "COM SCI 143",
+      "COM SCI 240A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI240B"
+  },
+  {
+    "course_code": "COM SCI 241B",
+    "units": "4",
+    "title": "Pictorial and Multimedia Database Management",
+    "prerequisites": [
+      "COM SCI 143"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI241B"
+  },
+  {
+    "course_code": "COM SCI 244A",
+    "units": "4",
+    "title": "Distributed Database Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI244A"
+  },
+  {
+    "course_code": "COM SCI 245",
+    "units": "4",
+    "title": "Big Data Analytics",
+    "prerequisites": [
+      "COM SCI 143",
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI245"
+  },
+  {
+    "course_code": "COM SCI 246",
+    "units": "4",
+    "title": "Web Information Management",
+    "prerequisites": [
+      "COM SCI 112",
+      "COM SCI 143",
+      "COM SCI 180",
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI246"
+  },
+  {
+    "course_code": "COM SCI 247",
+    "units": "4",
+    "title": "Advanced Data Mining",
+    "prerequisites": [
+      "COM SCI 145",
+      "COM SCI 146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI247"
+  },
+  {
+    "course_code": "COM SCI 249",
+    "units": "4",
+    "title": "Current Topics in Data Structures",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI249"
+  },
+  {
+    "course_code": "COM SCI 251A",
+    "units": "4",
+    "title": "Advanced Computer Architecture",
+    "prerequisites": [
+      "COM SCI 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI251A"
+  },
+  {
+    "course_code": "COM SCI 251B",
+    "units": "4",
+    "title": "Parallel Computer Architectures",
+    "prerequisites": [
+      "COM SCI 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI251B"
+  },
+  {
+    "course_code": "COM SCI 252A",
+    "units": "4",
+    "title": "Arithmetic Algorithms and Processors",
+    "prerequisites": [
+      "COM SCI 251A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI252A"
+  },
+  {
+    "course_code": "COM SCI 256A",
+    "units": "4",
+    "title": "Advanced Scalable Architectures",
+    "prerequisites": [
+      "COM SCI 151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI256A"
+  },
+  {
+    "course_code": "COM SCI M258A",
+    "units": "4",
+    "title": "Design of VLSI Circuits and Systems",
+    "prerequisites": [
+      "None 51A",
+      "None 16",
+      "None 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM258A"
+  },
+  {
+    "course_code": "COM SCI M258C",
+    "units": "4",
+    "title": "LSI in Computer System Design",
+    "prerequisites": [
+      "None 258A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM258C"
+  },
+  {
+    "course_code": "COM SCI 258F",
+    "units": "4",
+    "title": "Physical Design Automation of VLSI Systems",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI258F"
+  },
+  {
+    "course_code": "COM SCI 258G",
+    "units": "4",
+    "title": "Logic Synthesis of Digital Systems",
+    "prerequisites": [
+      "COM SCI 51A",
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI258G"
+  },
+  {
+    "course_code": "COM SCI 258H",
+    "units": "4",
+    "title": "Analysis and Design of High-Speed VLSI Interconnects",
+    "prerequisites": [
+      "COM SCI 258A",
+      "COM SCI 258F"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI258H"
+  },
+  {
+    "course_code": "COM SCI 259",
+    "units": "4",
+    "title": "Current Topics in Computer Science: System Design/Architecture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI259"
+  },
+  {
+    "course_code": "COM SCI 260",
+    "units": "4",
+    "title": "Machine Learning Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI260"
+  },
+  {
+    "course_code": "COM SCI 260B",
+    "units": "4",
+    "title": "Algorithmic Machine Learning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI260B"
+  },
+  {
+    "course_code": "COM SCI 260C",
+    "units": "4",
+    "title": "Deep Learning",
+    "prerequisites": [
+      "COM SCI 180",
+      "COM SCI 260"
+    ],
+    "credit_exclusions": [
+      "EC ENGR C 147",
+      "EC ENGR C 247"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI260C"
+  },
+  {
+    "course_code": "COM SCI 260D",
+    "units": "4",
+    "title": "Large-Scale Machine Learning",
+    "prerequisites": [
+      "COM SCI 180",
+      "COM SCI 260"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI260D"
+  },
+  {
+    "course_code": "COM SCI 260R",
+    "units": "4",
+    "title": "Reinforcement Learning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI260R"
+  },
+  {
+    "course_code": "COM SCI 261",
+    "units": "4",
+    "title": "Deep Generative Models",
+    "prerequisites": [
+      "COM SCI 146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI261"
+  },
+  {
+    "course_code": "COM SCI 261A",
+    "units": "4",
+    "title": "Problem Solving and Search",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI261A"
+  },
+  {
+    "course_code": "COM SCI 262A",
+    "units": "4",
+    "title": "Learning and Reasoning with Bayesian Networks",
+    "prerequisites": [
+      "COM SCI 112",
+      "COM SCI 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI262A"
+  },
+  {
+    "course_code": "COM SCI M262C",
+    "units": "4",
+    "title": "Current Topics in Causal Modeling, Inference, and Reasoning",
+    "prerequisites": [
+      "None 262A",
+      "None 200B",
+      "None 202B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM262C"
+  },
+  {
+    "course_code": "COM SCI 262Z",
+    "units": "4",
+    "title": "Current Topics in Cognitive Systems",
+    "prerequisites": [
+      "COM SCI 262A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI262Z"
+  },
+  {
+    "course_code": "COM SCI 263",
+    "units": "4",
+    "title": "Natural Language Processing",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI263"
+  },
+  {
+    "course_code": "COM SCI 263A",
+    "units": "4",
+    "title": "Language and Thought",
+    "prerequisites": [
+      "COM SCI 130",
+      "COM SCI 131",
+      "COM SCI 161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI263A"
+  },
+  {
+    "course_code": "COM SCI 263C",
+    "units": "4",
+    "title": "Animats-Based Modeling",
+    "prerequisites": [
+      "COM SCI 130",
+      "COM SCI 131",
+      "COM SCI 161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI263C"
+  },
+  {
+    "course_code": "COM SCI 264A",
+    "units": "4",
+    "title": "Automated Reasoning: Theory and Applications",
+    "prerequisites": [
+      "COM SCI 161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI264A"
+  },
+  {
+    "course_code": "COM SCI 265A",
+    "units": "4",
+    "title": "Machine Learning",
+    "prerequisites": [
+      "COM SCI 263A",
+      "COM SCI 264A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI265A"
+  },
+  {
+    "course_code": "COM SCI M266A",
+    "units": "4",
+    "title": "Statistical Modeling and Learning in Vision and Cognition",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM266A"
+  },
+  {
+    "course_code": "COM SCI M266B",
+    "units": "4",
+    "title": "Statistical Computing and Inference in Vision and Cognition",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM266B"
+  },
+  {
+    "course_code": "COM SCI 267A",
+    "units": "4",
+    "title": "Probabilistic Programming and Relational Learning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI267A"
+  },
+  {
+    "course_code": "COM SCI M268",
+    "units": "4",
+    "title": "Machine Perception",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM268"
+  },
+  {
+    "course_code": "COM SCI 268S",
+    "units": "2",
+    "title": "Seminar: Computational Neuroscience",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI268S"
+  },
+  {
+    "course_code": "COM SCI 269",
+    "units": "4",
+    "title": "Seminar: Current Topics in Artificial Intelligence",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI269"
+  },
+  {
+    "course_code": "COM SCI C274C",
+    "units": "4",
+    "title": "Computer Animation",
+    "prerequisites": [
+      "None 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC274C"
+  },
+  {
+    "course_code": "COM SCI 275",
+    "units": "4",
+    "title": "Artificial Life for Computer Graphics and Vision",
+    "prerequisites": [
+      "COM SCI 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI275"
+  },
+  {
+    "course_code": "COM SCI M276A",
+    "units": "4",
+    "title": "Pattern Recognition and Machine Learning",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM276A"
+  },
+  {
+    "course_code": "COM SCI 280A",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280A"
+  },
+  {
+    "course_code": "COM SCI 280AP",
+    "units": "4",
+    "title": "Algorithms: Approximation Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280AP"
+  },
+  {
+    "course_code": "COM SCI 280CO",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280CO"
+  },
+  {
+    "course_code": "COM SCI 280D",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280D"
+  },
+  {
+    "course_code": "COM SCI 280DA",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280DA"
+  },
+  {
+    "course_code": "COM SCI 280DP",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280DP"
+  },
+  {
+    "course_code": "COM SCI 280G",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280G"
+  },
+  {
+    "course_code": "COM SCI 280P",
+    "units": "4",
+    "title": "Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI280P"
+  },
+  {
+    "course_code": "COM SCI 281A",
+    "units": "4",
+    "title": "Computability and Complexity",
+    "prerequisites": [
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI281A"
+  },
+  {
+    "course_code": "COM SCI M282A",
+    "units": "4",
+    "title": "Cryptography",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM282A"
+  },
+  {
+    "course_code": "COM SCI M282B",
+    "units": "4",
+    "title": "Cryptographic Protocols",
+    "prerequisites": [
+      "None 282A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM282B"
+  },
+  {
+    "course_code": "COM SCI M283A",
+    "units": "4",
+    "title": "Topics in Applied Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM283A"
+  },
+  {
+    "course_code": "COM SCI M283B",
+    "units": "4",
+    "title": "Topics in Applied Number Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM283B"
+  },
+  {
+    "course_code": "COM SCI 284A",
+    "units": "4",
+    "title": "Topics in Automata and Languages",
+    "prerequisites": [
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI284A"
+  },
+  {
+    "course_code": "COM SCI 284C",
+    "units": "4",
+    "title": "Topics in Automata and Languages",
+    "prerequisites": [
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI284C"
+  },
+  {
+    "course_code": "COM SCI 284P",
+    "units": "4",
+    "title": "Topics in Automata and Languages",
+    "prerequisites": [
+      "COM SCI 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI284P"
+  },
+  {
+    "course_code": "COM SCI 285CC",
+    "units": "4",
+    "title": "Communication Complexity",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI285CC"
+  },
+  {
+    "course_code": "COM SCI CM286",
+    "units": "5",
+    "title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+    "prerequisites": [
+      "None 30A",
+      "None 30B",
+      "None 32A",
+      "None 32T",
+      "None 33A",
+      "None 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM286"
+  },
+  {
+    "course_code": "COM SCI CM287",
+    "units": "4",
+    "title": "Research Communication in Computational and Systems Biology",
+    "prerequisites": [
+      "None 182",
+      "CM 286",
+      "None 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM287"
+  },
+  {
+    "course_code": "COM SCI 288S",
+    "units": "2",
+    "title": "Seminar: Theoretical Computer Science",
+    "prerequisites": [
+      "COM SCI 280A",
+      "COM SCI 281A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI288S"
+  },
+  {
+    "course_code": "COM SCI 289A",
+    "units": "4",
+    "title": "Current Topics in Computer Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289A"
+  },
+  {
+    "course_code": "COM SCI 289CO",
+    "units": "4",
+    "title": "Current Topics in Computer Theory: Complexity Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289CO"
+  },
+  {
+    "course_code": "COM SCI 289L",
+    "units": "4",
+    "title": "Current Topics in Computer Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289L"
+  },
+  {
+    "course_code": "COM SCI 289OA",
+    "units": "4",
+    "title": "Current Topics in Computer Theory: Online Algorithms",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289OA"
+  },
+  {
+    "course_code": "COM SCI 289P",
+    "units": "4",
+    "title": "Current Topics in Computer Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289P"
+  },
+  {
+    "course_code": "COM SCI 289RA",
+    "units": "4",
+    "title": "Current Topics in Computer Theory: Randomized Algorithms",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289RA"
+  },
+  {
+    "course_code": "COM SCI 289SG",
+    "units": "4",
+    "title": "Current Topics in Computer Theory",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI289SG"
+  },
+  {
+    "course_code": "COM SCI M296A",
+    "units": "4",
+    "title": "Advanced Modeling Methodology for Dynamic Biomedical Systems",
+    "prerequisites": [
+      "None 141",
+      "None 142",
+      "None 115A",
+      "None 171A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM296A"
+  },
+  {
+    "course_code": "COM SCI M296B",
+    "units": "4",
+    "title": "Optimal Parameter Estimation and Experiment Design for Biomedical Systems",
+    "prerequisites": [
+      "CM 286",
+      "None 296A",
+      "None 220"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM296B"
+  },
+  {
+    "course_code": "COM SCI M296C",
+    "units": "4",
+    "title": "Advanced Topics and Research in Biomedical Systems Modeling and Computing",
+    "prerequisites": [
+      "None 296B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM296C"
+  },
+  {
+    "course_code": "COM SCI M296D",
+    "units": "4",
+    "title": "Introduction to Computational Cardiology",
+    "prerequisites": [
+      "CM 186"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM296D"
+  },
+  {
+    "course_code": "COM SCI 298",
+    "units": "24",
+    "title": "Research Seminar: Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI298"
+  },
+  {
+    "course_code": "COM SCI 495",
+    "units": "2",
+    "title": "Teaching Assistant Training Seminar",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI495"
+  },
+  {
+    "course_code": "COM SCI 495B",
+    "units": "2",
+    "title": "Teaching with Technology",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI495B"
+  },
+  {
+    "course_code": "COM SCI 497D",
+    "units": "4",
+    "title": "Field Projects in Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI497D"
+  },
+  {
+    "course_code": "COM SCI 497E",
+    "units": "4",
+    "title": "Field Projects in Computer Science",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI497E"
+  },
+  {
+    "course_code": "COM SCI 596",
+    "units": "18",
+    "title": "Directed Individual or Tutorial Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI596"
+  },
+  {
+    "course_code": "COM SCI 597A",
+    "units": "212",
+    "title": "Preparation for MS Comprehensive Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI597A"
+  },
+  {
+    "course_code": "COM SCI 597B",
+    "units": "216",
+    "title": "Preparation for PhD Preliminary Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI597B"
+  },
+  {
+    "course_code": "COM SCI 597C",
+    "units": "216",
+    "title": "Preparation for PhD Oral Qualifying Examination",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI597C"
+  },
+  {
+    "course_code": "COM SCI 598",
+    "units": "212",
+    "title": "Research for and Preparation of MS Thesis",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI598"
+  },
+  {
+    "course_code": "COM SCI 599",
+    "units": "216",
+    "title": "Research for and Preparation of PhD Dissertation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI599"
+  }
+]

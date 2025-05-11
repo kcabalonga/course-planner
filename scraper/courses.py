@@ -18,6 +18,16 @@ SUBJECT_NORMALIZATION = {
     "Sociology": "SOC",
     "Statistics": "STATS",
     "Program in Computing": "PIC",
+    "Honors Collegium": "HNRS",
+    "Ethnomusicology": "ETHNMUS",
+    "English Composition": "ENGCOMP",
+    "Education": "EDUC",
+    "Architecture and Urban Design": "ARCH&UD",
+    "Anthropology": "ANTHRO",
+    "Classics": "CLASSIC",
+    "Archaeology": "ARCHAEOL",
+    "Life Sciences": "LIFESCI",
+    "Aerospace Studies": "AERO ST"
 }
 
 def extract_course_links(page):
@@ -34,9 +44,11 @@ def extract_course_details(page):
 
     h5_elements = page.query_selector_all("h5")
     course_code = h5_elements[0].inner_text().strip()
-    units = h5_elements[1].inner_text().strip()
+    units_raw = h5_elements[1].inner_text().strip()
+    units_match = re.search(r"\d+", units_raw)
+    units = int(units_match.group()) if units_match else None
     course["course_code"] = course_code
-    course["units"] = re.sub(r"[^\d]", "", units)
+    course["units"] = units
 
     title_element = page.query_selector("h2")
     title = title_element.inner_text().strip()
@@ -44,6 +56,7 @@ def extract_course_details(page):
 
     desc_block = page.query_selector("div.readmore-content-wrapper p")
     desc = desc_block.inner_text().strip() if desc_block else ""
+    course["description"] = desc
 
     requirement_elements = page.query_selector('[id="UniversityandCollege/SchoolRequirements"]')
     if requirement_elements:
@@ -90,8 +103,16 @@ def extract_course_details(page):
         if equivalent_lines and equivalent_lines[0].lower().startswith("equivalent courses"):
             equivalent_lines = equivalent_lines[1:]
         cleaned_text = "\n".join(equivalent_lines).strip()
-        print(f"📘 Equivalent courses raw: {cleaned_text}")
         course["equivalent_courses"] = normalize_text(cleaned_text, course_code)
+    
+    multiple_block = page.query_selector("#Multiple-ListedCourses")
+    if multiple_block:
+        multiple_text = multiple_block.inner_text().strip()
+        multiple_lines = multiple_text.splitlines()
+        if multiple_lines and multiple_lines[0].lower().startswith("multiple-listed courses"):
+            multiple_lines = multiple_lines[1:]
+        cleaned_text = "\n".join(multiple_lines).strip()
+        course["cross_listed"] = normalize_text(cleaned_text, course_code)
 
     return course
 
@@ -99,18 +120,29 @@ def normalize_text(text, course_code=None):
     fallback_subject = None
 
     if course_code:
-        match = re.match(r"([A-Z ]+)\s+\d+", course_code)
+        match = re.match(r"([A-Z& ]+)\s+[A-Z]{0,2}\d+[A-Z]?", course_code)
         if match:
             fallback_subject = match.group(1).strip()
 
-    matches = re.findall(r"([A-Z][A-Z ]+)?\s?(\d+[A-Z]?)", text)
-    normalized = []
+    text = re.sub(r"\b[Cc]ourse\s+([A-Z]{0,2}\d+[A-Z]?)", lambda m: f"{fallback_subject} {m.group(1)}", text)
 
-    for subject, number in matches:
-        subject = subject.strip() if subject else fallback_subject
+    matches = re.findall(r"([A-Z& ]+)?\s+([A-Z]{0,2})?(\d+[A-Z]?)", text)
+    normalized = []
+    current_subject = fallback_subject
+
+    for subject, prefix, number in matches:
+        subject = subject.strip() if subject else current_subject
+
+        if not subject or subject.lower() == "none":
+            continue
+
         if subject in SUBJECT_NORMALIZATION:
             subject = SUBJECT_NORMALIZATION[subject]
-        normalized.append(f"{subject} {number}")
+
+        current_subject = subject
+
+        course_num = f"{prefix}{number}".strip()
+        normalized.append(f"{subject} {course_num}")
 
     return normalized
 
@@ -130,7 +162,7 @@ def scrape_department_courses(page, dept_code):
         next_button = page.query_selector("button[aria-label='Go forward 1 page in results']")
         if next_button and not next_button.is_disabled():
             next_button.click()
-            time.sleep(1.5)
+            time.sleep(1)
         else:
             break
 
@@ -140,7 +172,7 @@ def scrape_department_courses(page, dept_code):
     for url in all_links:
         try:
             page.goto(url)
-            time.sleep(1.5)
+            time.sleep(1)
             details = extract_course_details(page)
             details["url"] = url
             course_data.append(details)
@@ -150,7 +182,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["ARCH&UD", "ARMENIA", "ART", ] 
+    departments = ["AERO ST"] 
 
     os.makedirs("data", exist_ok=True)
 
@@ -166,7 +198,7 @@ def main():
             print(f"Saved {len(data)} courses to {filename}")
 
         browser.close()
-        print("\n✅ All departments scraped.")
+        print("\nAll departments scraped.")
 
 if __name__ == "__main__":
     main()

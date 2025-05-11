@@ -1,0 +1,496 @@
+[
+  {
+    "course_code": "ARMENIA 19",
+    "units": "1",
+    "title": "Fiat Lux Freshman Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA19"
+  },
+  {
+    "course_code": "ARMENIA 89",
+    "units": "1",
+    "title": "Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA89"
+  },
+  {
+    "course_code": "ARMENIA 89HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA89HC"
+  },
+  {
+    "course_code": "ARMENIA 99",
+    "units": "12",
+    "title": "Student Research Program",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA99"
+  },
+  {
+    "course_code": "ARMENIA 101A",
+    "units": "5",
+    "title": "Elementary Modern Western Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101A"
+  },
+  {
+    "course_code": "ARMENIA 101B",
+    "units": "5",
+    "title": "Elementary Modern Western Armenian",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ARMENIA 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101B"
+  },
+  {
+    "course_code": "ARMENIA 101C",
+    "units": "5",
+    "title": "Elementary Modern Western Armenian",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ARMENIA 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101C"
+  },
+  {
+    "course_code": "ARMENIA 102A",
+    "units": "5",
+    "title": "Intermediate Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102A"
+  },
+  {
+    "course_code": "ARMENIA 102B",
+    "units": "5",
+    "title": "Intermediate Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102B"
+  },
+  {
+    "course_code": "ARMENIA 102C",
+    "units": "5",
+    "title": "Intermediate Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102C"
+  },
+  {
+    "course_code": "ARMENIA 103A",
+    "units": "4",
+    "title": "Advanced Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103A"
+  },
+  {
+    "course_code": "ARMENIA 103B",
+    "units": "4",
+    "title": "Advanced Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103B"
+  },
+  {
+    "course_code": "ARMENIA 103C",
+    "units": "4",
+    "title": "Advanced Modern Western Armenian",
+    "prerequisites": [
+      "ARMENIA 103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103C"
+  },
+  {
+    "course_code": "ARMENIA 104A",
+    "units": "5",
+    "title": "Elementary Modern Eastern Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104A"
+  },
+  {
+    "course_code": "ARMENIA 104B",
+    "units": "5",
+    "title": "Elementary Modern Eastern Armenian",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ARMENIA 104A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104B"
+  },
+  {
+    "course_code": "ARMENIA 104C",
+    "units": "5",
+    "title": "Elementary Modern Eastern Armenian",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ARMENIA 104B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104C"
+  },
+  {
+    "course_code": "ARMENIA 105A",
+    "units": "5",
+    "title": "Intermediate Modern Eastern Armenian",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105A"
+  },
+  {
+    "course_code": "ARMENIA 105B",
+    "units": "5",
+    "title": "Intermediate Modern Eastern Armenian",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105B"
+  },
+  {
+    "course_code": "ARMENIA 105C",
+    "units": "5",
+    "title": "Intermediate Modern Eastern Armenian",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105C"
+  },
+  {
+    "course_code": "ARMENIA 106A",
+    "units": "4",
+    "title": "Armenian Society and Culture",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106A"
+  },
+  {
+    "course_code": "ARMENIA 106B",
+    "units": "4",
+    "title": "Armenian Society and Culture",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106B"
+  },
+  {
+    "course_code": "ARMENIA 106C",
+    "units": "4",
+    "title": "Armenian Society and Culture",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106C"
+  },
+  {
+    "course_code": "ARMENIA 110",
+    "units": "4",
+    "title": "History of Armenian Language",
+    "prerequisites": [
+      "ARMENIA 1C",
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA110"
+  },
+  {
+    "course_code": "ARMENIA 120",
+    "units": "4",
+    "title": "Language in Diaspora: Armenian as a Heritage Language",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA120"
+  },
+  {
+    "course_code": "ARMENIA 130",
+    "units": "4",
+    "title": "Armenian Civilization under Bagratid Dynasty, 884 to 1064",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA130"
+  },
+  {
+    "course_code": "ARMENIA 131",
+    "units": "4",
+    "title": "Armenian Civilization in Cilician Period, 1080 to 1375",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA131"
+  },
+  {
+    "course_code": "ARMENIA M134",
+    "units": "4",
+    "title": "Introduction to Armenian Music",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM134"
+  },
+  {
+    "course_code": "ARMENIA 150A",
+    "units": "4",
+    "title": "Survey of Armenian Literature in English",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA150A"
+  },
+  {
+    "course_code": "ARMENIA C151",
+    "units": "4",
+    "title": "Armenian Literature and Canon Formation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC151"
+  },
+  {
+    "course_code": "ARMENIA C152",
+    "units": "4",
+    "title": "Modern Armenian Drama as Vehicle for Social Critique",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC152"
+  },
+  {
+    "course_code": "ARMENIA C153",
+    "units": "4",
+    "title": "Art, Politics, and Nationalism in Modern Armenian Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC153"
+  },
+  {
+    "course_code": "ARMENIA C155",
+    "units": "4",
+    "title": "Issues in Armenian American Literature and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC155"
+  },
+  {
+    "course_code": "ARMENIA 160A",
+    "units": "4",
+    "title": "Armenian Literature of 19th and 20th Centuries",
+    "prerequisites": [
+      "ARMENIA 102A",
+      "ARMENIA 102B",
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA160A"
+  },
+  {
+    "course_code": "ARMENIA 160B",
+    "units": "4",
+    "title": "Armenian Literature of 19th and 20th Centuries",
+    "prerequisites": [
+      "ARMENIA 102A",
+      "ARMENIA 102B",
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA160B"
+  },
+  {
+    "course_code": "ARMENIA C166",
+    "units": "5",
+    "title": "Armenian Film and Culture",
+    "prerequisites": [
+      "None 1C",
+      "None 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC166"
+  },
+  {
+    "course_code": "ARMENIA 170",
+    "units": "4",
+    "title": "Armenian Poetry, 1880 to 1930",
+    "prerequisites": [
+      "ARMENIA 1C",
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA170"
+  },
+  {
+    "course_code": "ARMENIA 171",
+    "units": "4",
+    "title": "Variable Topics in Armenian Studies",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA171"
+  },
+  {
+    "course_code": "ARMENIA M172",
+    "units": "4",
+    "title": "Medieval Armenian Art",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM172"
+  },
+  {
+    "course_code": "ARMENIA M173",
+    "units": "4",
+    "title": "Armenian Painting, 17th to 20th Century",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM173"
+  },
+  {
+    "course_code": "ARMENIA 188",
+    "units": "4",
+    "title": "Variable Topics in Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA188"
+  },
+  {
+    "course_code": "ARMENIA 189",
+    "units": "1",
+    "title": "Advanced Honors Seminars",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA189"
+  },
+  {
+    "course_code": "ARMENIA 189HC",
+    "units": "1",
+    "title": "Honors Contracts",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA189HC"
+  },
+  {
+    "course_code": "ARMENIA 197",
+    "units": "24",
+    "title": "Individual Studies in Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA197"
+  },
+  {
+    "course_code": "ARMENIA 199",
+    "units": "24",
+    "title": "Directed Research or Senior Project in Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA199"
+  },
+  {
+    "course_code": "ARMENIA 230A",
+    "units": "4",
+    "title": "Elementary Classical Armenian",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA230A"
+  },
+  {
+    "course_code": "ARMENIA 230B",
+    "units": "4",
+    "title": "Elementary Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 230A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA230B"
+  },
+  {
+    "course_code": "ARMENIA 230C",
+    "units": "4",
+    "title": "Elementary Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 230B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA230C"
+  },
+  {
+    "course_code": "ARMENIA 231A",
+    "units": "4",
+    "title": "Intermediate Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 230C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA231A"
+  },
+  {
+    "course_code": "ARMENIA 231B",
+    "units": "4",
+    "title": "Intermediate Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 230C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA231B"
+  },
+  {
+    "course_code": "ARMENIA 231C",
+    "units": "4",
+    "title": "Intermediate Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 230C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA231C"
+  },
+  {
+    "course_code": "ARMENIA 232A",
+    "units": "4",
+    "title": "Advanced Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 231A",
+      "ARMENIA 231B",
+      "ARMENIA 231C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA232A"
+  },
+  {
+    "course_code": "ARMENIA 232B",
+    "units": "4",
+    "title": "Advanced Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 231A",
+      "ARMENIA 231B",
+      "ARMENIA 231C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA232B"
+  },
+  {
+    "course_code": "ARMENIA 232C",
+    "units": "4",
+    "title": "Advanced Classical Armenian",
+    "prerequisites": [
+      "ARMENIA 231A",
+      "ARMENIA 231B",
+      "ARMENIA 231C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA232C"
+  },
+  {
+    "course_code": "ARMENIA 250A",
+    "units": "4",
+    "title": "Seminar: Armenian Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA250A"
+  },
+  {
+    "course_code": "ARMENIA 250B",
+    "units": "4",
+    "title": "Seminar: Armenian Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA250B"
+  },
+  {
+    "course_code": "ARMENIA C251",
+    "units": "4",
+    "title": "Armenian Literature and Canon Formation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC251"
+  },
+  {
+    "course_code": "ARMENIA C252",
+    "units": "4",
+    "title": "Modern Armenian Drama as Vehicle for Social Critique",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC252"
+  },
+  {
+    "course_code": "ARMENIA C253",
+    "units": "4",
+    "title": "Art, Politics, and Nationalism in Modern Armenian Literature",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC253"
+  },
+  {
+    "course_code": "ARMENIA C255",
+    "units": "4",
+    "title": "Issues in Armenian American Literature and Culture",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC255"
+  },
+  {
+    "course_code": "ARMENIA C266",
+    "units": "5",
+    "title": "Armenian Film and Culture",
+    "prerequisites": [
+      "None 1C",
+      "None 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC266"
+  },
+  {
+    "course_code": "ARMENIA 596",
+    "units": "28",
+    "title": "Directed Individual Study",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA596"
+  },
+  {
+    "course_code": "ARMENIA 597",
+    "units": "28",
+    "title": "Examination Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA597"
+  },
+  {
+    "course_code": "ARMENIA 599",
+    "units": "28",
+    "title": "PhD Dissertation Research and Preparation",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA599"
+  }
+]
