@@ -1,0 +1,23 @@
+[
+  {
+    "course_code": "FAM MED 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FAMMED19"
+  },
+  {
+    "course_code": "FAM MED 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FAMMED99"
+  },
+  {
+    "course_code": "FAM MED 199",
+    "units": 2,
+    "title": "Directed Research in Family Medicine",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FAMMED199"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "course_code": "INDO 1",
+    "units": 5,
+    "title": "Introductory Indonesian",
+    "description": "Lecture, three hours; discussion, two hours. Not open to students who have learned enough Indonesian to qualify for more advanced courses. Coverage of basic Indonesian grammar, with equal emphasis on reading, writing, listening, and speaking skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO1"
+  },
+  {
+    "course_code": "INDO 2",
+    "units": 5,
+    "title": "Introductory Indonesian",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 1 with grade of C or better. Not open to students who have learned enough Indonesian to qualify for more advanced courses. Coverage of basic Indonesian grammar, with equal emphasis on reading, writing, listening, and speaking skills. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "INDO 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO2"
+  },
+  {
+    "course_code": "INDO 3",
+    "units": 5,
+    "title": "Introductory Indonesian",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 2 with grade of C or better. Not open to students who have learned enough Indonesian to qualify for more advanced courses. Coverage of basic Indonesian grammar, with equal emphasis on reading, writing, listening, and speaking skills. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "INDO 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO3"
+  },
+  {
+    "course_code": "INDO 4",
+    "units": 5,
+    "title": "Intermediate Indonesian",
+    "description": "Lecture, five hours. Designed to expand language skills acquired in introductory courses and to equip students with good command of communicative competence in Indonesian. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO4"
+  },
+  {
+    "course_code": "INDO 5",
+    "units": 5,
+    "title": "Intermediate Indonesian",
+    "description": "Lecture, five hours. Enforced requisite: course 4 with grade of C or better. Designed to expand language skills acquired in introductory courses and to equip students with good command of communicative competence in Indonesian. P/NP or letter grading.",
+    "prerequisites": [
+      "INDO 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO5"
+  },
+  {
+    "course_code": "INDO 6",
+    "units": 5,
+    "title": "Intermediate Indonesian",
+    "description": "Lecture, five hours. Enforced requisite: course 5. Designed to expand language skills acquired in introductory courses and to equip students with good command of communicative competence in Indonesian. P/NP or letter grading.",
+    "prerequisites": [
+      "INDO 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO6"
+  },
+  {
+    "course_code": "INDO 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO19"
+  },
+  {
+    "course_code": "INDO 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO89"
+  },
+  {
+    "course_code": "INDO 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO89HC"
+  },
+  {
+    "course_code": "INDO 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO99"
+  },
+  {
+    "course_code": "INDO 100A",
+    "units": 4,
+    "title": "Advanced Indonesian",
+    "description": "Lecture, three hours. Course 100A with grade of C or better is requisite to 100B; course 100B with grade of C or better is requisite to 100C. Preparation for more advanced study of specialized academic subjects, including but not limited to social sciences and humanities. Students read authentic materials in Indonesian concerning various issues. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO100A"
+  },
+  {
+    "course_code": "INDO 100B",
+    "units": 4,
+    "title": "Advanced Indonesian",
+    "description": "Lecture, three hours. Requisite: course 100A with grade of C or better. Preparation for more advanced study of specialized academic subjects, including but not limited to social sciences and humanities. Students read authentic materials in Indonesian concerning various issues. P/NP or letter grading.",
+    "prerequisites": [
+      "INDO 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO100B"
+  },
+  {
+    "course_code": "INDO 100C",
+    "units": 4,
+    "title": "Advanced Indonesian",
+    "description": "Lecture, three hours. Requisite: course 100B with grade of C or better. Preparation for more advanced study of specialized academic subjects, including but not limited to social sciences and humanities. Students read authentic materials in Indonesian concerning various issues. P/NP or letter grading.",
+    "prerequisites": [
+      "INDO 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO100C"
+  },
+  {
+    "course_code": "INDO 109",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Indonesian",
+    "description": "Tutorial, two hours. Requisite: course 6 or Indonesian placement test. Tutorial and guided independent study to help students develop advanced to superior proficiency in oral and written Indonesian. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "INDO 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO109"
+  },
+  {
+    "course_code": "INDO 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO189"
+  },
+  {
+    "course_code": "INDO 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INDO189HC"
+  }
+]

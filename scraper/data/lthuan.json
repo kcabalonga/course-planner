@@ -1,0 +1,92 @@
+[
+  {
+    "course_code": "LTHUAN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN19"
+  },
+  {
+    "course_code": "LTHUAN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN89"
+  },
+  {
+    "course_code": "LTHUAN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN89HC"
+  },
+  {
+    "course_code": "LTHUAN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN99"
+  },
+  {
+    "course_code": "LTHUAN 101A",
+    "units": 4,
+    "title": "Elementary Lithuanian",
+    "description": "Lecture, five hours. Course 101A is recommended preparation for 101B, which is recommended preparation for 101C. Each course may be waived with consent of instructor. Basic course in Lithuanian language. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN101A"
+  },
+  {
+    "course_code": "LTHUAN 101B",
+    "units": 4,
+    "title": "Elementary Lithuanian",
+    "description": "Lecture, five hours. Recommended preparation: course 101A (may be waived with consent of instructor). Basic course in Lithuanian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN101B"
+  },
+  {
+    "course_code": "LTHUAN 101C",
+    "units": 4,
+    "title": "Elementary Lithuanian",
+    "description": "Lecture, five hours. Recommended preparation: courses 101A, 101B (may be waived with consent of instructor). Basic course in Lithuanian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN101C"
+  },
+  {
+    "course_code": "LTHUAN 102A",
+    "units": 4,
+    "title": "Advanced Lithuanian",
+    "description": "Lecture, three hours. Recommended preparation: course 101C (may be waived with consent of instructor). Course 102A is recommended preparation for 102B, which is recommended preparation for 102C. Each course may be waived with consent of instructor. Review and reinforcement of grammar introduced in first year of study, expansion of vocabulary, further training in written and oral expression. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN102A"
+  },
+  {
+    "course_code": "LTHUAN 102B",
+    "units": 4,
+    "title": "Advanced Lithuanian",
+    "description": "Lecture, three hours. Recommended preparation: course 102A (may be waived with consent of instructor). Review and reinforcement of grammar introduced in first year of study, expansion of vocabulary, further training in written and oral expression. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN102B"
+  },
+  {
+    "course_code": "LTHUAN 102C",
+    "units": 4,
+    "title": "Advanced Lithuanian",
+    "description": "Lecture, three hours. Recommended preparation: courses 102A, 102B (may be waived with consent of instructor). Review and reinforcement of grammar introduced in first year of study, expansion of vocabulary, further training in written and oral expression. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN102C"
+  },
+  {
+    "course_code": "LTHUAN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN189"
+  },
+  {
+    "course_code": "LTHUAN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LTHUAN189HC"
+  }
+]

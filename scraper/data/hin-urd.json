@@ -1,0 +1,133 @@
+[
+  {
+    "course_code": "HIN-URD 1",
+    "units": 5,
+    "title": "Introductory Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Coverage of basic Hindi grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD1"
+  },
+  {
+    "course_code": "HIN-URD 2",
+    "units": 5,
+    "title": "Introductory Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 1 with grade of C or better. Coverage of basic Hindi grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "HIN-URD 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD2"
+  },
+  {
+    "course_code": "HIN-URD 3",
+    "units": 5,
+    "title": "Introductory Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 2 with grade of C or better. Coverage of basic Hindi grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "HIN-URD 2"
+    ],
+    "equivalent_courses": [
+      "URD 3R"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD3"
+  },
+  {
+    "course_code": "HIN-URD 3R",
+    "units": 5,
+    "title": "Elementary Hindi-Urdu Reading and Writing",
+    "description": "Lecture, five hours. Recommended preparation: speaking and listening skills in Hindi-Urdu. Training in reading and writing skills at elementary level, equivalent to completion of one year of Hindi. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "equivalent_courses": [
+      "URD 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD3R"
+  },
+  {
+    "course_code": "HIN-URD 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD19"
+  },
+  {
+    "course_code": "HIN-URD 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD89"
+  },
+  {
+    "course_code": "HIN-URD 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD89HC"
+  },
+  {
+    "course_code": "HIN-URD 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD99"
+  },
+  {
+    "course_code": "HIN-URD 100A",
+    "units": 4,
+    "title": "Intermediate Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 3 with grade of C or better. Course 100A with grade of C or better is requisite to 100B; course 100B with grade of C or better is requisite to 100C. Reinforcement of basic Hindi grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HIN-URD 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD100A"
+  },
+  {
+    "course_code": "HIN-URD 100B",
+    "units": 4,
+    "title": "Intermediate Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 100A with grade of C or better. Reinforcement of basic Hindi grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HIN-URD 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD100B"
+  },
+  {
+    "course_code": "HIN-URD 100C",
+    "units": 4,
+    "title": "Intermediate Hindi-Urdu",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 100B with grade of C or better. Reinforcement of basic Hindi grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HIN-URD 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD100C"
+  },
+  {
+    "course_code": "HIN-URD 109",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Hindi-Urdu",
+    "description": "Tutorial, two hours. Requisite: course 6 or Hindi-Urdu placement test. Tutorial and guided independent study to help students develop advanced to superior proficiency in oral and written Hindi-Urdu. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "HIN-URD 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD109"
+  },
+  {
+    "course_code": "HIN-URD 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD189"
+  },
+  {
+    "course_code": "HIN-URD 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HINURD189HC"
+  }
+]

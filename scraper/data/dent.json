@@ -1,0 +1,37 @@
+[
+  {
+    "course_code": "DENT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DENT19"
+  },
+  {
+    "course_code": "DENT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DENT99"
+  },
+  {
+    "course_code": "DENT 199",
+    "units": 2,
+    "title": "Individual Special Studies",
+    "description": "Tutorial, to be arranged. Studies in dentistry and related subject areas appropriate for training of particular students, with required reading assignments or laboratory work leading to final oral or written examination. May be repeated for maximum of 16 units. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DENT199"
+  },
+  {
+    "course_code": "DENT 199H",
+    "units": 2,
+    "title": "Individual Special Studies (Honors)",
+    "description": "Tutorial, to be arranged. Studies in dentistry and related subject areas appropriate for training of particular students, with required paper submitted at end of course in addition to final examination (paper to be of publication quality as judged by course mentor). May be taken for maximum of 8 units. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DENT199H"
+  },
+  {
+    "course_code": "DENT 441C",
+    "units": 2,
+    "title": "Introduction to Healthcare",
+    "description": "Lecture, two hours. Description and analysis of American dental care system from historical, ethical, and legal perspectives. Assessment of how dentistry fits within general provision of healthcare services in America, with comparisons to dental care provisions in other countries. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DENT441C"
+  }
+]

@@ -9,7 +9,7 @@ BASE_URL = "https://catalog.registrar.ucla.edu"
 SUBJECT_NORMALIZATION = {
     "Mathematics": "MATH",
     "Computer Science": "COM SCI",
-    "Philosophy": "PHIL",
+    "Philosophy": "PHILOS",
     "Linguistics": "LING",
     "Chemistry": "CHEM",
     "Physics": "PHYSICS",
@@ -96,6 +96,56 @@ SUBJECT_NORMALIZATION = {
     "Latin": "LATIN",
     "Public Health": "PUB HLT",
     "Health Policy": "HLT POL",
+    "Dance": "DANCE",
+    "Dentistry": "DENT",
+    "Digital Humanities": "DGT HUM",
+    "Disability Studies": "DIS STD",
+    "Dutch": "DUTCH",
+    "Clusters": "CLUSTER",
+    "English": "ENGL",
+    "Environment": "ENVIRON",
+    "Environmental Health Sciences": "ENV HLT",
+    "European Languages and Transcultural Studies": "ELTS",
+    "Film and Television": "FILM TV",
+    "Food Studies": "FOOD ST",
+    "French": "FRNCH",
+    "Physiological Science": "PHYSCI",
+    "Management": "MGMT",
+    "Microbiology": "MIMG",
+    "Geography": "GEOG",
+    "Music": "MUSC",
+    "German": "GERMAN",
+    "Gerontology": "GRNTLGY",
+    "Global Health": "GLB HLT",
+    "Global Jazz Studies": "GJ STDS",
+    "Global Studies": "GLBL ST",
+    "Hindi-Urdu": "HIN-URD",
+    "Human Genetics": "HUM GEN",
+    "Hungarian": "HNGAR",
+    "Indo-European Studies": "I E STD",
+    "Indonesian": "INDO",
+    "Information Studies": "INF STD",
+    "International and Area Studies": "I A STD",
+    "International Development Studies": "INTL DV",
+    "Iranian": "IRANIAN",
+    "Islamic Studies": "ISLM ST",
+    "Italian": "ITALIAN",
+    "Jewish Studies": "JEWISH",
+    "Labor Studies": "LBR STD",
+    "Latin American Studies": "LATN AM",
+    "Law": "UG-LAW",
+    "Lesbian, Gay, Bisexual, Transgender, and Queer Studies": "LGBTQS",
+    "Lithuanian": "LTHUAN",
+    "Medical History": "MED HIS",
+    "Middle Eastern Studies": "M E STD",
+    "Military Science": "MIL SCI",
+    "Music Industry": "MSC IND",
+    "Musicology": "MUSCLG",
+    "Naval Science": "NAV SCI",
+    "Neuroscience": "NEUROSC",
+    "Nursing": "NURSING"
+
+
 
 }
 
@@ -252,7 +302,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["C&EE ST", "CH ENGR", "CHEM", "CCAS", "CHIN", "C&EE", "CLASSIC", "CLUSTER", "COMM", "CESC", "COM HLT", "COM LIT", "C&S BIO", "COM SCI", "CLT HTG", "CZCH" ] 
+    departments = ["PSYCH", "PUB AFF", "PUB HLT", "PUB PLC", "RELIGN", "ROMANIA", "RUSSN", "SCAND", "SCI EDU", "SEMITIC", "SRB CRO", "SLAVC", "SOC SC"]
 
     os.makedirs("data", exist_ok=True)
 

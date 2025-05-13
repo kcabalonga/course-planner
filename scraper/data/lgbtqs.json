@@ -1,0 +1,423 @@
+[
+  {
+    "course_code": "LGBTQS 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS19"
+  },
+  {
+    "course_code": "LGBTQS 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS89"
+  },
+  {
+    "course_code": "LGBTQS 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS89HC"
+  },
+  {
+    "course_code": "LGBTQS 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS99"
+  },
+  {
+    "course_code": "LGBTQS M101A",
+    "units": 5,
+    "title": "Premodern Queer Literatures and Cultures",
+    "description": "(Same as English M101A and Gender Studies M105A.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Survey of discrete period of queer literature from beginning to circa 1850. Works by such writers as Sappho, Plato, Marlowe, Shakespeare, and Thomas Gray may be included. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M101A",
+      "GENDER M105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM101A"
+  },
+  {
+    "course_code": "LGBTQS M101B",
+    "units": 5,
+    "title": "Queer Literatures and Cultures, 1850 to 1970",
+    "description": "(Same as English M101B and Gender Studies M105B.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Survey of discrete period of queer literature and culture from circa 1850 to 1970. Works by such authors as Walt Whitman, Radclyffe Hall, Gertrude Stein, Virginia Woolf, Langston Hughes, Tennessee Williams, Henry Blake Fuller, and James Baldwin may be included. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M101B",
+      "Queer Literatures and Cultures, 1850",
+      "Queer Literatures and Cultures, 1970",
+      "GENDER M105B",
+      "Queer Literatures and Cultures, 1850",
+      "Queer Literatures and Cultures, 1970"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM101B"
+  },
+  {
+    "course_code": "LGBTQS M101C",
+    "units": 5,
+    "title": "Queer Literatures and Cultures after 1970",
+    "description": "(Same as English M101C and Gender Studies M105C.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Examination of cultural production, specifically literature, produced by queers after Stonewall rebellion in New York in 1969, widely regarded as origins or beginning of modern lesbian and gay rights movement in U.S. Writings and films by such authors as Andrew Holleran, Leslie Feinberg, Achy Obejas, Essex Hemphill, Audre Lorde, Cheryl Dunye, and Alison Bechdel may be included. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M101C",
+      "Queer Literatures and Cultures after 1970",
+      "GENDER M105C",
+      "Queer Literatures and Cultures after 1970"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM101C"
+  },
+  {
+    "course_code": "LGBTQS M101D",
+    "units": 5,
+    "title": "Studies in Queer Literatures and Cultures",
+    "description": "(Same as English M101D and Gender Studies M105D.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Variable specialized studies course in queer literatures and cultures. Topics focus on particular problem or issue in terms of its relationship to queer cultures and writings. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M101D",
+      "GENDER M105D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM101D"
+  },
+  {
+    "course_code": "LGBTQS M107B",
+    "units": 5,
+    "title": "Studies in Gender and Sexuality",
+    "description": "(Same as English M107B and Gender Studies M107B.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Examination of literary and cultural production through lens of gender and sexuality. Depending on instructor, emphasis may be historical, regional, national, comparative, or thematic and include other intersectional vectors of identity and representation such as race and ethnicity. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M107B",
+      "GENDER M107B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM107B"
+  },
+  {
+    "course_code": "LGBTQS M114",
+    "units": 5,
+    "title": "Introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Studies",
+    "description": "(Same as Gender Studies M114.) Lecture, three hours; discussion, one hour. Introduction to history, politics, culture, and scientific study of lesbians, gay men, bisexuals, transgendered, and queer people; examination of sexuality and gender as categories for investigation; interdisciplinary theories and research on minority sexualities and genders. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "GENDER M114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM114"
+  },
+  {
+    "course_code": "LGBTQS M115",
+    "units": 4,
+    "title": "Topics in Study of Sexual and Gender Orientation",
+    "description": "(Same as Gender Studies M115.) Lecture/discussion, three hours. Requisite: course M114 or Gender Studies 10. Studies in arts, humanities, social sciences, and/or life sciences on aspects of sexual orientation, gender identity, and lesbian, gay, and/or bisexual issues; variable topics may include cultural representations, historical and political change, life and health experiences, and queer or transgender theories; multiethnic and cross-cultural emphases. May be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "LGBTQS M114",
+      "GENDER 10"
+    ],
+    "cross_listed": [
+      "GENDER M115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM115"
+  },
+  {
+    "course_code": "LGBTQS M116",
+    "units": 4,
+    "title": "Sexuality and City: Queer Los Angeles",
+    "description": "(Same as Gender Studies M116.) Lecture, three hours. Requisite: course M114. Investigation of history, culture, and political economy of lesbian, gay, bisexual, and transgender Los Angeles.",
+    "prerequisites": [
+      "LGBTQS M114"
+    ],
+    "cross_listed": [
+      "GENDER M116"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM116"
+  },
+  {
+    "course_code": "LGBTQS M118",
+    "units": 4,
+    "title": "Queering American History",
+    "description": "(Same as Gender Studies M118.) Lecture, four hours. Enforced requisite: one prior lesbian, gay, bisexual, and transgender studies course. History of sexual and gender minorities in U.S. Topics include changing norms, romantic friendships, medical discourse, liberation politics, post-Stonewall culture, AIDS, transgender movement, queer theory, and politics. P/NP or letter grading.",
+    "prerequisites": [],
+    "cross_listed": [
+      "GENDER M118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM118"
+  },
+  {
+    "course_code": "LGBTQS M125",
+    "units": 4,
+    "title": "Exploring Intersections of Ability and Sexuality",
+    "description": "(Same as Disability Studies M125.) Lecture, three hours. Exploration of identity as means of understanding cultural formations, dominant/nondominant power dynamics, and systems of visual representation. Intersectional approach to explore how ability and sexuality intersect, overlap, and change notions of identity. Use of scholarly texts from disability studies, lesbian, gay, bisexual, and transgender studies, popular culture, performance, and film to investigate factors that shape ability and sexuality as basis for identity. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "cross_listed": [
+      "DIS STD M125"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM125"
+  },
+  {
+    "course_code": "LGBTQS M126",
+    "units": 5,
+    "title": "Feminist and Queer Theory",
+    "description": "(Same as English M126 and Gender Studies M126.) Lecture, four hours; discussion, one hour (when scheduled). Enforced requisite: English Composition 3. Recommended: one course from English 120, 121, Gender Studies 102, 103, or 104. Investigation of key concepts and debates in study of gender, sexuality, and kinship, with focus on their interrelated significance for making of culture. Readings to be interdisciplinary, with possible emphasis on impact of changing ideas of gender and sexuality on specific historical cultures. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "GENDER M126",
+      "ENGL M126"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM126"
+  },
+  {
+    "course_code": "LGBTQS M132",
+    "units": 4,
+    "title": "Border Consciousness",
+    "description": "(Same as Chicana/o and Central American Studies M132.) Lecture, three hours; discussion, one hour (when scheduled). Investigation through history, popular culture, and mass media of bilingual and bicultural identities produced by geographical and cultural space between Mexico and U.S. Special attention to border consciousness as site of conflict and resistance. Letter grading.",
+    "cross_listed": [
+      "CCAS M132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM132"
+  },
+  {
+    "course_code": "LGBTQS M133",
+    "units": 4,
+    "title": "Chicana Lesbian Literature",
+    "description": "(Same as Chicana/o and Central American Studies M133 and Gender Studies M133.) Lecture, four hours. Exploration of intersection of radical First and Third World feminist politics, lesbian sexuality and its relationship to Chicana identity, representation of lesbianism in Chicana literature, meaning of familia in Chicana lesbian lives, and impact of Chicana lesbian theory on Chicana/Chicano studies. Letter grading.",
+    "cross_listed": [
+      "GENDER M133",
+      "CCAS M133"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM133"
+  },
+  {
+    "course_code": "LGBTQS M135",
+    "units": 4,
+    "title": "Bilingual Writing Workshop",
+    "description": "(Same as Chicana/o and Central American Studies CM135 and Gender Studies M135C.) Seminar, four hours. Limited to juniors/seniors. Writing sample required; access to course web page mandatory; need not be bilingual to enroll. Technical instruction, analysis, and theoretical discussion of bilingual creative expression through genre of short fiction. Bilingualism as both politics and aesthetics to be central theme. Discussion and analysis of Chicana/Chicano and Latina/Latino short story collections. Peer critique of weekly writing assignments. Emphasis on narrative techniques such as characterization, plot, conflict, setting, point of view, and dialogue, and magical realism as prevailing Chicanesque/Latinesque style. Some attention to process of manuscript preparation, public reading, and publication. Letter grading.",
+    "cross_listed": [
+      "CCAS CM135",
+      "GENDER M135C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM135"
+  },
+  {
+    "course_code": "LGBTQS M136",
+    "units": 4,
+    "title": "Censored! Art on Trial",
+    "description": "(Same as Chicana/o and Central American Studies M136.) Lecture, four hours. Examination of censorship in visual arts, particularly art of queer Chicana/Chicano and Latina/Latino artists such as Alma Lopez, Ester Hern\u00e1ndez, and Alex Donis. Other censored artists include feminist artist Yolanda L\u00f3pez, queer artists Robert Mapplethorpe and David Wojnarowicz, painter Christ Ofili, photographers Sally Mann and Andres Serrano, printmaker Enrique Chagoya, muralist Noni Olabisi, writer Salman Rushdie, and four performance artists\u2014Karen Finley, Tim Miller, John Fleck, and Holly Hughes\u2014whose work was vetoed by chair of National Endowment for Arts (NEA) in 1990 after they had successfully passed through NEA\u2019s peer review process and who came to be known as NEA Four. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M136"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM136"
+  },
+  {
+    "course_code": "LGBTQS M137",
+    "units": 5,
+    "title": "Lesbian, Gay, Bisexual, Transgender, and Queer Perspectives in Pop Music",
+    "description": "(Same as Musicology M137.) Lecture, four hours; discussion, one hour. Survey of English-language popular music in 20th century, with focus on lesbians, gay men, and members of other sexual minorities as creators, performers, and audience members. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "MUSCLG M137"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM137"
+  },
+  {
+    "course_code": "LGBTQS M141",
+    "units": 4,
+    "title": "African American Women's History",
+    "description": "(Same as African American Studies M141.) Lecture, four hours. Historical examination of black women\u2019s experiences in U.S. from antebellum era to present. By situating black women\u2019s experiences within major historical transitions in American history, exploration of key themes, including gender formation, sexuality, labor and class, collective action, gender and sexual violence, reproduction, and role of law. How have intersecting forms of oppression impacted black women\u2019s historical lives? How is difference constructed through interrelated and overlapping ideologies of race and gender? How do historians uncover black women\u2019s historical lives and what are challenges to such discoveries? Examination of black women\u2019s individual and collective struggles for freedom from racism, sexism, and heteropatriarchy, as well as black women\u2019s participation in and challenge to social movements, including suffrage, women\u2019s liberation, civil rights, and black power. Investigation of black women\u2019s intellectual history including their cultural productions. Letter grading.",
+    "cross_listed": [
+      "AF AMER M141"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM141"
+  },
+  {
+    "course_code": "LGBTQS M142",
+    "units": 4,
+    "title": "Race, Gender, and Punishment",
+    "description": "(Same as African American Studies M142.) Seminar, four hours. Interdisciplinary examination of historical and contemporary development of modern prison industrial complex in U.S., with attention to impact of prison industrial complex on immigrants, including undocumented residents, homeless populations, women, African Americans, and transgender nonconforming and lesbian, gay, bisexual, and transgender communities. Why does U.S. have largest prison population in world? What historical conditions and ideologies gave rise to this massive explosion in U.S. prisoner population? What policies have fueled mass imprisonment? Who is imprisoned? How have politicians used imprisonment as response to economic transformations and perceived social disorders? How is current crisis analogous to or distinct from regimes of racialized punishment in prior historical moments? Letter grading.",
+    "cross_listed": [
+      "AF AMER M142"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM142"
+  },
+  {
+    "course_code": "LGBTQS M147A",
+    "units": 4,
+    "title": "Psychology of Lesbian Experience",
+    "description": "(Same as Gender Studies M147A and Psychology M147A.) Lecture, two hours; discussion, one hour. Requisite: course M114 or Gender Studies 10 or Psychology 10. Designed for juniors/seniors. Review of research and theory in psychology and gender studies to examine various aspects of lesbian experience, impact of heterosexism/stigma, gender role socialization, minority status of women and lesbians, identity development within a multicultural society, changes in psychological theories about lesbians in sociohistorical context. P/NP or letter grading.",
+    "prerequisites": [
+      "LGBTQS M114",
+      "GENDER 10",
+      "PSYCH 10"
+    ],
+    "cross_listed": [
+      "GENDER M147A",
+      "PSYCH M147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM147A"
+  },
+  {
+    "course_code": "LGBTQS 165SL",
+    "units": 4,
+    "title": "Queer Activism and Engagement",
+    "description": "Lecture, three hours; fieldwork, five hours. Benefits students pursuing minor in Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ) Studies, those passionate about social justice, or those who want to learn new skills about community engagement. Offers opportunity to work in LGBTQ-related community organizations, to reflect on political and theoretical issues involved in such work and such organizations, and to draw ideas from various courses they have already taken and test them in settings outside UCLA. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS165SL"
+  },
+  {
+    "course_code": "LGBTQS M167",
+    "units": 4,
+    "title": "Contested Sexualities",
+    "description": "(Same as Gender Studies M167.) Lecture, three hours; discussion, one hour. Sociological perspectives on formation, control, and resistance of lesbian, gay, bisexual, and transgendered people. Variable topics include identity and community; age, class, gender, and racial diversity; and analysis of contemporary issues affecting contested sexualities. Letter grading.",
+    "cross_listed": [
+      "GENDER M167"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM167"
+  },
+  {
+    "course_code": "LGBTQS 170",
+    "units": 5,
+    "title": "Queer Cultures after Stonewall: Sexual Dissidence, Performance, and Community in 1970s",
+    "description": "Lecture, four hours. Exploration of intense burst of culture-making among lesbians and gay men in U.S. and Canada in decade following Stonewall Rebellion in literature and performing arts through formal and thematic analysis, exploration of social contexts of creation and reception, and wide-ranging interpretive study. No extensive training in literary, musical, visual, or media analysis is required; conceptual and analytical frameworks to be used are provided. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS170"
+  },
+  {
+    "course_code": "LGBTQS 180XP",
+    "units": 4,
+    "title": "Lesbian, Gay, Bisexual, and Transgender Institutions and Organizations",
+    "description": "(Formerly numbered 180SL.) Lecture, three hours; fieldwork, five hours. Preparation: one prior lesbian, gay, bisexual, and transgender studies course. Service-learning course that offers opportunity for students to work in lesbian, gay, bisexual, and transgender-related community organizations, to reflect on political and theoretical issues involved in such work and such organizations, and to draw ideas from various courses they have already taken and test them in settings outside UCLA. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS180XP"
+  },
+  {
+    "course_code": "LGBTQS 181",
+    "units": 4,
+    "title": "Variable Topics in Queer Diversities",
+    "description": "Lecture, four hours. Study of topics about queer diversities from lesbian, gay, bisexual, and transgender studies perspective. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS181"
+  },
+  {
+    "course_code": "LGBTQS 182",
+    "units": 4,
+    "title": "Variable Topics in Education, Law, and Public Policy",
+    "description": "Lecture, four hours. Study of law, education, and public policy topics from lesbian, gay, bisexual, and transgender studies perspective. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS182"
+  },
+  {
+    "course_code": "LGBTQS 183",
+    "units": 4,
+    "title": "Variable Topics in Queer Subjectivities/Theories/History",
+    "description": "Lecture, four hours. Study of topics about queer subjectivities/theories/history from lesbian, gay, bisexual, and transgender studies perspective. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS183"
+  },
+  {
+    "course_code": "LGBTQS 184",
+    "units": 4,
+    "title": "Variable Topics in Science, Health, and Genetics",
+    "description": "Lecture, four hours. Study of science, health, and genetics topics from lesbian, gay, bisexual, and transgender studies perspective. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS184"
+  },
+  {
+    "course_code": "LGBTQS 187",
+    "units": 4,
+    "title": "Selected Topics in Lesbian, Gay, Bisexual, and Transgender Studies",
+    "description": "Lecture, four hours. Study of selected topics in lesbian, gay, bisexual, and transgender studies. Consult Schedule of Classes for topics and instructors. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS187"
+  },
+  {
+    "course_code": "LGBTQS 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS189"
+  },
+  {
+    "course_code": "LGBTQS 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS189HC"
+  },
+  {
+    "course_code": "LGBTQS M191D",
+    "units": 5,
+    "title": "Topics in Queer Literatures and Cultures",
+    "description": "(Same as English M191D and Gender Studies M191D.) Seminar, three or four hours. Enforced requisite: English Composition 3. Consult Schedule of Classes for author, period, genre, or subject to be studied in specific term. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M191D",
+      "GENDER M191D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM191D"
+  },
+  {
+    "course_code": "LGBTQS M191E",
+    "units": 5,
+    "title": "Topics in Gender and Sexuality",
+    "description": "(Same as English M191E and Gender Studies M191E.) Seminar, three or four hours. Enforced requisite: English Composition 3. Consult Schedule of Classes for author, period, genre, or subject to be studied in specific term. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M191E",
+      "GENDER M191E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQSM191E"
+  },
+  {
+    "course_code": "LGBTQS 194",
+    "units": 4,
+    "title": "Research Group or Internship Seminars: Lesbian, Gay, Bisexual, and Transgender Studies",
+    "description": "Seminar, two hours. Preparation: completion of four courses toward minor. Requisite: course M114. Corequisite: course 195. Designed for seniors who are doing internship in lesbian, gay, bisexual, or transgender organization. Discussion of organization theoretical and political issues in context of internship and relation of those issues to ideas explored in minor courses already taken. May be repeated for credit. P/NP grading.",
+    "prerequisites": [
+      "LGBTQS M114"
+    ],
+    "corequisites": [
+      "LGBTQS 195"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS194"
+  },
+  {
+    "course_code": "LGBTQS 195",
+    "units": 2,
+    "title": "Community or Corporate Internships in Lesbian, Gay, Bisexual, and Transgender Studies",
+    "description": "Tutorial, one hour. Preparation: completion of four courses toward minor. Requisite: course M114. Corequisite: course 194. Limited to seniors. Internship in supervised setting in lesbian, gay, bisexual, or transgender community organization. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "prerequisites": [
+      "LGBTQS M114"
+    ],
+    "corequisites": [
+      "LGBTQS 194"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS195"
+  },
+  {
+    "course_code": "LGBTQS 197",
+    "units": 2,
+    "title": "Individual Studies in Lesbian, Gay, Bisexual, and Transgender Studies",
+    "description": "Tutorial, one hour. Requisite: course M114. Limited to juniors/seniors. Directed program of independent study or research on specific topic within lesbian, gay, bisexual, and transgender studies, with scheduled meetings to be arranged between faculty member and student. Tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "LGBTQS M114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LGBTQS197"
+  }
+]

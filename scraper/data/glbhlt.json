@@ -1,0 +1,157 @@
+[
+  {
+    "course_code": "GLB HLT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT19"
+  },
+  {
+    "course_code": "GLB HLT 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT89"
+  },
+  {
+    "course_code": "GLB HLT 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT89HC"
+  },
+  {
+    "course_code": "GLB HLT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT99"
+  },
+  {
+    "course_code": "GLB HLT 100",
+    "units": 4,
+    "title": "Global Health and Development",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Interdisciplinary examination of key issues in area of global health, with focus on developing world. Provides basis for understanding current debates that frame global health problems and actions in and across nations with strikingly different political-economic contexts. Discussion of how local and international communities attempt to address challenges of global health problems and how interventions play out through range of policy and programmatic approaches. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT100"
+  },
+  {
+    "course_code": "GLB HLT 110A",
+    "units": 4,
+    "title": "Field Studies in Global Health",
+    "description": "Seminar, three hours. Enforced corequisite: course 110B. Exploration of issues regarding global health in important locations around world. Hands-on experiential course offered for students participating in UCLA Travel Study Program. Field trips included to gain first-hand experience. May be repeated with topic and/or location change. Offered in summer only. P/NP or letter grading.",
+    "prerequisites": [
+      "GLB HLT 110B"
+    ],
+    "corequisites": [
+      "GLB HLT 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT110A"
+  },
+  {
+    "course_code": "GLB HLT 110B",
+    "units": 4,
+    "title": "Field Studies in Global Health",
+    "description": "Seminar, three hours. Enforced corequisite: course 110A. Exploration of issues regarding global health in important locations around world. Hands-on experiential course offered for students participating in UCLA Travel Study Program. Field trips included to gain first-hand experience. May be repeated with topic and/or location change. Offered in summer only. P/NP or letter grading.",
+    "prerequisites": [
+      "GLB HLT 110A"
+    ],
+    "corequisites": [
+      "GLB HLT 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT110B"
+  },
+  {
+    "course_code": "GLB HLT 140",
+    "units": 4,
+    "title": "Equity-Focused Program Evaluation in Global Health: Theory and Practice",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100. Interdisciplinary approach to provide solid understanding of equity-focused evaluation theories and practices. Discussions are guided by principles of equity and human rights-based approach to global health. Focus on evaluation of policies, programs, and equitable delivery of health services for most vulnerable and marginalized populations. Case studies to learn about equity-focused research and evaluation concepts and methodology. Case study topics include impact of COVID-19 pandemic and response to it in relation to our students. For instance, COVID-19 has had greater impact on African American, Latin American, and indigenous communities than on white populations, and it has unmasked disparities in access to health care, education, and technology, which often reflect in student performance. Students are encouraged to examine relevance of class discussions in their own communities and in terms of their aspirations for creating better, more equitable, and healthier world. P/NP or letter grading.",
+    "prerequisites": [
+      "GLB HLT 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT140"
+  },
+  {
+    "course_code": "GLB HLT 150",
+    "units": 4,
+    "title": "Migration and Health",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to history, current status, and future of migration and health using social determinants of health model to foster multidisciplinary analysis of status of migrant health around world. Exploration of social determinants of health affecting migrating populations, including gender, race, ethnicity, socioeconomic status, poverty, religion, politics, governance, and environment. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT150"
+  },
+  {
+    "course_code": "GLB HLT 160",
+    "units": 4,
+    "title": "Selected Topics in Global Health",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Examination of one or more topics related to global health. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT160"
+  },
+  {
+    "course_code": "GLB HLT 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT188SA"
+  },
+  {
+    "course_code": "GLB HLT 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "GLB HLT 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT188SB"
+  },
+  {
+    "course_code": "GLB HLT 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "GLB HLT 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT188SC"
+  },
+  {
+    "course_code": "GLB HLT 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT189"
+  },
+  {
+    "course_code": "GLB HLT 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT189HC"
+  },
+  {
+    "course_code": "GLB HLT 191",
+    "units": 4,
+    "title": "Variable Topics Senior Research Seminar: Global Health",
+    "description": "Seminar, three hours. Requisite: course 100. Designed for Global Health minors. Research seminar on selected topics in Global Health. Reading, discussion, and development of culminating project. Consult Schedule of Classes for topic to be offered in specific term. May be repeated for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "GLB HLT 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT191"
+  },
+  {
+    "course_code": "GLB HLT 199",
+    "units": 4,
+    "title": "Directed Research in Global Health",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper required. May be applied toward requirements via petition. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GLBHLT199"
+  }
+]

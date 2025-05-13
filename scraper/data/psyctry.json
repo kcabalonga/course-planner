@@ -1,0 +1,703 @@
+[
+  {
+    "course_code": "PSYCTRY 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY19"
+  },
+  {
+    "course_code": "PSYCTRY 79",
+    "units": 5,
+    "title": "Applied Positive Neuroscience: Skills for Improving Productivity and Well-Being",
+    "description": "Lecture, three hours; discussion, one hour. Not open to students with credit for Community Health Sciences 179. Intrapersonal, interpersonal, and extrapersonal contributions to well-being, and how activity and chemistry of key brain regions contribute to each, e.g. influences of mindfulness on prefrontal cortex activity, or how oxytocin system is altered by social interaction. Students learn to recognize relationship between cognitive, social, and emotional competence for healthy development, and how to apply it to their own lives. Through neuroscientific context, introduction to multidisciplinary perspectives on variety of topics that are widely considered significant maturational tasks for young adults, including emotion regulation, managing social relationships, enhancing productivity, and identity development. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "credit_exclusions": [
+      "COM HLT 179"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY79"
+  },
+  {
+    "course_code": "PSYCTRY 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY89"
+  },
+  {
+    "course_code": "PSYCTRY 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY89HC"
+  },
+  {
+    "course_code": "PSYCTRY 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY99"
+  },
+  {
+    "course_code": "PSYCTRY 173",
+    "units": 4,
+    "title": "Mental Health: Bias, Inequities, and Racism",
+    "description": "(Formerly numbered 188.) Lecture, three hours. Our brains bias our behaviors to optimize functioning in our environment but often based on premises that are contrary to society goals of equality. Biases, both implicit and explicit are prevalent, and their existence leads to both overt and covert decision-making based on race, financial status, gender, and disabilities. Focus on biases, inequities, and disparities that surround mental health. Exploration of relevant biases in society and how they may arise. Students learn about implicit and explicit bias, and discuss instruments attempting to measure biases including implicit-association test. Exploration of multiple areas related to structural racism and how it contributes to mental health inequities. Review of biases against those with mental health disorders, exacerbation of mental health disorders, health inequities because of racism and discrimination, and treatment biases for mental health disorders. Consideration of current and historical research and relevance of public policies and criminal justice system in creating and perpetuating health inequities. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY173"
+  },
+  {
+    "course_code": "PSYCTRY 174",
+    "units": 5,
+    "title": "Brain and Behavioral Health: Childhood and Adolescence",
+    "description": "Seminar, three hours. Limited to junior/senior Neuroscience or Psychology majors. Integration of problem-based learning approach to teach foundational information about application of brain and behavioral science to understanding and promotion of child and adolescent mental health. Exploration of integration of developmental psychopathology, applied treatment research, and public policy to identify and dismantle barriers to problems. Focus on set of key topics (e.g., autism, mood disorders, anxiety disorders, and substance use disorders) during childhood and adolescence. Research of childhood and adolescent mental health and public policy literature. Guest facilitators with expertise complement study of emerging treatment advances, applications, and barriers. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY174"
+  },
+  {
+    "course_code": "PSYCTRY 175",
+    "units": 4,
+    "title": "Mindfulness Practice and Theory",
+    "description": "Seminar, five hours. Designed for beginners; prior experience with meditation not required. Introduction to mindfulness, including basic mindfulness meditation practices, both sitting and moving, ways to deepen positive emotions like gratitude, kindness, and joy, and methods for integrating more awareness and creativity into ordinary activities. Examination of varying meditative traditions as well as emerging science on beneficial effects of mindfulness practice for mental and physical health. Beneficial effects include reduced stress, improved attention, reduced emotional reactivity, and greater mind-body awareness. Learning and development of practical skills of relational mindfulness in interactions with others. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY175"
+  },
+  {
+    "course_code": "PSYCTRY 176",
+    "units": 5,
+    "title": "Brain and Behavioral Health: Adulthood and Aging",
+    "description": "Seminar, five hours. Limited to junior/senior Neuroscience or Psychology majors. Integration of problem-based learning approach to teach foundational information about application of brain and behavioral science to understanding and promotion of mental health during adulthood and aging. Exploration of integration of developmental psychopathology, applied treatment research, and public policy to identify and dismantle barriers to problems. Focus on set of key topics (e.g., depression, dementia, post-traumatic stress disorder) during adulthood and aging. Research of mental health and public policy literature. Guest facilitators with expertise complement study of emerging treatment advances, applications, and barriers. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY176"
+  },
+  {
+    "course_code": "PSYCTRY 177A",
+    "units": 4,
+    "title": "Brain and Behavioral Health Clinical Practicum",
+    "description": "Fieldwork, six hours; discussion, one hour. Designed to provide students with integrated set of learning experiences related to mental health and wellness across lifespan. Through applied approach to brain and behavioral science, exploration of integration of developmental psychopathology, assessment and treatment research, and public policy to address issues related to psychological health and wellness. Focus on key topics (e.g., different classes of psychiatric illness) during childhood, adolescence, and adulthood offering direct exposure to health-care settings, clinical populations, and interdisciplinary teams that treat them. Students participate in assigned health setting under supervision of faculty mentor. Through observation of activities in clinical health setting, students see firsthand how brain and behavior science translates into real-world care. In Progress grading (credit to be given only on completion of course 177B.)",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY177A"
+  },
+  {
+    "course_code": "PSYCTRY 177B",
+    "units": 4,
+    "title": "Brain and Behavioral Health Clinical Practicum",
+    "description": "Fieldwork, six hours; discussion, one hour. Designed to provide students with integrated set of learning experiences related to mental health and wellness across lifespan. Through applied approach to brain and behavioral science, exploration of integration of developmental psychopathology, assessment and treatment research, and public policy to address issues related to psychological health and wellness. Focus on key topics (e.g., different classes of psychiatric illness) during childhood, adolescence, and adulthood offering direct exposure to health-care settings, clinical populations, and interdisciplinary teams that treat them. Students participate in assigned health setting under supervision of faculty mentor. Through observation of activities in clinical health setting, students see firsthand how brain and behavior science translates into real-world care. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY177B"
+  },
+  {
+    "course_code": "PSYCTRY 178",
+    "units": 4,
+    "title": "Cannabis and Cannabinoids: From Pharmacology to Public Policy",
+    "description": "Lecture, three hours. Designed for undergraduate students with biology, human biology and society, neuroscience, physiology, or psychology background and graduate students in neuroscience-related programs. Relevant for those considering career in medical, social science, or policy fields. Offers comprehensive didactic information concerning Cannabis plant and relates basic information with clinical and societal use of plant and its extracts. Analysis of pharmacology of exogenous and endogenous cannabinoids at the molecular, cellular, and behavioral levels. Study of physiological and psychological actions of phytocannabinoids (focusing on THC and CBD) and synthetic cannabinoids and evidence-based research of potential benefits and harms of different cannabinoids. Review of issues related to cannabinoid policy including legislation, FDA regulation, and health care services. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY178"
+  },
+  {
+    "course_code": "PSYCTRY M182",
+    "units": 4,
+    "title": "Personal Brain Management",
+    "description": "(Same as Neuroscience M161.) Seminar, four hours. Basic overview of brain function and consideration of some management methods that exist already, and what future may hold. New methods for predicting our own futures and modeling what if scenarios that might alter risks and benefits of different courses of action, based on individual genetic background and other elements of personal history and environmental exposures. Introduction to key principles from science of behavior change, illustrating how important health-related behavioral habits are and how difficult these can be to change and why. Coverage of series of topics that center on personal enhancement of well-being through consideration of stress management, long-term goal and value identification, mapping of long-term goals onto immediate actions, reinforcement learning, meditation, neurofeedback, and time management. Critical appraisal of tools to help students distinguish scientifically validated procedures. Offered in summer only. Letter grading.",
+    "cross_listed": [
+      "NEUROSC M161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM182"
+  },
+  {
+    "course_code": "PSYCTRY 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY188SA"
+  },
+  {
+    "course_code": "PSYCTRY 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PSYCTRY 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY188SB"
+  },
+  {
+    "course_code": "PSYCTRY 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PSYCTRY 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY188SC"
+  },
+  {
+    "course_code": "PSYCTRY 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY189"
+  },
+  {
+    "course_code": "PSYCTRY 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY189HC"
+  },
+  {
+    "course_code": "PSYCTRY 197",
+    "units": 2,
+    "title": "Individual Studies in Psychiatry",
+    "description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be taken for letter grade once only. May be repeated for credit. Individual contract required. Additional information and contract forms are available in Office of Education, 38-216 Semel Institute. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY197"
+  },
+  {
+    "course_code": "PSYCTRY 199",
+    "units": 2,
+    "title": "Directed Research in Psychiatry and Biobehavioral Sciences",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY199"
+  },
+  {
+    "course_code": "PSYCTRY M210",
+    "units": 2,
+    "title": "Editorial Board Apprenticeship",
+    "description": "(Same as Health Services M249Q.) Seminar, two hours. Designed for postdoctoral fellows and advanced PhD students. Participation in peer review process for academic journal, Health Psychology, with consideration of interface between behavioral science, health, and medicine. Reading and discussion of submissions and advising of editor on suitability for full review. S/U or letter grading.",
+    "cross_listed": [
+      "HLT POL M249Q"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM210"
+  },
+  {
+    "course_code": "PSYCTRY 226A",
+    "units": 2,
+    "title": "Childhood Psychopathology Research Seminar",
+    "description": "Seminar, 90 minutes. Current research in causes and behavioral manifestations of childhood psychopathology. Discussion on diagnosis and etiology of childhood disturbances.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY226A"
+  },
+  {
+    "course_code": "PSYCTRY 226B",
+    "units": 2,
+    "title": "Childhood Psychopathology Research Seminar",
+    "description": "Seminar, 90 minutes. Current research in causes and behavioral manifestations of childhood psychopathology. Discussion on diagnosis and etiology of childhood disturbances.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY226B"
+  },
+  {
+    "course_code": "PSYCTRY M230",
+    "units": 2,
+    "title": "Communication of Science",
+    "description": "(Same as Biomathematics M262.) Lecture, two hours; discussion, one hour. Presentation of various types of scientific writings and their good practice. Details of writing specific articles: methods, results, discussion. Writing of review article. Grant submissions: aims, background, results, design. Role of appendices. Communication with lay public. S/U or letter grading.",
+    "cross_listed": [
+      "BIOMATH M262"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM230"
+  },
+  {
+    "course_code": "PSYCTRY M232",
+    "units": 4,
+    "title": "Causal Inference",
+    "description": "(Same as Biostatistics M235.) Lecture, three hours; discussion, one hour. Requisites: Biostatistics 200C, 202B, or equivalent. Philosophical foundations, logical paradoxes, decision analysis, selection bias, confounding, ecological paradox, historical development, potential outcomes, Rubin causal model, propensity scores, competing perspectives on path analysis and graphical/structural-equation models, experiments with noncompliance, principal stratification, decision making when causality is disputed, role of ethics in decision making. S/U or letter grading.",
+    "prerequisites": [
+      "BIOSTAT 200C",
+      "BIOSTAT 202B"
+    ],
+    "cross_listed": [
+      "BIOSTAT M235"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM232"
+  },
+  {
+    "course_code": "PSYCTRY M234",
+    "units": 2,
+    "title": "Affective Disorders",
+    "description": "(Same as Psychology M280.) Seminar, two hours. General topics related to primary affective disorders (depression, manic depressive illness), including diagnosis, pharmacology, epidemiology, psychology, phenomenology, biology, and treatment. Students enrolled for 4 units are assigned a more intensive reading list and required to make a presentation or prepare a research paper.",
+    "cross_listed": [
+      "PSYCH M280"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM234"
+  },
+  {
+    "course_code": "PSYCTRY 236A",
+    "units": 1,
+    "title": "Psychology Interns Seminar",
+    "description": "Seminar, 90 minutes. Current topics in clinical psychology. Group-selected topics for discussion pertaining to psychopathology, diagnostic evaluation, and modalities of treatment. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY236A"
+  },
+  {
+    "course_code": "PSYCTRY 236B",
+    "units": 1,
+    "title": "Psychology Interns Seminar",
+    "description": "Seminar, 90 minutes. Current topics in clinical psychology. Group-selected topics for discussion pertaining to psychopathology, diagnostic evaluation, and modalities of treatment. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY236B"
+  },
+  {
+    "course_code": "PSYCTRY 236C",
+    "units": 1,
+    "title": "Psychology Interns Seminar",
+    "description": "Seminar, 90 minutes. Current topics in clinical psychology. Group-selected topics for discussion pertaining to psychopathology, diagnostic evaluation, and modalities of treatment. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY236C"
+  },
+  {
+    "course_code": "PSYCTRY 237",
+    "units": 1,
+    "title": "Seminar: Behavioral Neuroimmunology",
+    "description": "Lecture, one hour per month; discussion, 30 minutes per month. Series of lectures presented the second Wednesday of each month throughout academic year by invited speakers. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY237"
+  },
+  {
+    "course_code": "PSYCTRY M238",
+    "units": 4,
+    "title": "Survey Research Techniques in Psychocultural Studies",
+    "description": "(Same as Psychology M238.) Seminar, three hours. Designed for graduate students. Techniques for conceptualizing, conducting, and analyzing survey data; instruction in qualitative strategies for enhancing survey research on psychocultural problems.",
+    "cross_listed": [
+      "PSYCH M238"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM238"
+  },
+  {
+    "course_code": "PSYCTRY M240",
+    "units": 3,
+    "title": "Assessment and Treatment of African American Families",
+    "description": "(Same as African American Studies M240.) Seminar, two hours. Designed for graduate students. Course aids mental health professionals and trainees in evaluation and treatment of African American families in terms of their cultural milieu, historical background, and economic status. Didactic presentations by instructors and invited guests form basis for supervised evaluation and case management with African American children and families. Letter grading.",
+    "cross_listed": [
+      "AF AMER M240"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM240"
+  },
+  {
+    "course_code": "PSYCTRY 243A",
+    "units": 1,
+    "title": "Mental Retardation and Chronic Medical Illness Interdisciplinary Core Curriculum",
+    "description": "Lecture, 90 minutes. Survey series on major topic areas of mental retardation and chronic medical illness, covering epidemiology, nosology, assessment, healthcare delivery systems, basic genetics, nutrition, direct care, and special deficits. Presented in interdisciplinary framework as generic information independent of discipline. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY243A"
+  },
+  {
+    "course_code": "PSYCTRY 243B",
+    "units": 1,
+    "title": "Mental Retardation and Chronic Medical Illness Interdisciplinary Core Curriculum",
+    "description": "Lecture, 90 minutes. Survey series on major topic areas of mental retardation and chronic medical illness, covering epidemiology, nosology, assessment, healthcare delivery systems, basic genetics, nutrition, direct care, and special deficits. Presented in interdisciplinary framework as generic information independent of discipline. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY243B"
+  },
+  {
+    "course_code": "PSYCTRY 243C",
+    "units": 1,
+    "title": "Mental Retardation and Chronic Medical Illness Interdisciplinary Core Curriculum",
+    "description": "Lecture, 90 minutes. Survey series on major topic areas of mental retardation and chronic medical illness, covering epidemiology, nosology, assessment, healthcare delivery systems, basic genetics, nutrition, direct care, and special deficits. Presented in interdisciplinary framework as generic information independent of discipline. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY243C"
+  },
+  {
+    "course_code": "PSYCTRY 253",
+    "units": 1,
+    "title": "Seminar: Child Development",
+    "description": "Theories of development, systems of child development, and chronological aspects of child development. Presentation of assigned readings by students plays major role in each session.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY253"
+  },
+  {
+    "course_code": "PSYCTRY 256",
+    "units": 1,
+    "title": "Basic Clinical Child Psychopathology",
+    "description": "Weekly seminar covering basic clinical aspects of child psychopathology. Readings provided for basis of discussion on topics including interviewing of parents and children, diagnosis, and related syndromes. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY256"
+  },
+  {
+    "course_code": "PSYCTRY 259",
+    "units": 3,
+    "title": "Legal and Ethical Issues with Vulnerable Populations",
+    "description": "Lecture, 90 minutes; laboratory, three and one half hours. Discussion of current laws dealing with vulnerable populations (e.g., children, developmentally disabled people, elderly people); philosophies, ethics, ethical codes, issues, and how to resolve them. Use of videotapes and discussion of cases.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY259"
+  },
+  {
+    "course_code": "PSYCTRY 261",
+    "units": 1,
+    "title": "Advanced Seminar: Child and Adolescent Psychopharmacology",
+    "description": "Use of problem-based teaching methods and critical reviews of medical literature as basis for rational pharmacotherapy in children and adolescents. Major focus on development of a clinical decision-making process, given the limited scientific evidence supporting pharmacological practice in the field. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY261"
+  },
+  {
+    "course_code": "PSYCTRY M263",
+    "units": 2,
+    "title": "Clinical Pharmacology",
+    "description": "(Same as Biomathematics M263 and Medicine M263.) Lecture, two hours. Preparation: completion of professional health sciences degree (MD, DDS, DNSc, or PhD). Overview of principles of clinical pharmacology, especially as they relate to clinical and translational medicine and to advances in contemporary medicine such as targeting, gene therapy, and genomics. Letter grading.",
+    "cross_listed": [
+      "BIOMATH M263",
+      "MED M263"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM263"
+  },
+  {
+    "course_code": "PSYCTRY 264",
+    "units": 4,
+    "title": "Health and Mental Health Disparities from Psychosocial and Cultural Perspectives",
+    "description": "Seminar, three hours. Designed for graduate and medical students, resident physicians, and juniors/seniors (with consent of instructor) interested in learning about general, sexual, and mental health disparities. Survey course to introduce students to health disparities that exist for ethnic minorities and factors that may contribute to disproportionate prevalence rates. Review and discussion of research literature, with focus on specific diseases such as HIV/AIDS, substance abuse, depression, and breast and prostate cancer. Discussion of stereotypes and myths about healthcare of ethnic populations. Examination of psychosocial and cultural contexts as potential or contributing factors. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY264"
+  },
+  {
+    "course_code": "PSYCTRY M270",
+    "units": 4,
+    "title": "Neural Basis of Memory",
+    "description": "(Same as Neuroscience M273.) Lecture, two hours; discussion, one hour. Anatomical, physiological, and neurological data integrated into models for how behavioral phenomena of memory arise. Discussion of invertebrate memory, cortical conditioning, hippocampus and declarative memory, and frontal lobes and primary memory.",
+    "cross_listed": [
+      "NEURO M273"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM270"
+  },
+  {
+    "course_code": "PSYCTRY M272",
+    "units": 4,
+    "title": "Psychological Anthropology",
+    "description": "(Same as Anthropology M237.) Seminar, three hours. Various psychological issues in anthropology, both theoretical and methodological. Areas of interest include such things as culture and theory, culture and personality, and culture psychiatry. Discussion of questions relating to symbolic and unconsciousness process as they relate to culture. Topics vary from term to term. May be repeated for credit with topic change. S/U or letter grading.",
+    "cross_listed": [
+      "ANTHRO M237"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM272"
+  },
+  {
+    "course_code": "PSYCTRY 274A",
+    "units": 2,
+    "title": "Research Seminar: Psychoneuroimmunology",
+    "description": "Seminar, two hours. Research foundations for basic and clinical psychoneuroimmunology and clinical implications of relationship between brain, behavior, and immunity. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY274A"
+  },
+  {
+    "course_code": "PSYCTRY 274B",
+    "units": 2,
+    "title": "Research Seminar: Psychoneuroimmunology",
+    "description": "Seminar, two hours. Research foundations for basic and clinical psychoneuroimmunology and clinical implications of relationship between brain, behavior, and immunity. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY274B"
+  },
+  {
+    "course_code": "PSYCTRY 274C",
+    "units": 2,
+    "title": "Research Seminar: Psychoneuroimmunology",
+    "description": "Seminar, two hours. Research foundations for basic and clinical psychoneuroimmunology and clinical implications of relationship between brain, behavior, and immunity. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY274C"
+  },
+  {
+    "course_code": "PSYCTRY 275",
+    "units": 1,
+    "title": "Psychoneuroimmunology Research Seminar",
+    "description": "Seminar, one hour. Topics to be centered around current directions in psychoneuroimmunology (PNI), including social genomics, inflammation, and biological aging. Common molecular and immunological protocols used in PNI and current directions in PNI research, with emphasis on basic immunology and immunological/molecular biology and role of behavioral and psychological factors on immune and cell-aging processes. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY275"
+  },
+  {
+    "course_code": "PSYCTRY M277",
+    "units": 2,
+    "title": "Cognitive Behavior Therapy with Children: Treatment and Systems of Care",
+    "description": "(Same as Psychology M285.) Seminar, 90 minutes. Designed for graduate students. Cognitive/behavioral approaches to prevention and treatment of mental health problems in children. Examination of service delivery systems for treating troubled youth and discussion of issues with respect to current systems of care. Major problems include conduct disorders, attention deficit disorder, depression, anxiety, and learning disabilities. Letter grading.",
+    "cross_listed": [
+      "PSYCH M285"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM277"
+  },
+  {
+    "course_code": "PSYCTRY 281A",
+    "units": 4,
+    "title": "Behavioral Therapy in Educational Settings",
+    "description": "Lecture, one hour; laboratory, seven hours. Supervised experience in classroom working with exceptional children in conducting systematic observations, administering formal assessments, and developing and carrying out individualized educational and behavioral programs. Theoretical background furnished through one-hour weekly lecture. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY281A"
+  },
+  {
+    "course_code": "PSYCTRY 281B",
+    "units": 4,
+    "title": "Behavioral Therapy in Educational Settings",
+    "description": "Lecture, one hour; laboratory, seven hours. Supervised experience in classroom working with exceptional children in conducting systematic observations, administering formal assessments, and developing and carrying out individualized educational and behavioral programs. Theoretical background furnished through one-hour weekly lecture. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY281B"
+  },
+  {
+    "course_code": "PSYCTRY 281C",
+    "units": 4,
+    "title": "Behavioral Therapy in Educational Settings",
+    "description": "Lecture, one hour; laboratory, seven hours. Supervised experience in classroom working with exceptional children in conducting systematic observations, administering formal assessments, and developing and carrying out individualized educational and behavioral programs. Theoretical background furnished through one-hour weekly lecture. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY281C"
+  },
+  {
+    "course_code": "PSYCTRY M284A",
+    "units": 4,
+    "title": "Principles of Neuroimaging I",
+    "description": "(Same as Neuroscience M284A and Psychology M288A.) Lecture, four and one half hours. Preparation: competence in integral calculus, electricity and magnetism, computer programming (any language), general statistics. Requisite: course 292. Course M284A is requisite to M284B. Instrumental imaging methods for study of nervous system, with emphasis on quantitative understanding and data interpretation and features common to modalities. X-ray computed tomography, magnetic resonance imaging, positron emission tomography, magnetoencephalography, transcranial magneto stimulation, near infrared imaging. Letter grading.",
+    "prerequisites": [
+      "PSYCTRY 292"
+    ],
+    "cross_listed": [
+      "NEURO M284A",
+      "PSYCH M288A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM284A"
+  },
+  {
+    "course_code": "PSYCTRY M284B",
+    "units": 4,
+    "title": "Principles of Neuroimaging II",
+    "description": "(Same as Neuroscience M284B and Psychology M288B.) Lecture, four and one half hours. Preparation: competence in integral calculus, electricity and magnetism, computer programming (any language), general statistics. Requisite: course M284A. Instrumental imaging methods for study of nervous system, with emphasis on quantitative understanding and data interpretation and features common to modalities. X-ray computed tomography, magnetic resonance imaging, positron emission tomography, magnetoencephalography, transcranial magneto stimulation, near infrared imaging. Letter grading.",
+    "prerequisites": [
+      "PSYCTRY M284A"
+    ],
+    "cross_listed": [
+      "PSYCH M288B",
+      "NEURO M284B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM284B"
+  },
+  {
+    "course_code": "PSYCTRY M285",
+    "units": 3,
+    "title": "Functional Neuroimaging: Techniques and Applications",
+    "description": "(Same as Bioengineering M284, Neuroscience M285, Physics and Biology in Medicine M285, and Psychology M278.) Lecture, three hours. In-depth examination of activation imaging, including MRI and electrophysiological methods, data acquisition and analysis, experimental design, and results obtained thus far in human systems. Strong focus on understanding technologies, how to design activation imaging paradigms, and how to interpret results. Laboratory visits and design and implementation of functional MRI experiment. S/U or letter grading.",
+    "cross_listed": [
+      "NEURO M285",
+      "PSYCH M278",
+      "BIOENGR M284",
+      "PBMED M285"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM285"
+  },
+  {
+    "course_code": "PSYCTRY 287",
+    "units": 4,
+    "title": "Small Group Cognitive-Behavioral Interventions",
+    "description": "Lecture, three hours. Presentation of brief therapeutic interventions for adults and children at risk for suicide, depression, conduct problems, and HIV, with didactic and experiential techniques.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY287"
+  },
+  {
+    "course_code": "PSYCTRY M288",
+    "units": 4,
+    "title": "Social and Behavioral Factors of HIV/AIDS: Global Perspective",
+    "description": "(Same as Community Health Sciences M294.) Lecture, four hours. Requisites: Community Health Sciences 100 and Epidemiology 100, or prior social sciences courses. Overview of social and behavioral factors which influence both transmission and prevention of HIV/AIDS throughout the world. Letter grading.",
+    "prerequisites": [
+      "COM HLT 100",
+      "EPIDEM 100"
+    ],
+    "cross_listed": [
+      "COM HLT M294"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM288"
+  },
+  {
+    "course_code": "PSYCTRY 289",
+    "units": 4,
+    "title": "Intervention to Reduce HIV and Its Consequences",
+    "description": "Lecture, three hours. Examination of interventions to reduce HIV/AIDS transmission. Review of theory and research supporting efficacy of HIV interventions for variety of high-risk populations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY289"
+  },
+  {
+    "course_code": "PSYCTRY 290",
+    "units": 1,
+    "title": "Los Angeles HIV-Community Colloquia",
+    "description": "Lecture, two hours. Examination of emerging scientific HIV-related research. Discussion of policy issues, theories, and designs of HIV-related services and programs and shifting epidemiology of the virus and disease. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY290"
+  },
+  {
+    "course_code": "PSYCTRY 292",
+    "units": 2,
+    "title": "Functional Neuroanatomy for Neuropsychologists",
+    "description": "Lecture, two hours. Preparation: graduate-level neuroanatomy course. Designed for neuropsychology and radiology postdoctoral fellows and neuroscience graduate students. Human functional anatomy from systems perspective, integrating results from lesion research and functional neuroimaging. Students learn to identify gyri and major sulci on MR images and memorize associated Brodmann\u2019s region. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY292"
+  },
+  {
+    "course_code": "PSYCTRY 293",
+    "units": 2,
+    "title": "Professional Development: Presentations and Preparation for Academic Interviews",
+    "description": "Seminar, two hours. Exposure to range of professional development skills essential to academic career development. Hands-on skills and practice in preparing and delivering presentations for various audiences, and preparing research and/or teaching statements for job applications. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY293"
+  },
+  {
+    "course_code": "PSYCTRY 294",
+    "units": 2,
+    "title": "Essentials of Clinical Investigation",
+    "description": "Lecture, two hours; discussion, two hours. Designed for graduate students. Introduction to initial steps in clinical research through preparation of research proposal. Small working groups develop grant proposal on specific topic. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY294"
+  },
+  {
+    "course_code": "PSYCTRY 295A",
+    "units": 2,
+    "title": "Substantive Issues in Substance Abuse I",
+    "description": "Seminar, two hours; discussion, one hour. Neurobiology and psychopharmacology of drug abuse, as well as epidemiology and prevention. Discussion of pros and cons of various treatment modalities for drug dependence. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY295A"
+  },
+  {
+    "course_code": "PSYCTRY 295B",
+    "units": 2,
+    "title": "Substantive Issues in Substance Abuse II",
+    "description": "Seminar, two hours; discussion, one hour. Drug use patterns and treatment issues in specific populations such as women, adolescents, homeless, multiply diagnosed, as well as different ethnic populations. Exploration of relationship between drug abuse, sexuality, and HIV/AIDS. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY295B"
+  },
+  {
+    "course_code": "PSYCTRY 295C",
+    "units": 2,
+    "title": "Substantive Issues in Substance Abuse III",
+    "description": "Seminar, two hours; discussion, one hour. Theoretical perspectives on drug use and abuse as well as policy and ethical aspects of drug abuse research. Research design and analysis issues pertinent to drug abuse research. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY295C"
+  },
+  {
+    "course_code": "PSYCTRY 296",
+    "units": 2,
+    "title": "Research Group Seminar: Practicum",
+    "description": "Research group meeting, three hours. Designed for graduate students who plan to conduct research studies. Coverage of (1) publishing process\u2014submitting manuscripts to journals, selecting appropriate journals, frequent reasons for journal rejection of manuscripts, and key points in writing articles for publication, (2) overview of National Institutes of Health (NIH), including organization structure and mission, grant application process, funding mechanisms, and review process, (3) preparing/writing grants for submission to NIH, including review of components of successful applications, criteria by which applications are judged, and what to emphasize in each section, (4) grant mechanisms specifically designed for new investigators, (5) human subjects section for grant applications and IRB issues, and (6) preparation of budgets (modular and detailed) and budget justification for NIH submissions. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY296"
+  },
+  {
+    "course_code": "PSYCTRY 402",
+    "units": 1,
+    "title": "Journal Club",
+    "description": "Seminar, two hours; outside study, two hours. Presentation of participants\u2019 current research. Critical review of recent articles on drug abuse. Training sessions included in areas in which fellows believe they have a recognized need. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY402"
+  },
+  {
+    "course_code": "PSYCTRY 403",
+    "units": 1,
+    "title": "Individual Case Supervision",
+    "description": "Preparation: submission of written proposal to be structured by instructor and student prior to enrollment; additional information and proposal forms available in Office of Education, 38-216 Semel Institute. One-to-one supervision of individual therapy cases, including analyses of patient data, supervision of ongoing treatment, informal didactic sessions on personality theory, and applications to patient management. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY403"
+  },
+  {
+    "course_code": "PSYCTRY 405",
+    "units": 4,
+    "title": "Trauma and Sexual Abuse Research Seminar",
+    "description": "Seminar, three hours; discussion, one hour. Designed for graduate and medical students and resident physicians interested in learning about biobehavioral trauma research. Introduction to DSM-IV TR diagnostic criteria for posttraumatic stress disorder (PTSD), as well as biopsychosocial sequela. Examination and discussion of child and adult sexual abuse in context of being causative precursors of acute and chronic causes of PTSD. Evaluation of allostatic load, among other biologic variables, within context of physiological markers for PTSD. Review of current modes of treatment, including therapeutic and pharmacological interventions. Discussion of research methods particularly important for trauma research. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY405"
+  },
+  {
+    "course_code": "PSYCTRY 407A",
+    "units": 2,
+    "title": "Clinical Hypnosis Seminar",
+    "description": "Seminar, two hours. Integrated, experientially oriented sequence with lecture, discussion, demonstration, practice, and assigned readings. Guest speakers with expertise in specific hypnotic applications and populations, and video programs included. Trainees and faculty members in healthcare professions as well as licensed healthcare providers from community (MCEP credit available) encouraged to enroll. For trainees in social work, psychology, and psychiatry, completion of minimum of one year of supervised training in psychotherapy or behavior therapy required. Cultural and historical context for hypnosis; development of technical competence in trance induction, deepening, management, and re-alerting; and gaining familiarity with trance experiences. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY407A"
+  },
+  {
+    "course_code": "PSYCTRY 407B",
+    "units": 2,
+    "title": "Clinical Hypnosis Seminar",
+    "description": "Seminar, two hours. Integrated, experientially oriented sequence with lecture, discussion, demonstration, practice, and assigned readings. Guest speakers with expertise in specific hypnotic applications and populations, and video programs included. Trainees and faculty members in healthcare professions as well as licensed healthcare providers from community (MCEP credit available) encouraged to enroll. For trainees in social work, psychology, and psychiatry, completion of minimum of one year of supervised training in psychotherapy or behavior therapy required. Fundamentals of trance utilization, including diagnosis, creating safety, and facilitating exploratory trance experiences. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY407B"
+  },
+  {
+    "course_code": "PSYCTRY 407C",
+    "units": 2,
+    "title": "Clinical Hypnosis Seminar",
+    "description": "Seminar, two hours. Integrated, experientially oriented sequence with lecture, discussion, demonstration, practice, and assigned readings. Guest speakers with expertise in specific hypnotic applications and populations, and video programs included. Trainees and faculty members in healthcare professions as well as licensed healthcare providers from community (MCEP credit available) encouraged to enroll. For trainees in social work, psychology, and psychiatry, completion of minimum of one year of supervised training in psychotherapy or behavior therapy required. Application of hypnotic interventions in specific clinical situations and with specific populations. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY407C"
+  },
+  {
+    "course_code": "PSYCTRY M424",
+    "units": 2,
+    "title": "Functional Magnetic Resonance Imaging Journal Club",
+    "description": "(Same as Physics and Biology in Medicine M424.) Discussion, 90 minutes. Limited to 10 students. Current topics in functional neuroimaging, with emphasis on novel applications, analysis, and acquisition methods. Presentation and critique of student papers. Overall emphasis on magnetic resonance imaging. Example areas include tractography through diffusion tensor imaging, jittered event-related experimental designs, parallel receiver MR imaging, integrated electrophysiological and image acquisition. S/U grading.",
+    "cross_listed": [
+      "PBMED M424"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM424"
+  },
+  {
+    "course_code": "PSYCTRY 425",
+    "units": 1,
+    "title": "Teaching Case Conference",
+    "description": "Review of diagnosis and treatment of full spectrum of disorders, with expert off-unit consultants. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY425"
+  },
+  {
+    "course_code": "PSYCTRY 429",
+    "units": 1,
+    "title": "Child Outpatient Team",
+    "description": "Weekly team meetings to coordinate clinical activities of trainees in Child Outpatient Department. Discussion of literature and theories related to selected cases. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY429"
+  },
+  {
+    "course_code": "PSYCTRY 431A",
+    "units": 1,
+    "title": "Pediatric Neuropsychology: Assessment, Diagnosis, and Treatment Planning",
+    "description": "Seminar, one hour. Presentation of didactics on developmental disorders, pediatric syndromes, and acquired brain injury in children. Coverage of methods of assessment in children, with focus on neuropsychological testing. Presentation of differential diagnosis and treatment planning. Developmental disorders, including autism, Asperger\u2019s, mental retardation, specific learning disabilities, and Attention Deficit/Hyperactivity Disorder. Current conceptualizations of these disorders used to form assessment techniques, including choice of instruments and interpretation of results. Practical issues in pediatric neuropsychology, including ethics, educational law, and interdisciplinary interventions. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY431A"
+  },
+  {
+    "course_code": "PSYCTRY 431B",
+    "units": 1,
+    "title": "Pediatric Neuropsychology: Assessment, Diagnosis, and Treatment Planning",
+    "description": "Seminar, one hour. Presentation of didactics on developmental disorders, pediatric syndromes, and acquired brain injury in children. Coverage of methods of assessment in children, with focus on neuropsychological testing. Presentation of differential diagnosis and treatment planning. Neurodevelopmental disorders, head injury, low birth weight, tumors, and epilepsy. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY431B"
+  },
+  {
+    "course_code": "PSYCTRY 431C",
+    "units": 1,
+    "title": "Pediatric Neuropsychology: Assessment, Diagnosis, and Treatment Planning",
+    "description": "Seminar, one hour. Presentation of didactics on developmental disorders, pediatric syndromes, and acquired brain injury in children. Coverage of methods of assessment in children, with focus on neuropsychological testing. Presentation of differential diagnosis and treatment planning. Implementation of research from previous two terms in case presentation format, supplemented with various guest speakers. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY431C"
+  },
+  {
+    "course_code": "PSYCTRY 434",
+    "units": 1,
+    "title": "Seminar: Addiction Psychiatry",
+    "description": "Seminar, one hour. Cutting-edge research in neuroscience of addictive behavior, using both animal models and human participants. Neuroscience findings regarding multiple addictive substances (e.g., stimulants, alcohol, nicotine) and related behavioral traits (e.g., impulsivity, risky decision making). Some lectures provided by nationally recognized invited guest speakers. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY434"
+  },
+  {
+    "course_code": "PSYCTRY 449",
+    "units": 2,
+    "title": "Parent Training Intervention Workshop",
+    "description": "Lecture, 90 minutes; discussion, one hour. Advanced clinical trainees learn behavioral techniques of assessment and treatment of parent/child problems. Lectures, case presentations, and workshops on various skills necessary.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY449"
+  },
+  {
+    "course_code": "PSYCTRY 454",
+    "units": 1,
+    "title": "Advanced Topics in Neuropsychology",
+    "description": "Seminar, one hour. Coverage of topics in even years that involve interface of neuropsychology with other disciplines, such as cognition and psychopharmacology, cognitive remediation, ecological validity of neuropsychological assessment, cognition and genomics, and psychometrics/test development. Focus in odd years on current models of human neuropsychology, such as models of working memory, neuropsychology of emotion and social cognition, models of implicit versus explicit learning, types of attention, and models of executive processes. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY454"
+  },
+  {
+    "course_code": "PSYCTRY 468",
+    "units": 1,
+    "title": "Translational Neuroscience of Drug Addiction",
+    "description": "Lecture, one hour. Designed for graduate students. Students need cross-disciplinary knowledge to understand drug abuse etiology, behavior, consequences, and treatment. Coverage of major topics in drug addiction by emphasizing use of animal models to understand human addiction and to disclose how findings derived from human studies can be used to expand development of animal models. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY468"
+  },
+  {
+    "course_code": "PSYCTRY 479",
+    "units": 0,
+    "title": "Genetics Clinic Presentation",
+    "description": "Weekly clinical teaching session on patients seen in preceding genetics clinic. In-depth discussion on genetics of each disorder.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY479"
+  },
+  {
+    "course_code": "PSYCTRY 480",
+    "units": 1,
+    "title": "Analysis of Human Chromosome Studies",
+    "description": "Chromosome karyotypes prepared in cytogenetics laboratory during preceding week presented and discussed with reference to clinical findings. Teaching includes interpretation of abnormal karyotypes and technical aspects of routine and special chromosome stains.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY480"
+  },
+  {
+    "course_code": "PSYCTRY 482",
+    "units": 3,
+    "title": "Clinical Practicum in Childhood Anxiety and Related Disorders",
+    "description": "Clinic, two hours. Training in cognitive/behavioral assessment and treatment of children and adolescents with anxiety and related disorders. Didactic and experiential training, including direct patient care, clinical supervision, and participation in weekly team meetings. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY482"
+  },
+  {
+    "course_code": "PSYCTRY 485",
+    "units": 0,
+    "title": "Human Genetics Seminar",
+    "description": "Seminar, one hour. Preparation: introductory genetics course. Weekly lecture series intended for those interested in human genetics or in specific topic to be presented. Speakers are invited for their expertise or research in some special area related to human genetics and may be from UCLA or elsewhere. No grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY485"
+  },
+  {
+    "course_code": "PSYCTRY M490",
+    "units": 2,
+    "title": "Educational Advocacy",
+    "description": "(Same as Law M431.) Clinic, two hours (12 weeks). How to provide educational advocacy based on IDEA, ADA, and Section 504 of Rehabilitation Act on behalf of children with learning disabilities, behavior disorders, and mental retardation. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRYM490"
+  },
+  {
+    "course_code": "PSYCTRY 596P",
+    "units": 2,
+    "title": "Individual Studies in Psychiatry",
+    "description": "Tutorial, to be arranged. Preparation: submission of written proposal outlining course of study (to be structured by instructor and student at time of initial enrollment). Additional information and course proposal forms available in Office of Education, 38-216 Semel Institute. Directed individual research and study in psychiatry at graduate level. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCTRY596P"
+  }
+]

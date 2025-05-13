@@ -1,0 +1,247 @@
+[
+  {
+    "course_code": "DGT HUM 11",
+    "units": 1,
+    "title": "Mathematics Studio for Data Science",
+    "description": "Studio, one to two hours. Designed for students who feel that their ability to participate in research opportunities is limited by their data science skills, and that their ability to acquire data science skills is limited by discomfort with mathematics. Review, preview, and practice of commonly used mathematics skills. Focus on topics relevant to data science, and especially to social science questions. All students who want to practice mathematics in a friendly and supportive environment are welcome. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM11"
+  },
+  {
+    "course_code": "DGT HUM 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM19"
+  },
+  {
+    "course_code": "DGT HUM 30",
+    "units": 5,
+    "title": "Los Angeles Tech City: Digital Technologies and Spatial Justice",
+    "description": "Lecture, two and one half hours; studio, two hours. Investigation of spatial justice and injustice in multi-ethnic city of Los Angeles through Lens of three thematic technologies that built and transformed Los Angeles into global metropolis: cars and highways, networking technologies culminating in Internet and World Wide Web, and film and broadcast media. Use of innovative forms of investigation and communication, from digital mapping to video-sensing, to integrate interpretative and historical approaches of humanities with material and projective practices of design. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM30"
+  },
+  {
+    "course_code": "DGT HUM 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM89"
+  },
+  {
+    "course_code": "DGT HUM 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM89HC"
+  },
+  {
+    "course_code": "DGT HUM 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM99"
+  },
+  {
+    "course_code": "DGT HUM 101",
+    "units": 4,
+    "title": "Introduction to Digital Humanities",
+    "description": "Lecture, 75 minutes; discussion, 75 minutes. Foundation course for students in Digital Humanities minor, providing theoretical and conceptual framework for understanding genesis of digital world. Use of contemporary cultural-historical methodology to focus on rise of new media and information technologies in 19th, 20th, and 21st centuries, such as photography, film, radio, television, Internet, and World Wide Web and their impact on how individuals, groups, and cultures experienced their worlds. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM101"
+  },
+  {
+    "course_code": "DGT HUM 110",
+    "units": 4,
+    "title": "User Experience and Design",
+    "description": "Seminar, three hours. Requisite: course 101. Introduction to fields of user experience (UX) research and design. Covers UX design methods and process, including ethnographic field research, persona-scenario development, information architecture, prototyping, and usability testing. Students learn by hands-on practice in human-centered process: how to understand users, how to design interface and interaction for users, and how to evaluate and communicate user experience design with users. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM110"
+  },
+  {
+    "course_code": "DGT HUM 120",
+    "units": 4,
+    "title": "Social Media Data Analytics",
+    "description": "Lecture, three hours; laboratory, one hour. Requisite: course 101 or consent of instructor. Social media data analytics, with focus on questions of power, privilege, identity, whose voices count and in what spaces, as well as how data science and digital humanities may be used to challenge power structures. Study of how social media has been used both to undermine and to support social justice and political change movements, ways in which social media data is currently used by corporate entities, and ethical data usage. Students learn digital research methods including quantitative and qualitative data analytics, statistics, as well as data visualization to examine social media data. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM120"
+  },
+  {
+    "course_code": "DGT HUM M121",
+    "units": 4,
+    "title": "Race, Gender, and Data",
+    "description": "(Same as Community Engagement and Social Change M121.) Seminar, three hours. Requisite: course 101. Data plays a crucial role in political representation, governmental resource allocation, and policy decisions. Investigation of how data does or does not ascribe a quantitative value to a human life by employing a community-engaged emphasis to study how emerging digital models link data with social justice organizing. Students learn to read datasets produced by governmental entities such as the U.S. Census Bureau, Bureau of Labor Statistics, and Department of Health and Human Services. Assignments include working on a community-engaged data project that evaluates and addresses key concerns facing communities-of-color. Introduction to critical data studies and applied data ethics. Studio sessions include lessons on finding and analyzing datasets relevant to racial and gender justice themes; and to generating data visualizations, digital stories, and maps using the latest software tools. No prior knowledge of statistics or quantitative analysis is required. P/NP or letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "cross_listed": [
+      "CESC M121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUMM121"
+  },
+  {
+    "course_code": "DGT HUM 125",
+    "units": 4,
+    "title": "Data Analysis for Social and Cultural Research",
+    "description": "Seminar, three hours. Requisite: course 101 or consent of instructor. Data analysis and statistical methods tailored for students in humanities and social sciences, with focus on topics and issues related to social justice. Study of descriptive and inferential statistics as applied in humanistic research. Consideration of how to generate evidence-based, statistically sound arguments, applying methods learned throughout the course to a collaborative project. Students learn statistical methods, R Studio environment and language, and how to communicate their arguments in cogent narratives supported by evidence. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM125"
+  },
+  {
+    "course_code": "DGT HUM 131",
+    "units": 4,
+    "title": "Digital Mapping and Critical Geographic Information Systems",
+    "description": "Seminar, three hours. Requisite: course 101 or consent of instructor. Introduction to digital mapping and critical geographic information systems. Study of basic data types including geographic, structured, and unstructured. Students engage with fundamental mapping practices such as geolocating structured data, working with open data through web mapping technologies, georeferencing historical maps, and creating location-based narratives and visualizations. Through project-based learning, students discover how to manage and apply data to wide range of digital mapping technologies. Consideration of how to incorporate these concepts into humanities and social sciences research. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM131"
+  },
+  {
+    "course_code": "DGT HUM 140",
+    "units": 4,
+    "title": "Coding for Humanities",
+    "description": "Seminar, three hours. Requisites: course 101. Introduction to coding, with focus on Python. Study of basic structural elements such as lists, if statements, dictionaries, loops, functions, and classes. Consideration of how to apply these concepts to research in humanities and social sciences, and project-based learning. Students discover how to manage and display data with added impact. Content and goals are guided by freedom to research more effectively and freedom of speech. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM140"
+  },
+  {
+    "course_code": "DGT HUM M145",
+    "units": 4,
+    "title": "Literary Texts and Literary Languages: Strategies of Analysis and Digital Tools",
+    "description": "(Same as Russian M145.) Lecture, three hours. Lectures and readings in English. Non-obligatory additional materials in Russian. Formal, quantitative, and computational methods for analysis of poetry and prose. Digital tools for analysis. P/NP or letter grading.",
+    "cross_listed": [
+      "RUSSN M145"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUMM145"
+  },
+  {
+    "course_code": "DGT HUM 150",
+    "units": 4,
+    "title": "Advanced Topics in Digital Humanities",
+    "description": "Seminar, three hours. Requisite: course 101. Introduction to advanced research methods or thematic issues in digital humanities such as database and visualization technologies, social media technologies, application programming interfaces, and digital mapping to acquire familiarity with particular set of technologies by learning practical research methods and theoretical issues to carry out advanced research in this area. Consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM150"
+  },
+  {
+    "course_code": "DGT HUM 151",
+    "units": 4,
+    "title": "Advanced Topics in Urban Humanities",
+    "description": "Seminar, three hours. Introduction to advanced research topics in urban humanities. Looking at specific subject matters related to notion of spatial equity in context of Los Angeles, exploration of how certain spatial technologies such as geographic information systems (GIS) cartography, mobile telephony, real-time data collection, social media, digital databases, and interactive web platforms can be deployed to research and document urban experience. Familiarization with digital tools used to study urban issues, from affordable housing to access to public space and employment, to civic participation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM151"
+  },
+  {
+    "course_code": "DGT HUM 187",
+    "units": 4,
+    "title": "Capstone Seminar in Digital Humanities",
+    "description": "Seminar, three hours. Requisite: course 101. Students are guided in development and realization of collaborative digital humanities research project. Students learn to develop and refine research question, carry out advanced research in digital humanities, and present results of their research to their peers. Students participate in structured trainings, work with classmates to select suitable research topics, give weekly updates about their research process, and develop presentation of project. Librarians and members of Digital Research Consortium introduce students to available digital collections, archives, and other resources at UCLA. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM187"
+  },
+  {
+    "course_code": "DGT HUM 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM189"
+  },
+  {
+    "course_code": "DGT HUM 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM189HC"
+  },
+  {
+    "course_code": "DGT HUM 195",
+    "units": 4,
+    "title": "Community or Corporate Internships in Digital Humanities",
+    "description": "Tutorial, two hours; fieldwork, eight hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Placements to be arranged by instructor. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM195"
+  },
+  {
+    "course_code": "DGT HUM 196",
+    "units": 4,
+    "title": "Research Apprenticeship in Digital Humanities",
+    "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM196"
+  },
+  {
+    "course_code": "DGT HUM 198",
+    "units": 4,
+    "title": "Honors Research in Digital Humanities",
+    "description": "Tutorial, one hour. Requisite: course 101. Limited to juniors/seniors. Development and completion of significant research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM198"
+  },
+  {
+    "course_code": "DGT HUM 199",
+    "units": 2,
+    "title": "Directed Research in Digital Humanities",
+    "description": "Tutorial, one hour. Requisite: course 101. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM199"
+  },
+  {
+    "course_code": "DGT HUM 201",
+    "units": 5,
+    "title": "Introduction to Digital Humanities",
+    "description": "Seminar, three hours; laboratory, one hour. Introduction to field of digital humanities. Historical overview of field from its beginning in post-World War II era to present, highlighting major intellectual problems, disciplinary paradigms, and institutional challenges that are posed by digital humanities. Examination of major epistemological, methodological, technological, and institutional challenges posed by digital humanities through number of specific projects that address fundamental problems in creating, interpreting, preserving, and transmitting human cultural record. How digital technologies and tools, ranging from map visualizations and modeling environments to database structures and interface design, are arguments that make certain assumptions about, and even transform, objects of study. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM201"
+  },
+  {
+    "course_code": "DGT HUM M221",
+    "units": 4,
+    "title": "Data and Society",
+    "description": "(Same as Social Science M240.) Seminar, three hours. Introduction to way data and computing technologies increasingly play pivotal role in social life. Students pose critical questions about social impact of data, while also gaining literacy in engaging digital and data tools. Students learn to recognize historically and institutionally produced biases in data research and science. Engagement is encouraged with how to work with data for social justice aims. S/U or letter grading.",
+    "cross_listed": [
+      "SOC SC M240"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUMM221"
+  },
+  {
+    "course_code": "DGT HUM 250",
+    "units": 4,
+    "title": "Special Topics in Digital Humanities",
+    "description": "Seminar, three hours. Enforced requisite: course 201. Introduction to advanced research method or thematic issue in digital humanities, such as digital textual analysis, digital mapping database and visualization technologies, or social media technologies. Acquisition of familiarity with particular set of technologies by learning practical research methods and theoretical issues to carry out advanced research in this area. Examination of critiques of theoretical underpinnings of such technologies and issues that they raise. May be repeated for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 201"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM250"
+  },
+  {
+    "course_code": "DGT HUM 299",
+    "units": 2,
+    "title": "Special Projects in Digital Humanities",
+    "description": "Tutorial, one hour. Enforced requisite: course 201. Limited to and required of graduate students in Digital Humanities Graduate Certificate Program. Supervised research and investigation under guidance of faculty mentor. Culminating project required. May be repeated for maximum of 12 units. Letter grading.",
+    "prerequisites": [
+      "DGT HUM 201"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM299"
+  },
+  {
+    "course_code": "DGT HUM 596",
+    "units": 2,
+    "title": "Directed Individual Study or Research",
+    "description": "Tutorial, three hours. To be arranged with faculty member who directs study or research. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DGTHUM596"
+  }
+]

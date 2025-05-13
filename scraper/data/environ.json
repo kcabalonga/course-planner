@@ -1,0 +1,712 @@
+[
+  {
+    "course_code": "ENVIRON M1A",
+    "units": 6,
+    "title": "Food: Lens for Environment and Sustainability",
+    "description": "(Same as Clusters M1A.) Lecture, three hours; discussion, two hours. Course M1A is enforced requisite to M1B, which is enforced requisite to M1CW. Limited to first-year freshmen. Food as lens for local and global environmental and sustainability issues. Integration of environmental, social, economic, and technological solutions for fair, sustainable, and healthy food production, food security, and access. Focus on human impacts on Earth\u2019s biological and physical systems, including how food production and consumption contributes to, and is impacted by, global problems, including climate change, pollution, and overpopulation. Laboratory exercises included in discussions. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "CLUSTER M1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM1A"
+  },
+  {
+    "course_code": "ENVIRON M1B",
+    "units": 6,
+    "title": "Food: Lens for Environment and Sustainability",
+    "description": "(Same as Clusters M1B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M1A. Limited to first-year freshmen. Food as lens for local and global environmental and sustainability issues. Integration of environmental, social, economic, and technological solutions for fair, sustainable, and healthy food production, food security, and access. Focus on human impacts on Earth\u2019s biological and physical systems, including how food production and consumption contributes to, and is impacted by, global problems, including climate change, pollution, and overpopulation. Laboratory exercises included in discussions. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "ENVIRON M1A"
+    ],
+    "cross_listed": [
+      "CLUSTER M1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM1B"
+  },
+  {
+    "course_code": "ENVIRON M1CW",
+    "units": 6,
+    "title": "Food: Lens for Environment and Sustainability\u2014Special Topics",
+    "description": "(Same as Clusters M1CW.) Seminar, three hours. Enforced requisite: course M1B. Limited to first-year freshmen. Examination of specialized environmental and sustainability topics as they relate to food, including air, water, biodiversity, climate change, food access, food security, and health. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Writing II",
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "ENVIRON M1B"
+    ],
+    "cross_listed": [
+      "CLUSTER M1CW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM1CW"
+  },
+  {
+    "course_code": "ENVIRON 10",
+    "units": 4,
+    "title": "Introduction to Environmental Science",
+    "description": "Lecture, three hours; laboratory, one hour. Limited to undergraduate students. Introduction to environmental science as discipline and as way of thinking. Discussion of critical environmental issues at local and global scales. Fundamentals of physical, chemical, and biological processes important to environmental science. Laboratory exercises to augment lectures. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON10"
+  },
+  {
+    "course_code": "ENVIRON 12",
+    "units": 4,
+    "title": "Sustainability and Environment",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to sustainability with emphasis on environmental component, including Earth\u2019s physical, chemical, and biological processes as related to resource demands and management. Examination of application of scientific method in helping to understand and solve sustainability problems. Case studies illustrating how natural and social scientists work on environmental sustainability issues. Focus on global climate change, biodiversity, pollution, and water and energy resources presented in context of creating sustainable human society that is environmentally sound, economically viable, and socially just and equitable. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON12"
+  },
+  {
+    "course_code": "ENVIRON 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON19"
+  },
+  {
+    "course_code": "ENVIRON 25",
+    "units": 5,
+    "title": "Good Food for Everyone: Health, Sustainability, and Culture",
+    "description": "Lecture, three hours; discussion, one hour. Good food is healthy, sustainably produced, and culturally meaningful. Introduction to basic concepts and history of food systems, food science and nutrition, fair and sustainable food production, natural resources and environmental issues including climate change and biodiversity, agriculture and food policy and law, food distribution and access, cultural identity and artistic engagements with food. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON25"
+  },
+  {
+    "course_code": "ENVIRON M30",
+    "units": 5,
+    "title": "Environmental Literature and Culture",
+    "description": "(Same as English M30.) Lecture, three hours; discussion, one hour. Enforced requisite: satisfaction of Entry-Level Writing requirement. Introduction to core themes, questions, and methods within interdisciplinary field of environmental humanities. Examination of how different culture forms (e.g., fiction, journalism, poetry, visual art) represent environmental issues. Topics may include biodiversity, wilderness, food, urban ecologies, postcolonial ecologies, environmental justice, and climate change. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "ENGL M30"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM30"
+  },
+  {
+    "course_code": "ENVIRON M30SL",
+    "units": 5,
+    "title": "Environmental Literature and Culture (Service Learning)",
+    "description": "(Same as English M30SL.) Lecture, three hours; discussion, one hour; fieldwork, two hours. Enforced requisite: satisfaction of Entry-Level Writing requirement. Introduction to core themes, questions, and methods within interdisciplinary field of environmental humanities. Examination of how different culture forms (e.g., fiction, journalism, poetry, visual art) represent environmental issues. Topics may include biodiversity, wilderness, food, urban ecologies, postcolonial ecologies, environmental justice, and climate change. Service learning component includes meaningful work with off-campus agency/agencies selected by instructor. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "ENGL M30SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM30SL"
+  },
+  {
+    "course_code": "ENVIRON 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON89"
+  },
+  {
+    "course_code": "ENVIRON 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON89HC"
+  },
+  {
+    "course_code": "ENVIRON 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON99"
+  },
+  {
+    "course_code": "ENVIRON M102",
+    "units": 4,
+    "title": "Soils and Environment",
+    "description": "(Formerly numbered M127.) (Same as Ecology and Evolutionary Biology M127 and Geography M102.) Lecture, three hours; discussion, one hour; field trips. General treatment of soils and environmental implications: soil development, morphology, and worldwide distribution of soil orders; physical, chemical, hydrologic, and biological properties; water use, erosion, and pollution; management of soils as related to plant growth and distribution. P/NP or letter grading.",
+    "cross_listed": [
+      "EE BIOL M127",
+      "GEOG M102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM102"
+  },
+  {
+    "course_code": "ENVIRON M102L",
+    "units": 1,
+    "title": "Soils and Environment: Field",
+    "description": "(Formerly numbered M127L.) (Same as Ecology and Evolutionary Biology M127L and Geography M102L.) Laboratory, one hour; field excursions. Corequisite: course M102. Investigations and demonstrations supporting material in course M102, including excavating, describing, and naming soils in field, soil forming processes, geomorphology, and soils. P/NP or letter grading.",
+    "corequisites": [
+      "ENVIRON M102"
+    ],
+    "cross_listed": [
+      "EE BIOL M127L",
+      "GEOG M102L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM102L"
+  },
+  {
+    "course_code": "ENVIRON M103",
+    "units": 4,
+    "title": "Soil and Water Conservation",
+    "description": "(Formerly numbered M114.) (Same as Geography M103.) Lecture, three hours; discussion, one hour. Enforced requisite: one course from course 10, Geography 1, 2, Life Sciences 7B. Designed for juniors/seniors. Systematic study of processes of and hazards posed by erosion, sedimentation, development, and pollution and techniques needed to conserve soil and maintain environmental quality. Scope includes agriculture, forestry, mining, and other rural uses of land. P/NP or letter grading.",
+    "prerequisites": [
+      "ENVIRON 10",
+      "GEOG 1",
+      "GEOG 2",
+      "LIFESCI 7B"
+    ],
+    "cross_listed": [
+      "GEOG M103"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM103"
+  },
+  {
+    "course_code": "ENVIRON M111",
+    "units": 4,
+    "title": "Earth and Its Environment",
+    "description": "(Same as Atmospheric and Oceanic Sciences M100.) Lecture, three hours. Overview of Earth as system of distinct, yet intimately related, physical and biological elements. Origins and characteristics of atmosphere, oceans, and land masses. Survey of history of Earth and of life on Earth, particularly in relation to evolution of physical world. Consideration of possibility of technological solutions to global environmental problems using knowledge gained during course. Letter grading.",
+    "cross_listed": [
+      "A&O SCI M100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM111"
+  },
+  {
+    "course_code": "ENVIRON 121",
+    "units": 4,
+    "title": "Conservation of Biodiversity",
+    "description": "Lecture, three hours; discussion, two hours. Not open for credit to students with credit for Ecology and Evolutionary Biology 116. Examination of interrelation of natural biotic and human systems. Description of distribution of biodiversity and natural processes that maintain it. Critical analysis of various levels of threats and multidimensional challenges required for mitigating threats. Letter grading.",
+    "credit_exclusions": [
+      "EE BIOL 116"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON121"
+  },
+  {
+    "course_code": "ENVIRON M125",
+    "units": 4,
+    "title": "Environmentalism: Past, Present, and Future",
+    "description": "(Formerly numbered M132.) (Same as Geography M125 and Urban Planning M165.) Lecture, three hours; discussion, one hour. Exploration of history and origin of major environmental ideas, movements or countermovements they spawned, and new and changing nature of modern environmentalism. Introduction to early ideas of environment, how rise of modern sciences reshaped environmental thought, and how this was later transformed by 19th-century ideas and rise of American conservation movements. Review of politics of American environmental thought and contemporary environmental questions as they relate to broader set of questions about nature of development, sustainability, and equity in environmental debate. Exploration of issues in broad context, including global climate change, rise of pandemics, deforestation, and environmental justice impacts of war. Letter grading.",
+    "cross_listed": [
+      "GEOG M125",
+      "URBN PL M165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM125"
+  },
+  {
+    "course_code": "ENVIRON M126",
+    "units": 4,
+    "title": "Environmental Change",
+    "description": "(Formerly numbered M130.) (Same as Geography M126.) Lecture, three hours; reading period, one hour. Designed for juniors/seniors. Examination of natural forces producing environmental changes over past two million years. How present landscape reflects past conditions. Effects of environmental change on people. Increasing importance of human activity in environmental modification. Focus on impact of natural and anthropogenic changes on forests. P/NP or letter grading.",
+    "cross_listed": [
+      "GEOG M126"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM126"
+  },
+  {
+    "course_code": "ENVIRON M131",
+    "units": 4,
+    "title": "Human Impact on Biophysical Environment",
+    "description": "(Formerly numbered M109.) (Same as Geography M131.) Lecture, three hours; reading period, one hour. Designed for juniors/seniors. Examination of history, mechanisms, and consequences of interactions between humans and environment. Exploration in depth of three thematic topics (deforestation, desertification, and greenhouse gas increase and ozone depletion) and four major subjects (soil, biodiversity, water, and landforms). P/NP or letter grading.",
+    "cross_listed": [
+      "GEOG M131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM131"
+  },
+  {
+    "course_code": "ENVIRON M133",
+    "units": 4,
+    "title": "Environmental Sociology",
+    "description": "(Same as Society and Genetics M133 and Sociology M115.) Lecture, three hours; discussion, one hour. Relationship between society and environment. Analysis in detail of interrelations between social factors (such as class, race, gender, and religion) and environmental factors (such as pollution, waste disposal, sustainability, and global warming). P/NP or letter grading.",
+    "cross_listed": [
+      "SOC GEN M133",
+      "SOCIOL M115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM133"
+  },
+  {
+    "course_code": "ENVIRON 134",
+    "units": 4,
+    "title": "Environmental Economics with Data Analysis",
+    "description": "Lecture, three hours. Requisite: one course from Economics 41, Life Sciences 40, Political Science 6, Statistics 10, 12, 13, or other statistical analysis course approved by instructor. Examination of challenges of balancing environmental protection with wants and needs of people in economy. Focus on how to design efficient public policies that meet environmental goals. How to quantify cause-and-effect relationships, for example, between pollution and infant mortality, using non-experimental data. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "LIFESCI 40",
+      "POL SCI 6",
+      "STATS 10",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON134"
+  },
+  {
+    "course_code": "ENVIRON 140",
+    "units": 4,
+    "title": "Foundations of Environmental Policy and Regulation",
+    "description": "Lecture, three hours. Introduction to environmental policy and regulation in U.S. Provides basic knowledge and skills needed to work as professional environmental problem solver. Exploration of environmental harms that are subject to regulation, role of science in informing policy and regulation, evolution of environmental regulation, different types of regulatory instruments, regulatory process, and alternative approaches to environmental decision making. Includes California Environmental Quality Act (CEQA), Proposition 65, California\u2019s long-standing leadership role in air pollution control, and state\u2019s pioneering efforts in regulating greenhouse gas emissions. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON140"
+  },
+  {
+    "course_code": "ENVIRON M147",
+    "units": 4,
+    "title": "Critical Analysis of Strategies toward Environmental Justice",
+    "description": "(Same as Community Engagement and Social Change M147.) Lecture, three hours. Exploration of and engagement in critical analyses of strategies toward environmental justice including environmental education, civic ecology, environmental stewardship, policy advocacy campaigns, citizen science, community engagement, community planning, and urban tree canopy. Strategies are interwoven across four interconnected modules: community exposure to harm; access to ecosystem benefits and services; lack of diversity and engagement; and utilization of social-ecological systems approach. Students conduct case study analysis of strategies employed in efforts to move toward environmental justice, and develop collective course resource on environmental justice strategies. P/NP or letter grading.",
+    "cross_listed": [
+      "CESC M147"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM147"
+  },
+  {
+    "course_code": "ENVIRON 150",
+    "units": 4,
+    "title": "Environmental Journalism, Science Communications, and New Media",
+    "description": "Lecture, three hours. Introduction to environmental journalism, science communications, and new media, including weekly guest lectures by prominent successful practitioners in wide variety of media. Focus on technologies, methods, genres, and theories of communicating environmental challenges, exploring solutions, and engaging public in newspapers, television, radio, movies, online, on mobile devices, and through social media. Discussion of possibilities and limitations of different media and importance of communications for environmental science, policy, public understanding, and individual decision making. Production by students of environmental communications in variety of media. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON150"
+  },
+  {
+    "course_code": "ENVIRON M153",
+    "units": 4,
+    "title": "Introduction to Sustainable Architecture and Community Planning",
+    "description": "(Same as Architecture and Urban Design CM153.) Lecture, three hours. Relationship of built environment to natural environment through whole systems approach, with focus on sustainable design of buildings and planning of communities. Emphasis on energy efficiency, renewable energy, and appropriate use of resources, including materials, water, and land. Letter grading.",
+    "cross_listed": [
+      "ARCH&UD CM153"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM153"
+  },
+  {
+    "course_code": "ENVIRON 155",
+    "units": 4,
+    "title": "Energy and Society in Time of Climate Change: Moving toward Just Transition",
+    "description": "Lecture, three hours. Introduction to energy systems and their regulatory infrastructure, with focus on U.S. and California. History of field of energy including rise of coal mining, development of petroleum both in U.S. and Middle East, and enrollment of public lands for extraction or collection of energy from fossil deposits and flows. Examination of concept of energy and differences between energy and power. Focus on understanding contemporary energy system, different sources of energy, how energy is transmitted and distributed, and regulatory infrastructure that has arisen around this vast and essential system that provides electricity and natural gas for most commercial and domestic activities. Discussion of challenges and opportunities in current transition away from fossil fuels and progress of just transition in California. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON155"
+  },
+  {
+    "course_code": "ENVIRON 157",
+    "units": 4,
+    "title": "Energy, Environment, and Development",
+    "description": "Lecture, three hours. Requisites: Mathematics 3A and 3B (or 31A and 31B), Physics 1A and 1B (or 6A and 6B). Introduction to basic energy concepts and examination of role of various energy sources, energy conversion technologies, and energy policies in modern life. Analysis of implications of current patterns of energy production and consumption for future economic and environmental well-being. Integration of concepts and methods from physical and life sciences, engineering, environmental science, economics, and public policy. Basic quantitative skills provided to analyze and critique technical, economic, and policy choices to address challenge of balancing economic growth and environmental sustainability. P/NP or letter grading.",
+    "prerequisites": [
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 31A",
+      "MATH 31B",
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 6A",
+      "PHYSICS 6B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON157"
+  },
+  {
+    "course_code": "ENVIRON C159",
+    "units": 4,
+    "title": "Life-Cycle Assessment",
+    "description": "Lecture, three hours. Requisites: Life Sciences 30A and 30B, or Mathematics 3A and 3B (or 31A and 31B). Public discourse about current patterns of production and consumption of energy, and goods and services more broadly, suggest such patterns are environmentally and economically unsustainable. Introduction to basic concept of life-cycle assessment (LCA), including analytical frameworks and quantitative techniques for systematically and holistically evaluating environmental trade-offs presented by different alternatives. Focus on methodology of LCA to compute various material inputs and environmental releases from all activities associated with life cycle (i.e., raw material extraction, processing, end use, and disposal) of products or services. Discussion of strengths and limitations of LCA as tool for decision making. Students perform life-cycle analysis of one technology, product, or service of their choice. Concurrently scheduled with course C259. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONC159"
+  },
+  {
+    "course_code": "ENVIRON 160",
+    "units": 4,
+    "title": "Topics in Environmental Economics and Policy",
+    "description": "Seminar, three hours. Requisite: Statistics 12 or 13. Examination of intersection of environmental economics and policy, with focus on testing policy-relevant environmental hypotheses using economics research approach. Invited scholars present research aimed at yielding policy-relevant results on various topics such as climate change, pollution, and transportation. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON160"
+  },
+  {
+    "course_code": "ENVIRON M161",
+    "units": 4,
+    "title": "Global Environment and World Politics",
+    "description": "(Same as Political Science M122B.) Lecture, three or four hours; discussion, one hour (when scheduled). Recommended requisite: Political Science 20. Politics and policy of major global environmental issues such as climate change, integrating law, policy, and political science perspectives. P/NP or letter grading.",
+    "prerequisites": [
+      "POL SCI 20"
+    ],
+    "cross_listed": [
+      "POL SCI M122B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM161"
+  },
+  {
+    "course_code": "ENVIRON 162",
+    "units": 4,
+    "title": "Entrepreneurship and Finance for Environmental Scientists",
+    "description": "Lecture, three hours; discussion, one hour. Focus on key entrepreneurial and financial concepts, with emphasis on applications that are vital for implementing environmental solutions in private, public, and nonprofit settings. Topics include basic elements of finance, project evaluation, financial planning, and marketing. Development of entrepreneurial skills to recognize opportunity and transfer ideas into viable projects that are better for environment and that benefit people and communities. Case studies used to equip students with tools necessary to successfully execute environmental goals and objectives. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON162"
+  },
+  {
+    "course_code": "ENVIRON 163",
+    "units": 4,
+    "title": "Business and Natural Environment",
+    "description": "Lecture, three hours. Examination of role of business in mitigating environmental degradation and incentives to be more environmentally responsive. Emphasis on corporate strategies that deliver value to shareholders while responding to environmental concerns. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON163"
+  },
+  {
+    "course_code": "ENVIRON M164",
+    "units": 4,
+    "title": "Environmental Politics and Governance",
+    "description": "(Same as Urban Planning M160.) Lecture, three hours. Environmental planning is more than simply finding problems and fixing them. Each policy must be negotiated and implemented within multiple, complex systems of governance. Institutions and politics matter deeply. Overview of how environmental governance works in practice and how it might be improved. Letter grading.",
+    "cross_listed": [
+      "URBN PL M160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM164"
+  },
+  {
+    "course_code": "ENVIRON 166",
+    "units": 4,
+    "title": "Leadership in Water Management",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Examination of water quality and water supply issues, including interactions between scientific, technological, management, and policy issues. Invited experts, scholars, and practitioners discuss relevant issues such as pollution, climate change, and water infrastructure. Emphasis on solutions involving integrated water supply and wastewater systems. Leadership development through writing instruction and negotiations and media training. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON166"
+  },
+  {
+    "course_code": "ENVIRON M167",
+    "units": 4,
+    "title": "Environmental Justice through Multiple Lenses",
+    "description": "(Same as Public Affairs M161 and Urban Planning M167.) Lecture, three hours. Examination of intersection between race, economic class, and environment in U.S., with focus on issues related to social justice. Because environmental inequality is highly complex phenomenon, multidisciplinary and multipopulation approach taken, using alternative ways of understanding, interpreting, and taking action. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "PUB AFF M161",
+      "URBN PL M167"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM167"
+  },
+  {
+    "course_code": "ENVIRON 170",
+    "units": 1,
+    "title": "Environmental Science Colloquium",
+    "description": "Seminar, 90 minutes; one field trip. Limited to undergraduate students. Study of current topics in environmental science, including participation in weekly colloquium series and field trips. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON170"
+  },
+  {
+    "course_code": "ENVIRON 175",
+    "units": 4,
+    "title": "Programming with Big Environmental Datasets",
+    "description": "Lecture, three hours. Requisite: Life Sciences 40 or Statistics 12 or 13. Students gain practical experience conducting empirical research by learning how to program using R. Modern empirical research often requires use of powerful statistical software like R. This programming language shares many similarities with other statistical programs, providing students with valuable labor-market skill. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 40",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON175"
+  },
+  {
+    "course_code": "ENVIRON 180A",
+    "units": 4,
+    "title": "Practicum in Environmental Science",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: Statistics 12 or 13. Limited to Environmental Science majors who have completed 40 or more units of preparation for major courses, including statistics, and 12 or more units of upper-division courses toward major or minor requirements. Examination of case studies and presentation of tools and methodologies in environmental science, building on what students have been exposed to in other courses. Letter grading.",
+    "prerequisites": [
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON180A"
+  },
+  {
+    "course_code": "ENVIRON 180B",
+    "units": 5,
+    "title": "Practicum in Environmental Science",
+    "description": "Lecture, one hour; laboratory, five hours. Requisite: course 180A. Course 180B is requisite to 180C. Limited to junior/senior Environmental Science majors. Investigation of various aspects of one environmental case study representing actual multidisciplinary issue. Particular emphasis on developing skills required for working as professionals in this field. Work may involve site investigations, original data collection and analysis, mapping and geographic information systems, and environmental policy and law issues. Case study to be defined and conducted with collaboration of local agency or nonprofit institution. Letter grading.",
+    "prerequisites": [
+      "ENVIRON 180A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON180B"
+  },
+  {
+    "course_code": "ENVIRON 180C",
+    "units": 5,
+    "title": "Practicum in Environmental Science",
+    "description": "Lecture, one hour; laboratory, five hours. Requisite: course 180B. Limited to junior/senior Environmental Science majors. Investigation of various aspects of one environmental case study representing actual multidisciplinary issue. Particular emphasis on developing skills required for working as professionals in this field. Work may involve site investigations, original data collection and analysis, mapping and geographic information systems, and environmental policy and law issues. Case study to be defined and conducted with collaboration of local agency or nonprofit institution. Letter grading.",
+    "prerequisites": [
+      "ENVIRON 180B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON180C"
+  },
+  {
+    "course_code": "ENVIRON 185A",
+    "units": 1,
+    "title": "Sustainability Talks",
+    "description": "Lecture, two hours. Analysis of principles of sustainability through series of lectures and films by world-renowned faculty members, authors, environmentalists, entrepreneurs, policymakers, and progressive thinkers. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON185A"
+  },
+  {
+    "course_code": "ENVIRON 185B",
+    "units": 2,
+    "title": "Sustainability Action Research",
+    "description": "Lecture, two hours; fieldwork, four hours. Investigation of issues of campus sustainability, including energy efficiency, transportation, waste stream management, sustainable food practices, and more by student research to generate coalition of student researchers that, together with faculty members and UCLA staff, strive to make UCLA more sustainable community. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON185B"
+  },
+  {
+    "course_code": "ENVIRON 185C",
+    "units": 3,
+    "title": "Sustainability Action Research Leaders",
+    "description": "Seminar, two hours; fieldwork, six hours. Students lead research teams to investigate issues of campus sustainability, including energy efficiency, transportation, waste stream management, sustainable food practices, and more to generate coalition of student researchers that, together with faculty members and UCLA staff, strive to make UCLA more sustainable community. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON185C"
+  },
+  {
+    "course_code": "ENVIRON 186",
+    "units": 4,
+    "title": "Comparative Sustainability Practices in Local/Global Settings",
+    "description": "Fieldwork, four hours. Guided fieldwork and comparative analysis used to assess local sustainability practices and policies in diverse regional or international settings. Emphasis on comparing role of local and regional culture. geography, economic climate, and governmental policies on sustainability awareness and practices. Use of observations, interviews, and unobtrusive measures to document and analyze role and influence of local/global context on sustainability behavior of individuals, small businesses, and other institutions in everyday life. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON186"
+  },
+  {
+    "course_code": "ENVIRON M187",
+    "units": 1,
+    "title": "Careers in Earth System, Environment, and Space Sciences",
+    "description": "(Same as Atmospheric and Oceanic Sciences M187 and Earth, Planetary, and Space Sciences M187.) Seminar, one hour. Examination of central role of science in understanding and addressing grand challenges in climate, earth and environment, and space exploration through seminars given by scientists, engineers, managers, and entrepreneurs from national laboratories and industry. Includes tour of National Aeronautics and Space Administration (NASA) Jet Propulsion Laboratory (JPL). Students engage speakers on science, career preparation, opportunities for undergraduate internships, and building fulfilling careers. P/NP grading.",
+    "cross_listed": [
+      "EPS SCI M187",
+      "A&O SCI M187"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM187"
+  },
+  {
+    "course_code": "ENVIRON 188A",
+    "units": 4,
+    "title": "Special Courses in Environment",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON188A"
+  },
+  {
+    "course_code": "ENVIRON 188B",
+    "units": 2,
+    "title": "Special Courses in Environment",
+    "description": "Lecture, two hours. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON188B"
+  },
+  {
+    "course_code": "ENVIRON 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON188SA"
+  },
+  {
+    "course_code": "ENVIRON 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ENVIRON 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON188SB"
+  },
+  {
+    "course_code": "ENVIRON 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ENVIRON 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON188SC"
+  },
+  {
+    "course_code": "ENVIRON 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON189"
+  },
+  {
+    "course_code": "ENVIRON 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON189HC"
+  },
+  {
+    "course_code": "ENVIRON 193",
+    "units": 1,
+    "title": "Journal Club Seminars: Environment",
+    "description": "Seminar, one hour. Limited to undergraduate students. Discussion of readings selected from current literature of field. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON193"
+  },
+  {
+    "course_code": "ENVIRON 195",
+    "units": 2,
+    "title": "Community or Corporate Internships in Environmental Science",
+    "description": "Tutorial, to be arranged. Preparation: 3.0 grade-point average in major. Limited to junior/senior majors. Internship in supervised setting in community agency or business related to environmental science and/or sustainability. Students meet on regular basis with faculty supervisor and provide periodic reports of their experience. May be repeated for maximum of 8 units. Individual contract with supervising faculty member required; consult undergraduate adviser. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON195"
+  },
+  {
+    "course_code": "ENVIRON 198",
+    "units": 2,
+    "title": "Honors Research in Environmental Science",
+    "description": "Tutorial, four hours. Limited to junior/senior Environmental Science majors. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. Must be taken for at least two terms and for total of at least 8 units. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON198"
+  },
+  {
+    "course_code": "ENVIRON 199",
+    "units": 2,
+    "title": "Directed Research in Environment",
+    "description": "Tutorial, two hours. Preparation: submission of written proposal outlining study or research to be undertaken. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Progress report must be submitted to faculty mentor at end of term. Culminating paper or project required. May be repeated for credit, but only 4 units may be taken each term. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON199"
+  },
+  {
+    "course_code": "ENVIRON 200A",
+    "units": 4,
+    "title": "Issues and Methods in Environment and Sustainability",
+    "description": "Seminar, four hours. Examination of interdisciplinary case studies that approach problems in environment and sustainability as issues with scientific, social, economic, political, philosophical, ethical, historical, cultural, and policy dimensions. Case studies illustrate use of qualitative and quantitative methods of analysis drawn from natural sciences, social sciences, and humanities. Emphasis on conceptual frameworks for defining environmental problems and implementation of research results in solving real-world problems. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON200A"
+  },
+  {
+    "course_code": "ENVIRON 200B",
+    "units": 4,
+    "title": "Issues and Methods in Environment and Sustainability",
+    "description": "Seminar, four hours. Requisite: course 200A. Examination of interdisciplinary case studies that approach problems in environment and sustainability as issues with scientific, social, economic, political, philosophical, ethical, historical, cultural, and policy dimensions. Case studies illustrate use of qualitative and quantitative methods of analysis drawn from natural sciences, social sciences, and humanities. Emphasis on conceptual frameworks for defining environmental problems and implementation of research results in solving real-world problems. S/U or letter grading.",
+    "prerequisites": [
+      "ENVIRON 200A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON200B"
+  },
+  {
+    "course_code": "ENVIRON 205A",
+    "units": 2,
+    "title": "Major Problems in Environment and Sustainability",
+    "description": "Seminar, three hours. Yearlong investigation of questions through series of case studies of five of most significant problems in environment and sustainability over last century: Dust Bowl, lead contamination, dichlorodiphenyltrichloroethane (DDT), stratospheric ozone depletion, and tropical deforestation. Questions include how environmental problems become matters of public concern; what tools, techniques, and practices that make problems visible and legible to different publics and that inform possibilities for response are; how efforts aimed at understanding specific problems from different perspectives changed way other environmental problems and larger processes of environmental change are seen and approached; who gets left out in these different ways of seeing, and how do different ways of seeing and governing specific problems facilitate, justify, and compound imposition of harms on particular groups of people. Concurrently scheduled with Law 505A. In progress grading (credit to be given only on completion of courses 205B and 205C).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON205A"
+  },
+  {
+    "course_code": "ENVIRON 205B",
+    "units": 2,
+    "title": "Major Problems in Environment and Sustainability",
+    "description": "Seminar, three hours. Yearlong investigation of questions through series of case studies of five of most significant problems in environment and sustainability over last century: Dust Bowl, lead contamination, dichlorodiphenyltrichloroethane (DDT), stratospheric ozone depletion, and tropical deforestation. Questions include how environmental problems become matters of public concern; what tools, techniques, and practices that make problems visible and legible to different publics and that inform possibilities for response are; how efforts aimed at understanding specific problems from different perspectives changed way other environmental problems and larger processes of environmental change are seen and approached; who gets left out in these different ways of seeing, and how do different ways of seeing and governing specific problems facilitate, justify, and compound imposition of harms on particular groups of people. Concurrently scheduled with Law 505B. In progress grading (credit to be given only on completion of courses 205C).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON205B"
+  },
+  {
+    "course_code": "ENVIRON 205C",
+    "units": 2,
+    "title": "Major Problems in Environment and Sustainability",
+    "description": "Seminar, three hours. Yearlong investigation of questions through series of case studies of five of most significant problems in environment and sustainability over last century: Dust Bowl, lead contamination, dichlorodiphenyltrichloroethane (DDT), stratospheric ozone depletion, and tropical deforestation. Questions include how environmental problems become matters of public concern; what tools, techniques, and practices that make problems visible and legible to different publics and that inform possibilities for response are; how efforts aimed at understanding specific problems from different perspectives changed way other environmental problems and larger processes of environmental change are seen and approached; who gets left out in these different ways of seeing, and how do different ways of seeing and governing specific problems facilitate, justify, and compound imposition of harms on particular groups of people. Concurrently scheduled with Law 505B. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON205C"
+  },
+  {
+    "course_code": "ENVIRON M235",
+    "units": 4,
+    "title": "Modern Environmental Statistics",
+    "description": "(Same as Statistics M235.) Seminar, three hours. Limited to graduate students. Requisites: undergraduate level calculus, linear algebra, and introductory statistics; scientific computing. Introduction to statistical approaches in environmental science, with focus on climate science. Topics include Bayesian modeling, hypothesis testing, regression, causality, multidimensional data analysis, time series modeling, and extreme value analysis. Draws upon relevant examples in scientific literature. S/U or letter grading.",
+    "cross_listed": [
+      "STATS M235"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONM235"
+  },
+  {
+    "course_code": "ENVIRON 250",
+    "units": 4,
+    "title": "Tools for Sustainability Assessment",
+    "description": "Lecture, three hours. Recommended preparation: introductory course in industrial ecology, ecological economics, environmental economics, business and management, or public policy analysis. Public discourse about implications of current patterns of production and consumption of energy and various goods and services suggests such patterns are unsustainable. What is meant by sustainability and how is it quantified? Focus on concepts and tools to assess sustainability at micro-level of individuals, products, or firms using various techniques, including lifecycle assessment, input-output analysis, and cost-benefit analysis. Exploration of sustainability at macro-level for one entire economy or nation. Discussion of usefulness and limitations of various metrics as guide for public and private decision making. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON250"
+  },
+  {
+    "course_code": "ENVIRON C259",
+    "units": 4,
+    "title": "Life-Cycle Assessment",
+    "description": "Lecture, three hours. Requisites: Life Sciences 30A and 30B, or Mathematics 3A and 3B (or 31A and 31B). Public discourse about current patterns of production and consumption of energy, and goods and services more broadly, suggest such patterns are environmentally and economically unsustainable. Introduction to basic concept of life-cycle assessment (LCA), including analytical frameworks and quantitative techniques for systematically and holistically evaluating environmental trade-offs presented by different alternatives. Focus on methodology of LCA to compute various material inputs and environmental releases from all activities associated with life cycle (i.e., raw material extraction, processing, end use, and disposal) of products or services. Discussion of strengths and limitations of LCA as tool for decision making. Students perform life-cycle analysis of one technology, product, or service of their choice. Concurrently scheduled with course C159. S/U or letter grading.",
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRONC259"
+  },
+  {
+    "course_code": "ENVIRON 260",
+    "units": 4,
+    "title": "Information, Technology, Business, and Society",
+    "description": "Seminar, three hours. Interdisciplinary research seminar to bring sound social sciences methods to latest technology developments to design effective information-based solutions to social problems. Topics include selection and framing of research questions, developing measurements, designing appropriate methods (e.g., surveys, experiments, using available data), ethical issues, and writing up research proposals. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON260"
+  },
+  {
+    "course_code": "ENVIRON 277",
+    "units": 4,
+    "title": "Leaders in Sustainability",
+    "description": "Lecture, three hours. Common course for all students participating in Leaders in Sustainability Program, including those from engineering, law, management, public affairs, public health, natural and social sciences, and others. Creation of environment for academically based discussions on various sustainability-related themes, capitalizing on wide mix of disciplines represented among participating students. Sessions feature UCLA faculty members, external speakers, and leadership skills to help students learn more about how to best put their interests in sustainability to use. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON277"
+  },
+  {
+    "course_code": "ENVIRON 290",
+    "units": 2,
+    "title": "Seminar in Environment and Sustainability",
+    "description": "Seminar, 90 minutes. Seminars sponsored by Institute of the Environment and Sustainability and other units. Planning and execution of presentations on topics of choice. Emphasis on development of communication skills. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON290"
+  },
+  {
+    "course_code": "ENVIRON 297A",
+    "units": 4,
+    "title": "Advanced Topics in Environment and Sustainability",
+    "description": "Seminar, four hours. Advanced study and analysis of variable current topics in environment and sustainability. Consult Schedule of Classes for topics and instructors. May be repeated for credit with consent of instructor. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON297A"
+  },
+  {
+    "course_code": "ENVIRON 297B",
+    "units": 2,
+    "title": "Advanced Topics in Environment and Sustainability",
+    "description": "Seminar, two hours. Advanced study and analysis of variable current topics in environment and sustainability. Consult Schedule of Classes for topics and instructors. May be repeated for credit with consent of instructor. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON297B"
+  },
+  {
+    "course_code": "ENVIRON 400",
+    "units": 8,
+    "title": "Environmental Science and Engineering Problems Course",
+    "description": "Seminar, eight hours. Primarily designed for environmental science and engineering doctoral students. Multidisciplinary technical and socioeconomic analysis and prognosis of significant current environmental problems. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON400"
+  },
+  {
+    "course_code": "ENVIRON 501",
+    "units": 2,
+    "title": "Cooperative Program",
+    "description": "Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON501"
+  },
+  {
+    "course_code": "ENVIRON 596",
+    "units": 2,
+    "title": "Directed Individual or Tutorial Studies",
+    "description": "Tutorial, to be arranged. Supervised investigation of advanced environmental problems. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON596"
+  },
+  {
+    "course_code": "ENVIRON 599",
+    "units": 2,
+    "title": "Doctoral Dissertation Research",
+    "description": "Tutorial, to be arranged. Limited to students who have advanced to doctoral candidacy. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVIRON599"
+  }
+]

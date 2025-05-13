@@ -1,0 +1,211 @@
+[
+  {
+    "course_code": "POLSH 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH19"
+  },
+  {
+    "course_code": "POLSH 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH89"
+  },
+  {
+    "course_code": "POLSH 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH89HC"
+  },
+  {
+    "course_code": "POLSH 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH99"
+  },
+  {
+    "course_code": "POLSH 101A",
+    "units": 5,
+    "title": "Elementary Polish",
+    "description": "Lecture, five hours. Course 101A is recommended preparation for 101B, which is recommended preparation for 101C. Each course may be waived with consent of instructor. Basic course in Polish language. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH101A"
+  },
+  {
+    "course_code": "POLSH 101B",
+    "units": 5,
+    "title": "Elementary Polish",
+    "description": "Lecture, five hours. Recommended preparation: course 101A (may be waived with consent of instructor). Basic course in Polish language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH101B"
+  },
+  {
+    "course_code": "POLSH 101C",
+    "units": 5,
+    "title": "Elementary Polish",
+    "description": "Lecture, five hours. Recommended preparation: courses 101A, 101B (may be waived with consent of instructor). Basic course in Polish language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH101C"
+  },
+  {
+    "course_code": "POLSH 102A",
+    "units": 4,
+    "title": "Advanced Polish",
+    "description": "Lecture, three hours. Recommended preparation: course 101C (may be waived with consent of instructor). Course 102A is recommended preparation for 102B, which is recommended preparation for 102C. Each course may be waived with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH102A"
+  },
+  {
+    "course_code": "POLSH 102B",
+    "units": 4,
+    "title": "Advanced Polish",
+    "description": "Lecture, three hours. Recommended preparation: course 102A (may be waived with consent of instructor). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH102B"
+  },
+  {
+    "course_code": "POLSH 102C",
+    "units": 4,
+    "title": "Advanced Polish",
+    "description": "Lecture, three hours. Recommended preparation: courses 102A, 102B (may be waived with consent of instructor). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH102C"
+  },
+  {
+    "course_code": "POLSH 152A",
+    "units": 4,
+    "title": "Survey of Polish Literature: From the Middle Ages to Neoclassicism",
+    "description": "Lecture, three hours. Lectures and readings in English. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH152A"
+  },
+  {
+    "course_code": "POLSH 152B",
+    "units": 4,
+    "title": "Survey of Polish Literature: Reimagining a Nation",
+    "description": "Lecture, three hours. Lectures and readings in English. Readings in 19th-century Polish literature and culture. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH152B"
+  },
+  {
+    "course_code": "POLSH 152C",
+    "units": 4,
+    "title": "Survey of Polish Literature: Dreaming, Mocking, and Writing \"as if\"",
+    "description": "Lecture, three hours. Lectures and readings in English. Readings in modern Polish literature and culture. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH152C"
+  },
+  {
+    "course_code": "POLSH C180",
+    "units": 4,
+    "title": "Variable Topics in Polish Literature",
+    "description": "Seminar, three hours. Reading knowledge of Polish recommended but not required. Topics include major writers, genres, or periods. May be repeated for credit with topic change. Concurrently scheduled with course C280. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSHC180"
+  },
+  {
+    "course_code": "POLSH 187A",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: two years of Polish and/or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187A"
+  },
+  {
+    "course_code": "POLSH 187B",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187B"
+  },
+  {
+    "course_code": "POLSH 187C",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187C"
+  },
+  {
+    "course_code": "POLSH 187D",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187D"
+  },
+  {
+    "course_code": "POLSH 187E",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187E"
+  },
+  {
+    "course_code": "POLSH 187F",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187F"
+  },
+  {
+    "course_code": "POLSH 187G",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187G"
+  },
+  {
+    "course_code": "POLSH 187I",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187I"
+  },
+  {
+    "course_code": "POLSH 187J",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187J"
+  },
+  {
+    "course_code": "POLSH 187K",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187K"
+  },
+  {
+    "course_code": "POLSH 187L",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187L"
+  },
+  {
+    "course_code": "POLSH 187M",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Polish",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Polish placement test. Tutorial and guided independent study of advanced Polish: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH187M"
+  },
+  {
+    "course_code": "POLSH 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH189"
+  },
+  {
+    "course_code": "POLSH 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSH189HC"
+  },
+  {
+    "course_code": "POLSH C280",
+    "units": 4,
+    "title": "Variable Topics in Polish Literature",
+    "description": "Seminar, three hours. Reading knowledge of Polish recommended but not required. Topics include major writers, genres, or periods. May be repeated for credit with topic change. Concurrently scheduled with course C180. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/POLSHC280"
+  }
+]

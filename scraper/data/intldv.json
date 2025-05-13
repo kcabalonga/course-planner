@@ -1,0 +1,219 @@
+[
+  {
+    "course_code": "INTL DV 1",
+    "units": 5,
+    "title": "Introduction to International Development Studies",
+    "description": "Lecture, three hours; discussion, one hour. Exploration of historical and contemporary context of socioeconomic inequalities between Global South and Global North. Focus on cultural, political, and economic realities of developing world, which includes countries of Asia, eastern Europe, Africa, Middle East, and Latin America. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV1"
+  },
+  {
+    "course_code": "INTL DV 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV19"
+  },
+  {
+    "course_code": "INTL DV 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV89"
+  },
+  {
+    "course_code": "INTL DV 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV89HC"
+  },
+  {
+    "course_code": "INTL DV 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV99"
+  },
+  {
+    "course_code": "INTL DV 110",
+    "units": 4,
+    "title": "Culture, Power, and Development",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 1. Broad introduction to theoretical traditions in development studies, with focus on dynamics of culture, power, markets, states and social movements, with selected case studies in developing nations and comparative case analysis across Global South and North. Letter grading.",
+    "prerequisites": [
+      "INTL DV 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV110"
+  },
+  {
+    "course_code": "INTL DV M120",
+    "units": 4,
+    "title": "Political Economy of Development",
+    "description": "(Same as Political Science M167C.) Lecture, three or four hours; discussion, one hour (when scheduled). Requisite: course 1. Political economy approach to puzzle of why some countries are rich and others are poor and why, among latter, some have been able to achieve rapid rates of economic growth and others have not. Explanation and review of logic behind most important arguments that have been advanced to account for differences across countries in rates and levels of economic development. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "INTL DV 1"
+    ],
+    "cross_listed": [
+      "POL SCI M167C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDVM120"
+  },
+  {
+    "course_code": "INTL DV 130",
+    "units": 4,
+    "title": "Theory and History in International Development",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 1. Social scientific survey of debates over policies contributing to economic development and underdevelopment. Topics include measurement and statistics, social and industrial policies, inequality, poverty, and historical differences for development paths across Europe, Asia, Africa, and Latin America. Letter grading.",
+    "prerequisites": [
+      "INTL DV 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV130"
+  },
+  {
+    "course_code": "INTL DV 140",
+    "units": 4,
+    "title": "Decolonizing Political Economy: Colonialism and Development",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 1. Introduction to approaches and intellectual traditions of critical development studies. Violence of colonization and struggle for decolonization were two of defining processes of 20th century. Consideration of how development as global good can be reconciled with its origins in colonialism, and how development became hegemonic way of imagining decolonization. Particular focus on voices of critique and special emphasis to models of development that emerged from Africa, Middle East, and South Asia. Discussion of relationship between rival notions of development and competing ideas of international relations. Letter grading.",
+    "prerequisites": [
+      "INTL DV 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV140"
+  },
+  {
+    "course_code": "INTL DV M150",
+    "units": 4,
+    "title": "Political Economy of Climate Change",
+    "description": "(Same as Political Science M152.) Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 1. Exploration of how governments at international, national, and regional levels are addressing\u2014or not addressing\u2014extraordinary challenge of climate change. Use of combination of readings, lectures, and discussions to better understand causes, consequences, and policies to address most important political problem of our time\u2014not just in U.S., but in other major countries as well. Concentration on challenge of mitigating, rather than adapting to, climate change; and concentration on energy use, rather than agriculture, forestry, and land use. Letter grading.",
+    "prerequisites": [
+      "INTL DV 1"
+    ],
+    "cross_listed": [
+      "POL SCI M152"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDVM150"
+  },
+  {
+    "course_code": "INTL DV 160",
+    "units": 4,
+    "title": "Selected Topics in International Development Studies",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Examination of one or more topics related to international development. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV160"
+  },
+  {
+    "course_code": "INTL DV M177",
+    "units": 4,
+    "title": "Superfoods: Cultural and Global Perspectives",
+    "description": "(Same as Food Studies M177 and Global Studies M177.) Seminar, four hours. Exploration of superfoods, which are nutrient rich foods considered beneficial for well-being, health, and longevity, as they are high in minerals, vitamins, and antioxidants. While superfoods have been part of cultures\u2019 diets for centuries, in recent decades they have been researched in scientific and medical communities. Citizens globally have begun to increasingly demand and consume foods that are nutritious, organic, and sustainable. It is important also to address issues such as marketing, misinformation, and hyper about superfoods. Surge of interest in superfoods is increasingly important in context of ongoing global inequities with regards to food access and production. Study addresses paradox that communities cope simultaneously with malnutrition/hunger and obesity, and how farming practices for superfoods and staple crops are related. P/NP or letter grading.",
+    "cross_listed": [
+      "FOOD ST M177",
+      "GLBL ST M177"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDVM177"
+  },
+  {
+    "course_code": "INTL DV 188",
+    "units": 4,
+    "title": "Special Courses in International Development Studies",
+    "description": "Seminar, three hours. Program-sponsored experimental or temporary courses on selected contemporary topics in international development taught by visiting instructors or affiliated faculty members. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV188"
+  },
+  {
+    "course_code": "INTL DV 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV189"
+  },
+  {
+    "course_code": "INTL DV 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV189HC"
+  },
+  {
+    "course_code": "INTL DV 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: International Development Studies\u2014Senior Seminar",
+    "description": "Seminar, three hours. Requisites: three courses from 110, M120, 130, 140. Limited to senior International Development Studies majors. Organized on topics basis with readings, discussions, papers. May not be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "INTL DV 110",
+      "INTL DV M120",
+      "INTL DV 130",
+      "INTL DV 140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV191"
+  },
+  {
+    "course_code": "INTL DV 192",
+    "units": 2,
+    "title": "Undergraduate Practicum in International Development Studies",
+    "description": "Seminar, two hours; practicum, to be arranged. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to serve as undergraduate course assistants in international development studies courses. Students assist in preparation and presentation of materials and development of innovative programs with guidance of faculty members. Consult academic counselor for further information. May not be applied toward major requirements. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV192"
+  },
+  {
+    "course_code": "INTL DV 193",
+    "units": 1,
+    "title": "Colloquia and Speaker Series",
+    "description": "Seminar, two hours. Introduction to current scholarship in field of international development studies or of topics related to guest speaker series. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV193"
+  },
+  {
+    "course_code": "INTL DV 194",
+    "units": 1,
+    "title": "Research Group Seminar",
+    "description": "Seminar, two hours. Designed to encourage participation and stimulate progress in specific research areas for undergraduate students who are part of departmental research group or internship. Discussion of research methods and current literature in field of international development studies or of research of faulty members or students. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV194"
+  },
+  {
+    "course_code": "INTL DV 195",
+    "units": 4,
+    "title": "Community or Corporate Internships in International Development Studies",
+    "description": "Tutorial, to be arranged; fieldwork, 10 to 12 hours. Limited to juniors/seniors. Supervised internship in corporate, community, governmental, or nonprofit setting coordinated by International Development Studies. Additional supervision to be provided by internship site supervisor. Students meet with adviser and provide final reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV195"
+  },
+  {
+    "course_code": "INTL DV 198A",
+    "units": 4,
+    "title": "Honors Research in International Development Studies",
+    "description": "Tutorial, to be arranged. Preparation: 3.5 grade-point average in courses for major, formal application to honors program. Requisites: courses 110, M120, 130. Limited to junior/senior International Development Studies majors. Research, discussion, and planning of honors thesis under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "INTL DV 110",
+      "INTL DV M120",
+      "INTL DV 130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV198A"
+  },
+  {
+    "course_code": "INTL DV 198B",
+    "units": 4,
+    "title": "Honors Research in International Development Studies",
+    "description": "Tutorial, to be arranged. Preparation: 3.5 grade-point average in courses for major, formal application to honors program. Enforced requisite: course 198A. Limited to junior/senior International Development Studies majors. Research, discussion, and planning of honors thesis under direct supervision of faculty member. May be repeated for credit. Individual contract required. In Progress grading (credit to be given only on completion of course 198C).",
+    "prerequisites": [
+      "INTL DV 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV198B"
+  },
+  {
+    "course_code": "INTL DV 198C",
+    "units": 4,
+    "title": "Honors Research in International Development Studies",
+    "description": "Tutorial, to be arranged. Preparation: 3.5 grade-point average in courses for major, formal application to honors program. Enforced requisite: course 198B. Limited to junior/senior International Development Studies majors. Final drafting and submission of honors thesis under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "INTL DV 198B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV198C"
+  },
+  {
+    "course_code": "INTL DV 199",
+    "units": 4,
+    "title": "Directed Research in International Development Studies",
+    "description": "Tutorial, to be arranged. Limited to junior/senior International Development Studies majors. Supervised intensive directed research program in which students conduct interdisciplinary research under guidance of faculty mentor. Culminating paper required. May be applied toward major via petition. May not be repeated. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INTLDV199"
+  }
+]
