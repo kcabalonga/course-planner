@@ -1,0 +1,166 @@
+[
+  {
+    "course_code": "BMD RES 1A",
+    "units": 5,
+    "title": "Science in Your Time",
+    "description": "Lecture, three hours; discussion, one hour. Exploration of current topics in biology from media sources like news organizations and TED Talks, tracing information back to primary research. Students learn to critically evaluate primary sources. Discussion of bias in system producing primary research from undergraduate education through tenured faculty, and medicine and national science funding (National Institutes of Health and National Science Foundation). Addresses lack of Black and Latinx representation and its impact on science valued by current system. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES1A"
+  },
+  {
+    "course_code": "BMD RES 5HA",
+    "units": 4,
+    "title": "Biomedical Research: Concepts and Strategies",
+    "description": "Lecture, three hours. Designed for freshmen/sophomores. Exploration of scientific concepts and experimental approaches through seminars by UCLA faculty members on their cutting-edge research. Topics may include areas of study such as cancer, stem cells, and infectious disease, as well as more basic research in cell and molecular biology. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES5HA"
+  },
+  {
+    "course_code": "BMD RES 5HB",
+    "units": 4,
+    "title": "Biomedical Research: Essential Skills and Concepts",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 5HA. Designed for freshmen/sophomores. Exploration of scientific concepts and experimental approaches through seminars by UCLA faculty members on their cutting-edge research. Topics may include areas of study such as cancer, stem cells, and infectious disease, as well as more basic research in cell and molecular biology. Student investigation of one or more laboratories on campus and presentation of brief synopsis of single research project from one laboratory. Letter grading.",
+    "prerequisites": [
+      "BMD RES 5HA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES5HB"
+  },
+  {
+    "course_code": "BMD RES 10H",
+    "units": 6,
+    "title": "Research Training in Genes, Genetics, and Genomics",
+    "description": "Lecture, 90 minutes; laboratory, six hours; computer laboratory, 90 minutes. Limited to 30 students. Basic training in biological research, including techniques in genetics, model organism, bioinformatics, functional genomics, electron microscopy. Part of Undergraduate Research Consortium in Functional Genomics sponsored by Howard Hughes Medical Institute Professors Program. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES10H"
+  },
+  {
+    "course_code": "BMD RES 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES19"
+  },
+  {
+    "course_code": "BMD RES 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES89"
+  },
+  {
+    "course_code": "BMD RES 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES89HC"
+  },
+  {
+    "course_code": "BMD RES 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES99"
+  },
+  {
+    "course_code": "BMD RES 100HA",
+    "units": 4,
+    "title": "Advanced Research in Genes, Genetics, and Genomics",
+    "description": "Lecture, two hours; laboratory, 10 hours. Requisite: course 10H. Course 100HA is requisite to 100HB, which is requisite to 100HC. Designed for undergraduates who are committed to pursuing research. Advanced research training in genetics, cell and developmental biology, bioinformatics, functional genomics. Techniques include electron microscopy, other light microscopies, immunohistochemistry. Part of Undergraduate Research Consortium in Functional Genomics sponsored by Howard Hughes Medical Institute Professors Program. Letter grading.",
+    "prerequisites": [
+      "BMD RES 10H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES100HA"
+  },
+  {
+    "course_code": "BMD RES 100HB",
+    "units": 4,
+    "title": "Advanced Research in Genes, Genetics, and Genomics",
+    "description": "Lecture, two hours; laboratory, 10 hours. Requisite: course 100HA. Designed for undergraduates who are committed to pursuing research. Advanced research training in genetics, cell and developmental biology, bioinformatics, functional genomics. Techniques include electron microscopy, other light microscopies, immunohistochemistry. Part of Undergraduate Research Consortium in Functional Genomics sponsored by Howard Hughes Medical Institute Professors Program. Letter grading.",
+    "prerequisites": [
+      "BMD RES 100HA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES100HB"
+  },
+  {
+    "course_code": "BMD RES 100HC",
+    "units": 4,
+    "title": "Advanced Research in Genes, Genetics, and Genomics",
+    "description": "Lecture, two hours; laboratory, 10 hours. Requisite: course 100HB. Designed for undergraduates who are committed to pursuing research. Advanced research training in genetics, cell and developmental biology, bioinformatics, functional genomics. Techniques include electron microscopy, other light microscopies, immunohistochemistry. Part of Undergraduate Research Consortium in Functional Genomics sponsored by Howard Hughes Medical Institute Professors Program. Letter grading.",
+    "prerequisites": [
+      "BMD RES 100HB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES100HC"
+  },
+  {
+    "course_code": "BMD RES 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES188SA"
+  },
+  {
+    "course_code": "BMD RES 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "BMD RES 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES188SB"
+  },
+  {
+    "course_code": "BMD RES 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "BMD RES 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES188SC"
+  },
+  {
+    "course_code": "BMD RES 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES189"
+  },
+  {
+    "course_code": "BMD RES 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES189HC"
+  },
+  {
+    "course_code": "BMD RES 193H",
+    "units": 2,
+    "title": "Journal Club Seminars: Current Topics in Biomedical Research",
+    "description": "Seminar, three hours. Limited to Biomedical Research minor students. Presentation and discussion of recent papers from primary literature in biosciences. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES193H"
+  },
+  {
+    "course_code": "BMD RES 194H",
+    "units": 2,
+    "title": "Research Group Seminars: Data Presentation in Biomedical Research",
+    "description": "Seminar, three hours. Requisite: course 193H. Limited to Biomedical Research minor students. Preparation of oral presentations based on student laboratory research at UCLA. May be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "BMD RES 193H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES194H"
+  },
+  {
+    "course_code": "BMD RES 199",
+    "units": 4,
+    "title": "Directed Biomedical Research",
+    "description": "Tutorial, 12 hours. Limited to Biomedical Research minor students. Supervised individual research under guidance of faculty mentor. Culminating report describing progress and signed by student and faculty mentor required. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BMDRES199"
+  }
+]

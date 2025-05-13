@@ -56,6 +56,47 @@ SUBJECT_NORMALIZATION = {
     "Religion": "RELIGN",
     "Filipino": "FILIPNO",
     "Earth, Planetary, and Space Sciences": "EPS SCI",
+    "Bioengineering": "BIOENGR",
+    "Biological Chemistry": "BIOL CH",
+    "Biomathematics": "BIOMATH",
+    "Biomedical Research": "BMD RES",
+    "Biostatistics": "BIOSTAT",
+    "Bulgarian": "BULGR",
+    "Civil and Environmental Engineering": "C&EE",
+    "Civil Engineering": "C&EE",
+    "Mechanical and Aerospace Engineering": "MECH&AE",
+    "Electrical and Computer Engineering": "EC ENGR",
+    "Chemical Engineering": "CH ENGR",
+    "Materials Science": "MAT SCI",
+    "Computational and Systems Biology": "C&S BIO",
+    "Physics and Biology in Medicine": "PBMED",
+    "Molecular, Cell, and Developmental Biology": "MCD BIO",
+    "Ecology and Evolutionary Biology": "EE BIOL",
+    "Bioinformatics": "BIOINFO",
+    "Epidemiology": "EPIDEM",
+    "Central and East European Studies": "C&EE ST",
+    "Chemistry and Biochemistry": "CHEM",
+    "Chemistry": "CHEM",
+    "Chicana/o and Central American Studies": "CCAS",
+    "Communication": "COMM",
+    "Community Health Sciences": "COM HLT",
+    "Comparative Literature": "COM LIT",
+    "Conservation of Cultural Heritage": "CLT HTG",
+    "Czech": "CZCH",
+    "Engineering": "ENGR",
+    "Economics": "ECON",
+    "Public Policy": "PUB PLC",
+    "Urban Planning": "URBN PL",
+    "Gender Studies": "GENDER",
+    "Spanish": "SPAN",
+    "Science Education": "SCI EDU",
+    "Electrical Engineering": "EC ENGR",
+    "GE Clusters": "CLUSTER",
+    "Greek": "GREEK",
+    "Latin": "LATIN",
+    "Public Health": "PUB HLT",
+    "Health Policy": "HLT POL",
+
 }
 
 def extract_course_links(page):
@@ -154,7 +195,7 @@ def normalize_text(text, course_code=None):
 
     text = re.sub(r"\b[Cc]ourse\s+([A-Z]{0,2}\d+[A-Z]?)", lambda m: f"{fallback_subject} {m.group(1)}", text)
 
-    matches = re.findall(r"([A-Z][A-Za-z,&' ]+)?\s+([A-Z]{0,2})?(\d+[A-Z]?)", text)
+    matches = re.findall(r"([A-Z][A-Za-z,&' ]+)?\s+([A-Z]{0,2})?(\d+[A-Z]*)", text)
     normalized = []
     current_subject = fallback_subject
 
@@ -211,7 +252,7 @@ def scrape_department_courses(page, dept_code):
     return course_data
 
 def main():
-    departments = ["ARMENIA", "ART", "ART HIS", "ART&ARC", "ARTS ED", "ASIAN", "ASIA AM", "ASTR", "A&O SCI"] 
+    departments = ["C&EE ST", "CH ENGR", "CHEM", "CCAS", "CHIN", "C&EE", "CLASSIC", "CLUSTER", "COMM", "CESC", "COM HLT", "COM LIT", "C&S BIO", "COM SCI", "CLT HTG", "CZCH" ] 
 
     os.makedirs("data", exist_ok=True)
 

@@ -1,0 +1,91 @@
+[
+  {
+    "course_code": "BIOINFO 201",
+    "units": 2,
+    "title": "Seminar: Advanced Methods in Computational Biology",
+    "description": "Seminar, one hour; discussion, one hour. Designed for advanced graduate students. Examination of computational methodology in bioinformatics and computational biology through presentation of current research literature. How to select and apply methods from computational and mathematical disciplines to problems in bioinformatics and computational biology; development of novel methodologies. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO201"
+  },
+  {
+    "course_code": "BIOINFO 202",
+    "units": 4,
+    "title": "Bioinformatics Interdisciplinary Research Seminar",
+    "description": "Seminar, two hours; discussion, two hours. Concrete examples of how biological questions about genomics data map to and are solved by methodologies from other disciplines, including statistics, computer science, and mathematics. May be repeated for credit. S/U or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO202"
+  },
+  {
+    "course_code": "BIOINFO M223",
+    "units": 4,
+    "title": "Statistical Methods in Computational Biology",
+    "description": "(Same as Biomathematics M271 and Statistics M254.) Lecture, three hours; discussion, one hour. Preparation: elementary probability concepts. Requisite: course M221 or Statistics 100A or 200A. Introduction to statistical methods developed and widely applied in several branches of computational biology, such as gene expression, sequence alignment, motif discovery, comparative genomics, and biological networks, with emphasis on understanding of basic statistical concepts and use of statistical inference to solve biological problems. Letter grading.",
+    "prerequisites": [
+      "BIOINFO M221",
+      "STATS 100A",
+      "STATS 200A"
+    ],
+    "cross_listed": [
+      "BIOMATH M271",
+      "STATS M254"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFOM223"
+  },
+  {
+    "course_code": "BIOINFO 229",
+    "units": 4,
+    "title": "Current Topics in Bioinformatics",
+    "description": "Lecture, four hours. Introduction of active research topics in bioinformatics. Topics vary by instructor research area and include statistical genomics, epigenomics, single-cell analysis, metagenomics, and diagnostic informatics. Overview of research area and associated biological and technological background. Discussion of representative problems and presentation of their computational modeling and solutions. Students gain overview of current topics in bioinformatics and learn how to model and solve biological problems with computational methods. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO229"
+  },
+  {
+    "course_code": "BIOINFO 275A",
+    "units": 2,
+    "title": "Applied Bioinformatics Lab for Biologists: Fundamentals",
+    "description": "Laboratory, six hours (five weeks). Introduction to contemporary methods and techniques in bioinformatics that are used to analyze high-throughput genomic data. Topics include introduction to UNIX, Next Generation Sequence (NGS) data analysis, ChIP-seq, BS-seq and RNA-seq, and others. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO275A"
+  },
+  {
+    "course_code": "BIOINFO 275B",
+    "units": 2,
+    "title": "Applied Bioinformatics Lab for Biologists: Intermediate",
+    "description": "Laboratory, six hours (five weeks). Requisite: course 275A. Contemporary methods and techniques in bioinformatics that are used to analyze high-throughput genomic data. Topics include Galaxy server, R, MATLAB, Python, and variant calling. Letter grading.",
+    "prerequisites": [
+      "BIOINFO 275A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO275B"
+  },
+  {
+    "course_code": "BIOINFO 296",
+    "units": 2,
+    "title": "Seminar: Research Topics in Bioinformatics",
+    "description": "Seminar, to be arranged; discussion, three hours. Advanced study and analysis of current research topics in bioinformatics. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO296"
+  },
+  {
+    "course_code": "BIOINFO 596",
+    "units": 2,
+    "title": "Directed Individual Study or Research in Bioinformatics",
+    "description": "Tutorial, to be arranged. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO596"
+  },
+  {
+    "course_code": "BIOINFO 597",
+    "units": 2,
+    "title": "Preparation for MS Comprehensive Examination or PhD Qualifying Examinations",
+    "description": "Tutorial, to be arranged. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO597"
+  },
+  {
+    "course_code": "BIOINFO 598",
+    "units": 2,
+    "title": "MS Thesis Research and Writing",
+    "description": "Tutorial, to be arranged. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO598"
+  },
+  {
+    "course_code": "BIOINFO 599",
+    "units": 2,
+    "title": "PhD Dissertation Research and Writing",
+    "description": "Tutorial, to be arranged. May be repeated for credit. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOINFO599"
+  }
+]
