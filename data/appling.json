@@ -1,0 +1,19 @@
+[
+  {
+    "course_code": "APPLING 30W",
+    "units": 5,
+    "title": "Language and Social Interaction",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 30. Exploration of range of topics related to study of language and social interaction in both mundane and professional settings, particularly how language affects social lives and how social organization affects use of language. Topics include different approaches to study of language in social interaction (theories and research methodologies), issues regarding language and social identity (such as socioeconomic status, race, gender, and situational identity), and issues concerning language and culture (such as cross-cultural misunderstanding and language socialization). Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPLING30W"
+  }
+]

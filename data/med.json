@@ -1,0 +1,87 @@
+[
+  {
+    "course_code": "MED 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED19"
+  },
+  {
+    "course_code": "MED 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED99"
+  },
+  {
+    "course_code": "MED 160C",
+    "units": 4,
+    "title": "Health Outreach and Education to At-Risk Populations",
+    "description": "Seminar, two hours; fieldwork, six to eight hours. Requisites: courses M160A, M160B. Processes involved with designing, delivering, and assessing community health education programs, under supervision of professional staff. P/NP or letter grading.",
+    "prerequisites": [
+      "MED M160A",
+      "MED M160B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED160C"
+  },
+  {
+    "course_code": "MED 180",
+    "units": 4,
+    "title": "Special Topics in Medicine",
+    "description": "Lecture, four hours; discussion, one hour. Medical topics of special interest to undergraduate students. Specific subjects may vary each term depending on particular interest of instructors and students. Topics may include East/West medicine and global medicine. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED180"
+  },
+  {
+    "course_code": "MED 185",
+    "units": 5,
+    "title": "Integrative East-West Medicine for Health and Wellness",
+    "description": "Lecture, five hours. Introduction to integrative health care and wellness, particularly therapeutic approaches originating from traditional Chinese medicine. Study of theoretical underpinnings of integrative medicine and traditional Chinese medicine, management of personal well-being through experiential learning of various therapeutic modalities, and evidenced-based research and clinical applications of integrative medicine. Topics include integrative East-West medicine and its role in prevention and health cultivation; herbs, diet, and nutritional supplements; pain management using acupuncture, acupressure, massage, and other self-help techniques; integrative medicine research and evidence-based modalities; chronic stress and implications on sleep, inflammation, and maintaining healthy immune system. Incorporates hands-on practice and interactive sessions. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED185"
+  },
+  {
+    "course_code": "MED 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED188SA"
+  },
+  {
+    "course_code": "MED 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "MED 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED188SB"
+  },
+  {
+    "course_code": "MED 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "MED 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED188SC"
+  },
+  {
+    "course_code": "MED 199",
+    "units": 2,
+    "title": "Directed Research in Medicine",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MED199"
+  }
+]

@@ -1,0 +1,645 @@
+[
+  {
+    "course_code": "STATS 10",
+    "units": 5,
+    "title": "Introduction to Statistical Reasoning",
+    "description": "Lecture, three hours; discussion, one hour; computer laboratory, two hours. Preparation: three years of high school mathematics. Not open for credit to students with credit for course 12, 13, or 15. Introduction to statistical thinking and understanding, including strengths and limitations of basic experimental designs, graphical and numerical summaries of data, inference, regression as descriptive tool. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)",
+      "Quantitative Reasoning"
+    ],
+    "credit_exclusions": [
+      "STATS 15",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS10"
+  },
+  {
+    "course_code": "STATS 12",
+    "units": 5,
+    "title": "Introduction to Statistical Methods for Geography and Environmental Studies",
+    "description": "Lecture, four hours; discussion, one hour; laboratory, one hour. Not open for credit to students with credit for course 10, 11, or 13. Introduction to statistical thinking and understanding, with emphasis on techniques used in geography and environmental science. Underlying logic behind statistical procedures, role of variation in statistical thinking, strengths and limitations of statistical summaries, and fundamental inferential tools. Emphasis on applications in geography and environmental science in laboratory work using professional statistical analysis package, including spatial statistics. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "Quantitative Reasoning"
+    ],
+    "credit_exclusions": [
+      "STATS 13",
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS12"
+  },
+  {
+    "course_code": "STATS 13",
+    "units": 5,
+    "title": "Introduction to Statistical Methods for Life and Health Sciences",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Not open for credit to students with credit for course 10, 10H, 11, 12, or 14. Presentation and interpretation of data, descriptive statistics, introduction to correlation and regression and to basic statistical inference (estimation, testing of means and proportions, ANOVA) using both bootstrap methods and parametric models. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)",
+      "Quantitative Reasoning"
+    ],
+    "credit_exclusions": [
+      "STATS 12",
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS13"
+  },
+  {
+    "course_code": "STATS 15",
+    "units": 5,
+    "title": "Introduction to Data Science",
+    "description": "Lecture, three hours; discussion, one hour; computer laboratory, one hour. Preparation: three years of high school mathematics. Not open to students with credit for course 10, 12, 13, or former course 10H, 11, or 14. Introduction to data science, including data management, data modeling, data visualization, communication of findings, and reproducible work. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "credit_exclusions": [
+      "STATS 12",
+      "STATS 13",
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS15"
+  },
+  {
+    "course_code": "STATS 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS19"
+  },
+  {
+    "course_code": "STATS 20",
+    "units": 4,
+    "title": "Introduction to Statistical Programming with R",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: one course from course 10, 12, 13, 15, Economics 41, or Psychology 100A, or score of 4 or higher on Advanced Placement Statistics Examination. Designed to prepare students for upper-division work in statistics. Introduction to use of R, including data management, simple programming, and statistical graphics in R. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10",
+      "STATS 12",
+      "STATS 13",
+      "STATS 15",
+      "ECON 41",
+      "PSYCH 100A",
+      "PSYCH 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS20"
+  },
+  {
+    "course_code": "STATS 21",
+    "units": 4,
+    "title": "Python and Other Technologies for Data Science",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 20. Covers use of Python and other technologies for data analysis and data science. Focus on programming with Python and selection of its libraries: NumPy, pandas, matplotlib, and scikit-learn, for purpose of data processing, data cleaning, data analysis, and machine learning. Other technologies covered include Jupyter notebook and Git. Intended for Data Theory majors as introduction to Python language and libraries most frequently used in data science. Letter grading.",
+    "prerequisites": [
+      "STATS 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS21"
+  },
+  {
+    "course_code": "STATS 35",
+    "units": 4,
+    "title": "Introduction to Probability with Applications to Poker",
+    "description": "Lecture, three hours; discussion, one hour. Exploration of some main topics in introductory probability theory, especially discrete probability problems, that are useful in wide variety of scientific applications. Topics include conditional probability and conditional expectation, combinatorics, laws of large numbers, central limit theorem, Bayes theorem, univariate distributions, Markov processes, and Brownian motion. Examination of computer simulation in depth and discussion of computational approximations of solutions to complex problems using R, with examples of situations and concepts that arise naturally when playing Texas Hold\u2019em and other games. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS35"
+  },
+  {
+    "course_code": "STATS 88",
+    "units": 2,
+    "title": "Sophomore Seminars: Statistics",
+    "description": "Seminar, two hours. Requisite: one course from 10, 11, 12, 13, or 14. Limited to 20 lower-division students. Readings and discussions designed to introduce students to current statistical consulting research and fieldwork disciplines. Culminating project may be required. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10",
+      "STATS 11",
+      "STATS 12",
+      "STATS 13",
+      "STATS 14"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS88"
+  },
+  {
+    "course_code": "STATS 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS89"
+  },
+  {
+    "course_code": "STATS 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS89HC"
+  },
+  {
+    "course_code": "STATS 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS99"
+  },
+  {
+    "course_code": "STATS 100A",
+    "units": 4,
+    "title": "Introduction to Probability",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: Mathematics 32B, 33A. Not open to students with credit for Electrical Engineering 131A or Mathematics 170A; open to graduate students. Students may receive credit for only two of following: course 100A, former course 110A, Biostatistics 100A. Probability distributions, random variables, vectors, and expectation. P/NP or letter grading.",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33A"
+    ],
+    "credit_exclusions": [
+      "EC ENGR 131A"
+    ],
+    "equivalent_courses": [
+      "MATH 170E",
+      "Introduction to Probability and Statistics 1",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS100A"
+  },
+  {
+    "course_code": "STATS 100B",
+    "units": 4,
+    "title": "Introduction to Mathematical Statistics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100A or Mathematics 170A or 170E. Survey sampling, estimation, testing, data summary, one- and two-sample problems. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100A",
+      "MATH 170A",
+      "MATH 170E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS100B"
+  },
+  {
+    "course_code": "STATS 100C",
+    "units": 4,
+    "title": "Linear Models",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 100B or Mathematics 170S. Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS100C"
+  },
+  {
+    "course_code": "STATS 101A",
+    "units": 4,
+    "title": "Introduction to Data Analysis and Regression",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: one course from course 10, 12, 13, 15, Economics 41, or Psychology 100A, or score of 4 or higher on Advanced Placement Statistics Examination, and course 20. Recommended: course 102A. Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10",
+      "STATS 12",
+      "STATS 13",
+      "STATS 15",
+      "ECON 41",
+      "PSYCH 100A",
+      "PSYCH 4",
+      "Advanced Placement Statistics Examination, and STATS 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS101A"
+  },
+  {
+    "course_code": "STATS 101B",
+    "units": 4,
+    "title": "Introduction to Design and Analysis of Experiment",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101A. Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS101B"
+  },
+  {
+    "course_code": "STATS 101C",
+    "units": 4,
+    "title": "Introduction to Statistical Models and Data Mining",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101A. Recommended: course 101B. Designed for juniors/seniors. Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS101C"
+  },
+  {
+    "course_code": "STATS 102A",
+    "units": 4,
+    "title": "Introduction to Computational Statistics with R",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 20, Mathematics 33A, and one course from course 10, 12, 13, Economics 11, 41, or Psychology 100A, or score of 4 or higher on Advanced Placement Statistics Examination. Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping. Covers intermediate to advanced programming with R. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 20",
+      "MATH 33A",
+      "STATS 10",
+      "STATS 12",
+      "STATS 13",
+      "ECON 11",
+      "ECON 41",
+      "PSYCH 100A",
+      "PSYCH 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS102A"
+  },
+  {
+    "course_code": "STATS 102B",
+    "units": 4,
+    "title": "Introduction to Computation and Optimization for Statistics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 100B (or Mathematics 170S), 102A, Mathematics 33A. Introduction to computational methods and optimization useful for statisticians. Use of computer programming to solve statistical problems. Topics include vector/matrix computation, multivariate normal distribution, principal component analysis, clustering analysis, gradient-based optimization, EM algorithm for missing data, and dynamic programming. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S",
+      "MATH 102A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS102B"
+  },
+  {
+    "course_code": "STATS 102C",
+    "units": 4,
+    "title": "Introduction to Monte Carlo Methods",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 100B (or Mathematics 170S), 102A. Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms. Extensions as simulated tempering. Theoretical understanding of methods and their implementation in concrete computational problems. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S",
+      "MATH 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS102C"
+  },
+  {
+    "course_code": "STATS 105",
+    "units": 4,
+    "title": "Statistics for Engineers",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100A or Electrical Engineering 131A or Mathematics 170A. Foundation of basic concepts and techniques of statistics. Topics include sampling distributions, statistical estimation (including maximum likelihood estimation), statistical intervals, and hypothesis testing, with emphasis on application of these concepts. Discussion of methods for checking whether assumptions required for mathematical foundations are appropriate for given set of data. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100A",
+      "EC ENGR 131A",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS105"
+  },
+  {
+    "course_code": "STATS 112",
+    "units": 5,
+    "title": "Statistics: Window to Understanding Diversity",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: one course from course 10, 12, 13, Economics 11, 41, or Psychology 100A, or score of 4 or higher on Advanced Placement Statistics Examination. Limited to juniors/seniors. Statistical methods in social sciences, including regression, multivariate techniques, logistic regression, and data-handling and analysis. Applications to social sciences, using professional statistical analysis software package for data analysis. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "STATS 10",
+      "STATS 12",
+      "STATS 13",
+      "ECON 11",
+      "ECON 41",
+      "PSYCH 100A",
+      "PSYCH 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS112"
+  },
+  {
+    "course_code": "STATS 115",
+    "units": 4,
+    "title": "Probabilistic Decision Making",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100A. Recommended preparation: experience with Python. Formulation of decision making problem as probabilistic inference. Derivation algorithms for solving probabilistic decision making. Implementation of code that executes inference and decision. Covers Markov decision process, planning, search, and reinforcement learning. Letter grading.",
+    "prerequisites": [
+      "STATS 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS115"
+  },
+  {
+    "course_code": "STATS C116",
+    "units": 4,
+    "title": "Social Statistics",
+    "description": "Lecture, three hours. Preparation: some knowledge of basic calculus and linear algebra. Requisites: courses 100A and 100B, or 101B and 101C, or one course from 10, 11, 12, 13 and one upper-division statistics course using regression. Designed for social sciences graduate students and advanced undergraduate students seeking training in data issues and methods employed in social sciences. Concurrently scheduled with course C216. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100A",
+      "STATS 100B",
+      "STATS 101B",
+      "STATS 101C",
+      "STATS 10",
+      "STATS 11",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC116"
+  },
+  {
+    "course_code": "STATS 130",
+    "units": 4,
+    "title": "Getting Up to Speed with SPSS, Stata, SAS, and R",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: basic statistics, basic computer literacy. Study of four commonly employed solutions\u2014SPSS (Statistical Package for Social Sciences), Stata, SAS (Statistical Analysis System), and R\u2014for data analytic and statistical issues in health sciences, engineering, economics, and government. Emphasis on applied problem solving, measurement issues in data analysis, use of computer for analysis of large-scale data. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS130"
+  },
+  {
+    "course_code": "STATS 131",
+    "units": 4,
+    "title": "Python and Other Technologies for Data Analysis",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 102A. Limited to junior/senior statistics majors and minors. Use of Python and other technologies for data analysis and data science. Focus on programming with Python and selection of its libraries\u2014NumPy, pandas, Matplotlib, and scikit-learn\u2014for purpose of data processing, data cleaning, data analysis, and machine learning. Other technologies covered include Jupyter notebook, Structured Query Language (SQL), and git. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS131"
+  },
+  {
+    "course_code": "STATS 133",
+    "units": 4,
+    "title": "Introduction to Text Mining Using R",
+    "description": "Lecture, three hours; discussion, one hour. Limited to Statistics and Data Science Department students. Exposure to basic concepts of text data and text data analysis. Hands-on study covering use of text mining tools for purpose of data analysis. Covers basic text handling, natural language processing, clustering, classification, and statistical modeling applied on textual data. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS133"
+  },
+  {
+    "course_code": "STATS 140XP",
+    "units": 4,
+    "title": "Practice of Statistical Consulting",
+    "description": "(Formerly numbered 140SL.) Lecture, one hour; discussion, two hours. Enforced requisites: courses 100B, 101B. Limited to seniors. Opportunity to solve real data analysis problems for real community-based or campus-based clients. Students work in small groups with faculty member and client to frame client\u2019s question in statistical terms, create statistical model, analyze data, and report results. Weekly meetings in classroom setting to study basic consulting skills, share experiences, exchange ideas, and make reports. On-site visits as necessary. Courses 140XP and 141XP must be taken in consecutive terms. In Progress grading (credit to be given only on completion of course 141XP).",
+    "prerequisites": [
+      "STATS 100B",
+      "STATS 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS140XP"
+  },
+  {
+    "course_code": "STATS 141XP",
+    "units": 4,
+    "title": "Practice of Statistical Consulting",
+    "description": "(Formerly numbered 141SL.) Seminar, one hour; discussion, one hour; research group meeting, two hours. Requisite: course 140XP. Limited to seniors. Opportunity to solve real data analysis problems for real community-based or campus-based clients. Students work in small groups with faculty member and client to frame client\u2019s question in statistical terms, create statistical model, analyze data, and report results. Weekly meetings in classroom setting to study basic consulting skills, share experiences, exchange ideas, and make reports. On-site visits as necessary. Courses 140XP and 141XP must be taken in consecutive terms. Letter grading.",
+    "prerequisites": [
+      "STATS 140XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS141XP"
+  },
+  {
+    "course_code": "STATS 143",
+    "units": 4,
+    "title": "Introduction to Research in Statistics",
+    "description": "Seminar, three hours. Requisites: courses 100B, 101B. Designed for Statistics majors/minors who are interested in research. Research topics in statistics that cover material not covered in regular statistics upper-division curriculum. Reading, discussion, and presenting influential papers in statistics. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "STATS 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS143"
+  },
+  {
+    "course_code": "STATS C145",
+    "units": 4,
+    "title": "History and Theory of Statistics",
+    "description": "Lecture, three hours. Enforced requisite: course 100B. History of statistical methodology and its role within scientific community. Philosophical tenets of statistics; use of concept of probability as transparent and relatively objective means of evaluating empirical observations. Theory of statistical hypothesis generation and hypothesis testing. Designed to provide understanding and perspectives on role of statistics in modern science, theory of statistics, and its strengths and weaknesses. Concurrently scheduled with course C245. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC145"
+  },
+  {
+    "course_code": "STATS 147",
+    "units": 2,
+    "title": "Data Technologies for Data Scientists",
+    "description": "Lecture, two hours. Requisites: courses 100B or Mathematics 170S, 101A, 101C or Mathematics 156. Limited to seniors. Introduction to variety of tools and technologies used in data science. Prepares students for applied project work. Topics include use of collaborative repository hosting services allowing access control; secure cloud services platforms that cover computing power and database storage; open source artificial intelligence libraries. Recommended to be taken prior to or concurrently with course M148. Letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S",
+      "MATH 101A",
+      "MATH 101C",
+      "MATH 156"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS147"
+  },
+  {
+    "course_code": "STATS M148",
+    "units": 4,
+    "title": "Experience of Data Science",
+    "description": "(Same as Mathematics M148.) Lecture, four hours. Requisites: courses 100B or Mathematics 170S, 101A, 101C or Mathematics 156, Mathematics 118, 131A. Students solve real data science problems for community- or campus-based clients. Students work in small groups with faculty member and client to frame client\u2019s question in data science terms, create mathematical models, analyze data, and report results. Students may elect to undertake research on foundations of data science, studying advanced topics and writing senior thesis with discussion of findings or survey of literature on chosen foundational topic. Development of collaborative skills, communication principles, and discussion of ethical issues. Letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S",
+      "MATH 101A",
+      "MATH 101C",
+      "MATH 156",
+      "MATH 118",
+      "MATH 131A"
+    ],
+    "cross_listed": [
+      "MATH M148"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSM148"
+  },
+  {
+    "course_code": "STATS C151",
+    "units": 4,
+    "title": "Experimental Design",
+    "description": "Lecture, three hours. Requisites: courses 100C, 101A. Basic principles, analysis of variance, randomized block designs, Latin squares, balanced incomplete block designs, factorial designs, fractional factorial designs, minimum aberration designs, robust parameter designs. Concurrently scheduled with course C225. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100C",
+      "STATS 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC151"
+  },
+  {
+    "course_code": "STATS M154",
+    "units": 4,
+    "title": "Measurement and Its Applications",
+    "description": "(Same as Psychology M144.) Lecture, three hours. Requisite: one course from 10, 12, 13, or Psychology 100A. Selected theories for quantification of psychological, educational, social, and behavioral science data. Classical test, factor analysis, generalizability, item response, optimal scaling, ordinal measurement, computer-adaptive, and related theories. Construction of tests and measures and their reliability, validity, and bias. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10",
+      "STATS 12",
+      "STATS 13",
+      "PSYCH 100A"
+    ],
+    "cross_listed": [
+      "PSYCH M144"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSM154"
+  },
+  {
+    "course_code": "STATS C155",
+    "units": 4,
+    "title": "Applied Sampling",
+    "description": "Lecture, three hours; discussion, one hour. Designed for upper-division and graduate students in social or life sciences and those who plan to major in Statistics. Topics include methods of sampling from finite populations, sources of sampling and estimation bias, and methods of generating efficient and precise estimates of population characteristics. Practical applications of sampling methods via lectures and hands-on laboratory exercises. Concurrently scheduled with course CM248. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC155"
+  },
+  {
+    "course_code": "STATS 157",
+    "units": 4,
+    "title": "Probability and Statistics Data Modeling and Analysis using Statistics Online Computational Resource",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one engineering, mathematics, physics, or statistics course. Recommended requisite: Program in Computing 20A. Probability and statistics topics in data-driven and interactive manner using open Internet resources. Varieties of data, study-designs, and applications arising from biomedical, research, and simulated data to prepare students for innovative multidisciplinary research. Use of Statistics Online Computational Resource (SOCR). P/NP or letter grading.",
+    "prerequisites": [
+      "PIC 20A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS157"
+  },
+  {
+    "course_code": "STATS C161",
+    "units": 4,
+    "title": "Introduction to Pattern Recognition and Machine Learning",
+    "description": "Lecture, three hours. Requisites: course 100B, Mathematics 33A. Introduction to pattern analysis and machine intelligence designed for advanced undergraduate and graduate students. Concurrently scheduled with course C261. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC161"
+  },
+  {
+    "course_code": "STATS C163",
+    "units": 4,
+    "title": "Generative Data Science",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: one course from course C161, Computer Science M146, Electrical and Computer Engineering M146, C147, or Mathematics 156.\u00a0Designed for students interested in generative data science, an emerging field in the intersection of generative artificial intelligence (AI), data science, and machine learning. Introduction to core concepts of generative data science, covering generation, evaluation, and utilization of generative data such as image, text, conversation, and tables. Focus on the evaluation of privacy-preserving effect of generative data. Concurrently scheduled with course C263. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS C161",
+      "COM SCI M146",
+      "EC ENGR M146",
+      "EC ENGR C147",
+      "MATH 156"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC163"
+  },
+  {
+    "course_code": "STATS 170",
+    "units": 4,
+    "title": "Introduction to Time-Series Analysis",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100C or 101A, and 100B. Exploration of standard methods in temporal and frequency analysis used in analysis of numerical time-series data. Examples provided throughout, and students implement techniques discussed. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100C",
+      "STATS 101A",
+      "STATS 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS170"
+  },
+  {
+    "course_code": "STATS M171",
+    "units": 4,
+    "title": "Introduction to Spatial Statistics",
+    "description": "(Same as Geography M186.) Lecture, three hours; laboratory, one hour. Requisite: one course from 10, 12, 13. Introduction to methods of measurement and interpretation of geographic distributions and associations. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "cross_listed": [
+      "GEOG M186"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSM171"
+  },
+  {
+    "course_code": "STATS C173",
+    "units": 4,
+    "title": "Applied Geostatistics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100C (may be taken concurrently) or 101B. Geostatistics can be applied to many problems in other disciplines such as hydrology, traffic, air and water pollution, epidemiology, economics, geography, waste management, forestry, oceanography, meteorology, and agriculture and, in general, to every problem where data are observed at geographic locations. Acquisition of knowledge from different areas that can be used to analyze real spatial data problems and to connect geostatistics with geographic information systems (GIS). Concurrently scheduled with course C273. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100C",
+      "STATS 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC173"
+  },
+  {
+    "course_code": "STATS 175",
+    "units": 4,
+    "title": "Statistics for Spatial Data",
+    "description": "Lecture, three hours; discussion, one hour. Statistical theories used in analyzing spatial data. Study of three types of spatial data: geostatistical data, lattice data, and point patterns, with emphasis on applications and analysis of spatial data using open-source statistical software R. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS175"
+  },
+  {
+    "course_code": "STATS C180",
+    "units": 4,
+    "title": "Introduction to Bayesian Statistics",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 100B, Mathematics 32B. Designed for juniors/seniors. Introduction to statistical inference based on use of Bayes theorem, covering foundational aspects, current applications, and computational issues. Topics include Stein paradox, nonparametric Bayes, and statistical learning. Examples of applications vary according to interests of students. Concurrently scheduled with course C236. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC180"
+  },
+  {
+    "course_code": "STATS 182",
+    "units": 2,
+    "title": "Fundamentals of Scientific Writing",
+    "description": "Seminar, one hour. Development and perfection of student written communication skills through variety of scientific writing and reading assignments. Objectives and techniques of scientific writing and practice with different forms of professional writing. Analysis of quality of writing, including control, clarity, grammar, and mechanics. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS182"
+  },
+  {
+    "course_code": "STATS C183",
+    "units": 4,
+    "title": "Statistical Models in Finance",
+    "description": "Lecture, three hours. Requisite: course 100B. Designed for juniors/seniors and graduate students. Statistical techniques in investment theory using real market data. Portfolio management, risk diversification, efficient frontier, single index model, capital asset pricing model (CAPM), beta of a stock, European and American options (Black/Scholes model, binomial model). Concurrently scheduled with course C283. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATSC183"
+  },
+  {
+    "course_code": "STATS 184",
+    "units": 2,
+    "title": "Societal Impacts of Data",
+    "description": "Lecture, two hours. Requisites: courses 100B or Mathematics 170S, 101A, 101C or Mathematics 156. Consideration of impacts that data collected today have upon individuals and society. Rapid increase in scale and types of data collected has impacted commerce and society in new ways. Consideration of economic, social and ethical, legal and political impacts of data, especially that collected on human behavior. Topics include privacy and data protection, intellectual property and confidentiality, sample selection and algorithms, equality and anti-discrimination. Letter grading.",
+    "prerequisites": [
+      "STATS 100B",
+      "MATH 170S",
+      "MATH 101A",
+      "MATH 101C",
+      "MATH 156"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS184"
+  },
+  {
+    "course_code": "STATS 186",
+    "units": 1,
+    "title": "Careers in Statistics",
+    "description": "Seminar, one hour. Discussion of applications of statistics by weekly guest speakers. How statistics is applied to legal questions, economic decisions, arts, environment, and other fields, with some emphasis on career paths in statistics. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS186"
+  },
+  {
+    "course_code": "STATS 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS188SA"
+  },
+  {
+    "course_code": "STATS 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "STATS 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS188SB"
+  },
+  {
+    "course_code": "STATS 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "STATS 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS188SC"
+  },
+  {
+    "course_code": "STATS 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS189"
+  },
+  {
+    "course_code": "STATS 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS189HC"
+  },
+  {
+    "course_code": "STATS 195",
+    "units": 4,
+    "title": "Community or Corporate Internships in Statistics",
+    "description": "Tutorial, four hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS195"
+  },
+  {
+    "course_code": "STATS 199",
+    "units": 1,
+    "title": "Directed Research in Statistics",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/STATS199"
+  }
+]

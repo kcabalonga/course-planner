@@ -1,0 +1,517 @@
+[
+  {
+    "course_code": "ENGR 120",
+    "units": 2,
+    "title": "Entrepreneurship for Scientists and Engineers",
+    "description": "Seminar, two hours; outside study, four hours. Designed for seniors and graduate students. Identification of business opportunities and outline of basic requisites for viable business plans, followed by specific topics related to securing basic assets and resources needed to execute those plans. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR120"
+  },
+  {
+    "course_code": "ENGR 1A",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Variable Topics",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to engineering design while building teamwork and communication skills. Examination of engineering majors and careers. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Specific project details and relevant majors explored vary with instructor. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1A"
+  },
+  {
+    "course_code": "ENGR 1AR",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Autonomous Rover",
+    "description": "Laboratory, three hours; outside study, three hours. Students use concepts and tools in mechanical engineering, electrical engineering, and computer science to design and build rovers that operate under wireless control, and can autonomously navigate and respond to environmental cues. Students design robot chassis, connect motors and control/sensory electronics, and program system to map its environment and achieve mission objectives. Student team projects culminate in final competition and oral presentation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1AR"
+  },
+  {
+    "course_code": "ENGR 1BI",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Bionics",
+    "description": "Laboratory, three hours; outside study, three hours. Students use concepts in mechanical engineering, bioengineering, electrical engineering, and computer science to develop a robotic hand/arm that can complete series of unique tasks. Lecture topics cover mechanical design, bionics, rehabilitation, musculoskeletal systems modeling, controls, motors and actuation, and programming. Student projects culminate in oral presentation and final competition that tests versatility and robustness of robotic arm. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1BI"
+  },
+  {
+    "course_code": "ENGR 1CO",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Coffee",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to concepts and techniques in chemical engineering, computer-aided design, 3D printing, circuitry, mass and heat transfer, process control, and machining. Nonmathematical introduction to how engineers approach and solve problems, as elucidated by process of roasting and brewing coffee. Various laboratory experiments test how different physical and chemical processes affect sensory qualities of coffee. Study culminates in competition and presentation to peers and guests. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1CO"
+  },
+  {
+    "course_code": "ENGR 1CR",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Combat Robotics",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to practical and theoretical engineering concepts involved in different combat robot designs. Student teams learn computer-aided design, manufacturing, and basic electronics to design, build, and fight one-pound combat robots. No prior experience or coursework needed. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1CR"
+  },
+  {
+    "course_code": "ENGR 1DR",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Drones",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to autonomous drone engineering, exploring airframe structure and software controls. Airframe topics include computer-aided design, manufacturing, drone propulsion, and electronics. Software controls topics include implementing professional flight software, data analysis, and real-time system responses. Students work in teams to design, build, and test drone that competes in task-based competition. Students present and explain their design choices. No prior experience or coursework required. Study led by experienced undergraduate members of UCLA unmanned aerial systems group. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1DR"
+  },
+  {
+    "course_code": "ENGR 1EC",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Electrocardiogram",
+    "description": "Laboratory, three hours; outside study, three hours. Students learn and use concepts and techniques in electrical circuit design and analysis, cardiac electrophysiology, biophysics, microcontrollers, and computer programming. Students work in teams to design, construct, and test circuit boards capable of measuring human electrocardiograms by capturing data with microcontroller, with computer analysis and display. Students present their designs orally and in writing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1EC"
+  },
+  {
+    "course_code": "ENGR 1GD",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Game Development in Unity",
+    "description": "Laboratory, three hours; outside study, three hours. Study covers basics of C# programming language, Unity architecture, input, physics, gameplay logic, game design documents, and more. Students create their own original game from scratch, playable by any user with computer and Internet connection. No prior experience with college mathematics, general programming, or game development is assumed. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1GD"
+  },
+  {
+    "course_code": "ENGR 1GK",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Go-Karts",
+    "description": "Laboratory, three hours; outside study, three hours. Students learn and use concepts and techniques in computer-aided design, finite element analysis, machining, electric motor performance, steering linkages, and general mechanical design and assembly to work in teams and construct and test go-karts. Students present their designs orally and in writing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1GK"
+  },
+  {
+    "course_code": "ENGR 1IT",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Internet of Things",
+    "description": "(Formerly numbered 96I.) Lecture, one hour; laboratory, one hour; outside study, four hours. Recommended for undergraduate Aerospace Engineering, Bioengineering, Computer Science, Electrical Engineering, and Mechanical Engineering majors. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Hands-on experience with state-of-art Internet of things (IoT) technology to offer students opportunity to rapidly develop innovative and inspiring systems that provide ideal introduction to computing systems and IoT applications specific to their major field. IoT technology has become one of the most important advances in technology history with applications ranging from wearable devices for healthcare to residential monitoring systems, natural resource protection and management, intelligent vehicles and transportation systems, robotics systems, and energy conservation. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1IT"
+  },
+  {
+    "course_code": "ENGR 1ML",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Machine Learning",
+    "description": "Laboratory, three hours; outside study, three hours. Students learn basics of machine learning using popular programming language Python. Lectures cover topics in Python, machine learning, and LaTeX. Laboratory assignments challenge students to explore and engage with content from each lecture. Homework assignments culminate in final project in which students develop and train neural network image classifier, built using PyTorch, that performs significantly better than random guessing. Students report on how they chose components of their neural network. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1ML"
+  },
+  {
+    "course_code": "ENGR 1PH",
+    "units": 2,
+    "title": "Introduction to Engineering Design: 3D Pharmaceuticals",
+    "description": "Laboratory, three hours; outside study, three hours. 3D pharming is emerging field that tries to achieve more patient-specific drug dosages and delivery rates, which can be tailored towards each patient's age, weight, height, genotype, etc. This direction in medicine has become possible with development of 3D-printed pill capsules and laser print bioinks\u2014aqueous hydrogel formulations with correct mechanical properties to interact with 3D printer, on demand. Bioinks are able to dissolve drugs and polymerize into solid to form drug delivery vehicle. Students learn basic fundamentals of how to 3D print pill capsule and polymerize hydrogel within it. Students are guided through process of designing research experiment, analyzing data, and presenting their findings to others. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1PH"
+  },
+  {
+    "course_code": "ENGR 1PL",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Planes",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to basics of airplane engineering. Students work in teams to design and construct foam-and-3D-printed, fixed-wing aircraft to complete two missions. Students learn basic physics of aerodynamics, applications of MATLAB and Solidworks, how to use figure of merit (FOM) charts to make design decisions, and manufacturing techniques. Study led by experienced undergraduate members of UCLA Design Build Fly group. No prior experience or coursework needed. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1PL"
+  },
+  {
+    "course_code": "ENGR 1RK",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Rockets",
+    "description": "Laboratory, three hours; outside study, three hours. Introduction to rocket engineering, exploring launch vehicle structure, trajectory, stability, and propulsion. Topics include computer-aided design, structural analysis, conventional and additive manufacturing, aerodynamic\u00a0analysis, flight dynamics, and electronics. Students work in teams to design, build, test, and\u00a0launch solid-propellant rockets. Students present and explain their design choices. No prior experience or coursework required. Course led by experienced undergraduate members of UCLA rocket engineering club. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1RK"
+  },
+  {
+    "course_code": "ENGR 1UW",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Underwater Robotics",
+    "description": "Laboratory, three hours; outside study, three hours. Students develop skills in computer-aided design, 3D printing, mechanical design, electronics, and manufacturing. These concepts are applied to team-based design and construction of controllable underwater robots. Students design chassis, electronics bay, and how to seal robot. Students team projects culminate in oral presentation and underwater obstacle course competition. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1UW"
+  },
+  {
+    "course_code": "ENGR 1XP",
+    "units": 2,
+    "title": "Introduction to Community-Engaged Engineering Design: Variable Topics",
+    "description": "Laboratory, two hours; outside study, four hours. Students work in small groups on projects that address the needs of a community partner. Potential projects include measuring environmental pollutants, building homes, educating local middle school students, and other activities. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR1XP"
+  },
+  {
+    "course_code": "ENGR 2",
+    "units": 2,
+    "title": "Technology and Society",
+    "description": "Lecture, two hours; discussion, one hour; outside study, three hours. Introduction of broader societal opportunities, impacts, and challenges associated with technology. Drawing from historical and contemporary examples, consideration of some of ethical, policy, and legal questions spurred by rapid technological change. Development of perspectives to take broad, contextualized view of role of technology in society. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR2"
+  },
+  {
+    "course_code": "ENGR 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR19"
+  },
+  {
+    "course_code": "ENGR 20",
+    "units": 2,
+    "title": "First-Year Engineering Transition Bridge",
+    "description": "Seminar, 18 hours (two weeks). Designed primarily for new students to help them understand UCLA, its culture, structure (quarter system), and academic policies; and to facilitate their transition from high school to college. Examination of research on first-year experience of college students, studying at UCLA versus high school, policies and procedures, and campus resources. Advanced preparation and early exposure to fall quarter mathematics, chemistry, and computer science curricula. Collaborative learning techniques and community-building activities are integral processes to both day and evening programs. Intensive classroom instruction and collaborative learning workshops. May be repeated for credit. Offered in summer only. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR20"
+  },
+  {
+    "course_code": "ENGR 21",
+    "units": 2,
+    "title": "Computing Immersion Summer Experience",
+    "description": "Seminar, 18 hours (three weeks). Designed primarily for new students to help them understand UCLA, its culture, structure (quarter system), and academic policies; and to facilitate their transition from high school/community college to university. Designed to immerse incoming computing students in foundation concepts and principles of computer science, with focus on fundamental computer programming principles, methodologies, and techniques. Basic concepts of programming and C++ computing language. Offered in summer only. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR21"
+  },
+  {
+    "course_code": "ENGR 22",
+    "units": 2,
+    "title": "Summer Bridge Review for Enhancing Engineering Students",
+    "description": "Seminar, 18 hours (two weeks). Designed primarily for new students to help them understand UCLA, its culture, structure (quarter system), and academic policies; and to facilitate their transition from community college to university. Intensive introduction of advanced topics covered in upper-division engineering courses. May be repeated for credit. Offered in summer only. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR22"
+  },
+  {
+    "course_code": "ENGR 23",
+    "units": 2,
+    "title": "Finding Industry Internship",
+    "description": "Seminar, two hours; outside study, four hours. Designed to engage engineering students in process of formal career development. Students learn about various components of internship/job application and practice preparing relevant materials. Prepares students for career-related social interactions. Development of skills and insights to successfully secure future opportunities, such as first industry internship. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR23"
+  },
+  {
+    "course_code": "ENGR 24",
+    "units": 2,
+    "title": "Finding Undergraduate Research Opportunity",
+    "description": "Seminar, two hours; outside study, four hours. Designed to engage engineering students, primarily those without prior experience, in process of soliciting, securing, and beginning research. Students learn about various methods and resources used to obtain laboratory position. Exploration of opportunities and guidance on how to approach those openings. Offers students smooth transition into research laboratory. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR24"
+  },
+  {
+    "course_code": "ENGR 25",
+    "units": 2,
+    "title": "Communicating Undergraduate Research Results",
+    "description": "Seminar, two hours; outside study, four hours. Designed to engage engineering students in process of communicating formal research. Students learn about various components required in publishing research. Offers templates and examples as guides for understanding technical presentations and writing. Development of skills and insights to successfully publish first research project. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR25"
+  },
+  {
+    "course_code": "ENGR 26",
+    "units": 2,
+    "title": "Finding Entry-Level Job",
+    "description": "Seminar, two hours; discussion, two hours; outside study, two hours. Designed to engage engineering students in process of getting ready to graduate and need help joining workforce. Focus on how to apply to entry-level positions in engineering field, and specifically industries that value engineering degree over technical experience. Offers suggestions to overcome typical barriers students encounter in securing entry-level position including students with no industry internships, lack of professional network, lack of hands-on technical experience, low grade-point average, lack of student organization extracurricular activities, international students, Deferred Action for Childhood Arrivals (DACA) students, and other low-confidence students. Students learn about various components of job application, practice preparing relevant materials, and prepare for career-related social interactions. Students develop skills and insights to successfully secure entry-level job as soon as possible after graduation. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR26"
+  },
+  {
+    "course_code": "ENGR 87",
+    "units": 4,
+    "title": "Introduction to Engineering Disciplines",
+    "description": "Lecture, four hours; discussion, four hours; outside study, four hours. Introduction to engineering as professional opportunity for freshman students by exploring difference between engineering disciplines and functions engineers perform. Development of skills and techniques for academic excellence through team process. Investigation of national need underlying current effort to increase participation of historically underrepresented groups in U.S. technological work force. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR87"
+  },
+  {
+    "course_code": "ENGR 95",
+    "units": 1,
+    "title": "Internship Studies in Engineering",
+    "description": "Tutorial, one hour. Limited to first years/sophomores. Internship studies course supervised by associate dean or designated faculty members. Further supervision to be provided by organization for which students are doing internship. Students may be required to meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. May be repeated for credit. Individual contract with associate dean required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR95"
+  },
+  {
+    "course_code": "ENGR 96A",
+    "units": 2,
+    "title": "Introduction to Engineering Design",
+    "description": "Lecture, one hour; laboratory, one hour; outside study, four hours. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Specific project details and relevant majors explored vary with instructor. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96A"
+  },
+  {
+    "course_code": "ENGR 96B",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Digital Imaging",
+    "description": "Lecture, one hour; laboratory, one hour; outside study, four hours. Recommended for undergraduate Aerospace Engineering, Bioengineering, Computer Science, Electrical Engineering, and Mechanical Engineering majors. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Hands-on experience with state-of-art solid-state imaging devices. How to focus, expose, record, and manipulate telescopic images. Development of photographic technology from early chemical experiments to wide spread use of cell phone camera. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96B"
+  },
+  {
+    "course_code": "ENGR 96C",
+    "units": 2,
+    "title": "Cybernetics: Introduction to Robotic Control Systems",
+    "description": "Lecture, one hour; laboratory, one hour; outside study, four hours. Complete introduction to robotics control systems that are critical and rapidly growing engineering technology with expanding societal impact. Designed to support entry-level students with primary principles of modern control systems. Students are provided with essential background in formal principles. Includes breakthrough technology providing hands-on experience with physical robotics control systems. Extensive use of graphical and animation methods to support understanding of mathematical concepts. Hands-on systems are provided in laboratory sections for each student for system design and characterization. Students connect personal computers to robotic control system and have real-time access for configuration and control. Convenient computing tools are provided to support each design method, as well as real-time visualization and performance characterization. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96C"
+  },
+  {
+    "course_code": "ENGR 96E",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Electrocardiogram",
+    "description": "Lecture, 90 minutes; laboratory, 90 minutes; outside study, three hours. Students learn and use concepts and techniques in electrical circuit design and analysis, cardiac electrophysiology, biophysics, microcontrollers, and computer programming. Students work in teams to design, construct, and test circuit boards capable of measuring human electrocardiograms by capturing data with microcontroller, with computer analysis and display. Students present their designs orally and in writing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96E"
+  },
+  {
+    "course_code": "ENGR 96G",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Go-Karts",
+    "description": "Lecture, 90 minutes; laboratory, 90 minutes; outside study, three hours. Students learn and use concepts and techniques in computer-aided design, finite element analysis, machining, electric motor performance, steering linkages, and general mechanical design and assembly to work in teams and construct and test go-karts. Students present their designs orally and in writing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96G"
+  },
+  {
+    "course_code": "ENGR 96R",
+    "units": 2,
+    "title": "Introduction to Engineering Design: Rockets",
+    "description": "Lecture, 90 minutes; laboratory, 90 minutes; outside study, three hours. Introduction to basic concepts in aerospace engineering, computer-aided design, finite element analysis, 3D printing, carbon fiber layup, telemetry, general mechanical design and assembly, and machine shop fabrication. Concepts applied to team-based design, construction, and testing of small 3D-printed rockets and larger, high-power rockets. Students present their designs orally and in writing, and evaluate their performance against other student teams. Rockets fired from Mojave Desert launch site in class field trip. No prior experience or coursework needed. Study led by experienced undergraduate members of Bruin Rocket Project. Meetings, and design and fabrication homework, make use of Makerspace facilities and tools. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR96R"
+  },
+  {
+    "course_code": "ENGR 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR99"
+  },
+  {
+    "course_code": "ENGR 102",
+    "units": 4,
+    "title": "Synthetic Biosystems and Nanosystems Design",
+    "description": "Lecture, four hours; outside study, eight hours. Requisites: course M101, Life Sciences 3. Introduction to current progress in engineering to integrate biosciences and nanosciences into synthetic systems, where biological components are reengineered and rewired to perform desirable functions in both intracellular and cell-free environments. Discussion of basic technologies and systems analysis that deal with dynamic behavior, noise, and uncertainties. Design project in which students are challenged to design novel biosystems and nanosystems for nontrivial task required. Letter grading.",
+    "prerequisites": [
+      "ENGR M101",
+      "LIFESCI 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR102"
+  },
+  {
+    "course_code": "ENGR M103",
+    "units": 4,
+    "title": "Environmental Nanotechnology: Implications and Applications",
+    "description": "(Same as Civil Engineering M165.) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course M101. Introduction to potential implications of nanotechnology to environmental systems as well as potential application of nanotechnology to environmental protection. Technical contents include three multidisciplinary areas: (1) physical, chemical, and biological properties of nanomaterials, (2) transport, reactivity, and toxicity of nanoscale materials in natural environmental systems, and (3) use of nanotechnology for energy and water production, plus environmental protection, monitoring, and remediation. Letter grading.",
+    "prerequisites": [
+      "ENGR M101"
+    ],
+    "cross_listed": [
+      "C&EE M165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGRM103"
+  },
+  {
+    "course_code": "ENGR 110",
+    "units": 4,
+    "title": "Introduction to Technology Management and Economics for Engineers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Fundamental principles of micro-level (individual, firm, and industry) and macro-level (government, international) economics as they relate to technology management. How individuals, firms, and governments impact successful commercialization of high technology products and services. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR110"
+  },
+  {
+    "course_code": "ENGR 111",
+    "units": 4,
+    "title": "Introduction to Finance and Marketing for Engineers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Critical components of finance and marketing research and practice as they impact management of technology commercialization. Internal (within firm) and external (in marketplace) marketing and financing of high-technology innovation. Concepts include present value, future value, discounted cash flow, internal rate of return, return on assets, return on equity, return on investment, interest rates, cost of capital, and product, price, positioning, and promotion. Use of market research, segmentation, and forecasting in management of technological innovation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR111"
+  },
+  {
+    "course_code": "ENGR 112",
+    "units": 4,
+    "title": "Laboratory to Market, Entrepreneurship for Engineers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Critical components of entrepreneurship, finance, marketing, human resources, and accounting disciplines as they impact management of technology commercialization. Topics include intellectual property management, team building, market forecasting, and entrepreneurial finance. Students work in small teams studying technology management plans to bring new technologies to market. Students select from set of available technology concepts, many generated at UCLA, that are in need of plans for movement from laboratory to market. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR112"
+  },
+  {
+    "course_code": "ENGR 113",
+    "units": 4,
+    "title": "Product Strategy",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Designed for juniors/seniors. Introduction to current management concept of product development. Topics include product strategy, product platform, and product lines; competitive strategy, vectors of differentiation, product pricing, first-to-market versus fast-follower; growth strategy, growth through acquisition, and new ventures; product portfolio management. Case studies, class projects, group discussions, and guest lectures by speakers from industry. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR113"
+  },
+  {
+    "course_code": "ENGR 116",
+    "units": 4,
+    "title": "Statistics for Management Decisions",
+    "description": "Lecture, four hours; outside study, eight hours. Management as well as engineering decisions nearly always take place in environment characterized by uncertainty. Probability provides mathematical framework for understanding how to make rational decisions when outcomes of actions are uncertain. Application of probability to problem of reasoning from sample data, encompassing estimation, hypothesis testing, and regression analysis. Discussion of specific analytical techniques needed in later courses in program. Development of basic understanding of statistical analysis. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR116"
+  },
+  {
+    "course_code": "ENGR 160",
+    "units": 4,
+    "title": "Entrepreneurship and Venture Initiation for Engineers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Not open to students with credit for Management 160. Focus on process and methodology for starting new venture. Introduction to entrepreneurship from perspective of entrepreneur. Examination of core concepts and frameworks on idea generation, market analysis, fundraising, corporate structures, and financial accounting for entrepreneurial endeavors. Focus on fundamentals of building business, and also emphasis on inherent experiential nature of entrepreneurship and need for constant learning on this subject. Letter grading.",
+    "credit_exclusions": [
+      "MGMT 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR160"
+  },
+  {
+    "course_code": "ENGR 163",
+    "units": 4,
+    "title": "Entrepreneurship and New Product Development for Engineers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Limited to juniors/seniors. Not open to students with credit for Management 163. Designed to deepen understanding of innovations and innovative processes related to creating new products. Inquiry into why, what, and how of making new products. New products are essential to any business (start-up or well-established) and thriving economies. Making successful new products requires various types of innovation. Availability of digital technologies and global outsources have accelerated pace of these innovations. Letter grading.",
+    "credit_exclusions": [
+      "MGMT 163"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR163"
+  },
+  {
+    "course_code": "ENGR 170",
+    "units": 4,
+    "title": "Project-Based Technology Bootcamp for Social Impact",
+    "description": "Seminar, two hours; offsite work, five hours; outside study; five hours. Study of design thinking covering various business, technology, and interpersonal topics such as data analysis, user interface and user experience, how to pitch, and collaboration. Application of learned skills to define social-impact problem and build solution in student teams coached by industry professionals. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR170"
+  },
+  {
+    "course_code": "ENGR 180",
+    "units": 4,
+    "title": "Engineering of Complex Systems",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Designed for junior/senior engineering majors. Holistic view of engineering discipline, covering lifecycle of engineering, processes, and techniques used in industry today. Multidisciplinary systems engineering perspective in which aspects of electrical, mechanical, material, and software engineering are incorporated. Three specific case studies in communication, sensor, and processing systems included to help students understand these concepts. Special attention paid to link material covered to engineering curriculum offered by UCLA to help students integrate and enhance their understanding of knowledge already acquired. Motivation of students to continue their learning and reinforce lifelong learning habits. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR180"
+  },
+  {
+    "course_code": "ENGR 181EW",
+    "units": 4,
+    "title": "Ethical Negotiation in Technology",
+    "description": "Lecture, five hours; discussion, three hours; outside study, four hours. Requisite: English Composition 3, 3D, 3DS, 3E, or 3SL. Not open for credit to students with credit for course 182EW, 183EW, 185EW, or 188EW. Focuses on negotiation and complex ethical issues that emerge as result in areas such as biotechnology, information technology, nanotechnology, and energy technology. Discussion of nature of these issues; their ethical, legal, and social ramifications; and what society values in relation to these issues. Writing and revision of about 20 pages total, including two essays and one analysis of a negotiation from an ethical perspective. Satisfies engineering writing requirement. Letter grading.",
+    "satisfies": [
+      "Engineering Writing"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3D",
+      "ENGCOMP 3DS",
+      "ENGCOMP 3E",
+      "ENGCOMP 3SL"
+    ],
+    "credit_exclusions": [
+      "ENGR 185EW",
+      "ENGR 183EW",
+      "ENGR 188EW",
+      "ENGR 182EW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR181EW"
+  },
+  {
+    "course_code": "ENGR 182EW",
+    "units": 4,
+    "title": "Technology and Law",
+    "description": "Lecture, four hours; discussion, three hours; outside study, five hours. Requisite: English Composition 3, 3D, 3DX, 3E, or 3SL. Not open for credit to students with credit for course 181EW, 183EW, 185EW, or 188EW. Places engineering in broader societal context through examination of some of key ethical, legal, and regulatory issues and frameworks relevant to design and deployment of emerging technology products and services. Historical examination of ethical and legal frameworks generally and in relation to technology. Exploration of series of specific contemporary technology-related topics to examine their broader ramifications. Topics may include driverless cars, algorithms and artificial intelligence, social media, digital privacy, and impact of technology on employment. Offers students tools enabling them to think more proactively and holistically about ethical and societal dimensions of their work as technology creators. Satisfies engineering writing requirement. Letter grading.",
+    "satisfies": [
+      "Engineering Writing"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3D",
+      "ENGCOMP 3DX",
+      "ENGCOMP 3E",
+      "ENGCOMP 3SL"
+    ],
+    "credit_exclusions": [
+      "ENGR 185EW",
+      "ENGR 183EW",
+      "ENGR 181EW",
+      "ENGR 188EW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR182EW"
+  },
+  {
+    "course_code": "ENGR 183EW",
+    "units": 4,
+    "title": "Engineering and Society",
+    "description": "Lecture, four hours; discussion, three hours; outside study, five hours. Enforced requisite: English Composition 3, 3D, 3DS, 3E, or 3SL. Not open for credit to students with credit for course 181EW, 182EW, 185EW, or 188EW. Limited to sophomore/junior/senior engineering students. Professional and ethical considerations in practice of engineering. Impact of technology on society and on development of moral and ethical values. Contemporary environmental, biological, legal, and other issues created by new technologies. Emphasis on research and writing within engineering environments. Writing and revision of about 20 pages total, including two individual technical essays and one team-written research report. Readings address technical issues and writing form. Satisfies engineering writing requirement. Letter grading.",
+    "satisfies": [
+      "Engineering Writing"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3D",
+      "ENGCOMP 3DS",
+      "ENGCOMP 3E",
+      "ENGCOMP 3SL"
+    ],
+    "credit_exclusions": [
+      "ENGR 185EW",
+      "ENGR 181EW",
+      "ENGR 188EW",
+      "ENGR 182EW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR183EW"
+  },
+  {
+    "course_code": "ENGR 184",
+    "units": 4,
+    "title": "Humanities-Informed Science, Technology, Engineering, and Mathematics",
+    "description": "",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR184"
+  },
+  {
+    "course_code": "ENGR 185EW",
+    "units": 4,
+    "title": "Art of Engineering Endeavors",
+    "description": "Lecture, four hours; discussion, three hours; outside study, five hours. Enforced requisite: English Composition 3, 3D, 3DS, 3E, or 3SL. Not open for credit to students with credit for course 181EW, 182EW, 183EW, or 188EW. Designed for junior/senior engineering students. Nontechnical skills and experiences necessary for engineering career success. Importance of group dynamics in engineering practice. Teamwork and effective group skills in engineering environments. Organization and control of multidisciplinary complex engineering projects. Forms of leadership and qualities and characteristics of effective leaders. How engineering, computer sciences, and technology relate to major ethical and social issues. Societal demands on practice of engineering. Emphasis on research and writing in engineering environments. Satisfies engineering writing requirement. Letter grading.",
+    "satisfies": [
+      "Engineering Writing"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3D",
+      "ENGCOMP 3DS",
+      "ENGCOMP 3E",
+      "ENGCOMP 3SL"
+    ],
+    "credit_exclusions": [
+      "ENGR 183EW",
+      "ENGR 181EW",
+      "ENGR 188EW",
+      "ENGR 182EW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR185EW"
+  },
+  {
+    "course_code": "ENGR 186",
+    "units": 4,
+    "title": "Ethics for Computer Scientists",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Equips students with a deep understanding of ethical challenges in contemporary technology, applying foundational ethical theories to ongoing technological advancements. Focus on responsible innovation, societal impact, and sustainable practices in computer science. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR186"
+  },
+  {
+    "course_code": "ENGR 186W",
+    "units": 5,
+    "title": "Ethics for Computer Scientists",
+    "description": "Lecture, four hours; discussion, four hours; outside study, eight hours. Requisite: English Composition 3. Students are equipped to understand ethical challenges in contemporary computer technology. Examination of the impact of technologies and their alignment or misalignment with societal values. Exploration of the ramifications of technology on core ethical principles, encompassing agency, responsibility, and privacy. Students draft 15-20 pages of revised prose and complete informal writing assignments. May be repeated once for credit. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR186W"
+  },
+  {
+    "course_code": "ENGR 188",
+    "units": 4,
+    "title": "Special Courses in Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Special topics in engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR188"
+  },
+  {
+    "course_code": "ENGR 188EW",
+    "units": 4,
+    "title": "Experimental Courses in Engineering Ethics",
+    "description": "Lecture, four hours; discussion, three hours; outside study, five hours. Enforced requisite: English Composition 3, 3D, 3DS, 3E, or 3SL. Not open for credit to students with credit for course 181EW, 182EW, 183EW, or 185EW. Limited to junior/senior engineering students. Professional and ethical considerations in practice of engineering and computer science. Emphasis on research and writing within engineering and computer science. Writing and revision of about 20 pages total, including two individual technical essays. Readings address technical issues and writing form. Satisfies engineering writing requirement. Letter grading.",
+    "satisfies": [
+      "Engineering Writing"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3D",
+      "ENGCOMP 3DS",
+      "ENGCOMP 3E",
+      "ENGCOMP 3SL"
+    ],
+    "credit_exclusions": [
+      "ENGR 185EW",
+      "ENGR 183EW",
+      "ENGR 181EW",
+      "ENGR 182EW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR188EW"
+  },
+  {
+    "course_code": "ENGR 191",
+    "units": 1,
+    "title": "Seminar Series in Engineering Research",
+    "description": "Seminar, one hour. Seminar series in cutting-edge engineering research at UCLA. Each seminar is given by UCLA graduate student researcher or post-doctoral scholar. Designed to be accessible to undergraduate students in any science, technology, engineering, and mathematics (STEM) major. Offers undergraduate students window into excitement of graduate student research experience. Also offers opportunity for graduate students to learn about what their peers are doing. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR191"
+  },
+  {
+    "course_code": "ENGR 192",
+    "units": 2,
+    "title": "Fundamentals of Engineering Mentorship",
+    "description": "Seminar, two hours; outside study, four hours. Principles and practical techniques for instruction of hands-on engineering design projects. Curriculum planning, project preparation, classroom management, team collaboration, diversity awareness, fostering of group cohesion, and emergency procedures. Preparation of lessons and projects for academic year courses and high school summer outreach program, with practice presentations. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR192"
+  },
+  {
+    "course_code": "ENGR 195",
+    "units": 1,
+    "title": "Internship Studies in Engineering",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Internship studies course supervised by associate dean or designated faculty members. Further supervision to be provided by organization for which students are doing internship. Students may be required to meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. May be repeated for credit. Individual contract with associate dean required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR195"
+  },
+  {
+    "course_code": "ENGR 199",
+    "units": 2,
+    "title": "Directed Research in Engineering",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENGR199"
+  }
+]

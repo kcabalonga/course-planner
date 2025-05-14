@@ -1,0 +1,109 @@
+[
+  {
+    "course_code": "HLT POL 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL19"
+  },
+  {
+    "course_code": "HLT POL 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL99"
+  },
+  {
+    "course_code": "HLT POL 100",
+    "units": 4,
+    "title": "Health Care Systems and Health Policy",
+    "description": "Lecture, four hours; discussion, one hour. Limited to nonmajors. Not open for credit to students with credit for course 120. Structure and function of U.S. health care system, health care policy, and issues and forces shaping its future. P/NP or letter grading.",
+    "credit_exclusions": [
+      "HLT POL 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL100"
+  },
+  {
+    "course_code": "HLT POL M110",
+    "units": 4,
+    "title": "Ethnic, Cultural, and Gender Issues in America's Healthcare Systems",
+    "description": "(Same as Asian American Studies M161.) Lecture, three hours. Designed for juniors/seniors. Introduction to study of gender, ethnicity, and cultural diversity related to health status and healthcare delivery in U.S. Letter grading.",
+    "cross_listed": [
+      "ASIA AM M161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOLM110"
+  },
+  {
+    "course_code": "HLT POL 120",
+    "units": 5,
+    "title": "Health Care Systems: Structures, Functions, and Policies",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: Public Health 50B. Limited to Public Health majors. Not open for credit to students with credit for course 100. Introduction to health policy and management focusing on basic concepts underlying health care organization, finance, and policy. Topics include development of U.S. health care system, comparisons to international health care systems, trends in health care spending, role of public and private insurance, care delivery, disparities in health status and health care, and current landscape of health policy reform. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 50B"
+    ],
+    "credit_exclusions": [
+      "HLT POL 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL120"
+  },
+  {
+    "course_code": "HLT POL 140",
+    "units": 4,
+    "title": "Foundations of Maternal and Child Health",
+    "description": "Seminar, four hours. Introduction to field of maternal and child health, with focus on major issues affecting health and well-being of children and families over life course. Emphasis on health, prevention, and supportive programs at different stages of child\u2019s life; application of life course health development framework to understand health disparities and implications for policy and practice. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL140"
+  },
+  {
+    "course_code": "HLT POL 142",
+    "units": 4,
+    "title": "How Health Happens",
+    "description": "Lecture, three hours; discussion, one hour. Health develops in homes, communities, workplaces, and in economic, social, and legal environments. The health of a population is a reflection of the values and priorities of the society of which it is a part. Introduction to factors that influence individual health and the health of populations. Topics include economic policy; environment of cities; and shared culture, unequally and at times uneasily. Emphasis primarily on the determinants of health in the U.S., with occasional international perspective for the insights it provides. Study provides students with a holistic understanding of what it takes to create a healthier society with greater health equity. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL142"
+  },
+  {
+    "course_code": "HLT POL M168",
+    "units": 4,
+    "title": "Healthcare for American Indians",
+    "description": "(Same as American Indian Studies CM168.) Lecture, two hours; discussion, one hour. Identification of traditional health beliefs, health practices, and healthcare systems of American Indian tribes to understand role of U.S. government in healthcare services for Indian people. Description of health problems that have affected American Indian people and definition of contemporary health issues and measures taken to raise health status of American Indian people. Letter grading.",
+    "cross_listed": [
+      "AM IND CM168"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOLM168"
+  },
+  {
+    "course_code": "HLT POL 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL188SA"
+  },
+  {
+    "course_code": "HLT POL 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HLT POL 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL188SB"
+  },
+  {
+    "course_code": "HLT POL 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HLT POL 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HLTPOL188SC"
+  }
+]

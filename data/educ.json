@@ -1,0 +1,1031 @@
+[
+  {
+    "course_code": "EDUC 10",
+    "units": 5,
+    "title": "Introduction to Educational Issues and Scholarship",
+    "description": "Lecture, two hours; discussion, two hours. Introduction to broad landscape of public education in U.S. Intended for those interested in educational research, policy, or teaching in both formal and informal educational contexts. Readings highlight work of educational researchers from UCLA\u2019s Department of Education, especially ways their scholarship intersects with policy and practice. Students work in groups to identify real-life problem affecting public education in Los Angeles. Study of this problem from multiple perspectives. Conceptualization of socially-just solution. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC10"
+  },
+  {
+    "course_code": "EDUC 11",
+    "units": 5,
+    "title": "Education, Equality, and Future of American Society: Problems, Prospects, and Policies",
+    "description": "Lecture, four hours; discussion, one hour. Schools are primary institutions charged with responsibility of preparing young people for their roles as citizens so that they can participate in our democracy. Public schools also serve as key sites where two essential, and at times conflicting, functions are carried out: students are sorted based on measures (and perceptions) of their ability to fill occupations and roles that are essential to economy; and students are educated in hopes that next generation will acquire knowledge, creativity, and problem-solving skills to solve problems created by previous generations. Focus on understanding challenges, contradictions, and complexities associated with carrying out these functions. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC11"
+  },
+  {
+    "course_code": "EDUC 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC19"
+  },
+  {
+    "course_code": "EDUC 35",
+    "units": 5,
+    "title": "Introduction to Inquiry and Research in Education",
+    "description": "Lecture, two hours; discussion, two hours. Introduction to empirical and analytical educational research. Intended for undergraduates interested in learning how to find, interpret, and evaluate research that investigates important questions around education and education systems. Overview of multiple methods of conceptualizing inquiry and gathering evidence, including qualitative (e.g., ethnographic, semi-structured interviews, case study), quantitative (e.g., surveys, experimental, descriptive), and mixed methods approaches. Introduction to\u00a0software\u00a0processing and analysis of data. Highlights ethics of conducting research in social sciences, and norms of conducting and reporting research in the field of education. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC35"
+  },
+  {
+    "course_code": "EDUC 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC89"
+  },
+  {
+    "course_code": "EDUC 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC89HC"
+  },
+  {
+    "course_code": "EDUC 92F",
+    "units": 2,
+    "title": "Academic Success in Undergraduate Experience",
+    "description": "Lecture, one hour; discussion, one hour. Designed for first-year or transitioning students to promote understanding of factors involved in making adjustments to college experience, both academic and social. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC92F"
+  },
+  {
+    "course_code": "EDUC 98",
+    "units": 4,
+    "title": "Critical Issues in Education",
+    "description": "Seminar, 30 minutes; laboratory, 30 minutes. Introduction to critical educational issues and approaches taken by researchers, policymakers, and education advocates as they respond to these issues. Laboratory portion of course engages students in small research groups where they acquire background on particular issue of interest, learn about social sciences research, and conduct mini-research projects. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC98"
+  },
+  {
+    "course_code": "EDUC 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC99"
+  },
+  {
+    "course_code": "EDUC 100",
+    "units": 4,
+    "title": "Foundations: Histories and Philosophies of Education",
+    "description": "Lecture, four hours. Requisites: courses 10, 35. Limited to Education and Social Transformation majors. Introduction to central concepts underlaying the study of education in the U.S. In alignment with the major, focus on analyzing how education is studied, and assumption of the vital importance of education in promoting social transformation. Study focuses on the questions of the purpose of education for social transformation and of social transformation. Letter grading.",
+    "prerequisites": [
+      "EDUC 10",
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC100"
+  },
+  {
+    "course_code": "EDUC 101B",
+    "units": 4,
+    "title": "History of Schools in U.S.",
+    "description": "Lecture, four hours. Intensive consideration of American society, including its racial and cultural diversity as well as how settler colonial projects influence our present conditions. Consideration of historical development of schools in U.S., examining issues of racism, ethnic and gender differences, perspectives of cultural diversity, and impact on classroom instruction. Critical analysis of contexts and structure of public education in California, focusing on state, district, and school governance and finance. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC101B"
+  },
+  {
+    "course_code": "EDUC 101C",
+    "units": 5,
+    "title": "History of Higher Education",
+    "description": "(Formerly numbered C101.) Lecture, three hours; discussion, one hour. Exploration of major eras in history of higher education. Topics include issues concerning access, diversity, parental choice, cultural literacy, teacher empowerment, and role of popular media. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC101C"
+  },
+  {
+    "course_code": "EDUC M102",
+    "units": 4,
+    "title": "Mexican Americans and Schools",
+    "description": "(Same as Chicana/o and Central American Studies M102.) Seminar, two hours; discussion, two hours. Theoretical and empirical overview of Chicana/Chicano educational issues in U.S., with special emphasis on disentangling effects of race, gender, class, and immigrant status on Chicana/Chicano educational attainment and achievement. Examination of how historical, social, political, and economic forces impact Chicana/Chicano educational experience. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM102"
+  },
+  {
+    "course_code": "EDUC M103",
+    "units": 4,
+    "title": "Asian American Education and Schooling",
+    "description": "(Same as Asian American Studies M114.) Seminar, four hours. Examination of existing body of research from various disciplines on Asian/Pacific American educational experiences. Letter grading.",
+    "cross_listed": [
+      "ASIA AM M114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM103"
+  },
+  {
+    "course_code": "EDUC 104A",
+    "units": 4,
+    "title": "Introduction to Exceptional Learners",
+    "description": "(Formerly numbered 134.) Lecture, two hours; discussion, one hour. Survey of characteristics and related educational needs of students (preschool through high school) who vary in mental, physical, psychological, and social characteristics. Focus on disabilities, with exploration in area of gift/talented education. Emphasis on inclusion, and legal, social, and philosophical issues associated with it. Students learn perspectives from disability studies and engage in class activities designed to challenge students to put inclusion into practice. Students develop understanding of various areas and exceptionalities of special education with emphasis on role of student special needs in context of general education settings. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC104A"
+  },
+  {
+    "course_code": "EDUC 105A",
+    "units": 5,
+    "title": "Early Childhood Education and Policy",
+    "description": "(Formerly numbered 105.) Seminar, four hours. Overview of early care and education (ECE) landscape in U.S. and variety of policy systems used to provide care for young children. Consideration of possibilities and pitfalls of ECE as much hailed solution for educational inequality. Critical thought about how to use policy to provide young children with what they need to thrive. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC105A"
+  },
+  {
+    "course_code": "EDUC 105B",
+    "units": 5,
+    "title": "Topics in Child Development and Social Policies",
+    "description": "(Formerly numbered 133.) Seminar, four hours. Research seminar designed to enable students to gain basic understanding of ways in which public policies are established and implemented, learn about policy landscape in several major domains of child and family life in U.S. and other countries, and use scientific research on children\u2019s cognitive and social development to evaluate and understand effects of social and economic policies. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC105B"
+  },
+  {
+    "course_code": "EDUC 105C",
+    "units": 5,
+    "title": "Comparative Educational Policies and Practices",
+    "description": "(Formerly numbered 109C.) Seminar, four hours. Cross-national survey of educational policies and practices in delivery of education services. Comparative perspective on national context defining institutional differences in policy and practices in delivery and access, types (within tier and sector diversity), and funding mechanism for education services in both developing and developed country contexts. Focus on examination of state of education and socio-political, economic, and cultural factors that contribute to similarities and differences in institutional structures, organizational, and management functions, and on agenda for consideration of equality and equity in deployment of resources for realization of inclusive quality education for all. Early childhood education, foundational education, post-secondary education (including university and non-university systems), and lifelong learning (and adult education) as themes informing cross-national comparison of policies and practices in delivery of education services. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC105C"
+  },
+  {
+    "course_code": "EDUC 105D",
+    "units": 5,
+    "title": "Policy Analysis and Real Politics of Education",
+    "description": "(Formerly numbered 110.) Lecture, two hours; discussion, two hours. Exploration of relationship between scholarly policy analysis and actual workings of policy systems. Selected topics include achievement standards and assessment, school finance, equal access to education, and school reform. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC105D"
+  },
+  {
+    "course_code": "EDUC 105E",
+    "units": 5,
+    "title": "Organization for Economic Cooperation and Development and Education",
+    "description": "Seminar, three hours. Introduction to education policy analysis at international level with focus on Organization for Economic Cooperation and Development (OECD) program of work and outputs related to field of education. Overview of history of OECD and model of governance related to education, criticisms of OECD's power and influence on education, as well as coverage of range of OECD comparative data, comparative studies, and thematic and policy reviews related to education. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC105E"
+  },
+  {
+    "course_code": "EDUC 106A",
+    "units": 5,
+    "title": "Education and Law",
+    "description": "(Formerly numbered 129.) Seminar, four hours. Research seminar providing overview of high-profile legal controversies that shape so many policy debates at both K-12 and higher education levels. Major areas of focus include campus safety, religion and schools, educational quality and law, broadbased right to equal educational opportunity, and Internet-related issues and concerns. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC106A"
+  },
+  {
+    "course_code": "EDUC 106B",
+    "units": 4,
+    "title": "Lesbian, Gay, Bisexual, and Transgender Issues in Education and Law",
+    "description": "(Formerly numbered 147.) Lecture, four hours. Lesbian, gay, bisexual, and transgender-related controversies that arise in schools, colleges, and universities today and how they are being addressed by legal and education communities. In particular, examination of real-life consequences of current laws and exploration of what might be done to make things better for all persons. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC106B"
+  },
+  {
+    "course_code": "EDUC 106C",
+    "units": 4,
+    "title": "Diversity, Democracy, and Law",
+    "description": "Lecture, four hours. Introductory overview of high-profile legal controversies that shape so many of policy debates regarding access to higher education and equity for underrepresented students, free speech and expression, academic freedom and other First Amendment-related controversies and legal issues. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC106C"
+  },
+  {
+    "course_code": "EDUC 107A",
+    "units": 5,
+    "title": "Race, Class, and Education Inequality in U.S.",
+    "description": "(Formerly numbered 130.) Lecture, two hours; discussion, two hours. Focus extensively on understanding educational experiences of following groups in U.S.: African Americans, Asian Americans and Pacific Islanders, Chicanas/Chicanos/Latinas/Latinos, and low-income white Americans. Examination of how historical development of public education in U.S. has influenced its present form. Critical look at some current issues and policy debates in education, including debate over school reform, bilingual education, and affirmative action. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC107A"
+  },
+  {
+    "course_code": "EDUC 107B",
+    "units": 5,
+    "title": "Race and Education: Access, Equity, and Achievement",
+    "description": "(Formerly numbered 164.) Seminar, four hours. Social/psychological perspective on education, with particular attention to race, ethnicity, and inequality. Study of structural, social, and personal determinants of educational outcomes. Consideration of relationship of schools to social context and other societal institutions. Examination of how education sets life trajectory in America and effects of race/ethnicity on access to educational opportunity in our society. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC107B"
+  },
+  {
+    "course_code": "EDUC M108",
+    "units": 5,
+    "title": "Sociology of Education",
+    "description": "(Same as Sociology M175.) Lecture, four hours; discussion, one hour. Study of how U.S. educational system both promotes socioeconomic opportunities and maintains socioeconomic inequalities: historical and theoretical perspectives on role of education in U.S. society; trends in educational attainment; ways in which family background, class, race, and gender affect educational achievement and attainment; stratification between and within schools; effects of education on socioeconomic attainment, family, health, attitudes, and social participation; educational policies to improve school quality and address socioeconomic inequalities. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "SOCIOL M175"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM108"
+  },
+  {
+    "course_code": "EDUC 109A",
+    "units": 4,
+    "title": "Globalization and Learning",
+    "description": "(Formerly numbered 152A.) Lecture, two hours; discussion, two hours. Introduction to different conceptualizations of globalization and their relationship to educational processes and learning in contemporary societies. Discussion of several concepts and theoretical lenses as basis for approaching and understanding how dialectics of global and local are affecting educational systems and learning over lifespans. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC109A"
+  },
+  {
+    "course_code": "EDUC 109B",
+    "units": 4,
+    "title": "Global Citizenship Education",
+    "description": "(Formerly numbered 152B.) Lecture, four hours. Exploration of issues of global citizenship in education and society as whole by analyzing critical challenges and envisioning possible solutions to multiple layers of theoretical, empirical, and practical implementation of global citizenship education. Examination of how global citizenship education and education for sustainable development are beginning to impact life, actions, policies, and practices of educators, students, non-government organizations, governments, multinational organizations, and other key players in local and global contexts. Examination of how global citizenship education impacts our worldview, teaching, and learning as we strive to envision and work toward more just and sustainable society. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC109B"
+  },
+  {
+    "course_code": "EDUC 111",
+    "units": 5,
+    "title": "Politics of Education",
+    "description": "(Formerly numbered C111.) Lecture, two hours; discussion, two hours. Political dimensions of education institutions as organizations. Relationships between education institutions and political institutions in society. Political theory as foundation for public policy analysis; interest groups in education policy formation and implementation; and focus on Freirean pedagogy. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC111"
+  },
+  {
+    "course_code": "EDUC 112",
+    "units": 4,
+    "title": "Black Student Activism: History of Resistance on Campus",
+    "description": "Lecture, three hours; discussion, one hour. Activism is long-standing component of student life on U.S. college and university campuses. Focus on Black student activism. As higher education became more accessible to Black Americans, new wave of activisms entered college campuses, with Black Lives Matter movement being one of most recent examples. Examination of philosophical, intellectual, social, economic, and political elements that have shaped and propelled Black student activism over past two centuries. Exploration of earliest activist activities among Black students, ranging from abolitionist movement in early 1800s to fight for Black and African studies programs during 1960s and 1970s. Interrogation of what past teaches about Black student activism today. Study includes discussions, mock debates, case studies, and primary source analyses. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC112"
+  },
+  {
+    "course_code": "EDUC 113",
+    "units": 5,
+    "title": "Democracy, Justice, and Education",
+    "description": "Lecture, three hours. Democracy, justice, and education are core ideals that define public discourse and scholarship about schooling. Exploration of these ideals from philosophical and practical perspective in context of century-old community schools movement. Global pandemic has renewed public interest in community schools framed as equity-focused anti-poverty reform to provide integrated social supports such as health, nutrition, and after-school programs. Movement also has strong democratic roots tied to local control, collective problem solving, and community-based learning\u2014challenging ideas about who has power, how young people learn, and how teachers teach. Inquiry grounded in experience of two UCLA community schools as well as five other community school sites chosen by students. Examination of whether and how these schools are sites of social transformation by investigating contexts, theories, and practices that define their work. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC113"
+  },
+  {
+    "course_code": "EDUC 116",
+    "units": 4,
+    "title": "Indigenous Presence: Land, Place, and Space in Higher Education",
+    "description": "Lecture, four hours. Exploration of what it means to talk about lands/waters, place, and space. Exploration of how histories of place are both present and absent on college campuses and higher education settings. Students reflect on personal mobilities and relationships to Indigenous landscapes and geographies. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC116"
+  },
+  {
+    "course_code": "EDUC 117",
+    "units": 5,
+    "title": "Road Trip: Exploring College Campus Cultures across U.S.",
+    "description": "Seminar, four hours. Study of what other college campuses beside UCLA have to offer. Intended for students interested in understanding prominent aspects of non-mainstream U.S. colleges and universities. Exploration of institutional missions of special mission colleges and universities, how these institutions provide services to students, and unique strengths and challenges on these campuses through discussions, mock debates, case studies, and assignments that delve deeper into experiences of attending these special mission colleges and universities. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC117"
+  },
+  {
+    "course_code": "EDUC 118",
+    "units": 5,
+    "title": "Sociology of Community Colleges",
+    "description": "Seminar, four hours. Application of existing research, and sociological and economic theories to analysis of community colleges. Scholars have employed diverse set of concepts, theoretical frameworks and methods to understand these educational institutions. Examination of this sector of higher education in U.S. through range of qualitative, quantitative, historical, and case studies. Covers economic and sociological foundations of research on community colleges and their missions (transfer, remediation/developmental, adult basic education, English as second language, workforce development, etc.), institutional dynamics and organizational culture, government and business impact, for-profit colleges, social media use among students and administrators, student support and community-building, and effective reform efforts. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC118"
+  },
+  {
+    "course_code": "EDUC 119",
+    "units": 4,
+    "title": "Variable Topics in Histories and Philosophies of Education",
+    "description": "Seminar, four hours. Variable topics course organized around courses that introduce students to landscape of education within historical, disciplinary, and policy contexts. Consult Schedule of Classes for topics and instructors. May not be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC119"
+  },
+  {
+    "course_code": "EDUC 120",
+    "units": 4,
+    "title": "Foundations: Contexts for Teaching, Learning, and Development",
+    "description": "Lecture, four hours. Requisites: courses 10, 35. Limited to Education and Social Transformation majors. Introduction to basics of learning sciences and learning theory, acknowledging that learning takes place in multiple contexts both inside and outside of the classroom. Discussion of promising practices to meet the needs of students at each stage of development. Letter grading.",
+    "prerequisites": [
+      "EDUC 10",
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC120"
+  },
+  {
+    "course_code": "EDUC M121",
+    "units": 5,
+    "title": "Introduction to Media Literacies",
+    "description": "(Same as Information Studies M121.) Seminar, four hours. Exploration of relationships between media, technology, and popular culture. Students guided to analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Through application of critical media literacy framework, students expand notions of literacy to be more inclusive of all types of texts; and deepen their abilities to question power of word, image, and sound-bite to represent social and environmental injustice. Letter grading.",
+    "cross_listed": [
+      "INF STD M121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM121"
+  },
+  {
+    "course_code": "EDUC 122",
+    "units": 4,
+    "title": "Indigenous Pedagogies",
+    "description": "Lecture, four hours. Introduction to the diversity of Indigenous voices in education, Indigenous epistemologies, and Indigenous pedagogical approaches. Indigenous pedagogies have been developed and maintained across multiple generations. Oftentimes, these pedagogical approaches stand in contrast to common practices of schooling in the U.S. Exploration of writings of Indigenous scholars who are articulating the theoretical, ethical, and practical dimensions of Indigenous approaches to teaching and learning. Consideration of what theories about human life and relations organize Indigenous approaches to education; role of stories and storywork within Indigenous pedagogies; and role of lands and water within Indigenous pedagogies. Draws heavily from Indigenous scholarship in what is now the U.S. and Canada, although much of the ideas are applicable to or have resonances with many Indigenous peoples and pedagogies around world. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC122"
+  },
+  {
+    "course_code": "EDUC 123",
+    "units": 5,
+    "title": "Teaching Profession",
+    "description": "Seminar, four hours. Exploration of traditional and alternative teaching practices and public responses to teachers teaching and students learning. Examination of education in socioeconomic context and discussion of some philosophical questions that challenge teaching profession. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC123"
+  },
+  {
+    "course_code": "EDUC C124",
+    "units": 4,
+    "title": "Theory and Practice of Intergroup Dialogue: Building Facilitation Skills",
+    "description": "(Formerly numbered C160.) Seminar, four hours. Topics include social psychology of intergroup relations, intercultural and dialogic communication theories, methods for reconciling and bridging differences in schools and communities, research and evaluation of intergroup dialogues and other educational methods for improving intergroup relations, and core competencies for planning, delivering, and evaluating intergroup dialogues in multicultural settings. While providing foundational grounding in theory and pedagogy of intergroup dialogue, particular attention to relationships between intergroup dynamics, structural inequalities, systems of privilege and oppression, and mental health outcomes and disparities among populations. Concurrently scheduled with course C244. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCC124"
+  },
+  {
+    "course_code": "EDUC CM125XP",
+    "units": 4,
+    "title": "Narratives of Justice: Disrupting School-to-Prison Pipeline\u2014Arts, Activism, and Agency",
+    "description": "(Formerly numbered CM163.) (Same as African American Studies CM113XP.) Lecture, four hours; discussion, one hour. Exploration of policies and practices, art and activism, and other forms of agency engaging school-to-prison pipeline. Concurrently scheduled with course CM229B. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER CM113XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCCM125XP"
+  },
+  {
+    "course_code": "EDUC 126",
+    "units": 5,
+    "title": "Language, Literacy, and Academic Development: Educational Considerations for School-Age Multilingual and English Language Learner Students",
+    "description": "(Formerly numbered 166.) Seminar, five hours. Use of child-centered approach to examine instructional strategies and assessment practices with preK-12 multilingual and English learner (EL) students who are learning academic content at same time they are acquiring English (and possibly additional languages) in school. Critical comparison of effectiveness of English-only programming with dual-language approaches (e.g., two-way immersion, transitional bilingual education) and roles of summative and formative assessments in educational decision making with multilingual and EL students. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC126"
+  },
+  {
+    "course_code": "EDUC 127",
+    "units": 5,
+    "title": "Educational Psychology: Contexts for Teaching and Learning",
+    "description": "Lecture, two hours; discussion, two hours. Not open for credit to students with credit for course 128. Broad overview of educational psychology, with examination of relationship of teaching and learning; various perspectives as to how children learn; issues of teaching and learning that arise based on child\u2019s social class, ethnic background, gender, age, and level of ability. Letter grading.",
+    "credit_exclusions": [
+      "EDUC 128"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC127"
+  },
+  {
+    "course_code": "EDUC 128",
+    "units": 4,
+    "title": "Educational Psychology: Contexts for Learning and Development",
+    "description": "Lecture, four hours. Not open for credit to students with credit for course 127. Overview of theories, methods, and research in educational psychology. Education psychology involves study of how students learn and contexts that support this learning. Learning is complex process. Study of research and theory related to different aspects of learning including cognition, motivation, and self-regulation. Discussion of ways in which educators can support these processes in students. Letter grading.",
+    "credit_exclusions": [
+      "EDUC 127"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC128"
+  },
+  {
+    "course_code": "EDUC M129",
+    "units": 4,
+    "title": "Arts Education Undergraduate Practicum: Preparation, Observation, and Practice",
+    "description": "(Formerly numbered M190.) (Same as Arts Education M192.) Seminar, three hours. Enforced requisite: course M142. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students participating in Visual and Performing Arts Education minor. Students implement and evaluate original arts education programs under guidance of faculty members in small course settings. P/NP or letter grading.",
+    "prerequisites": [
+      "EDUC M142"
+    ],
+    "cross_listed": [
+      "ARTS ED M192"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM129"
+  },
+  {
+    "course_code": "EDUC M129XP",
+    "units": 4,
+    "title": "Arts Education Undergraduate Practicum and Capstone Project",
+    "description": "(Formerly numbered M190SL.) (Same as Arts Education M192XP.) Seminar, three hours; practicum, three hours; outside study, six hours. Enforced requisites: courses M129, M142. Limited to juniors/seniors. Continuation of arts education training and supervised practicum for advanced undergraduate students participating in Visual and Performing Arts Education minor. Students continue to implement and evaluate original arts education programs under guidance of faculty members and designated guiding teachers in K-12 public school settings. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "EDUC M129",
+      "EDUC M142"
+    ],
+    "cross_listed": [
+      "ARTS ED M192XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM129XP"
+  },
+  {
+    "course_code": "EDUC 130AX",
+    "units": 4,
+    "title": "Instructional Apprenticeship in Teaching and Learning at UCLA Lab School",
+    "description": "(Formerly numbered 196C.) Tutorial, 10 hours. Requisite: course 180. Limited to juniors/seniors. Not open for credit to students with credit for course 130BX or 130CX. Training and supervised apprenticeship for advanced undergraduate students at UCLA Lab School (Corinne A. Seeds campus), K-6 elementary school on UCLA campus. Students gain understanding of innovative educational work that goes into teaching and learning at UCLA Lab School through seminars, readings, observations, and discussions. Individual meetings with faculty mentor throughout term. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "credit_exclusions": [
+      "EDUC 130CX",
+      "EDUC 130BX"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC130AX"
+  },
+  {
+    "course_code": "EDUC 130BX",
+    "units": 4,
+    "title": "Instructional Apprenticeship in Teaching and Learning at UCLA Partner Schools",
+    "description": "(Formerly numbered 196D.) Tutorial, 10 hours. Requisite: course 180. Limited to juniors/seniors. Not open for credit to students with credit for course 130AX or 130CX. Introduction to K-12 teaching profession through training and supervised off-campus experiences at UCLA partner schools. Students gain grounded understanding of social issues in education through readings, observations, direct support in classrooms, and tutoring activities. Individual meetings with faculty mentor throughout term. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "credit_exclusions": [
+      "EDUC 130CX",
+      "EDUC 130AX"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC130BX"
+  },
+  {
+    "course_code": "EDUC 130CX",
+    "units": 4,
+    "title": "Instructional Apprenticeship in Teaching and Learning at UCLA Community Schools",
+    "description": "Tutorial, 10 hours. Requisite: course 180. Not open for credit to students with credit for course 130AX or 130BX. Examination of how UCLA partners with Los Angeles Unified School District (LAUSD) to educate, engage, empower, and serve students and families through community schooling model. Through readings, discussions, guest speakers, and course assignments, students are offered varied opportunities to examine case studies on how two institutions, UCLA and UCLA Community Schools, partner together to ensure greater engagement and democratic development to transform neighborhood school, as well as link school day and after-school curricula to solve locally identified, real-world, and community problems to uplift entire school community. Students gain grounded understanding of social issues in education through readings, observations, direct support in classrooms, and tutoring activities. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "credit_exclusions": [
+      "EDUC 130AX",
+      "EDUC 130BX"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC130CX"
+  },
+  {
+    "course_code": "EDUC M131A",
+    "units": 5,
+    "title": "Language, Literacy, and Human Development Research Group Seminars",
+    "description": "(Formerly numbered M194A.) (Same as African American Studies M194A.) Seminar, three hours; laboratory, two hours (when scheduled). Requisite: course 180. Research seminar designed to provide opportunity to combine theory and practice in study of human development in educational contexts. Focus on relationship between theories of development, culture, and language. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "cross_listed": [
+      "AF AMER M194A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM131A"
+  },
+  {
+    "course_code": "EDUC M131B",
+    "units": 5,
+    "title": "Culture, Gender, and Human Development Research Group Seminars",
+    "description": "(Formerly numbered M194B.) (Same as African American Studies M194B.) Seminar, three hours; laboratory, two hours (when scheduled). Requisite: course 180. Research seminar designed to provide opportunity to combine theory and practice in study of human development in educational contexts. Focus on relationship between theories of development, culture, and gender. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "cross_listed": [
+      "AF AMER M194B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM131B"
+  },
+  {
+    "course_code": "EDUC M131C",
+    "units": 5,
+    "title": "Culture, Communications, and Human Development Research Group Seminars",
+    "description": "(Formerly numbered M194C.) (Same as African American Studies M194C.) Seminar, three hours; laboratory, two hours (when scheduled). Requisite: course 180. Research seminar designed to provide opportunity to combine theory and practice in study of human development in educational contexts. Focus on relationship between theories of development, culture, and technologies. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "cross_listed": [
+      "AF AMER M194C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM131C"
+  },
+  {
+    "course_code": "EDUC 132",
+    "units": 5,
+    "title": "Autism: Mind, Brain, and Education",
+    "description": "Lecture, two hours; discussion, two hours. Study of autism spectrum disorders (ASD) and related disabilities. Discussion of characteristics of disorder, effective interventions, and exploration of impact of children with ASD on families. Limited number of independent observations of individuals in community required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC132"
+  },
+  {
+    "course_code": "EDUC 133",
+    "units": 5,
+    "title": "Literacy in Society",
+    "description": "(Formerly numbered 122.) Lecture, four hours. Literacy plays significant role in cognition and language, political governance and law, and economic, social, and personal well-being. Exploration of these aspects of literacy and their implications for teaching and learning. Examination of literacy in workplace, healthcare, and community. Consideration of new literacies, interrelationship between literacy and technology, and impact of illiteracy on income and opportunity. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC133"
+  },
+  {
+    "course_code": "EDUC 134",
+    "units": 5,
+    "title": "Early Childhood Mathematics Education",
+    "description": "Seminar, two hours; fieldwork, two hours. Focus on how research in early childhood mathematics can be used to engage young people in learning mathematics. Study addresses research on how young children learn mathematics, teaching preschool mathematics, and policy context that shapes student opportunities in early childhood education. Particular attention paid to equity issues. Includes fieldwork at local preschool site working with students in mathematics. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC134"
+  },
+  {
+    "course_code": "EDUC M135",
+    "units": 5,
+    "title": "Environmental Justice through Lens of Media and Education",
+    "description": "(Same as Information Studies M135.) Seminar, four hours. Exploration of human relationships with natural world, historically and today. Students take critical look at ways information has been shaped, audiences positioned, and movements manipulated to promote commercial interests over public good. Exploration of progressive movements that have in past challenged\u2014and currently challenge\u2014neoliberal agendas, extractive policies, and unsustainable practices. Letter grading.",
+    "cross_listed": [
+      "INF STD M135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM135"
+  },
+  {
+    "course_code": "EDUC M136",
+    "units": 4,
+    "title": "Working Families and Educational Inequalities in Urban Schools",
+    "description": "(Same as Labor Studies M136.) Seminar, three hours; fieldwork, five hours. Exploration of complex relationship between working-class and poor communities and inequalities in American urban schools. Drawing on multiple disciplinary frameworks that address issues of race, ethnicity, and immigration, schools viewed as sites where inequalities are produced and resisted. Review of history of exclusionary treatment and divergent conceptual frames that educational researchers have used to understand notion of inequality, access to quality public education, and how race, ethnicity, and class affect school experiences for working-class and poor communities. Look inside schools through community service learning opportunity to examine systems, structures, and everyday practices that sustain and reproduce inequality and policies that intend to remedy educational inequalities in urban schools. Opportunity to investigate issues of working-class families and inequalities as they relate to students\u2019 own communities and experiences. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "LBR STD M136"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM136"
+  },
+  {
+    "course_code": "EDUC M137",
+    "units": 4,
+    "title": "Critical Digital Media Literacies",
+    "description": "(Formerly numbered 137.) (Same as Information Studies M137.) Lecture, four hours. Students question relationships with digital media and information society and explore how media and information communication technologies are improving society, strengthening democracy, and opening up opportunities for challenging hegemony and promoting social transformation. Problematization of social media and questioning of ways it is being used to surveil, capture data, spread hate, mislead, distract, and destabilize democracies. Students analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Combines theoretical foundations of cultural studies and critical pedagogy with practical applications of new digital media and technology, as well as traditional print-based means of communication. Exploration of media representations of race, class, gender, sexual orientation, and other identity markers. Students analyze and create media projects related to education. Letter grading.",
+    "cross_listed": [
+      "INF STD M137"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM137"
+  },
+  {
+    "course_code": "EDUC 138",
+    "units": 5,
+    "title": "Cognitive Development and Schooling",
+    "description": "Lecture, four hours; discussion, one hour. Overview of theories, methods, and research on children\u2019s cognitive development and implications of this work for educational practice. Covers range of research from different perspectives, drawing from domains such as developmental psychology, cognitive psychology, developmental cognitive neuroscience, and education. Students learn about basic cognitive processes. Exploration of ways in which contexts\u2014including those at home, early-care settings, and school\u2014impact children\u2019s development. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC138"
+  },
+  {
+    "course_code": "EDUC 139",
+    "units": 4,
+    "title": "Culture and Cognition",
+    "description": "Lecture, four hours. Introduction to theoretical foundations of research on culture and cognition. Drawing from insights of cultural psychology and anthropology, study of various definitions of community spaces, etc.; and consideration of social, political, and educational implications of ways these terms are conceptualized. Study address questions of relationship between culture and development of mind; how this relationship might be studied; what insight research on culture and cognition offers for the organization of learning environments; and for understandings of diversity and equity. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC139"
+  },
+  {
+    "course_code": "EDUC 140",
+    "units": 5,
+    "title": "Educational Perspectives of Relational Practices in Modern Medicine",
+    "description": "Seminar, four hours. Systematic discussion of personhood and body concepts, in context of asymmetric person-to-person relationships in high-tech modern medical training and practice. Exploration of diverse implications for building theories of relational practice. Students learn to use phenomenological approach, to make sense of lived experience of making sense of world we inhabit; and stance on who we are and activities at hand in everyday practices. Phenomenological approach maintains focus on how things show up; what affordances emerge in activities and practices; and how we comport toward them making sense of them, others, and ourselves. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC140"
+  },
+  {
+    "course_code": "EDUC 141",
+    "units": 5,
+    "title": "Adolescent Development",
+    "description": "Lecture, four hours. Introduction to adolescence\u2014period of tremendous change and growth across all domains of development, including physical, social, cognitive, and emotional during second decade of life. Topics may include pubertal development, adolescent brain development, family, friend, peer, and intimate relationships, social identity and intergroup relations, school, work, and civic engagement. Draws on developmental science research on adolescence and applies that knowledge to examination of practices and policies. Contemporary and global conceptualizations of adolescence and more complex understandings of developing self in relation to significant others (i.e., family, friends, peers) and bounded in socio-historical time and place (i.e., school, work, media). Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC141"
+  },
+  {
+    "course_code": "EDUC M142",
+    "units": 4,
+    "title": "Introduction to Arts Education for Multiple Publics: Theory and Practice",
+    "description": "(Formerly numbered M104.) (Same as Arts Education M102.) Seminar, three hours; outside study, nine hours. Introductory course with focus on arts education for multiple publics in inner-city settings. Study of core issues in arts education, creativity, and social justice as students develop, implement, and assess original syllabi, lesson plans, and community learning projects for multiple publics in inner-city schools and arts organizations. Collaboration with partner schools in planning, teaching, and evaluation of arts education programs in dance, music, theater, and visual arts. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "ARTS ED M102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM142"
+  },
+  {
+    "course_code": "EDUC 143",
+    "units": 4,
+    "title": "Understanding Pathways to College",
+    "description": "Lecture, two hours; discussion, two hours. Examination of inequality across K-12 and higher education to understand how college admissions are stratified across racial and class lines. Roles of school personnel, higher education admissions, families, and students in promoting equal educational opportunity. Course is good preparation for students interested in working in UCLA programs such as Early Academic Outreach Programs that serve students in Los Angeles area schools. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC143"
+  },
+  {
+    "course_code": "EDUC 144",
+    "units": 4,
+    "title": "Pedagogies of Global Citizenship Education",
+    "description": "(Formerly numbered 152C.) Lecture, four hours. Not open for credit to students with credit for course 144XP. Questions regarding nature and possibility of education that can foster global citizenship necessary to understand and resolve world\u2019s most pressing issues. Focus on curriculum and instruction of global citizenship education. Using local and global research, exploration and analysis of various perspectives, curricula, and pedagogies pertaining to teaching and implementation of global citizenship education at different levels of education. Letter grading.",
+    "equivalent_courses": [
+      "EDUC 144XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC144"
+  },
+  {
+    "course_code": "EDUC 144XP",
+    "units": 5,
+    "title": "Pedagogies of Global Citizenship Education",
+    "description": "Lecture, three hours; field work, one hour. Requisite: course 180. Not open for credit to students with credit for course 144. Questions regarding nature and possibility of education that can foster global citizenship necessary to understand and resolve world's most pressing issues. Focus on curriculum and instruction of global citizenship education. Using local and global research, exploration and analysis of various perspectives, curricula, and pedagogies pertaining to teaching and implementation of global citizenship education at different levels of education. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "equivalent_courses": [
+      "EDUC 144"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC144XP"
+  },
+  {
+    "course_code": "EDUC 145",
+    "units": 4,
+    "title": "Children, Immigration, and Education",
+    "description": "Lecture, four hours. Exploration of diverse experiences of young people across globe whose lives have been shaped by movement across geopolitical, social, cultural, and linguistic borders from sociological, anthropological, psychological, public policy, and educational perspectives. Bringing together these multiple epistemological lenses, study addresses issues of identity, citizenship, belonging, growing up in multi- and bilingual communities, learning in and out schools, educational processes and policies, school-family connections, and more. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC145"
+  },
+  {
+    "course_code": "EDUC 146",
+    "units": 4,
+    "title": "Critical Perspectives on Educational Assessment Approaches: Pre-Kindergarten to College",
+    "description": "Seminar, three hours. Introduction of fundamental concepts and approaches in large-scale and classroom assessment. Brings critical perspectives to assessment design, uses, and interpretations, looking weekly at specific use cases in diverse learning contexts. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC146"
+  },
+  {
+    "course_code": "EDUC 147",
+    "units": 5,
+    "title": "Social Context of Learners in K-12: Diversity, Residential Mobility, Immigration, and Food Security Conditions in California",
+    "description": "(Formerly numbered 139.) Seminar, four hours. Examination of K-12 student experience in California schools. Comparison of geographic disparity in shared experiences, and prevalence of special and difficulty circumstances that have implications for learning and learning outcomes. Key areas identified include race and ethnic diversity in schools; geographic and residential mobility (including homelessness and temporary/transitional housing placement conditions); migration-schooling nexus (migrant education); and food insecurity conditions in student population. Data-driven, school-level analysis relying on statistics from California Department of Education and Los Angeles Unified School District. Data from other states offers points of comparison with respect to student demographic and geospatial experience across categories explored. Examination of potential impact of differential burden of inequality and disparity in resource opportunity on student learning and learning outcomes. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC147"
+  },
+  {
+    "course_code": "EDUC 148",
+    "units": 5,
+    "title": "Early Childhood Development",
+    "description": "(Formerly numbered 120.) Seminar, four hours. Broad overview of children\u2019s psychological development, with emphasis on personal, social, and emotional attributes of preschool and elementary school children. Review and evaluation of contemporary educational programs for promoting positive social behaviors in elementary schools. Methodological aspects of child development. Overview of early childhood education and issues related to role of family, school, and media in child development. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC148"
+  },
+  {
+    "course_code": "EDUC 149",
+    "units": 4,
+    "title": "Variable Topics in Contexts of Teaching and Learning",
+    "description": "Seminar, four hours. Variable topics course organized around topics that teach students about theory and research on how people learn as well as sociocultural contexts that shape teaching and learning. Consult Schedule of Classes for topics and instructors. May not be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC149"
+  },
+  {
+    "course_code": "EDUC 150",
+    "units": 5,
+    "title": "Quantitative Research in Education: Claims and Evidence",
+    "description": "Lecture, two hours; discussion, two hours. Requisite: course 35. Limited to Education and Social Transformation majors. Introduction to four conceptual tools used to evaluate soundness of conclusions drawn from research evidence: notions of internal validity, statistical validity, construct validity, and external validity. Statistical validity requires basic fluency with quantitative data analysis, which students learn using statistical software R. Analysis of how values and beliefs shape quantitative education research and how research findings get translated when they are reported for popular media audiences. Quantitative background is not required. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC150"
+  },
+  {
+    "course_code": "EDUC 151",
+    "units": 5,
+    "title": "Quantitative Research in Education: Measurement and Assessment",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 35, with grade of C or better. Intended for students who are interested in better understanding what makes good tests and how to critically interpret and evaluate tests and test scores in educational contexts. Introduction to measurement, testing, and assessment in educational settings. Overview of foundational concepts, methods, issues, and practices of educational measurement and assessment. Overview of basic statistical concepts and methods. Highlighting and evaluation of three core concepts of assessment: reliability, validity, and fairness. Students develop ability to critically interpret assessment data and apply both classical and modern theories of measurement and validly measure constructs of interest such as knowledge, attitude, and motivation. Students demonstrate understanding of equity and social justice issues related to fair use of educational measurement and assessment. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC151"
+  },
+  {
+    "course_code": "EDUC 152",
+    "units": 5,
+    "title": "Quantitative Research in Education: Regression Analysis",
+    "description": "Lecture, two hours; discussion, two hours. Requisite: course 150 or 151. Preparation: basic familiarity with programming language R. Introduction to regression as tool to answer questions about education. Regression is commonly used to answer questions about association claims\u2014relationship between variables\u2014and causal claims\u2014causal effect of one variable on another. Using regression appropriately requires thoughtfulness about what kinds of questions regression can answer, about assumptions regression relies on, about limitations of our data, and about how particular variables (e.g., race and gender) are incorporated into analyses in order to avoid regression results that may be biased and may reify rather than interrogate problematic ideas. Emphasis on learning fundamental concepts of regression analysis and how these concepts can be thoughtfully applied to address different kinds of questions about education. Students are trained how to read and critically assess research and applications using R programming language. Letter grading.",
+    "prerequisites": [
+      "EDUC 150",
+      "EDUC 151"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC152"
+  },
+  {
+    "course_code": "EDUC 156",
+    "units": 5,
+    "title": "Introduction to Qualitative Research in Education for Social Transformation",
+    "description": "Lecture, two hours; discussion, two hours. Requisite: course 35. Limited to Education and Social Transformation majors. Qualitative researchers who focus on education and social transformation often examine social roots of educational inequalities and injustices, and organization of teaching and learning across diverse settings in order to understand educational possibilities. Introduction to epistemological, theoretical, ethical, and political foundations of conducting qualitative research in education. Students become familiar with breadth and scope of qualitative research. Theoretically-grounded, practical orientation that teaches students how qualitative researchers work individually and in teams to design studies that may ultimately support movement toward educational and social change. Assignments guide students through iterative research design process, which includes conducting needs assessment using qualitative data collection tools, making sense of pilot data, and negotiating research plans with stakeholders. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC156"
+  },
+  {
+    "course_code": "EDUC 157",
+    "units": 5,
+    "title": "Qualitative Research in Education: Ethnography",
+    "description": "Seminar, four hours. Requisite: course 35. Examination of debates and dilemmas of conducting ethnography research in educational settings. Survey of research methodologies and methods (observations and interviews) in ethnography of education research. With consideration to issues of race/ethnicity, gender, sexual orientation, class, language, and immigration status, study guided by central question of how ethnography can inform efforts to create more socially-just educational systems and spaces of learning. Designed to help students develop skills important for senior capstone project. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC157"
+  },
+  {
+    "course_code": "EDUC 159",
+    "units": 5,
+    "title": "Educational Research and Equity in Informal Learning: Collaboration between Hammer Museum and UCLA Education",
+    "description": "Seminar, three hours. Requisites: courses 35, 180. Through collaboration with Hammer Museum, introduction to importance of informal learning contexts, specifically in art museums, and value of conducting educational research within such contexts, while keeping equity at center of inquiry and exploration. Study of art museum pedagogies and philosophies. Reflection on art museum responsibility to support positive learning experiences for diverse audiences and local communities. Exploration of Research-Practice Partnerships education research approach that can support art museums in understanding problems of practice and questions of interest to their communities through mutually beneficial collaboration between researchers and practitioners. This approach challenges more traditional research-practitioner power dynamics by creating opportunities for both to jointly negotiate research questions, methods, and data analysis. Letter grading.",
+    "prerequisites": [
+      "EDUC 35",
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC159"
+  },
+  {
+    "course_code": "EDUC 160",
+    "units": 5,
+    "title": "Transformative Research in Community-Based Settings",
+    "description": "(Formerly numbered 188A.) Lecture, four hours.\u00a0Requisites: courses 35, 180. Introduction to the broad tradition of transformative research in education\u2014engaged scholarship that aims to disrupt long-standing educational inequities in partnership with local communities. This tradition includes youth participatory action research (YPAR), participatory design research (PDR), community-based participatory research (CBPR), and other collaborative approaches to inquiry that value diverse forms of expertise and knowledge. By examining the principles and practices that underscore community-engaged scholarship, students are supported in developing the ability to analyze education in social and political context; develop skills for effecting change; and demonstrate understanding of multiple perspectives, diversity, pluralism, and social justice. Letter grading.",
+    "prerequisites": [
+      "EDUC 35",
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC160"
+  },
+  {
+    "course_code": "EDUC 165",
+    "units": 5,
+    "title": "Educational Program Evaluation",
+    "description": "(Formerly numbered 139.) Seminar, four hours. Requisite: course 35. Stages and methods for conducting evaluations of educational and social programs, with emphasis on evaluation approaches that are theoretically grounded, methodologically rigorous, practical, and useful. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC165"
+  },
+  {
+    "course_code": "EDUC 166",
+    "units": 5,
+    "title": "Program Evaluation Theories and Practice",
+    "description": "Seminar, four hours. Requisites: courses 10, 35. Introduction to various theories concerning evaluation of educational and social programs. Examination of how these theories differ with respect to goals, priorities, and associated procedures. Development of evaluation plan for specific program. In developing this plan, students consider core features of program, engage program stakeholders to understand needs and priorities, and connect their proposed approach to specific evaluation theories. Through parallel development of multiple plans to evaluate single program, students observe extent and manner in which differences in theory are manifested in evaluation design. Letter grading.",
+    "prerequisites": [
+      "EDUC 10",
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC166"
+  },
+  {
+    "course_code": "EDUC 169",
+    "units": 4,
+    "title": "Variable Topics in Inquiry and Design",
+    "description": "Seminar, four hours. Requisite: course 35. Variable topics course organized around courses that teach students how to read and communicate about research. Consult Schedule of Classes for topics and instructors. May not be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "EDUC 35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC169"
+  },
+  {
+    "course_code": "EDUC 170",
+    "units": 2,
+    "title": "Exploration of Topics in Education",
+    "description": "(Formerly numbered 184.) Lecture, one hour. Variable topics course, with emphasis on theories of teaching and learning, connecting them to instructional activities for students in various learning settings, including libraries and schools. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC170"
+  },
+  {
+    "course_code": "EDUC 171",
+    "units": 4,
+    "title": "Community Service Learning for Academic Achievement",
+    "description": "(Formerly numbered 185.) Lecture, two hours; discussion, two hours. Emphasis on cognitive learning and motivation theories and their relevance to strategies for developing curricular instructional techniques and training that contribute to tutoring, counseling, and other instructional assistance in various school settings. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC171"
+  },
+  {
+    "course_code": "EDUC 172",
+    "units": 5,
+    "title": "Activism through Community Service",
+    "description": "Seminar, four hours. Exploration of impact and importance of activism in addressing health, educational, and social disparities that have led to discrimination, segregation, and marginalization of people of color. Students acquire methodology to combat these issues through participating in activism and community service at UCLA to further address issues that minoritized populations experience. Students apply their experiential knowledge from their respective projects in Community Programs Office Student Association, Student Initiated Outreach Center, Community Service Commission, or other UCLA community service organization to provide critiques and solutions to issues they are combating in their respective projects. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC172"
+  },
+  {
+    "course_code": "EDUC 173",
+    "units": 4,
+    "title": "Dialog across Difference",
+    "description": "Seminar, three hours. Offers safe and inviting space to engage in open, constructive discourse on issues related to social identities, such as race/ethnicity, socio-economic class, and sexual orientation identities. Students learn from one another\u2019s perspectives, participate in experiential learning exercises, read and discuss relevant materials, and explore their own and other groups\u2019 experiences in various social and institutional contexts. Offers opportunities to appreciate and learn to bridge differences, discover and maximize commonalities, interact with others around controversial issues pertaining to various forms of privilege and oppression, and work to help create social change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC173"
+  },
+  {
+    "course_code": "EDUC 174A",
+    "units": 4,
+    "title": "Experiential Learning in Secondary Classrooms: Health",
+    "description": "(Formerly numbered 170C.) Lecture, one hour; fieldwork, four hours. Training and supervised practicum for undergraduate mathematics students interested in teaching in secondary classrooms, including working with 6th- through 12th-grade students in school sites. Focus on health requirements from California Commission on Teacher Credentialing. Experts in field lead discussion of issues related to physical and mental health of students and educators, issues of bullying, and learning theories and practices that engage diverse groups of students in classrooms. Active engagement in reflection on issues in schools in which students work. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC174A"
+  },
+  {
+    "course_code": "EDUC 174B",
+    "units": 2,
+    "title": "Experiential Learning in Secondary Classrooms: Law",
+    "description": "(Formerly numbered 170D.) Lecture, one hour; fieldwork, four hours. Training and supervised practicum for undergraduate mathematics or science students interested in teaching in secondary classrooms, including working with 7th- through 12th-grade students in school sites. Focus on law requirements from California Commission on Teacher Credentialing. Experts in field lead discussion of issues related to legal and ethical concerns of schooling, culture of schools, issues of bullying, building of classroom community, and learning theories and practices that engage diverse groups of students in classrooms. Active engagement in reflection on issues in schools in which students work. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC174B"
+  },
+  {
+    "course_code": "EDUC 174C",
+    "units": 2,
+    "title": "Experiential Learning in Secondary Classrooms: Technology",
+    "description": "(Formerly numbered 170E.) Lecture, one hour; fieldwork, four hours. Training and supervised practicum for undergraduate mathematics students interested in teaching in secondary classrooms, including working with 7th- through 12th-grade students in school sites. Focus on technology requirements from California Commission on Teacher Credentialing. Experts in field lead discussion of issues related to use of technology in classrooms, and learning theories and practices that engage students with diverse needs and interests. Active engagement in reflection on issues in schools in which students work. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC174C"
+  },
+  {
+    "course_code": "EDUC 175A",
+    "units": 4,
+    "title": "Educational Innovations in Sport and Entertainment in Context of Diversity",
+    "description": "Seminar, four hours. Introduction to central issues at nexus of education, sports, entertainment, and diversity. Examination and investigation of recent innovations in education, sports leadership, and entertainment that promise greater representation, equity, and inclusion of marginalized groups. Examination of media role in forming perceptions and attitudes, and its educational force in changing perceptions of athletes, and of college and professional sports. Examination of innovations in education, sports leadership, and entertainment that promote greater diversity. Examination of these and other related issues through prism of relevant theories, recent research literature, and documentaries. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC175A"
+  },
+  {
+    "course_code": "EDUC 175B",
+    "units": 4,
+    "title": "Educational Leadership and Diversity in Sports: Equity, Access, and Future Prospects",
+    "description": "Seminar, three hours. Examination of how leadership of sport, especially within intercollegiate athletics, impacts higher education, businesses, and other related organizations at macro and micro levels. Examination of equity across racial, gender, and social-class lines in both collegiate and professional sports. Addresses access in terms of which institutional mechanisms are in place to cultivate culture that empowers student-athletes, women, and people of color to positively matriculate in terms of social mobility. Approach to evaluating success of various organizations with diverse leaders and participants in sport focuses on both qualitative and quantitative measures. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC175B"
+  },
+  {
+    "course_code": "EDUC 175C",
+    "units": 4,
+    "title": "Education, Hip-Hop Culture, and Sport",
+    "description": "Lecture, three hours. Exploration of intersection of hip-hop culture, sport, and education; and how hip-hop culture serves as instrument of critical and culturally relevant pedagogy in K-12 education, higher education, and informal learning contexts. Exploration of development and rise of hip-hop from underground movement to dominant, cultural phenomenon; and its appropriation by prominent sports personalities. Exploration of hip-hop\u2019s connection to television, social media, fashion, art, and film. Exploration of how this cultural art form intersects with development of social identities and cultural learnings in traditional and nontraditional educational settings (e.g., public schools, private schools, charter schools, and home schooling); and its enormous educational impact in general. Exploration of potential of hip-hop music and its cultural art form for furthering culturally relevant pedagogies and learning experiences. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC175C"
+  },
+  {
+    "course_code": "EDUC 175D",
+    "units": 4,
+    "title": "Education of Contemporary Athletes: Leadership Themes and Principles",
+    "description": "Seminar, three hours. Introduction to educational and business themes surrounding leadership in athletics. Emphasis on requisite experiences, knowledge, skills set, and abilities/characteristics for pursuing career in sport team operations; and how this impacts educational experiences of athletes. Study dissects current (mis)perceptions related to careers as general managers or sports agents, and supplies students with actionable plans for career development and advancement. Students learn about potential educational and career impact of impending and passed legislation related to name, image, and likeness rights of contemporary college student-athletes, including detailed discussion and analysis of how California bill fits within overall higher education model at universities such as UCLA. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC175D"
+  },
+  {
+    "course_code": "EDUC 176",
+    "units": 5,
+    "title": "Transformative Research in Community-Based Settings: Practicum",
+    "description": "(Formerly numbered 188B.) Lecture, four hours; fieldwork, one hour. Requisites: courses 35, 160. Introduction to broad tradition of transformative research in education\u2014public scholarship that aims to disrupt long-standing educational inequities in partnership with local communities. This tradition includes Youth Participatory Action Research (YPAR), Community-Based Action Research (CBAR), and other collaborative approaches that value diverse forms of expertise and knowledge. Through variety of community-engaged learning opportunities, students are supported to develop ability to analyze education in social and political context, develop skills for effecting change, demonstrate understanding of multiple perspectives, diversity, pluralism, and social justice. Letter grading.",
+    "prerequisites": [
+      "EDUC 35",
+      "EDUC 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC176"
+  },
+  {
+    "course_code": "EDUC M177",
+    "units": 4,
+    "title": "Creating Safe and Welcoming Schools",
+    "description": "(Same as Public Affairs M125.) Lecture, two hours; discussion, one hour. Examination of historical context and causes of school violence, theories, and diverse perceptions of school climate and safety. Special emphasis on impact of school climate on oppressed groups and how social contexts such as poverty and how neighborhood resources influence school safety. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M125"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCM177"
+  },
+  {
+    "course_code": "EDUC CM178",
+    "units": 4,
+    "title": "Critical Media Literacy and Politics of Gender: Theory and Production",
+    "description": "(Same as Gender Studies CM178.) Seminar, three hours. Corequisite: course CM178L. Use of range of pedagogical approaches to theory and practice of critical media literacy that necessarily involves understanding of new technologies and media forms. Study of both theory and production techniques to inform student analysis of media and critical media literacy projects. Concurrently scheduled with course CM278. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "EDUC CM178L"
+    ],
+    "corequisites": [
+      "EDUC CM178L"
+    ],
+    "cross_listed": [
+      "GENDER CM178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCCM178"
+  },
+  {
+    "course_code": "EDUC CM178L",
+    "units": 2,
+    "title": "Critical Media Literacy and Politics of Gender: Laboratory",
+    "description": "(Same as Gender Studies CM178L.) Laboratory, two hours. Corequisite: course CM178. Hands-on production experience as integral component of course CM178. Concurrently scheduled with course CM278L. Letter grading.",
+    "prerequisites": [
+      "EDUC CM178"
+    ],
+    "corequisites": [
+      "EDUC CM178"
+    ],
+    "cross_listed": [
+      "GENDER CM178L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCCM178L"
+  },
+  {
+    "course_code": "EDUC 180",
+    "units": 4,
+    "title": "Orientation to Community Engagement",
+    "description": "Seminar, four hours. Limited to Education and Social Transformation majors. Not open for credit to students with credit for course 180W. First course in three-part series to satisfy community engagement requirement for Education and Social Transformation major capstone project. Introduction to conceptions and contexts of community engagement, focusing on possibilities and complexities of critical and asset-based approaches to community engagement. In preparation for students\u2019 own community engagement experiences in community organizations, early childhood centers, or schools in Los Angeles, emphasis on reflecting on positionality, identifying forms of power and privilege, and understanding relationships between systemic issues and community engagement. Letter grading.",
+    "equivalent_courses": [
+      "EDUC 180W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC180"
+  },
+  {
+    "course_code": "EDUC 180W",
+    "units": 5,
+    "title": "Orientation to Community Engagement",
+    "description": "Seminar, four hours. Requisite: English Composition 3. Limited to Education and Social Transformation majors. Not open for credit to students with credit for course 180. First course in three-part series to satisfy community engagement requirement for Education and Social Transformation major. Introduction to conceptions and contexts of community engagement, focusing on possibilities and complexities of critical and asset-based approaches to community engagement. In preparation for students\u2019 own community engagement experiences, emphasis on reflecting on positionality, identifying forms of power and privilege, and understanding relationships between systemic issues and community engagement. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "equivalent_courses": [
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC180W"
+  },
+  {
+    "course_code": "EDUC 181",
+    "units": 5,
+    "title": "Capstone in Education and Social Transformation",
+    "description": "Seminar, four hours. Limited to Education and Social Transformation majors. Third course in required capstone sequence for Education and Social Transformation major. Students reflect on their coursework, community engagement experiences, and other curricular and co-curricular opportunities while completing major. Students compile portfolio that incorporates work completed through Education and Social Transformation major curriculum as well as form reflection paper where students synthesize their learning. This includes reflection on their personal development, how coursework and community engagement experience contributed to their fulfillment of learning outcomes for major, and plans for future. Students produce compelling final public presentation of their portfolio. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC181"
+  },
+  {
+    "course_code": "EDUC 187",
+    "units": 5,
+    "title": "Variable Topics in Education",
+    "description": "Seminar, five hours; discussion, two hours. Limited to juniors/seniors. Variable topics course organized around disciplinary knowledge central to development of core understandings of educational and learning processes, phenomenon, policies, methods, and instruction. Development of culminating project. Consult Schedule of Classes for topics and instructors. May be applied as core credit for Education Studies minor students. May be repeated three times for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC187"
+  },
+  {
+    "course_code": "EDUC 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC188SA"
+  },
+  {
+    "course_code": "EDUC 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EDUC 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC188SB"
+  },
+  {
+    "course_code": "EDUC 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EDUC 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC188SC"
+  },
+  {
+    "course_code": "EDUC 191A",
+    "units": 4,
+    "title": "Current Issues in Education",
+    "description": "Seminar, four hours. Limited to juniors/seniors. Variable topics course organized on selected current issues basis, integrating field observations and readings through seminar discussions. Development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC191A"
+  },
+  {
+    "course_code": "EDUC 191B",
+    "units": 4,
+    "title": "Current Issues in Education",
+    "description": "Seminar, four hours. Limited to juniors/seniors. Variable topics course organized on selected current issues basis, integrating field observations and readings through seminar discussions. Development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC191B"
+  },
+  {
+    "course_code": "EDUC 191C",
+    "units": 4,
+    "title": "Current Issues in Education",
+    "description": "Seminar, four hours. Limited to juniors/seniors. Variable topics course organized on selected current issues basis, integrating field observations and readings through seminar discussions. Development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC191C"
+  },
+  {
+    "course_code": "EDUC 191D",
+    "units": 4,
+    "title": "Current Issues in Education",
+    "description": "Seminar, four hours. Limited to juniors/seniors. Variable topics course organized on selected current issues basis, integrating field observations and readings through seminar discussions. Development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC191D"
+  },
+  {
+    "course_code": "EDUC C192A",
+    "units": 4,
+    "title": "Practicum in Intergroup Dialogue Facilitation",
+    "description": "Seminar, three hours. Requisite: course C160. Application and further development of content and skills learned in course C160. In addition to co-facilitating weekly dialogues, students are expected to participate in weekly teaching apprentice practicum seminars. Readings, discussions of group dynamics, and one-on-one meetings with assigned coach. Fosters supportive learning environment where each student facilitator can gain more insight and knowledge into skills of dialogue facilitation and continue process of self-reflection and critical inquiry of own identities, biases, beliefs, and perspectives. Includes learning as large group and time to receive individualized consultation as co-facilitation dyad from instructor. Concurrently scheduled with course C292A. Letter grading.",
+    "prerequisites": [
+      "EDUC C160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUCC192A"
+  },
+  {
+    "course_code": "EDUC 195",
+    "units": 2,
+    "title": "Community Internships in Education",
+    "description": "Tutorial, one hour; fieldwork, eight to 10 hours. Requisite: course 180. Limited to junior/senior Education and Social Transformation majors. Internship in approved educational or community setting to be supervised by instructor. Students meet biweekly with instructor, write reflective journals, and prepare final paper. May be repeated for credit. Individual contract with supervising faculty member required. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC195"
+  },
+  {
+    "course_code": "EDUC 195CE",
+    "units": 4,
+    "title": "Community or Corporate Internships in Education",
+    "description": "Tutorial, one hour; fieldwork, eight to 10 hours. Requisite: course 180. Limited to junior/senior Education and Social Transformation majors. Internship in supervised educational settings coordinated through Center for Community Engagement. Students meet biweekly with graduate student instructor, complete weekly readings and written assignments, and write final research paper or project as agreed upon with instructor. May be repeated for credit with consent of department. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC195CE"
+  },
+  {
+    "course_code": "EDUC 196R",
+    "units": 2,
+    "title": "Research Apprenticeship in Education",
+    "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC196R"
+  },
+  {
+    "course_code": "EDUC 196XP",
+    "units": 4,
+    "title": "Community-Engaged Research Apprenticeship",
+    "description": "Tutorial, 12 hours. Requisite: course 180. Recommended: course 160. Limited to junior/senior Education and Social Transformation majors. Research apprenticeship in community setting for upper-division students under guidance of faculty mentor. Faculty advisor must be actively engaged in work of that community and focus of research must address needs of that community. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "EDUC 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC196XP"
+  },
+  {
+    "course_code": "EDUC 197",
+    "units": 2,
+    "title": "Individual Studies in Education",
+    "description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC197"
+  },
+  {
+    "course_code": "EDUC 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Education",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EDUC199"
+  }
+]

@@ -1,0 +1,939 @@
+[
+  {
+    "course_code": "FILM TV 1A",
+    "units": 1,
+    "title": "Freshman Symposium",
+    "description": "Laboratory, three hours. Course 1A is enforced requisite to 1B, which is enforced requisite to 1C. Limited to Film and Television majors. Structured forum in which freshmen meet on regular basis to discuss curricular issues, meet with faculty members from department, and have exposure to array of guest speakers from media industries. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV1A"
+  },
+  {
+    "course_code": "FILM TV 1B",
+    "units": 1,
+    "title": "Freshman Symposium",
+    "description": "Laboratory, three hours. Enforced requisite: course 1A. Limited to Film and Television majors. Structured forum in which freshmen meet on regular basis to discuss curricular issues, meet with faculty members from department, and have exposure to array of guest speakers from media industries. Letter grading.",
+    "prerequisites": [
+      "FILM TV 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV1B"
+  },
+  {
+    "course_code": "FILM TV 1C",
+    "units": 1,
+    "title": "Freshman Symposium",
+    "description": "Laboratory, three hours. Enforced requisite: course 1B. Limited to Film and Television majors. Structured forum in which freshmen meet on regular basis to discuss curricular issues, meet with faculty members from department, and have exposure to array of guest speakers from media industries. Letter grading.",
+    "prerequisites": [
+      "FILM TV 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV1C"
+  },
+  {
+    "course_code": "FILM TV 4",
+    "units": 5,
+    "title": "Introduction to Art and Technique of Filmmaking",
+    "description": "Lecture, four hours; discussion, one hour. Students acquire understanding of practical and aesthetic challenges undertaken by artists and professionals in making of motion pictures and television. Examination of film as both art and industry: storytelling, sound and visual design, casting and performance, editing, finance, advertising, and distribution. Exploration of American and world cinema from filmmaker\u2019s perspective. Honing of analytical skills and development of critical vocabulary for study of filmmaking as technical, artistic, and cultural phenomenon. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV4"
+  },
+  {
+    "course_code": "FILM TV 6A",
+    "units": 6,
+    "title": "History of American Motion Picture",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Historical and critical survey, with examples, of American motion picture both as developing art form and as medium of mass communication. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV6A"
+  },
+  {
+    "course_code": "FILM TV 10A",
+    "units": 5,
+    "title": "American Television History",
+    "description": "Lecture/screenings, four hours; discussion, one hour. Critical survey of American television history from its inception to present. Examination of interrelationships between program forms, industrial paradigms, social trends, and culture. Starting with television\u2019s hybrid origins in radio, theater, and film, contextualization, viewing, and discussion of key television shows, as well as Hollywood films that comment on radio and television. Consideration of television programs and series in terms of sociocultural issues (consumerism, lifestyle, gender, race, national identity) and industrial practice (programming, policy, regulation, business). Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV10A"
+  },
+  {
+    "course_code": "FILM TV 15",
+    "units": 6,
+    "title": "Stylistic Studies for Moving Image: Theory and Practice",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 1A. Limited to Film and Television majors. Drawing heavily on wide array of historical examples, examination of many expressive strategies potentially usable in creation of moving image art forms: iconography, editing, composition, kinesthetics, sound, narrative, discourse, and performance. Letter grading.",
+    "prerequisites": [
+      "FILM TV 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV15"
+  },
+  {
+    "course_code": "FILM TV 18",
+    "units": 2,
+    "title": "Media Parks: Cinematic and Television History of Theme Parks",
+    "description": "Seminar, nine hours. Intensive examination and discussion of history and evolution of relationship between moving image media (film, television, and video games) and theme parks, in conjunction with site visits and screenings of related media. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV18"
+  },
+  {
+    "course_code": "FILM TV 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV19"
+  },
+  {
+    "course_code": "FILM TV 33",
+    "units": 4,
+    "title": "Introductory Screenwriting",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course C132/C430. Structural analysis of feature films and development of professional screenwriters\u2019 vocabulary for constructing, deconstructing, and reconstructing their own work. Screenings of films and selected film sequences in class and by assignment. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV33"
+  },
+  {
+    "course_code": "FILM TV 34",
+    "units": 4,
+    "title": "Introduction to Television Writing",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 33. Development of fundamental skills necessary to explore writing of original television scripts. Offers comprehensive overview of process of television writing. P/NP or letter grading.",
+    "prerequisites": [
+      "FILM TV 33"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV34"
+  },
+  {
+    "course_code": "FILM TV 37",
+    "units": 2,
+    "title": "Writing for Television: Big Ideas for Small Screen",
+    "description": "Seminar, nine hours. Intensive introduction to television pilot form, covering style and content and how to analyze television shows and industry process of television development. Students develop beat sheet and outline for first act of original pilot episode, write teaser of original pilot episode, and create series treatment. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV37"
+  },
+  {
+    "course_code": "FILM TV M50",
+    "units": 5,
+    "title": "Introduction to Visual Culture",
+    "description": "(Same as English M50.) Lecture, three hours; discussion, one hour; laboratory, two hours. Enforced requisite: satisfaction of Entry-Level Writing requirement. Study of how visual media, including advertising, still and moving images, and narrative films, influence contemporary aesthetics, politics, and knowledge. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "prerequisites": [],
+    "cross_listed": [
+      "ENGL M50"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVM50"
+  },
+  {
+    "course_code": "FILM TV 51",
+    "units": 5,
+    "title": "Digital Media Studies",
+    "description": "Lecture, three hours; laboratory, one hour. Introduction to history, theory, and authoring skills of digital media, art, and culture. P/NP or Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV51"
+  },
+  {
+    "course_code": "FILM TV 72",
+    "units": 2,
+    "title": "Production Practice in Film, Television, and Digital Media",
+    "description": "Lecture, three hours; laboratory, three hours. Exploration of research, analysis, and conceptualization of dramatic narrative and laboratory experience in one or more various aspects of contemporary production and postproduction practices for entertainment media, including theater, film, video, and digital media. May be repeated for maximum of 8 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV72"
+  },
+  {
+    "course_code": "FILM TV 75",
+    "units": 2,
+    "title": "Lighting for Film and Television",
+    "description": "Laboratory, 10 hours. Offered as one-week intensive course. Introduction to concepts and practice of lighting for film through discussion and intensive hands-on, laboratory experience for directors of photography, camera operators, gaffers, key grips, assistant camera, and grips. Crew rotation changes per camera setup. Review of dailies. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV75"
+  },
+  {
+    "course_code": "FILM TV 84A",
+    "units": 4,
+    "title": "Overview of Contemporary Film Industry",
+    "description": "Lecture, three hours; discussion, one hour. Examination of evolving economic structures and business practices in contemporary Hollywood film industry, with emphasis on operations of studios and independent distribution companies, their development, marketing, and distribution systems, and their relationship to independent producers, talent, and agencies. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV84A"
+  },
+  {
+    "course_code": "FILM TV 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV89"
+  },
+  {
+    "course_code": "FILM TV 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV99"
+  },
+  {
+    "course_code": "FILM TV 101A",
+    "units": 1,
+    "title": "Junior Symposium",
+    "description": "Laboratory, three hours. Course 101A is enforced requisite to 101B, which is enforced requisite to 101C. Limited to Film and Television majors. Structured forum in which juniors meet on regular basis to discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film industry. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV101A"
+  },
+  {
+    "course_code": "FILM TV 102A",
+    "units": 1,
+    "title": "Senior Symposium",
+    "description": "Laboratory, three hours. Enforced requisite: course 101A. Course 102A is enforced requisite to 102B, which is enforced requisite to 102C. Limited to Film and Television majors. Structured forum in which seniors meet on regular basis to discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film and television industry. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV102A"
+  },
+  {
+    "course_code": "FILM TV 102B",
+    "units": 1,
+    "title": "Senior Symposium",
+    "description": "Laboratory, three hours. Enforced requisite: course 102A. Limited to Film and Television majors. Structured forum in which seniors meet on regular basis to discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film and television industry. Letter grading.",
+    "prerequisites": [
+      "FILM TV 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV102B"
+  },
+  {
+    "course_code": "FILM TV 102C",
+    "units": 1,
+    "title": "Senior Symposium",
+    "description": "Laboratory, three hours. Enforced requisite: course 102B. Limited to Film and Television majors. Structured forum in which seniors meet on regular basis to discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film and television industry. Letter grading.",
+    "prerequisites": [
+      "FILM TV 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV102C"
+  },
+  {
+    "course_code": "FILM TV 104",
+    "units": 1,
+    "title": "Film and Television Symposium",
+    "description": "Laboratory, three hours. Structured forum in which students discuss curricular issues, meet with faculty members, and have exposure to array of guest speakers from within film industry. May be repeated three times for credit. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV104"
+  },
+  {
+    "course_code": "FILM TV 106B",
+    "units": 6,
+    "title": "History of European Motion Picture",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Historical and critical survey, with examples, of European motion picture both as developing art form and as medium of mass communication. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV106B"
+  },
+  {
+    "course_code": "FILM TV 106C",
+    "units": 6,
+    "title": "History of African, Asian, and Latin American Film",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Critical, historical, aesthetic, and social study\u2014together with exploration of ethnic significance\u2014of Asian, African, Latin American, and Mexican films. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV106C"
+  },
+  {
+    "course_code": "FILM TV 107",
+    "units": 6,
+    "title": "Experimental Film",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Study and analysis of unconventional developments in motion pictures. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV107"
+  },
+  {
+    "course_code": "FILM TV 108",
+    "units": 6,
+    "title": "History of Documentary Film",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Philosophy of documentary approach in motion pictures. Development of critical standards and examination of techniques of teaching and persuasion used in selected documentary, educational, and propaganda films. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV108"
+  },
+  {
+    "course_code": "FILM TV 109",
+    "units": 4,
+    "title": "Advanced Topics in Documentary: New Documentary Forms",
+    "description": "Lecture, three hours; discussion, one hour; screenings, three hours. Examination of today\u2019s documentary modes of representation and genres focusing on rise and diversification of nonfiction modes since new millennium. From short form to series based, virtual reality to interactive, crowd sourced to animated, study of new documentary forms and platforms as situated within complex media environment. Exploration of theoretical models through which documentaries can be understood, questioned, and critically approached. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV109"
+  },
+  {
+    "course_code": "FILM TV M111",
+    "units": 6,
+    "title": "Women and Film",
+    "description": "(Same as Gender Studies M111.) Lecture, eight hours; discussion, one hour. Historical issues and critical approaches to women and cinema that may include authorship, stardom, female genres, and images of women in Hollywood cinema, alternative cinema, and independent cinema from silent era to present. Letter grading.",
+    "cross_listed": [
+      "GENDER M111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVM111"
+  },
+  {
+    "course_code": "FILM TV 112",
+    "units": 6,
+    "title": "Film and Social Change",
+    "description": "Lecture/screenings, six hours; discussion, one hour. Development of documentary and dramatic films in relation to and as force in social development. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV112"
+  },
+  {
+    "course_code": "FILM TV 113",
+    "units": 5,
+    "title": "Film Authors",
+    "description": "Lecture/screenings, four hours; discussion, one hour. In-depth study of specific film author (director or writer). May be repeated for credit with topic change. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV113"
+  },
+  {
+    "course_code": "FILM TV 114",
+    "units": 5,
+    "title": "Film Genres",
+    "description": "Lecture/screenings, four hours; discussion, one hour. Study of specific film genre (e.g., Western, gangster cycle, musical, silent epic, comedy, social drama). May be repeated for credit with topic change. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV114"
+  },
+  {
+    "course_code": "FILM TV M117",
+    "units": 5,
+    "title": "Chicanos in Film/Video",
+    "description": "(Same as Chicana/o and Central American Studies M114.) Lecture/screenings, five hours; discussion, one hour. Goal is to gain nuanced understanding of Chicano cinema as political, socioeconomic, cultural, and aesthetic practice. Examination of representation of Mexican Americans and Chicanos in four Hollywood genres\u2014silent greaser films, social problem films, Westerns, and gang films\u2014that are major genres that account for films about or with Mexican Americans produced between 1908 and 1980. Examination of recent Chicano-produced films that subvert or signify on these Hollywood genres, including Zoot Suit, Ballad of Gregorio Cortez, and Born in East L.A. Consideration of shorter, more experimental work that critiques Hollywood image of Chicanos. Guest speakers include both pioneer and up-and-coming filmmakers. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVM117"
+  },
+  {
+    "course_code": "FILM TV C118",
+    "units": 4,
+    "title": "Intermediate Cinematography",
+    "description": "Lecture, two hours; laboratory, four hours. Enforced requisite: course 101A. Intermediate study of principles of cinematography, with emphasis on exposure, lighting, and selection of film, camera, and lenses. Concurrently scheduled with course C416. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC118"
+  },
+  {
+    "course_code": "FILM TV C120",
+    "units": 4,
+    "title": "Digital Cinematography",
+    "description": "Lecture, three hours. Requisites: courses 100A, 185. Advanced study of principles of digital cinematography, with emphasis on electronic exposure control, lighting, formats, cameras, and lenses. Concurrently scheduled with course C420. Letter grading.",
+    "prerequisites": [
+      "FILM TV 100A",
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC120"
+  },
+  {
+    "course_code": "FILM TV 122D",
+    "units": 4,
+    "title": "Film Editing: Overview of History, Technique, and Practice",
+    "description": "Lecture, three hours. Exploration of film editing techniques, how they have evolved, and continue to evolve. Examination of history of editing, as well as current editing trends, terminology, and workflow. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122D"
+  },
+  {
+    "course_code": "FILM TV 122E",
+    "units": 4,
+    "title": "Digital Cinematography",
+    "description": "Lecture, three hours. With lectures, screenings, and demonstrations, study of principles of digital cinematography. How tools and techniques affect visual storytelling process. Topics include formats, aspect ratios, cameras, lenses, special effects, internal menu picture manipulation, lighting, composition, coverage, high definition, digital exhibition, filtration, multiple-camera shooting. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122E"
+  },
+  {
+    "course_code": "FILM TV 122I",
+    "units": 5,
+    "title": "Writing for Animation Series",
+    "description": "Lecture, three hours. Introduction to craft and business of writing animation for television. Overview of history of animation produced specifically for this medium, along with its many formats. Business model has changed radically over past five decades, as have types of shows that have been created. Designed to put shows in historical perspective, with eye toward where industry is heading given changes in technology and continuing (and growing) scrutiny of outside forces such as corporations and FCC. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122I"
+  },
+  {
+    "course_code": "FILM TV 122J",
+    "units": 5,
+    "title": "Disney Feature: Then and Now",
+    "description": "Lecture, three hours; discussion, three hours. Study and analysis of Disney\u2019s animated features. Evaluation of why Disney\u2019s animated features have dominated until recently and ramifications of this dominance on animation and society. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122J"
+  },
+  {
+    "course_code": "FILM TV 122M",
+    "units": 4,
+    "title": "Film and Television Directing",
+    "description": "Lecture, three hours. Through discussions, screenings, demonstrations, and guests, exploration of script, previsualization, directing actors, directing camera coverage in relationship to story, practical on-set directing, and directing for camera. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122M"
+  },
+  {
+    "course_code": "FILM TV 122N",
+    "units": 5,
+    "title": "History of Animation in American Film and Television",
+    "description": "Lecture, six hours. Survey of art of animation in America from its precinema origins to recent films of Disney, Pixar, DreamWorks, Ghibli, and others. Place of animation in pop culture, racial imagery and ethnic stereotypes, growth of art form, and how it reflects American society. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV122N"
+  },
+  {
+    "course_code": "FILM TV M124",
+    "units": 6,
+    "title": "Sex, Race, and Difference in Transnational Film",
+    "description": "(Same as Gender Studies M124.) Lecture, three hours; discussion, one hour. Drawing on feminist media studies, training of students in media literacy so they acquire necessary skills to critically interrogate film as medium of communication and to appreciate how film provides lens to examine some of most critical issues of our time. Development of understanding of transnationality to examine how circulations of capital, labor, and commodities transect, render problematic, and sometimes reinforce national borders. Examination of role of film in both exemplifying and representing these conditions of transnationality. How films enable understanding of historical and contemporary relationships between mobility, coercion, and migration; colonialism and settler colonialism; Orientalism, geopolitics, and sexuality; cultural identity and diaspora; transnational conceptions of sexual desire and embodiment; immigration and religious difference; and criminalization of racial difference. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVM124"
+  },
+  {
+    "course_code": "FILM TV 126",
+    "units": 4,
+    "title": "Acting for Film and Television",
+    "description": "Studio, six hours. Projects in acting for television, video, and film. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV126"
+  },
+  {
+    "course_code": "FILM TV 128",
+    "units": 4,
+    "title": "Media and Ethnicity",
+    "description": "Lecture, three hours. Utilizing Asian American experience, exploration of impact and uses of media on contemporary American ethnic communities. Role and techniques of media influence besides community utilization and production. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV128"
+  },
+  {
+    "course_code": "FILM TV CM129",
+    "units": 2,
+    "title": "Contemporary Topics in Theater, Film, and Television",
+    "description": "(Same as Theater CM129.) Lecture, two hours; screenings, two hours. Limited to junior/senior and graduate theater/film and television students. Examination of creative process in theater, film, and television, with consideration of writing, direction, production, and performance. Overview of individual contributions in collaborative effort; examination of distinctiveness and interrelations among these arts. Individual units include participation of leading members of theater, film, and television professions. May be repeated twice for credit. Concurrently scheduled with course CM229. P/NP or letter grading.",
+    "cross_listed": [
+      "THEATER CM129"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVCM129"
+  },
+  {
+    "course_code": "FILM TV 130",
+    "units": 4,
+    "title": "Introduction to Speculative Television Writing",
+    "description": "Lecture, three hours. Exploration of basic structural rules of television, developing characters, and developing basic command of tone through studying existing television series and then crafting scenes for those existing television series. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV130"
+  },
+  {
+    "course_code": "FILM TV 131",
+    "units": 6,
+    "title": "Introduction to Television Writing",
+    "description": "Lecture, three hours. Introduction to television pilot form, covering style and content, as well as principles behind network needs and how pilots are chosen across broadcast, cable, and digital platforms. Students write series outline and first act of original pilot. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV131"
+  },
+  {
+    "course_code": "FILM TV 132",
+    "units": 6,
+    "title": "Television Writing Workshop",
+    "description": "Laboratory, three hours. Students outline first 10 pages of pilot for original one-hour drama or dramedy, or half-hour comedy series. Examination of topics such as pitching; television writing format and structure 101; current trends in television writing; how to write compelling characters and stories; and how to take idea from concept through logline, beat sheet, and outline to final professional first draft. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV132"
+  },
+  {
+    "course_code": "FILM TV 133A",
+    "units": 8,
+    "title": "Intermediate Television Writing Variety/Sketch Comedy",
+    "description": "Lecture, three hours. Recommended requisite: course 131. Examination of writing for sketch, talk, and other hybrid comedic television shows. Review of various types of parody including monologues, commercial parodies, slice-of-life comedy, character-driven comedy, physical comedy, comedy of absurd, and political and topical satire. Students write one comedy sketch and portfolio of monologue jokes. Offered in summer only. Letter grading.",
+    "prerequisites": [
+      "FILM TV 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV133A"
+  },
+  {
+    "course_code": "FILM TV 133B",
+    "units": 6,
+    "title": "Intermediate Television Writing One-Hour Drama/Half-Hour Dramedy Series",
+    "description": "Lecture, three hours. Recommended requisite: course 131. Examination of one-hour drama and dramedy formats, covering style, content, and structural analysis. Review of principles behind network needs and how pilots are chosen across broadcast, cable and digital platforms. Students write series outline and first draft of original pilot series. Open to works in progress and rewrites. Offered summer only. Letter grading.",
+    "prerequisites": [
+      "FILM TV 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV133B"
+  },
+  {
+    "course_code": "FILM TV 134",
+    "units": 4,
+    "title": "Intermediate Screenwriting Workshop",
+    "description": "Seminar, three hours. Problems in film and television writing. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV134"
+  },
+  {
+    "course_code": "FILM TV 135A",
+    "units": 6,
+    "title": "Advanced Screenwriting Workshop",
+    "description": "Laboratory, three hours. Requisite: course 134. Course 135A is requisite to 135B, which is requisite to 135C. Course in film and television writing. First act of original screenplay to be developed. Letter grading.",
+    "prerequisites": [
+      "FILM TV 134"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV135A"
+  },
+  {
+    "course_code": "FILM TV 135B",
+    "units": 6,
+    "title": "Advanced Screenwriting Workshop",
+    "description": "Laboratory, three hours. Requisite: course 135A. Limited to Film and Television majors. Designed for seniors. Course in film and television writing. Second act of original screenplay to be developed. Letter grading.",
+    "prerequisites": [
+      "FILM TV 135A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV135B"
+  },
+  {
+    "course_code": "FILM TV 135C",
+    "units": 8,
+    "title": "Advanced Screenwriting Workshop",
+    "description": "Laboratory, three hours. Requisite: course 135B. Limited to Film and Television majors. Designed for seniors. Course in film and television writing. Third act of original screenplay to be developed. Letter grading.",
+    "prerequisites": [
+      "FILM TV 135B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV135C"
+  },
+  {
+    "course_code": "FILM TV 140",
+    "units": 4,
+    "title": "Interactive Expression",
+    "description": "Lecture, six hours. Introduction to history and practice of interactive media, with emphasis on uniqueness of computer-mediated expression. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV140"
+  },
+  {
+    "course_code": "FILM TV C142",
+    "units": 4,
+    "title": "Digital Imagery and Visualization",
+    "description": "Lecture, three hours; laboratory, three hours. Introductory hands-on investigation of techniques of digital still imaging and aesthetics of digital image, in context of examining dynamics of cultural constructions and visual codes. Students conceive and produce several digital image visualizations. May be repeated once for credit. Concurrently scheduled with course C242. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC142"
+  },
+  {
+    "course_code": "FILM TV C143",
+    "units": 4,
+    "title": "Moving Digital Image",
+    "description": "Lecture, three hours; laboratory, three hours. Investigation of different ways of creating and manipulating linear moving images (digital video) on desktop computers, exploring both creative and theoretical aspects of this production environment. Students conceive and produce number of short projects. Concurrently scheduled with course C243. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC143"
+  },
+  {
+    "course_code": "FILM TV C144",
+    "units": 4,
+    "title": "Interactive Multimedia Authoring",
+    "description": "Lecture, three hours; laboratory, three hours. Introduction to expressive and aesthetic potential of interactive digital media and its theoretical issues. Exploration of methodologies and tools for media integration, interface design, and interactive audiovisual construction. Students conceive, produce, and master individual interactive multimedia projects. May be repeated once for credit. Concurrently scheduled with course C244. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC144"
+  },
+  {
+    "course_code": "FILM TV C145",
+    "units": 4,
+    "title": "Creative Authoring for World Wide Web",
+    "description": "Lecture, three hours; laboratory, three hours. Exploration of creative aspects of World Wide Web as medium for personal/collective expression. Students produce Web works and serve them online. Contextualization of medium by looking at its history, embedded ideology, and sociopolitical consequences. May be repeated once for credit. Concurrently scheduled with course C245. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC145"
+  },
+  {
+    "course_code": "FILM TV 146",
+    "units": 4,
+    "title": "Art and Practice of Motion Picture Producing",
+    "description": "Lecture, three hours. Exploration of role of producer as both artist and business person. Comparative analysis of screenplays and completed films. Emphasis on assembly of creative team and analysis of industrial context, both independent and studio. Screenings viewed outside of class and on reserve at Powell Library. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV146"
+  },
+  {
+    "course_code": "FILM TV C147",
+    "units": 4,
+    "title": "Production Management: Physical Production for Creatives",
+    "description": "Lecture, three hours; laboratory, one hour. Analysis of procedure, problems, and budgets in planning feature-length script for film and television production, with emphasis on role of producer and creative organizational techniques of producing. Concurrently scheduled with course C247. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC147"
+  },
+  {
+    "course_code": "FILM TV C148",
+    "units": 4,
+    "title": "Advanced Digital Media Workgroup",
+    "description": "Laboratory, two hours; discussion, four hours. Designed for students with previous laboratory course experience to provide opportunity to create larger-scale digital media works with advanced software tools and techniques in small process-oriented, creative workshop environment. May be repeated twice for credit. Concurrently scheduled with course C248. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC148"
+  },
+  {
+    "course_code": "FILM TV 150",
+    "units": 4,
+    "title": "Cinematography",
+    "description": "Lecture, three hours; laboratory, three hours. Requisite: course 101A. Corequisite: course 154. Limited to Film and Television majors. Introduction to motion imaging photography for thorough understanding of fundamental tools and principles of cinematography to create images that support and enhance story of film, achieve comprehension of principles of motion imaging photography through lectures, discussions, and screenings, develop skills of cinematographer by shooting exercises during laboratory period, and acquire appreciation of art of cinematography. Language and skills of image construction provided, as well as image analysis and deconstruction. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "corequisites": [
+      "FILM TV 154"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV150"
+  },
+  {
+    "course_code": "FILM TV 151",
+    "units": 4,
+    "title": "Introduction to Experimental Filmmaking",
+    "description": "Lecture, three hours; laboratory, to be arranged. Techniques of image manipulation, design, and art direction. Production and completion of exercise (no longer than three minutes). May be repeated twice for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV151"
+  },
+  {
+    "course_code": "FILM TV 152",
+    "units": 4,
+    "title": "Film and Television Sound Recording",
+    "description": "Lecture, three hours; laboratory, to be arranged. Limited to Film and Television majors. Introduction to principles and practices of film and television sound recording, including supervised exercises. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV152"
+  },
+  {
+    "course_code": "FILM TV C152C",
+    "units": 4,
+    "title": "Digital Audio Postproduction",
+    "description": "Lecture, three hours; laboratory, three hours. Enforced requisites: courses 101A, 185. Limited to Film and Television majors. Through discussion, demonstrations, and laboratory assignments, exploration of digital audio tools and procedures available to today\u2019s filmmakers. Coverage of many technical, equipment, and software step-by-steps, with emphasis on creative process. Concurrently scheduled with course C452C. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A",
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC152C"
+  },
+  {
+    "course_code": "FILM TV 153",
+    "units": 4,
+    "title": "Motion Picture Lighting",
+    "description": "Lecture, three hours; laboratory, three hours. Enforced requisites: courses 52, 101A, 185. Limited to Film and Television majors. Introduction to principles and tools of lighting used in visual storytelling through lectures, discussions, and screenings. Creative lighting techniques covering topics such as people, environment, spatial relationships, movement, color, special effects, and continuity. Letter grading.",
+    "prerequisites": [
+      "FILM TV 52",
+      "FILM TV 101A",
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV153"
+  },
+  {
+    "course_code": "FILM TV 154",
+    "units": 4,
+    "title": "Film Editing",
+    "description": "Lecture, three hours; laboratory, two hours. Requisite: course 101A. Corequisite: course 150. Limited to Film and Television majors. Introduction to artistic and technical problems of film editing, with practical experience in editing of image and synchronous sound. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "corequisites": [
+      "FILM TV 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV154"
+  },
+  {
+    "course_code": "FILM TV C154B",
+    "units": 4,
+    "title": "Advanced Film Editing",
+    "description": "Lecture, three hours; laboratory, one hour. Preparation: submission of rough cut of existing project or proposal to edit work of another director. Enforced requisites: courses 154, 185. Limited to Film and Television majors in postproduction phase with advanced knowledge of organization and operation of postproduction process. Students may also propose to edit significant scene given to them by instructor. Concurrently scheduled with course C454B. Letter grading.",
+    "prerequisites": [
+      "FILM TV 154",
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC154B"
+  },
+  {
+    "course_code": "FILM TV 155",
+    "units": 4,
+    "title": "Introduction to Digital Media and Tools",
+    "description": "Lecture, six hours; laboratory, one hour. Enforced requisite: course 101A. Limited to Film and Television majors. Instruction and exercises in basic concepts and software of virtual production environments and digital postproduction tools. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV155"
+  },
+  {
+    "course_code": "FILM TV C157",
+    "units": 4,
+    "title": "Lighting for Film and Television",
+    "description": "Lecture, two hours; laboratory, six hours. Requisite: course 52. Limited to Film and Television majors. Lectures, supervised exercises on stage or in exterior, screenings of scenes, and discussions aimed at learning to master lighting to create appropriate mood or atmosphere of premeditated scene recorded on film or through electronic system. May be repeated twice for credit. Concurrently scheduled with course C417. Letter grading.",
+    "prerequisites": [
+      "FILM TV 52"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC157"
+  },
+  {
+    "course_code": "FILM TV C158",
+    "units": 2,
+    "title": "Digital Workflow",
+    "description": "Lecture, three hours; laboratory, two hours. Requisites: courses 52, 185. Limited to departmental majors. Through discussions, demonstrations, outside speakers, and laboratory assignments, demystification of ever-changing world of digital workflow. Students plan, schedule, and budget their overall workflow in preproduction. May be repeated once for credit. Concurrently scheduled with course C454C. Letter grading.",
+    "prerequisites": [
+      "FILM TV 52",
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC158"
+  },
+  {
+    "course_code": "FILM TV 163",
+    "units": 4,
+    "title": "Directing Cameras",
+    "description": "Laboratory, three hours. Enforced requisite: course 101A. Limited to Film and Television majors. Investigation of expressive potential of image within and beyond narrative from directorial perspective. Experiments with working methodologies that stimulate visual creativity and positioning image as fundamental element of cinematic expression. Letter grading.",
+    "prerequisites": [
+      "FILM TV 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV163"
+  },
+  {
+    "course_code": "FILM TV 164",
+    "units": 4,
+    "title": "Directing Actors",
+    "description": "Laboratory, four hours. Exercises in analysis of script and character for purpose of directing actors. Emphasis on eliciting best possible performance from actors. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV164"
+  },
+  {
+    "course_code": "FILM TV C168",
+    "units": 8,
+    "title": "Creative Location Film Production",
+    "description": "Lecture, four hours; discussion, four hours; laboratory, to be arranged. Limited to directing or producer\u2019s program students. Problems of location, production, directing, and cinematography in various real-life practical locations. Practical application of solving problems and communication within limitations of production experience. Concurrently scheduled with course C468. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC168"
+  },
+  {
+    "course_code": "FILM TV 175A",
+    "units": 12,
+    "title": "Undergraduate Film Production",
+    "description": "Lecture, four hours; laboratory, eight hours. Requisite: 185. Course 175A is requisite to 175B. Limited to Film and Television majors. Writing, preproduction, and production of short film not to exceed 12 minutes, including credits. Letter grading.",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV175A"
+  },
+  {
+    "course_code": "FILM TV 175B",
+    "units": 4,
+    "title": "Undergraduate Film Production",
+    "description": "Lecture, three hours; laboratory, eight hours. Enforced requisite: course 175A. Limited to Film and Television majors. Completion of postproduction (editing, creation of sound tracks) for short film begun in course 175A. P/NP or letter grading.",
+    "prerequisites": [
+      "FILM TV 175A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV175B"
+  },
+  {
+    "course_code": "FILM TV M177",
+    "units": 2,
+    "title": "Film and Television Acting Workshop",
+    "description": "(Same as Theater M178.) Laboratory, four hours. Workshop providing opportunities for students to rehearse, perform, and evaluate scenes. Three different production styles to which performers may need to adjust are (1) preproduction rehearsals with director, (2) single-camera experience, and (3) multiple-camera experience. May be repeated twice for credit. Letter grading.",
+    "cross_listed": [
+      "THEATER M178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVM177"
+  },
+  {
+    "course_code": "FILM TV 178",
+    "units": 2,
+    "title": "Film and Television Production Laboratory",
+    "description": "Laboratory, to be arranged. Supervised laboratory experience in various aspects of film and television production. May be repeated for maximum of 12 units, but only 8 units may be applied toward Film and Television major. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV178"
+  },
+  {
+    "course_code": "FILM TV 179",
+    "units": 2,
+    "title": "Digital Film and Television Production",
+    "description": "Laboratory, six hours. Supervised laboratory experience in various aspects of film and television production. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV179"
+  },
+  {
+    "course_code": "FILM TV 180A",
+    "units": 5,
+    "title": "Animation Fundamentals",
+    "description": "Lecture, six hours; laboratory, six hours. Fundamentals of animation through exercises and preparation of short animated film. Students create 10-second film in one of traditional techniques (non-computer), with music and/or sound effects. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV180A"
+  },
+  {
+    "course_code": "FILM TV 180B",
+    "units": 4,
+    "title": "Writing for Animation",
+    "description": "Lecture, two hours; laboratory, six hours. Analysis and practice of effective visual storytelling through creation of three production storyboards. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV180B"
+  },
+  {
+    "course_code": "FILM TV 180C",
+    "units": 2,
+    "title": "Stop Motion Fundamentals Workshop",
+    "description": "Lecture, six hours; laboratory, six hours. Exercises designed to teach technical skills, processes, and principles of motion and timing. Use of range of materials, building animation performances in split-second increments arranged to give illusion of movement. Exploration of early history of stop motion. Collaborative creation of stop-motion film with each student directing and animating portion of film. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV180C"
+  },
+  {
+    "course_code": "FILM TV C181A",
+    "units": 5,
+    "title": "Introduction to Animation",
+    "description": "Lecture, three hours; laboratory, three hours. Drawing experience not required. Fundamentals of animation through preparation of short animated film. Concurrently scheduled with course C481A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC181A"
+  },
+  {
+    "course_code": "FILM TV C181B",
+    "units": 4,
+    "title": "Writing for Animation",
+    "description": "Lecture, six hours; studio, to be arranged. Requisite: course C181A or consent of instructor. Research and practice in creative writing and planning for animated film. May be repeated for maximum of 16 units. Concurrently scheduled with course C481B. P/NP or letter grading.",
+    "prerequisites": [
+      "FILM TV C181A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC181B"
+  },
+  {
+    "course_code": "FILM TV C181C",
+    "units": 4,
+    "title": "Animation Workshop",
+    "description": "Studio, six hours. Preparation: storyboard at first class meeting. Requisite: course C181A. Organization and integration of various creative arts used in animation to form complete study of selected topic. May be repeated for maximum of 16 units. Concurrently scheduled with course C481C. P/NP or letter grading.",
+    "prerequisites": [
+      "FILM TV C181A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC181C"
+  },
+  {
+    "course_code": "FILM TV 182",
+    "units": 4,
+    "title": "Power, Identity, and Justice",
+    "description": "Lecture, three hours. Examination of how politics, economics, labor, and identity intersect and affect representation, employment, and industry cultures, especially of groups long underserved in mainstream film, television, and media industry. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV182"
+  },
+  {
+    "course_code": "FILM TV 183A",
+    "units": 4,
+    "title": "Producing I: Film and Television Development",
+    "description": "Lecture, three hours. Open to nonmajors. Critical analysis of contemporary entertainment industries and practical approach to understanding and implementing producer\u2019s role in development of feature film and television scripts. Through scholarly and trade journal readings, in-class discussions, script analysis, and select guest speakers, exposure to various entities that comprise feature film and television development process. Basic introduction to story and exploration of proper technique for evaluating screenplays and teleplays through writing of coverage. May be taken independently for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV183A"
+  },
+  {
+    "course_code": "FILM TV 183B",
+    "units": 4,
+    "title": "Producing II: Entertainment Economics",
+    "description": "Lecture, three hours. Open to nonmajors. Critical understanding of strategies and operating principles that drive flow of revenue in entertainment industry. Exploration of theoretical frameworks and development of critical perspective, while studying industrial processes through which movie and television properties are financed and exploited throughout all revenue streams. May be taken independently for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV183B"
+  },
+  {
+    "course_code": "FILM TV 183C",
+    "units": 4,
+    "title": "Producing III: Marketing, Distribution, and Exhibition",
+    "description": "Lecture, three hours. Open to nonmajors. Marketing and distribution of feature films across multiple exhibition platforms and subsequent reception and consumption by audiences. Focus on engagement between distributor, exhibitor, and audience and analysis of various conceptual frameworks and industrial strategies within which these relationships are conceived and operate. May be taken independently for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV183C"
+  },
+  {
+    "course_code": "FILM TV 184B",
+    "units": 4,
+    "title": "Overview of Contemporary Television Industry",
+    "description": "Lecture, three hours. Examination of evolving economic structures and business practices in contemporary Hollywood television industry, with emphasis on operations of networks and cable companies, series development, marketing, and network branding from 1947 to present. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV184B"
+  },
+  {
+    "course_code": "FILM TV 185",
+    "units": 6,
+    "title": "Intermediate Undergraduate Film Production",
+    "description": "Laboratory, six hours. Requisites: courses 52, 154, 155, 163. Limited to Film and Television majors. Instruction and exercises in all stages of film production. Letter grading.",
+    "prerequisites": [
+      "FILM TV 52",
+      "FILM TV 154",
+      "FILM TV 155",
+      "FILM TV 163"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV185"
+  },
+  {
+    "course_code": "FILM TV C186A",
+    "units": 4,
+    "title": "Advanced Documentary Workshop",
+    "description": "Lecture, three hours; laboratory, three hours; fieldwork, four to six hours. Requisite: course 185. Course 186A is requisite to 186B, which is requisite to 186C. Introductory viewing and discussion of selected documentaries and instruction in various production skills necessary to create video documentaries. Completion of series of exercises from conceptualization through postproduction, culminating in production of short documentary. Concurrently scheduled with course C403A. Letter grading.",
+    "prerequisites": [
+      "FILM TV 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC186A"
+  },
+  {
+    "course_code": "FILM TV C186B",
+    "units": 4,
+    "title": "Advanced Documentary Workshop",
+    "description": "Lecture, three hours; laboratory, three hours; fieldwork, four to six hours. Requisite: course C186A. Intermediate viewing and discussion of selected documentaries and instruction in various production skills necessary to create video documentaries. Completion of series of exercises from conceptualization through postproduction, culminating in production of short documentary. Concurrently scheduled with course C403B. Letter grading.",
+    "prerequisites": [
+      "FILM TV C186A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC186B"
+  },
+  {
+    "course_code": "FILM TV C186C",
+    "units": 4,
+    "title": "Advanced Documentary Workshop",
+    "description": "Lecture, three hours; laboratory, three hours; fieldwork, four to six hours. Requisite: course C186B. Advanced viewing and discussion of selected documentaries and instruction in various production skills necessary to create video documentaries. Completion of series of exercises from conceptualization through postproduction, culminating in production of short documentary. Concurrently scheduled with course C403C. Letter grading.",
+    "prerequisites": [
+      "FILM TV C186B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTVC186C"
+  },
+  {
+    "course_code": "FILM TV 187A",
+    "units": 4,
+    "title": "Global Film and Television Development",
+    "description": "Lecture, three hours. Exploration of film and television development practices in key international markets. Introduction to key international markets, prominent global development and production entities, and their properties and development strategies. Designed to blend theory with practical application. Students read both academic literature and trade publications addressing development practices in U.S. and around world, and gain understanding of mechanisms that drive development in domestic and international territories. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV187A"
+  },
+  {
+    "course_code": "FILM TV 187B",
+    "units": 4,
+    "title": "Domestic and Global Entertainment Industry Careers and Strategies",
+    "description": "Lecture, three hours. Exploration of select film and television career paths and strategies in U.S. and major international markets. Introduction to typical and atypical career paths and strategies of producers, screenwriters, directors, and creative executives in U.S. and abroad. Students take part in moderated discussions with domestic and international industry professionals and read both academic literature and trade publications addressing current state of domestic and global media industries. Through readings and discussions, students gain understanding of rapidly changing global entertainment landscape, and current and future employment trends and project development strategies. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV187B"
+  },
+  {
+    "course_code": "FILM TV 187C",
+    "units": 4,
+    "title": "Scripted and Unscripted Series Development for Domestic and Global Streaming Services",
+    "description": "Lecture, three hours. Designed to enhance students' understanding of processes involved in domestic and international fiction and nonfiction development of properties for streaming services. Students are acquainted with common business and creative practices, while expanding their critical and practical understanding of quickly evolving and transforming global streaming landscape. Examination of creative development processes and strategies for scripted and unscripted series for streaming services in U.S., and similarities and differences in business as well as creative approaches in major international territories. Examination of latest trends in fiction and nonfiction development, including strategies to work with international coproduction partners and developing projects using pre-viz and virtual production techniques. Covers streaming markets in North American, Europe, Asia, and Central and South America. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV187C"
+  },
+  {
+    "course_code": "FILM TV 188A",
+    "units": 4,
+    "title": "Special Courses in Film, Television, and Digital Media",
+    "description": "Lecture, three hours; discussion, one hour. Special topics in film, television, and digital media for undergraduate students taught on experimental or temporary basis. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV188A"
+  },
+  {
+    "course_code": "FILM TV 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV188SA"
+  },
+  {
+    "course_code": "FILM TV 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "FILM TV 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV188SB"
+  },
+  {
+    "course_code": "FILM TV 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "FILM TV 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV188SC"
+  },
+  {
+    "course_code": "FILM TV 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV189"
+  },
+  {
+    "course_code": "FILM TV 194",
+    "units": 2,
+    "title": "Internship Seminars: Film, Television, and Digital Media",
+    "description": "Seminar, two hours. Designed for students currently in departmental internships. General introduction to contemporary film and television industries and discussion and engagement with and expansion on internship experiences. Common business practices and expansion of critical understanding of industry at large. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV194"
+  },
+  {
+    "course_code": "FILM TV 195",
+    "units": 2,
+    "title": "Corporate Internships in Film, Television, and Digital Media",
+    "description": "Tutorial, one hour; internship, eight hours. Limited to juniors/seniors. Corporate internship in supervised setting in business related to film, television, and digital media industries. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "equivalent_courses": [
+      "FILM TV 195CE"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV195"
+  },
+  {
+    "course_code": "FILM TV 195CE",
+    "units": 4,
+    "title": "Corporate Internships in Film, Television, and Digital Media",
+    "description": "Tutorial, one hour; fieldwork, eight to 10 hours. Limited to juniors/seniors. Corporate internship in supervised setting in business related to film, television, and digital media industries. Examination of issues related to internship site through series of reading assignments constructed by faculty sponsor and graduate student coordinator. May be repeated for credit with consent of Center for Community Engagement. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "equivalent_courses": [
+      "FILM TV 195"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV195CE"
+  },
+  {
+    "course_code": "FILM TV 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Film, Television, and Digital Media",
+    "description": "Tutorial, three hours. Limited to senior Film and Television majors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be taken for maximum of 8 units. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/FILMTV199"
+  }
+]

@@ -1,0 +1,1791 @@
+[
+  {
+    "course_code": "ECON 1",
+    "units": 4,
+    "title": "Principles of Economics",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to principles of economic analysis, economic institutions, and issues of economic policy. Emphasis on allocation of resources and distribution of income through price system. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON1"
+  },
+  {
+    "course_code": "ECON 2",
+    "units": 4,
+    "title": "Principles of Economics",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 1. Introduction to principles of economic analysis, economic institutions, and issues of economic policy. Emphasis on aggregative economics, including national income, monetary and fiscal policy, and international trade. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON2"
+  },
+  {
+    "course_code": "ECON 3A",
+    "units": 2,
+    "title": "Introduction to Investments",
+    "description": "Lecture, two hours. Broad introduction to investments. No previous financial, economic, or math background needed. Students learn organizing framework with which to understand investing landscape with highlight on key concepts and functionality related to business and personal investments. Topics include why financial markets exist and how they work, efficient market hypothesis, risk versus reward, investment styles, valuation techniques, simple quantitative analysis, power of compound interest, financial crises, and role private equity, venture capital, innovation and start-ups, and personal financial advisers. Serves as excellent introduction to career paths in finance and for those who want to increase their financial literacy. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON3A"
+  },
+  {
+    "course_code": "ECON 3B",
+    "units": 2,
+    "title": "Introduction to Investments",
+    "description": "Lecture, two hours. Requisite: course 3A. Broad introduction to investments. No previous financial, economic, or math background needed. Students learn organizing framework with which to understand investing landscape with highlight on key concepts and functionality related to business and personal investments. Topics include exchange rates, central banks, financial statements, value creation, interpreting financial ratios, power of compound interest and understanding present value, diversification, capital asset pricing model, Sharpe ratio, and understanding asset\u2019s beta, hedge funds. Serves as excellent introduction to career paths in finance and for those who want to increase their financial literacy. P/NP grading.",
+    "prerequisites": [
+      "ECON 3A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON3B"
+  },
+  {
+    "course_code": "ECON 4",
+    "units": 4,
+    "title": "Introduction to Investments",
+    "description": "Lecture, two hours. Broad introduction to investments. No previous financial, economic, or math background needed. Students learn organizing framework with which to understand investing landscape with highlight on key concepts and functionality related to business and personal investments. Topics include why financial markets exist and how they work, efficient market hypothesis, risk versus reward, investment styles, valuation techniques, simple quantitative analysis, power of compound interest, financial crises, and role private equity, venture capital, innovation and start-ups, personal financial advisers, exchange rates, central banks, financial statements, value creation, interpreting financial ratios, understanding present value, diversification, capital asset pricing model, Sharpe ratio, and understanding asset\u2019s beta, hedge funds. Serves as excellent introduction to career paths in finance and for those who want to increase their financial literacy. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON4"
+  },
+  {
+    "course_code": "ECON 5",
+    "units": 5,
+    "title": "Economics for Everyone",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to models and tools used by economists in practical real-world context. Study of important topical issues such as inequality, health care, and environmental policies. Students learn about available data sources and become better equipped to understand current events. May not be used to fulfill entrance requirements for any Economics Department major. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON5"
+  },
+  {
+    "course_code": "ECON 122",
+    "units": 4,
+    "title": "International Finance",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 102. Enforced corequisite: course 122L. Not open to students with credit for former course 120. Emphasis on interpretation of balance of payments and adjustment to national and international equilibria through changes in price levels, exchange rates, and national income. Other topics include making international payments, determination of exchange rates under various monetary standards, capital movements, exchange controls, and international monetary organization. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 122L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON10P"
+  },
+  {
+    "course_code": "ECON 10R",
+    "units": 4,
+    "title": "Economics Toolkit: Introduction to R for Economists",
+    "description": "Lecture, three hours. Hands-on introduction to data analysis in economics using R. Covers essential mathematical tools and introduces mechanics of R. No prior knowledge of R, computer programming, statistics, or economics is required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON10R"
+  },
+  {
+    "course_code": "ECON 11",
+    "units": 4,
+    "title": "Microeconomic Theory",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 1, Mathematics 31B, with grades of C or better. Laws of demand, supply, returns, and costs; price and output determination in different market situations. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 1",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON11"
+  },
+  {
+    "course_code": "ECON 12",
+    "units": 4,
+    "title": "Introduction to Personal Finance",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to personal finance. No previous financial, economic, or mathematics background required. Open to nonmajors. Covers wide array of topics at introductory level that are of interest to students on practical level and more broadly for students seeking to deepen their understanding of key features of financial system, financial institutions, and various aspects of personal finance encountered by typical household over their life cycle. Topics covered include interest rates, time value of money, types of loans most relevant to typical household, credit and debit cards, savings and investment, stocks and bonds, risk and diversification, personal income taxes, varieties of insurance, retirement and savings plans, macroeconomic concepts, social security, Medicare, and aspects of behavioral economics. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON12"
+  },
+  {
+    "course_code": "ECON 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON19"
+  },
+  {
+    "course_code": "ECON 41",
+    "units": 4,
+    "title": "Probability and Statistics for Economists",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: Mathematics 31A, 31B, with grades of C or better. Not open to students with credit for former Statistics 11. Introduction to theory and practice of mathematical statistics with emphasis on its use in economics. Introduction of basic statistical concepts such as random variables, probability distributions, estimation, confidence intervals, and hypothesis testing. Letter grading.",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON41"
+  },
+  {
+    "course_code": "ECON 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON89"
+  },
+  {
+    "course_code": "ECON 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON89HC"
+  },
+  {
+    "course_code": "ECON 97",
+    "units": 4,
+    "title": "Economic Toolkit",
+    "description": "Lecture, three hours. Coverage of essential mathematical and programming skills needed for study of Economics. Review of calculus (first derivatives, partial derivatives, elementary integral calculus), Excel (handling data, using simple arithmetical, mathematical, and financial functions, use of Solver), and extended introduction to statistical language R and/or Stata. Consult instructor for specific software. Offered in summer only. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON97"
+  },
+  {
+    "course_code": "ECON 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON99"
+  },
+  {
+    "course_code": "ECON 101",
+    "units": 4,
+    "title": "Microeconomic Theory",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 11. Theory of factor pricing and income distribution, general equilibrium, implications of pricing process for optimum allocation of resources, game theory, and interest and capital. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON101"
+  },
+  {
+    "course_code": "ECON 102",
+    "units": 4,
+    "title": "Macroeconomic Theory",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 2, 101. Theory of income, employment, and price level. Analysis of secular growth and business fluctuations; introduction to monetary and fiscal policy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 2",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON102"
+  },
+  {
+    "course_code": "ECON 103",
+    "units": 4,
+    "title": "Introduction to Econometrics",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: courses 11, and 41 or Mathematics 170A and 170B or 170E and 170S or Statistics 100A and 100B. Enforced corequisite: 103L. Introduction to theory and practice of univariate regression analysis with emphasis on its use in economics. Introduction to method of least squares, Gauss-Markov theorem, confidence intervals and hypothesis tests in univariate regression context, and standard errors in case of heteroscedasticity and serial correlation. Emphasis on applications with real data and computer software (R programming language) to implement discussed methods. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41",
+      "MATH 170A",
+      "MATH 170B",
+      "MATH 170E",
+      "MATH 170S",
+      "STATS 100A",
+      "STATS 100B"
+    ],
+    "corequisites": [
+      "ECON 103L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON103"
+  },
+  {
+    "course_code": "ECON 103L",
+    "units": 1,
+    "title": "Econometrics Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, and 41 or Mathematics 170A and 170B or 170E and 170S or Statistics 100A and 100B. Enforced corequisite: 103. Econometric analysis of case-based studies. Hands-on data collection and problem solving. Use of econometric software. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41",
+      "MATH 170A",
+      "MATH 170B",
+      "MATH 170E",
+      "MATH 170S",
+      "STATS 100A",
+      "STATS 100B"
+    ],
+    "corequisites": [
+      "ECON 103"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON103L"
+  },
+  {
+    "course_code": "ECON 104",
+    "units": 4,
+    "title": "Data Science for Economists",
+    "description": "Lecture, three hours; laboratory, one hour. Enforced requisites: courses 11, 103. Enforced corequisite: course 104L. In-depth discussion of multivariate regression. Introduction to estimation of multivariate regression, and confidence intervals and hypothesis tests in context of multivariate regression. Discussion of instrumental variables and binary choice models. Emphasis on hands-on experience on data analytics and real data applications. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 104L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON104"
+  },
+  {
+    "course_code": "ECON 104L",
+    "units": 1,
+    "title": "Data Science for Economists Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, 103. Enforced corequisite: course 104. Econometric analysis of case-based studies. Hands-on data collection and problem solving. Use of econometric software. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON104L"
+  },
+  {
+    "course_code": "ECON 106A",
+    "units": 4,
+    "title": "Economics in Practice",
+    "description": "Seminar, three hours. Enforced requisites: courses 11, 101, 102. Enforced corequisite: course 106AL. Students, in groups of four, address three small problems and one large and more complex problem. Discussion of student-proposed solutions to problems in their groups, with small-group discussions to student presentations of results in class. Detailed coaching and feedback by MBA students on student analysis and presentations. Final written and oral presentations required. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106AL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106A"
+  },
+  {
+    "course_code": "ECON 106AL",
+    "units": 1,
+    "title": "Economics in Practice Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101, 102. Enforced corequisite: course 106A. Case-based analysis requiring students to apply material from course 106A to real-world problems regarding issues such as economic theory and empirical methods. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106AL"
+  },
+  {
+    "course_code": "ECON 106D",
+    "units": 4,
+    "title": "Designed Markets",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 101. Enforced corequisite: course 106DL. Discussion of markets and other institutions that were purposefully designed, mostly by economists. Choices designers face when designing such markets. Markets and their context and corresponding economic models. Topics include matching between medical residents and hospitals, matching between high school students and New York and Boston high schools, kidney transplants, course allocation in business schools, eBay auctions, and prediction markets. Examination of how to optimize one\u2019s actions and outcomes in such markets. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106DL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106D"
+  },
+  {
+    "course_code": "ECON 106DL",
+    "units": 1,
+    "title": "Designed Markets Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101. Enforced corequisite: course 106D. Case-based analysis requiring students to apply material from course 106D to real-world problems regarding topics such as matching between medical residents and hospitals, matching between high school students and New York and Boston high schools, kidney transplants, course allocation in business schools, eBay auctions, and prediction markets. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106DL"
+  },
+  {
+    "course_code": "ECON 106E",
+    "units": 4,
+    "title": "Economics of Entrepreneurship",
+    "description": "Lecture, three hours. Requisite: course 101. Enforced corequisite: course 106EL. Enrollment priority to Business Economics majors. Application of economic theory to practice of managing new businesses\u2014combining elements of strategy, marketing, and entrepreneurial finance courses. Examination of both strategic decisions of entrepreneurs (pricing, advertising, deterring entry) and more practical issues (funding, business plans, patents). Letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106EL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106E"
+  },
+  {
+    "course_code": "ECON 106EL",
+    "units": 1,
+    "title": "Economics of Entrepreneurship Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Enforced corequisite: course 106E. Case-based analysis requiring students to apply material from course 106E to real-world problems regarding topics involving combining elements of strategy, marketing, and entrepreneurial finance courses. Examination of both strategic decisions of entrepreneurs (pricing, advertising, deterring entry) and more practical issues (funding, business plans, patents). Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106EL"
+  },
+  {
+    "course_code": "ECON 106F",
+    "units": 4,
+    "title": "Finance",
+    "description": "Lecture, three hours. Requisite: course 102. Enforced corequisite: course 106FB. Not open for credit to students with credit for Management 130A. Only one course from Economics 106F and Management 130A may be applied toward Economics and Business Economics majors. Enrollment priority to Business Economics majors. Introduction to principles of asset valuation and role of financial markets in market economy. Basic topics include time value of money, discounted cash flow analysis, CAPM model, and applications to public policy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106FB"
+    ],
+    "credit_exclusions": [
+      "MGMT 130A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106F"
+  },
+  {
+    "course_code": "ECON 106FB",
+    "units": 1,
+    "title": "Finance Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 102. Enforced corequisite: course 106F. Case-based analysis requiring students to apply theory from course 106F to real-world problems regarding topics such as discounted cash flow analysis, CAPM model, applications to public policy, and more. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106F"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106FB"
+  },
+  {
+    "course_code": "ECON 106G",
+    "units": 4,
+    "title": "Introduction to Game Theory",
+    "description": "Lecture, three hours; discussion, one to two hours (when scheduled). Requisite: course 101. Enforced corequisite: course 106GL. Enrollment priority to Business Economics majors. Introduction to basic ideas of game theory and strategic thinking. Discussion of ideas such as dominance, backward induction, Nash equilibrium, commitment, credibility, asymmetric information, and signaling, with application to examples from economics, politics, business, and other real-life situations. Letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106GL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106G"
+  },
+  {
+    "course_code": "ECON 106GL",
+    "units": 1,
+    "title": "Introduction to Game Theory Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Enforced corequisite: course 106G. Case-based analysis requiring students to apply material from course 106G to real-world problems involving game theory and strategic thinking in economics, politics, business, and other real-life situations. Hands-on data collection and problem solving and presentation of student analyses in writing with possible oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106G"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106GL"
+  },
+  {
+    "course_code": "ECON 106I",
+    "units": 4,
+    "title": "Organization of Firms",
+    "description": "Lecture, three hours. Enforced requisites: courses 11, 101. Enforced corequisite: course 106IL. Enrollment priority to Business Economics majors. Role of firms in traditional economic theory and modern developments in theory of firms. Topics include relationship between employer and employee, principal-agent models and moral hazard, formal versus relational contracts, successful firms as coherent systems of mutually supporting parts, property rights and asset ownership, boundaries of firms, employment versus independent contracting, internal organization of firms, role and levels of firm hierarchy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106IL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106I"
+  },
+  {
+    "course_code": "ECON 106IL",
+    "units": 1,
+    "title": "Organization of Firms Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, 101. Enforced corequisite: course 106I. Case-based analysis requiring students to apply material from course 106I to real-world problems. Hands-on data collection and problem solving and presentation of student analyses in writing and with oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106IL"
+  },
+  {
+    "course_code": "ECON 106M",
+    "units": 4,
+    "title": "Financial Markets and Financial Institutions",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 101, 102. Enforced corequisite: course 106ML. Application of analytical tools of economics and finance to real-world problems in financial markets to link models students have learned in prior courses to patterns observed in financial markets and to understand when it is that further theoretical refinements are required to better account for certain observed patterns. Development of understanding of potential effects of monetary and regulatory policies on financial markets. Topics include bond market, stock market, foreign exchange market, financial crises, and financial regulation. Analysis and discussion of lessons of subprime crisis and European sovereign debt crisis. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106ML"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106M"
+  },
+  {
+    "course_code": "ECON 106ML",
+    "units": 1,
+    "title": "Financial Markets and Financial Institutions Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101, 102. Enforced corequisite: course 106M. Case-based analysis requiring students to apply material from course 106M to real-world problems involving financial markets and financial institutions. Issues include potential effects of monetary and regulatory policies on financial markets. Topics include bond market, stock market, foreign exchange market, financial crises, and financial regulation. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106M"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106ML"
+  },
+  {
+    "course_code": "ECON 106P",
+    "units": 4,
+    "title": "Pricing and Strategy",
+    "description": "Lecture, three hours. Requisite: course 101. Enforced corequisite: course 106PL. Enrollment priority to Business Economics majors. Advanced pricing topics typically include linear programming and shadow pricing, peak load pricing, two-part pricing, strategic pricing, and auctions and bidding. Letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106PL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106P"
+  },
+  {
+    "course_code": "ECON 106PL",
+    "units": 1,
+    "title": "Pricing and Strategy Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Enforced corequisite: course 106P. Case-based analysis requiring students to apply material from course 106P to real-world problems involving linear programming and shadow pricing, peak load pricing, two-part pricing, strategic pricing, and auctions and bidding. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106P"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106PL"
+  },
+  {
+    "course_code": "ECON 106S",
+    "units": 4,
+    "title": "Competitive Strategy",
+    "description": "Lecture, three hours. Enforced requisites: courses 11, 101. Enforced corequisite: course 106SL. Examination of competitive strategy and competitive advantage using game theoretic models and case studies. Topics include economics of scale, network effects, switching costs, and platform markets. Written final project and presentation required. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106S"
+  },
+  {
+    "course_code": "ECON 106SL",
+    "units": 1,
+    "title": "Competitive Strategy Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, 101. Enforced corequisite: course 106S. Case-based analysis requiring students to apply material from course 106S. Hands-on data collection and problem solving and presentation of student analyses in writing and with oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106SL"
+  },
+  {
+    "course_code": "ECON 106T",
+    "units": 4,
+    "title": "Economics of Technology and E-Commerce",
+    "description": "Lecture, three hours. Requisites: courses 11, 101. Enforced corequisite: course 106TL. Use of rigorous economic tools to analyze world of technology and e-commerce. Examination of economic theory, empirical analysis, and case studies to study variety of new markets. Topics include bidding in online auctions, two-sided markets, matching markets, and reputation mechanisms. Written case on one particular firm and presentation required. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106TL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106T"
+  },
+  {
+    "course_code": "ECON 106TL",
+    "units": 1,
+    "title": "Economics of Technology and E-Commerce Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101. Enforced corequisite: course 106T. Case-based analysis requiring students to apply theory from course 106T to real-world problems regarding issues such as bidding in online auctions, two-sided markets, matching markets, reputation mechanisms, and more. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 106T"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106TL"
+  },
+  {
+    "course_code": "ECON 106V",
+    "units": 4,
+    "title": "Investments",
+    "description": "Lecture, three hours. Requisite: course 102. Recommended: course 106F. Enforced corequisite: course 106VL. Enrollment priority to Business Economics majors. Introduction to principles investment and portfolio theory. Topics include optimal portfolio construction, fixed income analysis, option pricing theory, and active portfolio management. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106VL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106V"
+  },
+  {
+    "course_code": "ECON 106VL",
+    "units": 1,
+    "title": "Investments Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 102. Recommended: course 106F. Enforced corequisite: course 106V. Case-based analysis requiring students to apply theory from course 106V to real-world problems regarding issues such as portfolio management, option pricing, and other investment topics. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 106V"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON106VL"
+  },
+  {
+    "course_code": "ECON 107",
+    "units": 4,
+    "title": "History of Economic Theory",
+    "description": "Lecture, three hours. Enforced requisites: courses 11, 101, 102. Survey of economic analysis from Grecian antiquity to early 20th century, concentrating on 18th and 19th centuries; special attention to selected writers, including Aristotle, mercantilists, Physiocrats, Hume, Smith, Malthus, Ricardo, Marx, marginalists, and Marshall. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON107"
+  },
+  {
+    "course_code": "ECON 111",
+    "units": 4,
+    "title": "Theories of Development",
+    "description": "Lecture, three hours. Requisites: courses 11, 101, 103. Corequisite: course 111L. Application of theoretical and empirical tools from microeconomics to provide insights into problems confronting low-income countries today and to evaluate policies that are likely to be effective in improving well-being of poorest on globe. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 111L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON111"
+  },
+  {
+    "course_code": "ECON 111L",
+    "units": 1,
+    "title": "Theories of Development Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101, 103. Corequisite: course 111. Case-based analysis requiring students to apply material from course 111 to real-world problems involving development. Topics and analysis include measures of development, sources of economic growth and development, impediments to development, and policy prescriptions. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON111L"
+  },
+  {
+    "course_code": "ECON 112",
+    "units": 4,
+    "title": "Policies for Economic Development",
+    "description": "Lecture, three hours. Requisite: course 102 or 111. Suggested strategies for economic development: inflation, balanced growth, industry versus agriculture, import substitution, export-oriented expansion, foreign aid, and others. Selected case studies. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102",
+      "ECON 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON112"
+  },
+  {
+    "course_code": "ECON M112A",
+    "units": 4,
+    "title": "International Development",
+    "description": "(Same as Public Policy CM171.) Lecture, three hours. Requisite: course 102 or 111. Why are some countries rich, while other countries are poor? What can policymakers do to reduce poverty? Discussion of current research on these questions. Study of both methodologies used to answer questions in development economics, like natural experiments and randomized control trials, as well as relationship between development and institutions, education, growth, culture, and gender. Reading intensive, seminar-style course. Students are expected to read academic articles in economics and actively participate in discussions. Students also learn how to use data to evaluate policies. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102",
+      "ECON 111"
+    ],
+    "cross_listed": [
+      "PUB PLC CM171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONM112A"
+  },
+  {
+    "course_code": "ECON 113",
+    "units": 4,
+    "title": "Globalization and Gender",
+    "description": "Lecture, three hours. Requisite: course 11. Examination of gender dimensions of economic development and globalization from perspective of feminist economics. This perspective implies foregrounding labor, broadly defined to include paid and unpaid work; examining gender differences in work; access to resources; and well-being outcomes; and how these are affected by macroeconomic policies and how gender inequalities are relevant for societal well-being. Since early 1980s economic globalization has been achieved on basis of common set of macroeconomic policies pursued in industrial and developing countries alike. These policies frame both gender-differentiated impacts of policy and initiatives that are implemented to reduce inequalities between men and women. Examination of impact of these policies on gender inequalities in developing countries. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON113"
+  },
+  {
+    "course_code": "ECON 121",
+    "units": 4,
+    "title": "International Trade Theory",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 101. Corequisite: course 121L. Not open to students with credit for former course 120. Theory of international trade: bases, direction, terms, volume, and gains of trade. Effects of tariffs, quantitative restrictions, and international integration. Effects of free and restricted trade on economic welfare and political stability. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 121L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON121"
+  },
+  {
+    "course_code": "ECON 121L",
+    "units": 1,
+    "title": "International Trade Theory Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Corequisite: course 121. Case-based analysis requiring students to apply material from course 121 to real-world problems involving international trade. Topics and analysis include theory of international trade: bases, direction, terms, volume, and gains of trade; effects of tariffs, quantitative restrictions, and international integration; effects of free and restricted trade on economic welfare and political stability. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON121L"
+  },
+  {
+    "course_code": "ECON 122",
+    "units": 4,
+    "title": "International Finance",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 102. Enforced corequisite: course 122L. Not open to students with credit for former course 120. Emphasis on interpretation of balance of payments and adjustment to national and international equilibria through changes in price levels, exchange rates, and national income. Other topics include making international payments, determination of exchange rates under various monetary standards, capital movements, exchange controls, and international monetary organization. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 122L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON122"
+  },
+  {
+    "course_code": "ECON 122L",
+    "units": 1,
+    "title": "International Finance Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 102. Enforced corequisite: course 122. Case-based analysis requiring students to apply material from course 122 to real-world problems involving international finance. Topics and analysis include balance of payments, exchange rates under various monetary arrangements, capital flows, exchange controls, and international monetary organization. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 122"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON122L"
+  },
+  {
+    "course_code": "ECON 123",
+    "units": 4,
+    "title": "Forecasting Exchange Rates and Constructing Currency Portfolios",
+    "description": "(Formerly numbered M123.) Lecture, three hours; discussion, one hour. Requisites: courses 41, 102, 103, 103L, or consent of instructor. Enforced corequisite: course 123L. Study of main theoretical models of exchange rates and how to design computer codes to make real-time exchange rate forecasts by applying such models to real-world data. Different statistical tests to evaluate accuracy of forecasts and to assess risk-reward trade-offs of currency portfolios. Students gain applied research and presentation skills. Discussion of books and newspaper articles about financial markets and impact of economic news on exchange rates. Students expected to be familiar with use of spreadsheets, such as Excel. Coding basics is highly recommended. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 102",
+      "ECON 103",
+      "ECON 103L"
+    ],
+    "corequisites": [
+      "ECON 123L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON123"
+  },
+  {
+    "course_code": "ECON 123L",
+    "units": 1,
+    "title": "Forecasting Exchange Rates and Constructing Currency Portfolios Laboratory",
+    "description": "Lecture, one hours; laboratory, one hour. Requisites: courses 41, 102, 103, 103L, or consent of instructor. Enforced corequisite: course 123. Hands-on approach in which students write computer codes associated with concepts learned in Economics 123. Students apply these codes to real-world data in order to generate exchange rate forecasts and evaluate prediction accuracy of their forecasting models. Students use these forecasts to construct short-long portfolios of currencies and assess reward-risk trade-offs of such portfolios. To generate and evaluate forecasts, students use Tradestation software, which can be accessed in Social Sciences Computing laboratories. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 102",
+      "ECON 103",
+      "ECON 103L"
+    ],
+    "corequisites": [
+      "ECON 123"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON123L"
+  },
+  {
+    "course_code": "ECON C126A",
+    "units": 4,
+    "title": "Seminar: International Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in international economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C285A. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC126A"
+  },
+  {
+    "course_code": "ECON C126B",
+    "units": 4,
+    "title": "Seminar: International Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in international economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C285B. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC126B"
+  },
+  {
+    "course_code": "ECON C126C",
+    "units": 4,
+    "title": "Seminar: International Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in international economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C285C. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC126C"
+  },
+  {
+    "course_code": "ECON 130",
+    "units": 4,
+    "title": "Public Economics",
+    "description": "Lecture, three hours. Requisites: courses 11, 101, 103. Enforced corequisite: course 130L. Role of government in market economy. Alternative justifications for government intervention. Principles and effects of spending programs (especially social insurance and health), taxation, deficit financing, and federal credit programs. Taxation in open economy. Properties of public choice mechanisms. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 130L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON130"
+  },
+  {
+    "course_code": "ECON 130L",
+    "units": 1,
+    "title": "Public Economics Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101. Enforced corequisite: course 130. Case-based analysis requiring students to apply theory from course 130 to real-world problems regarding government spending programs, taxation, deficit financing, and federal credit programs. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON130L"
+  },
+  {
+    "course_code": "ECON 131",
+    "units": 4,
+    "title": "Economics of Health and Healthcare",
+    "description": "Lecture, three hours. Requisites: courses 11, 101, 103. Enforced corequisite: course 131L. Economic analysis of health and healthcare. Presentation of several detailed economic models, including models of addiction, demand for healthcare, demand for insurance, nonprofit behavior, and other models. Evaluation of quantitative information from course readings and development of better understanding of econometric concepts and results. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 131L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON131"
+  },
+  {
+    "course_code": "ECON 131L",
+    "units": 1,
+    "title": "Economics of Health and Healthcare Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, 101, 103. Enforced corequisite: course 131. Case-based analysis requiring students to apply theory from course 131 to real-world problems regarding economics of health and healthcare. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON131L"
+  },
+  {
+    "course_code": "ECON 132",
+    "units": 4,
+    "title": "Topics in Taxation and Social Insurance",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 101. In-depth examination of selected topics related to current policy debates. Topics vary from year to year but typically emphasize tax policy or social insurance. Topics may include optimal taxation; tax inefficiencies and their implications for labor supply, savings, and investment; income redistribution and personal income tax; corporate taxation and implications for firms\u2019 investment and financing decisions; Social Security and SSDI reform; and welfare programs. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON132"
+  },
+  {
+    "course_code": "ECON 133",
+    "units": 4,
+    "title": "Intergenerational Poverty in America",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 101, 103. Enforced corequisite: course 133L. Examination of how poverty influences child development and, ultimately, their income and well-being in adulthood. Overview of poverty and intergenerational mobility in America, looking at historical trends and placing U.S. in international context. To understand why poverty is persistent across generations in U.S., study of economic model of skill formation in childhood. Consideration of existing research exploring how number of factors explain intergenerational persistence of poverty, including parental time, pollution, infant and child health, justice system, neighborhoods, stress, and preschool/education systems. Discussion of evidence on whether various public policies can improve mobility. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 133L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON133"
+  },
+  {
+    "course_code": "ECON 133L",
+    "units": 1,
+    "title": "Intergenerational Poverty in America Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisites: courses 11, 101, 103. Enforced corequisite: course 133. Case-based analysis requiring students to apply theory and analysis from course 133 to real-world problems regarding intergenerational poverty in America. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 133"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON133L"
+  },
+  {
+    "course_code": "ECON 134",
+    "units": 4,
+    "title": "Environmental Economics",
+    "description": "Lecture, three hours. Requisites: course 41 or Statistics 12 or 13, and course 101. Introduction to major ideas in natural resources and environmental economics, with emphasis on designing incentives to protect environment. Highlights important role of using empirical data to test hypotheses about pollution\u2019s causes and consequences. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "STATS 12",
+      "STATS 13",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON134"
+  },
+  {
+    "course_code": "ECON M135",
+    "units": 4,
+    "title": "Economic Models of Public Choice",
+    "description": "(Same as Political Science M105.) Lecture, three or four hours; discussion, one hour (when scheduled). Preparation: any lower-division political science course. Enforced requisite: course 11. Designed for juniors/seniors. Analysis of methods and consequences of arriving at collective decisions through political mechanisms. Topics include free-rider problem, voting and majority choice, demand revelation, and political bargaining. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11"
+    ],
+    "cross_listed": [
+      "POL SCI M105"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONM135"
+  },
+  {
+    "course_code": "ECON 137",
+    "units": 4,
+    "title": "Introduction to Urban and Regional Economics",
+    "description": "Lecture, three hours. Requisite: course 11. Survey of broad range of policy and theoretical issues that are raised when economic analysis is applied in urban setting. Topics include urbanization and urban growth, housing markets, location decisions of households and firms, transportation, urban labor markets, and local public sector. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON137"
+  },
+  {
+    "course_code": "ECON 140",
+    "units": 4,
+    "title": "Computational Methods for Economists",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140L. Introduction to variety of computational methods used in economics. Use of Python and numerical techniques to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or MATLAB but are not required to know Python. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 103",
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "ECON 140L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON140"
+  },
+  {
+    "course_code": "ECON 140L",
+    "units": 1,
+    "title": "Computational Methods for Economists Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 101, 102, 103, Mathematics 31A, 31B, 32A, 33A, 33B. Enforced corequisite: course 140. Problem-solving and project-based laboratory requiring students to apply computational methods from course 140 to solve models in macroeconomics and finance, microeconomics, and econometrics. Students should be familiar with scientific programming language such as R or MATLAB but are not required to know Python. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 103",
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "ECON 140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON140L"
+  },
+  {
+    "course_code": "ECON 141",
+    "units": 5,
+    "title": "Topics in Microeconomics: Mathematical Finance",
+    "description": "Lecture, three hours; computer laboratory, one hour. Requisites: course 11, Mathematics 32A, either Statistics 100A or Mathematics 170A. Economics of financial markets, competitive equilibrium with time and uncertainty, one period security market model, market completeness. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "MATH 32A",
+      "STATS 100A",
+      "MATH 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON141"
+  },
+  {
+    "course_code": "ECON 142",
+    "units": 4,
+    "title": "Economics of Networks",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 41, 101. In today\u2019s networked societies, everyone belongs to many social and economic networks. People and firms rely on various kinds of networks to interact with each other. As a result, the structure of networks affects and shapes behavior in a fundamental way. Study offers a framework in which to understand how agents behave and interact on networks, using tools from economics and statistics. Study of how to classify networks, what is special about social/economics networks, and how information\u00a0 and misinformation can spread through networks, among others. Special emphasis on how the theory of social and economic networks informs and improves the traditional economic theory. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON142"
+  },
+  {
+    "course_code": "ECON 143",
+    "units": 4,
+    "title": "Advanced Econometrics",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: course 103. Not open for credit to students with credit for former course 147A or 147B. Heteroskedasticity, limited dependent variable, panel data, time-series. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 103"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON143"
+  },
+  {
+    "course_code": "ECON 144",
+    "units": 4,
+    "title": "Economic Forecasting",
+    "description": "Lecture, three hours. Preparation: familiarity with data analysis software (e.g., R, Excel, MATLAB, Stata) and/or programming experience. Enforced requisites: courses 101, 103, 103L, 104, 104L. Survey of theory and application of time-series methods to forecasting in economics, business, and government. Topics include modeling and forecasting trend, seasonality, and cycles. Discussion of stochastic trends, volatility measure, and evaluation of forecasting techniques. Hands-on approach to real-world data analysis methods widely used by economists and other professionals. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 103",
+      "ECON 103L",
+      "ECON 104",
+      "ECON 104L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON144"
+  },
+  {
+    "course_code": "ECON 145",
+    "units": 4,
+    "title": "Topics in Microeconomics: Mathematical Economics",
+    "description": "Lecture, three hours. Requisite: course 101. Possible topics include game theory; competitive equilibrium analysis; examination of market failure and role for market intervention. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON145"
+  },
+  {
+    "course_code": "ECON C146A",
+    "units": 4,
+    "title": "Seminar: Asset Pricing",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in asset pricing theory for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C296A. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC146A"
+  },
+  {
+    "course_code": "ECON C146B",
+    "units": 4,
+    "title": "Seminar: Asset Pricing",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in asset pricing theory for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C296B. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC146B"
+  },
+  {
+    "course_code": "ECON C146C",
+    "units": 4,
+    "title": "Seminar: Asset Pricing",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in asset pricing theory for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C296C. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC146C"
+  },
+  {
+    "course_code": "ECON 147",
+    "units": 4,
+    "title": "Computational Finance and Data Analysis for Financial Engineering",
+    "description": "Lecture, three hours. Requisites: courses 41, 101, 103. Enforced corequisite: course 147L. Introduction to econometric modeling in empirical/computational finance. Focus on study of econometric models and methods to understand financial market dynamics. Review of essential concepts in probability/statistics and time-series econometrics. Investigation of some popular financial econometric models and estimation methods. Review of selected topics in finance, and how to apply econometric methods to analyze and understand empirical properties of financial market data. Analytical problem sets and data exercises to enhance theoretical understandings and practical skills. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 147L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON147"
+  },
+  {
+    "course_code": "ECON 147L",
+    "units": 1,
+    "title": "Computational Finance and Data Analysis for Financial Engineering Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 41, 101, 103. Enforced corequisite: course 147. Project-based analysis requiring students to apply econometric modeling techniques from course 147 to real-world financial data. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 147"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON147L"
+  },
+  {
+    "course_code": "ECON 148",
+    "units": 4,
+    "title": "Behavioral Economics",
+    "description": "Lecture, three hours. Enforced requisite: course 101. Behavioral economics is emerging subfield of economics that incorporates insights from psychology and other social sciences into economics to improve realism of economic models by incorporating realistic features such as aversion for losses, problems with self control, or concerns for others and thereby improve economic analyses. Review of some standard assumptions made in economics and examination of evidence on how human behavior systematically departs from these assumptions. Investigation of attempts to explore alternative models of human decision making and assessment to what extent these alternative models help improve economic analyses. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON148"
+  },
+  {
+    "course_code": "ECON 149",
+    "units": 4,
+    "title": "Time-Series Econometrics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 41, 103, Mathematics 31A, 31B. Enforced corequisite: course 149L. Time-series econometrics studies dynamic behaviors of economic variables using tools from probability theory and statistics. It plays important role in data analysis in macroeconomics and finance. Introduction to methods of time-series analysis in econometrics. Topics include weak dependence, autoregressive-moving-average (ARMA) processes, linear processes, economic forecasting, long-run variance and heteroskedasticity and autocorrelation consistent (HAC) estimation, unit root theory, estimation and inference of time-varying volatility models. Provides useful preparation to students who plan to take empirically oriented macroeconomics and finance courses, and solid understanding of tools required to analyze and model economic time series data and financial asset prices/returns. Emphasis throughout on link between statistical models and implementation. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 103",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "ECON 149L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON149"
+  },
+  {
+    "course_code": "ECON 149L",
+    "units": 1,
+    "title": "Time-Series Econometrics Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 41, 103, Mathematics 31A, 31B. Enforced corequisite: course 149. Problem-solving and project-based analysis requiring students to apply time-series analysis from course 149 to real-world time-series data. Applications involve weak dependence, autoregressive-moving-average (ARMA) processes, linear processes, economic forecasting, long-run variance and heteroskedasticity and autocorrelation consistent (HAC) estimation, unit root theory, estimation and inference of time-varying volatility models. Provides useful preparation to students who plan to take empirically oriented macroeconomics and finance courses, and solid understanding of tools required to analyze and model economic time series data and financial asset prices/returns. Emphasis throughout on link between statistical models and implementation. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 41",
+      "ECON 103",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "ECON 149"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON149L"
+  },
+  {
+    "course_code": "ECON 150",
+    "units": 4,
+    "title": "Labor Economics",
+    "description": "Lecture, three hours. Requisites: courses 11, 101, 103. Enforced corequisite: course 150L. Supply and demand for labor. Analysis of government, union, and other constraints on competitive system of wage determination. Wage level and structure. Wages and human capital theory. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 150L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON150"
+  },
+  {
+    "course_code": "ECON 150L",
+    "units": 1,
+    "title": "Labor Economics Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 101, 103. Enforced corequisite: course 150. Case-based analysis requiring students to apply theoretical tools from course 150 to real-world problems involving labor economics. Topics include labor supply decisions, household production decisions, life-cycle aspects of labor supply, short-run and long-run labor demand, monophony in labor market, quasi-fixed labor costs and labor demand, human capital, and other extended topics. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON150L"
+  },
+  {
+    "course_code": "ECON 151",
+    "units": 4,
+    "title": "Topics in Labor Economics",
+    "description": "Lecture, three hours. Requisites: courses 101, 150. Selected topics in labor theory; income distribution; business cycles and unemployment; investments in human capital and life cycles; migration; human fertility; marriage and divorce, etc. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON151"
+  },
+  {
+    "course_code": "ECON 152",
+    "units": 4,
+    "title": "Women, Men, and Economy",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 101, 103. Corequisite: course 152L. Introduction to using tools of economics to understand gender-related issues. Review of economic models of household, fertility, and labor supply. Discussion of how they help interpret long-term trends in marriage and divorce, fertility, and women\u2019s labor-force participation. Review of economic models of wage determination, with focus on explanations of and policy remedies for earnings differentials between women and men. Examination of new research in economics on gender-related topics. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 152L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON152"
+  },
+  {
+    "course_code": "ECON 152L",
+    "units": 1,
+    "title": "Women, Men, and Economy Laboratory",
+    "description": "Lecture, three hours; laboratory, one hour. Requisites: courses 11, 101, 103. Corequisite: course 152. Empirical-based analysis requiring students to apply theoretical and empirical tools from course 152 to real-world gender-related issues, and to further discuss latest research in field. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 152"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON152L"
+  },
+  {
+    "course_code": "ECON C156A",
+    "units": 4,
+    "title": "Seminar: Labor Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in labor economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C266A. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC156A"
+  },
+  {
+    "course_code": "ECON C156B",
+    "units": 4,
+    "title": "Seminar: Labor Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in labor economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C266B. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC156B"
+  },
+  {
+    "course_code": "ECON C156C",
+    "units": 4,
+    "title": "Seminar: Labor Economics",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in labor economics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C266C. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC156C"
+  },
+  {
+    "course_code": "ECON 160",
+    "units": 4,
+    "title": "Money and Banking",
+    "description": "Lecture, three hours. Requisite: course 102. Principles of money and banking in U.S.; legal and institutional framework; money supply process; instruments, effects, and practice of monetary policy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON160"
+  },
+  {
+    "course_code": "ECON 161",
+    "units": 4,
+    "title": "Monetary Theory",
+    "description": "Lecture, three hours. Requisites: courses 101, 160. Nature of money and monetary exchange; level and term structure of interest rates; level and growth rate of money; transmission of monetary shocks; theory and practice of monetary policy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON161"
+  },
+  {
+    "course_code": "ECON 162",
+    "units": 4,
+    "title": "Monetary Policy",
+    "description": "Lecture, three hours. Requisite: course 102. The early part of the 21st century was characterized by several revolutionary changes to the conduct of monetary policy. To understand these changes, review of theoretical models and historical events. Development of a series of policy recommendations for the Federal Reserve given the current state of the U.S. economy, and presentation and written documentation of these ideas. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON162"
+  },
+  {
+    "course_code": "ECON 164",
+    "units": 4,
+    "title": "Advanced Topics in Macroeconomics: Theory of Economic Growth",
+    "description": "Lecture, three hours. Requisite: course 102. Enforced corequisite: course 164L. Use of neoclassical growth model to address various issues, with emphasis on quantitative analysis. Development of economic theory and application to study of long-run growth, industrial revolution, and Great Depression. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 164L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON164"
+  },
+  {
+    "course_code": "ECON 164L",
+    "units": 1,
+    "title": "Advanced Topics in Macroeconomics: Theory of Economic Growth Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 102. Enforced corequisite: course 164. Case-based analysis requiring students to apply theory from course 164 to real-world macroeconomic growth problems. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 164"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON164L"
+  },
+  {
+    "course_code": "ECON 165",
+    "units": 4,
+    "title": "History of Capitalism in American Economy",
+    "description": "Lecture, three hours. Enforced requisite: course 102. Enforced corequisite: course 165L. How capitalism\u2014what economists call market economy with well-defined and protected civil rights and property rights\u2014has contributed to America\u2019s economic growth. Quantitative course, with analysis of how different features of capitalist economies impact economic growth, investment, consumption, and technical change, using computer simulations based on prominent historical examples. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 165L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON165"
+  },
+  {
+    "course_code": "ECON 165L",
+    "units": 1,
+    "title": "History of Capitalism in American Economy Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Enforced requisite: course 102. Enforced corequisite: course 165. Case-based analysis requiring students to apply theory and historical data from course 165 to simulate and analyze how variety of macroeconomic policies impact economic activity. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "corequisites": [
+      "ECON 165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON165L"
+  },
+  {
+    "course_code": "ECON C166A",
+    "units": 4,
+    "title": "Seminar: Monetary Economics/Macroeconomics",
+    "description": "Seminar, three hours. Requisite: course 102. Limited to seniors. Overview of most current developments in monetary economics and macroeconomics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C226A. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC166A"
+  },
+  {
+    "course_code": "ECON C166B",
+    "units": 4,
+    "title": "Seminar: Monetary Economics/Macroeconomics",
+    "description": "Seminar, three hours. Requisite: course 102. Limited to seniors. Overview of most current developments in monetary economics and macroeconomics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C226B. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC166B"
+  },
+  {
+    "course_code": "ECON C166C",
+    "units": 4,
+    "title": "Seminar: Monetary Economics/Macroeconomics",
+    "description": "Seminar, three hours. Requisite: course 102. Limited to seniors. Overview of most current developments in monetary economics and macroeconomics for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C226C. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC166C"
+  },
+  {
+    "course_code": "ECON 167",
+    "units": 4,
+    "title": "Victims and Villains; Panics and Bubbles",
+    "description": "Lecture, three hours. Requisites: course 101, Management 1A, 1B. Focus on phenomena of panics, bubbles, and manias in financial history. In-depth analysis and discussion of underlying causes, private and public policy responses, similarities, and contemporary issues in today\u2019s financial landscape. Focus on study of financial meltdown of 2008 with comprehensive treatment of financial and banking panics, with discussion of underlying housing and stock market bubbles. Also covers five other financial crises: panic of 1907, Great Depression, Japanese real estate and stock market bubbles of 1980s, American banking crises of 1980s, and Asian Contagion of late 1990s. Highlights various components of financial crises with case and discussion on each component. Students read case studies relating to each, and more general related readings including speeches, papers, and articles. Letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "MGMT 1A",
+      "MGMT 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON167"
+  },
+  {
+    "course_code": "ECON 168",
+    "units": 4,
+    "title": "Introduction to Principles of Value Investing",
+    "description": "Lecture, three hours. Requisites: course 101, Management 1A, 1B. Introduction to fundamental principles of value investing. Discussion of fundamental themes relating to value investing, and demonstration of how these ideas compare favorably with other investment approaches. Topics include differences between investment and speculation, how to search for inefficiencies in marketplace, and importance of incorporating margin of safety in any analysis. Introduction of standard accounting and valuation tools, including liquidation value. Prepares students to analyze and interpret financial statements. Designed for students considering careers in security analysis, investment banking, consulting, and corporate finance. Letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "MGMT 1A",
+      "MGMT 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON168"
+  },
+  {
+    "course_code": "ECON 169",
+    "units": 4,
+    "title": "Applied Value Investing",
+    "description": "Lecture, three hours. Requisites: courses 101, 168, Management 1A, 1B. Enrollment by application only. Extends principles of introductory value investing class to more advanced and wider variety of applications. Makes use of multiple case studies to enhance comprehension with real-world examples and to highlight necessary valuation skills that students are expected to master. Also covers market dynamics that can create opportunities to find structurally mispriced securities such as rights offerings, spin-offs, restructurings, and liquidations. Designed for students considering careers in security analysis, investment banking, consulting, and corporate finance. Letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 168",
+      "MGMT 1A",
+      "MGMT 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON169"
+  },
+  {
+    "course_code": "ECON 170",
+    "units": 4,
+    "title": "Industrial Organization: Theory and Tactics",
+    "description": "Lecture, three hours. Requisite: course 101. Enforced corequisite: course 170L. Not open for credit to students with credit for former course 170 or 171. Monopoly, collusion and competition, strategic firm behavior, nonprice competition with and without entry, pricing practices, antitrust. Comparison of economic and legal treatments of competitive process. Monopoly competition, and collusion as economic theory, as antitrust doctrine, and as fact. Source of monopoly. Predatory behavior. Misleading practices in theory and policy. General problem of relationship between private rights of action and competitive entry. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 170L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON170"
+  },
+  {
+    "course_code": "ECON 170L",
+    "units": 1,
+    "title": "Industrial Organization: Theory and Tactics Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Enforced corequisite: course 170. Case-based analysis requiring students to apply material from course 170 to real-world problems involving monopoly, collusion, strategic firm behavior, pricing practices, antitrust and other topics. Hands-on data collection and problem solving and presentation of student analyses both orally and in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 170"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON170L"
+  },
+  {
+    "course_code": "ECON 171",
+    "units": 4,
+    "title": "Industrial Organization: Policy and Regulation",
+    "description": "Lecture, three hours. Requisite: course 101. Enforced corequisite: course 171L. Recommended requisite: course 103. Preparation: calculus. Designed to give foundation in topics within field of industrial organization relating to regulation of monopoly power within economy and different way that that manifests across firm conduct and industrial settings. Particular attention to topics in antitrust policy, with some exploration of intersection between economics and law. Topics include in-depth analysis of cartels and mergers, including abstract theory and specifics of analytical approaches deployed in enforcement by Department of Justice and Federal Trade Commission. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 171L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON171"
+  },
+  {
+    "course_code": "ECON 171L",
+    "units": 1,
+    "title": "Industrial Organization: Policy and Regulation Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 101. Enforced corequisite: course 171. Recommended requisite: course 103. Preparation: calculus. Empirically-based analysis requiring students to provide empirical analysis to material covered in course 171, with emphasis on antitrust issues and policies. In particular, use of standard empirical toolkit to critically evaluate public policy and regulation with special emphasis on antitrust policy. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101"
+    ],
+    "corequisites": [
+      "ECON 171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON171L"
+  },
+  {
+    "course_code": "ECON 173AX",
+    "units": 4,
+    "title": "Introduction to Social Entrepreneurship",
+    "description": "(Formerly numbered 173A.) Lecture, one hour; research group meeting, two hours. Course 173AX is requisite to 173BX. Full-scale immersion into world of social entrepreneurship. Introduction to basics of business planning for social enterprises. Students are assigned in teams to work with participating social enterprises in Los Angeles area to implement new revenue-generating business plan for social enterprises to which they are assigned. Teams receive support from MBA student volunteers as advisers on how to work effectively together and how to resolve issues that arise with staff of assigned social enterprise. Courses 173AX and 173BX must be taken in consecutive terms. In Progress grading (credit to be given only on completion of course 173BX).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON173AX"
+  },
+  {
+    "course_code": "ECON 173BX",
+    "units": 4,
+    "title": "Introduction to Social Entrepreneurship",
+    "description": "(Formerly numbered 173B.) Lecture, one hour; research group meeting, two hours. Requisite: course 173AX. Full-scale immersion into world of social entrepreneurship. Introduction to basics of business planning for social enterprises. Students are assigned in teams to work with participating social enterprises in Los Angeles area to implement new revenue-generating business plan for social enterprises to which they are assigned. Teams receive support from MBA student volunteers as advisers on how to work effectively together and how to resolve issues that arise with staff of assigned social enterprise. Courses 173AX and 173BX must be taken in consecutive terms. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 173AX"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON173BX"
+  },
+  {
+    "course_code": "ECON 174",
+    "units": 4,
+    "title": "Economics of Sports",
+    "description": "Lecture, three hours. Enforced requisites: courses 11, 41, 101. Recommended: courses 103/103L. Course in applied microeconomics that employs both theoretical and empirical tools to analyze wide range of topics related to sports industry. Topics include history of labor relations in professional sports, history and analysis of player salaries in professional sports, market for professional sports franchises and sports broadcast rights, league expansion and relocation decisions, understanding of role of economic impact studies (cost-benefit analysis) and public/private partnerships in facility financing, relationship between academics and athletics in collegiate sports, racial discrimination in sports, exploration of behavioral issues such as strategic effort, measuring return on investment from sport sponsorships, and calculation of economic damages in legal cases involving athletes. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON174"
+  },
+  {
+    "course_code": "ECON C176A",
+    "units": 4,
+    "title": "Seminar: Industrial Organization",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in industrial organization for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C276A. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC176A"
+  },
+  {
+    "course_code": "ECON C176B",
+    "units": 4,
+    "title": "Seminar: Industrial Organization",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in industrial organization for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C276B. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC176B"
+  },
+  {
+    "course_code": "ECON C176C",
+    "units": 4,
+    "title": "Seminar: Industrial Organization",
+    "description": "Seminar, three hours. Requisites: courses 11, 101, 102. Limited to seniors. Overview of most current developments in industrial organization for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with courses C276C. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC176C"
+  },
+  {
+    "course_code": "ECON 177",
+    "units": 4,
+    "title": "Field Projects in Investing",
+    "description": "Seminar, three hours. Enforced requisites: courses 167, 168, 169. Enrollment by application only. Experiential learning tool and seminar course where students complete significant research on investment-related topic. Participating students are paired with asset management firm and engage regularly to complete research project. Designed to expose students to real-world practice of asset valuation, including applications of tools and inputs (including economics, accounting, and quantitative techniques) in asset valuation. Letter grading.",
+    "prerequisites": [
+      "ECON 167",
+      "ECON 168",
+      "ECON 169"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON177"
+  },
+  {
+    "course_code": "ECON 181",
+    "units": 4,
+    "title": "Development of Economic Institutions in Western Europe",
+    "description": "Lecture, three hours. Requisite: courses 11, 103. Corequisite: course 181L. Application of economic theory and quantitative reasoning to study economic history of Western Europe from 18th to 20th century. Topics include Malthusian theory, Industrial Revolution, demographic transition, formation and persistence of institutions and organizations, World Wars, and development of Europe during 1950s and 1960s. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 181L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON181"
+  },
+  {
+    "course_code": "ECON 181L",
+    "units": 1,
+    "title": "Development of Economic Institutions in Western Europe Laboratory",
+    "description": "Lecture, three hours; laboratory, one hour. Requisite: courses 11, 103. Corequisite: course 181. Empirical analysis requiring application of material from corresponding lecture course to selected historical issues, such as Malthusian theory, Industrial Revolution, demographic transition, formation and persistence of institutions and organizations, World Wars, and development of Europe during 1950s and 1960s. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 181"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON181L"
+  },
+  {
+    "course_code": "ECON 182A",
+    "units": 4,
+    "title": "U.S. Economic History: From Colonial Times to the Civil War",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182AL. Examination of the development of the U.S. economy up to and including the Civil War. Focus on using economic models and numbers to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. While the past persists for a long time in the form of people and institutions, there are periods of dramatic change brought on by technological change and by war. Study of the past, with its very different institutions, to inform the present. For example, there was no U.S. currency until the Civil War. Each bank printed its own notes and each state had different banking regulations. Investigation of how the system worked, whether it was effective in allocating capital, and how stability depended on banking regulations. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182AL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182A"
+  },
+  {
+    "course_code": "ECON 182AL",
+    "units": 1,
+    "title": "U.S. Economic History: From Colonial Times to the Civil War Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182A. Empirical analysis requiring application of material from course 182A to the development of the U.S. Economy up to and including the Civil War. Focus on application of economic models and empirical analysis to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182AL"
+  },
+  {
+    "course_code": "ECON 182B",
+    "units": 4,
+    "title": "U.S. Economic History: From the Civil War to World War I",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182BL. Examination of the development of the U.S. economy from the Civil War to World War I. Focus on using economic models and numbers to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. While the past persists for a long time in the form of people and institutions, there are periods of dramatic change brought on by technological change and by war. Study of the past, with its very different institutions, to inform the present. For example, the time period from the Civil War to World War I witnessed the rise of large corporations and complaints of monopoly power. There was anti-trust law. Investigation of degree to which collusion and monopoly was a problem, and whether anti-trust law solved the problem or if the regulators were captured. Consideration also that there was no Federal Reserve until December 1914, and examination of the problems created by not having a Federal Reserve. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182BL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182B"
+  },
+  {
+    "course_code": "ECON 182BL",
+    "units": 1,
+    "title": "U.S. Economic History: From the Civil War to World War I Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182B. Empirical analysis requiring application of material from course 182B to the development of the U.S. Economy from the Civil War to World War I. Focus on application of economic models and empirical analysis to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182BL"
+  },
+  {
+    "course_code": "ECON 182C",
+    "units": 4,
+    "title": "U.S. Economic History: From World War I to 1980s",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182CL. Examination of the development of the U.S. economy from the World War I to 1980s. Focus on using economic models and numbers to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. While the past persists for a long time in the form of people and institutions, there are periods of dramatic change brought on by technological change and by war. Study of the past, with its very different institutions, to inform the present. For example, during the 2007-2008 financial crisis, economists looked to the Great Depression, a topic on which then Federal Reserve chairman Ben Bernanke published. Economists also look to the past to understand the role of government deficits in inflation and in economic growth. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182CL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182C"
+  },
+  {
+    "course_code": "ECON 182CL",
+    "units": 1,
+    "title": "U.S. Economic History: From World War I to 1980s Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisites: courses 11, 41 (or equivalent). Enforced corequisite: course 182C. Empirical analysis requiring application of material from course 182C to the development of the U.S. Economy from World War I to 1980s. Focus on application of economic models and empirical analysis to understand what drove the evolution of the economy, why structural changes occurred, and why there was persistence. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 41"
+    ],
+    "corequisites": [
+      "ECON 182C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON182CL"
+  },
+  {
+    "course_code": "ECON 183",
+    "units": 4,
+    "title": "Development of Economic Institutions in U.S.",
+    "description": "Lecture, three hours. Requisites: courses 11, 103. Enforced corequisite: course 183L. Study of changing economic conditions in U.S. from Colonial times to early 20th century and effects of these changes on American society. P/NP or letter grading.",
+    "satisfies": [
+      "American History and Institutions"
+    ],
+    "prerequisites": [
+      "ECON 11",
+      "ECON 103"
+    ],
+    "corequisites": [
+      "ECON 183L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON183"
+  },
+  {
+    "course_code": "ECON 183L",
+    "units": 1,
+    "title": "Development of Economic Institutions in U.S. Laboratory",
+    "description": "Lecture, one hour; laboratory, one hour. Requisite: course 11. Enforced corequisite: course 183. Empirical analysis requiring students to apply material from course 183 to selected historical issues such as migration, slavery, industrialization, capital formation, Great Depression, human capital formation, and California development and relate them to current real-world issues. Hands-on data collection and problem solving and presentation of student analyses in writing. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11"
+    ],
+    "corequisites": [
+      "ECON 183"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON183L"
+  },
+  {
+    "course_code": "ECON 185",
+    "units": 1,
+    "title": "Career Development",
+    "description": "Lecture, one hour. Enrollment priority to departmental majors. Designed to provide Business Economics majors with key knowledge and practical skills used in real world that compliment traditional academics to maximize interview, communication, and presentation skills and strengthen r\u00e9sum\u00e9 building. Coverage of career paths in business profession in various aspects to broaden students\u2019 knowledge of career opportunities. Review of current business environment, financial markets, economy, unemployment, banking crises, market updates, and all related business topics. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON185"
+  },
+  {
+    "course_code": "ECON C186A",
+    "units": 4,
+    "title": "Seminar: Economic History",
+    "description": "Seminar, three hours. Limited to seniors. Overview of most current developments in economic history for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C246A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC186A"
+  },
+  {
+    "course_code": "ECON C186B",
+    "units": 4,
+    "title": "Seminar: Economic History",
+    "description": "Seminar, three hours. Limited to seniors. Overview of most current developments in economic history for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C246B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC186B"
+  },
+  {
+    "course_code": "ECON C186C",
+    "units": 4,
+    "title": "Seminar: Economic History",
+    "description": "Seminar, three hours. Limited to seniors. Overview of most current developments in economic history for advanced undergraduate and graduate students. Introduction to graduate-level research in this field. Different topic each week, with presentation and discussion of new papers. Research in progress presented, discussed, and criticized by visiting experts, UCLA faculty members, and advanced graduate students. Concurrently scheduled with course C246C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONC186C"
+  },
+  {
+    "course_code": "ECON 187",
+    "units": 4,
+    "title": "Upper-Division Research Seminar: Applications of Economic Theory",
+    "description": "Seminar, three hours. Requisites: courses 11, 101. Limited enrollment seminars in which students usually write research paper on topic selected in consultation with instructor. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON187"
+  },
+  {
+    "course_code": "ECON 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON188SA"
+  },
+  {
+    "course_code": "ECON 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ECON 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON188SB"
+  },
+  {
+    "course_code": "ECON 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ECON 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON188SC"
+  },
+  {
+    "course_code": "ECON M188XP",
+    "units": 4,
+    "title": "Practicum in Social Entrepreneurship",
+    "description": "(Formerly numbered M188.) (Same as Community Engagement and Social Change M188XP.) Seminar, three hours. Enrollment by consent of instructor. Offers students full-scale immersion into challenges of launching social enterprise. Students work in teams alongside staff of local nonprofit organizations in 10-week social enterprise accelerator program aimed at helping participating organizations secure financial and operational resources they need to implement social enterprise for which viable business plan has already been constructed. Students meet assigned organization, study its business plan, and work with instructors of course and staff of nonprofit organization to develop tailored plan of work for 10-week accelerator program. Students carry out work in conjunction with staff of organization under supervision of instructors and with assistance of experienced entrepreneur volunteer mentors. P/NP or letter grading.",
+    "cross_listed": [
+      "CESC M188XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECONM188XP"
+  },
+  {
+    "course_code": "ECON 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON189"
+  },
+  {
+    "course_code": "ECON 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON189HC"
+  },
+  {
+    "course_code": "ECON 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Economics",
+    "description": "Seminar, three hours. Enforced requisites: courses 101, 102, 103. Research seminars on selected topics in economics. Reading, discussion, and development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 101",
+      "ECON 102",
+      "ECON 103"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON191"
+  },
+  {
+    "course_code": "ECON 192",
+    "units": 3,
+    "title": "Undergraduate Practicum in Economics",
+    "description": "Seminar, two hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students. Students assist in preparation of course materials and development of innovative programs with guidance of faculty members. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON192"
+  },
+  {
+    "course_code": "ECON 195A",
+    "units": 2,
+    "title": "Community or Corporate Internships in Economics I",
+    "description": "Tutorial, to be arranged. Requisites: courses 11, 101. Limited to junior/senior Economics, Business Economics, Economics/International Area Studies, and Mathematics/Economics majors. Internship to be supervised by Economics Department. Further supervision to be provided by business or entity for which student is doing internship. Students meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. Only 8 units from courses 195A and 195B may be applied toward undergraduate degree. Individual contract with supervising faculty member required. P/NP grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON195A"
+  },
+  {
+    "course_code": "ECON 195B",
+    "units": 4,
+    "title": "Community or Corporate Internships in Economics II",
+    "description": "Tutorial, to be arranged. Requisites: courses 11, 101. Limited to junior/senior Economics, Business Economics, Economics/International Area Studies, and Mathematics/Economics majors. Internship to be supervised by Economics Department. Further supervision to be provided by business or entity for which student is doing internship. Students meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. Only 8 units from courses 195A and 195B may be applied toward undergraduate degree. Individual contract with supervising faculty member required. P/NP grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON195B"
+  },
+  {
+    "course_code": "ECON 195C",
+    "units": 4,
+    "title": "Community and Corporate Internships in Economics",
+    "description": "Tutorial, to be arranged; fieldwork, eight to 10 hours. Requisites: courses 11, 101. Limited to juniors/seniors. Internship in corporate, governmental, or nonprofit setting coordinated by Economics Department. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty sponsor and graduate student coordinator construct series of reading assignments that examine issues related to internship site. May not be applied toward major requirements. May be repeated for credit with consent of department. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON195C"
+  },
+  {
+    "course_code": "ECON 198A",
+    "units": 4,
+    "title": "Honors Research in Economics I",
+    "description": "Tutorial, three hours. Requisites: courses 11, 101, 102. Limited to senior departmental honors program students. First term of two-term sequence in which students develop honors thesis or comprehensive research project under direct supervision of faculty member. Individual contract required. In Progress grading (credit to be given only on completion of course 198B).",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON198A"
+  },
+  {
+    "course_code": "ECON 198B",
+    "units": 4,
+    "title": "Honors Research in Economics II",
+    "description": "Tutorial, three hours. Requisite: course 198A. Limited to senior departmental honors program students. Second term of two-term sequence in which students complete honors thesis or comprehensive research project under direct supervision of faculty member. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "ECON 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON198B"
+  },
+  {
+    "course_code": "ECON 199A",
+    "units": 4,
+    "title": "Directed Research in Economics",
+    "description": "Tutorial, three hours. Requisites: courses 11, 101, 102. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated twice but may be applied only once toward major requirements. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 101",
+      "ECON 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON199A"
+  },
+  {
+    "course_code": "ECON 199B",
+    "units": 4,
+    "title": "Directed Research in Economics/International Area Studies",
+    "description": "Tutorial, three hours. Students prepare research papers under guidance of faculty mentor on economy of country or region of specialization. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECON199B"
+  }
+]

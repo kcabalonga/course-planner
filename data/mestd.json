@@ -1,0 +1,193 @@
+[
+  {
+    "course_code": "M E STD 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD19"
+  },
+  {
+    "course_code": "M E STD M50A",
+    "units": 5,
+    "title": "First Civilizations",
+    "description": "(Same as Ancient Near East M50A.) Lecture, three hours; discussion, one hour. Survey of great civilizations of ancient Near East\u2014Egypt, Israel, and Mesopotamia\u2014with attention to emergence of writing, monotheism, and urban societies. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "AN N EA M50A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM50A"
+  },
+  {
+    "course_code": "M E STD M50B",
+    "units": 5,
+    "title": "Origins of Judaism, Christianity, and Islam",
+    "description": "(Same as Ancient Near East M50B and Religion M50.) Lecture, three hours; discussion, one hour. Examination of three major monotheisms of Western cultures\u2014Judaism, Christianity, and Islam\u2014historically and comparatively. Development, teachings, and ritual practices of each tradition up to and including medieval period. Composition and development of various sacred texts, highlighting key themes and ideas within different historical and literary strata of traditions, such as mechanisms of revelation, struggle for religious authority, and common theological issues such as origin of evil and status of nonbelievers. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "RELIGN M50",
+      "AN N EA M50B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM50B"
+  },
+  {
+    "course_code": "M E STD M50CW",
+    "units": 5,
+    "title": "Making and Studying Modern Middle East",
+    "description": "(Same as Anthropology M67W.) Lecture, three hours; discussion, one hour. Requisite: English Composition 3. Survey of modern Middle Eastern cultures through readings and films from Middle East and North Africa. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II",
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ANTHRO M67W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM50CW"
+  },
+  {
+    "course_code": "M E STD 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD89"
+  },
+  {
+    "course_code": "M E STD 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD89HC"
+  },
+  {
+    "course_code": "M E STD 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD99"
+  },
+  {
+    "course_code": "M E STD M111",
+    "units": 4,
+    "title": "Introduction to Islamic Archaeology",
+    "description": "(Same as Art History M119C and Islamic Studies M111.) Lecture, three hours. From earliest monuments of Islam in Arabia and Jerusalem to humble remains of small Egyptian port, broad focus on archaeological and standing remains in central Islamic lands (primarily Syria, Egypt, and Iraq), Turkey, Iran, North Africa, and Spain. Profound cultural transformations occurred from birth of Islam in 7th century to early Ottoman period in 16th and 17th centuries, which are traceable in material records. Assessment of effectiveness of tools afforded by historical archaeology to aid understanding of past societies. P/NP or letter grading.",
+    "cross_listed": [
+      "ISLM ST M111",
+      "ART HIS M119C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM111"
+  },
+  {
+    "course_code": "M E STD M112",
+    "units": 4,
+    "title": "Archaeology and Art of Christian and Islamic Egypt",
+    "description": "(Same as Archaeology M112, Art History M119D, and Islamic Studies M112.) Lecture, three hours. Culture of Egypt transformed gradually after Muslim conquest in mid-7th century CE. According to material evidence such as ceramics, textiles, architectural forms, and building techniques, it is functionally impossible to separate pre-Islamic Christian Egypt from early Islamic Egypt. Although population may have become largely Muslim by 10th century, Egypt remained Coptic in many senses even to 14th century and retains sizeable Christian minority to present. Survey of archaeological remains and standing architecture of Egypt from 6th to 19th century, charting changes and continuities in material culture and shifts in human geography and land use. P/NP or letter grading.",
+    "cross_listed": [
+      "ISLM ST M112",
+      "ARCHEOL M112",
+      "ART HIS M119D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM112"
+  },
+  {
+    "course_code": "M E STD C122",
+    "units": 4,
+    "title": "History, Memory, and Identity in Israel",
+    "description": "Seminar, three hours. Israeli society was born in effort to reshape images of Jewish past and has been shaken by many debates over history, recent and ancient events, and how these are represented by historical scholarship as well as in popular media and public spaces. Struggles over image of past have become central (as in many other societies) to debates about identity in present and directions, goals, and hopes for future. Exploration of ways in which struggles over past have shaped Israeli present. Examination of historiographical debates and their reflections in range of media to make some sense of ever-changing past, ways in which it shapes political, ideological, and cultural identities in present, and where meeting points are between popular discourse and work historians do. Examination of conflicting readings of past and its representation in Israeli historiography and in shaping of Israeli collective memory and identity. Concurrently scheduled with course C222. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDC122"
+  },
+  {
+    "course_code": "M E STD M133",
+    "units": 4,
+    "title": "Bible and Qur'an",
+    "description": "(Same as Religion M133.) Lecture, three hours. Survey of Hebrew Bible/Old Testament, New Testament, and Qur\u2019an to familiarize students with content of scriptures of Judaism, Christianity, and Islam, and sociocultural background from which these multifarious texts emerged, and to explore major themes and consider variety of approaches to scripture. Development of appreciation for role scripture plays in these religious systems and in American culture and society. P/NP or letter grading.",
+    "cross_listed": [
+      "RELIGN M133"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM133"
+  },
+  {
+    "course_code": "M E STD M142",
+    "units": 4,
+    "title": "Modern Israel: Politics, Society, Culture",
+    "description": "(Same as Jewish Studies M142.) Lecture, three hours. Examination of evolution of Israel\u2014its changing society, volatile domestic and foreign politics, and dynamic culture\u2014from its foundation in 1948 to present, in context of global political and cultural change and changing Jewish world. Tension between Israel\u2019s conception of itself as Jewish state and fact that it is home to wide variety of ethnic and religious groups and to great diversity of cultures; that it was envisaged as safe haven for Jewish people but has been characterized by insecurity and ongoing war; that, founded as democracy, it contends with multiple strains on its democratic system, such as tensions between Jews and Arabs, secular and religious Jews, and disparate ethnic groups. P/NP or letter grading.",
+    "cross_listed": [
+      "JEWISH M142"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM142"
+  },
+  {
+    "course_code": "M E STD M144",
+    "units": 4,
+    "title": "Zionism: Ideology and Practice in Making of Jewish State",
+    "description": "(Same as Jewish Studies M144.) Lecture, three hours; discussion, one hour. History of Zionism on backdrop of European, world, and Jewish histories from ideological origins to political, cultural, and social foundations of State of Israel. P/NP or letter grading.",
+    "cross_listed": [
+      "JEWISH M144"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM144"
+  },
+  {
+    "course_code": "M E STD M164",
+    "units": 4,
+    "title": "Archaeology of Levant",
+    "description": "(Same as Ancient Near East M164, Art History M111E, and Archeology M164.) Lecture, three hours. Survey of archaeology of Levant from late fifth millennium through arrival of Alexander the Great (circa 4500-332 BC). Examination of social, economic, political, and cultural developments through archaeological finds from geographic region bounded by Anatolia and Mesopotamia on north, Egypt to south, and Arabian Peninsula to east. Archaeological methods, theory, and practice are addressed; and geographic, environmental, climatological, and textual data are employed to establish broader context for Levantine traditions. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA M164",
+      "ARCHEOL M164",
+      "ART HIS M111E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM164"
+  },
+  {
+    "course_code": "M E STD 177",
+    "units": 4,
+    "title": "Variable Topics in Middle Eastern Studies",
+    "description": "Lecture, three hours. Variable topics; consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD177"
+  },
+  {
+    "course_code": "M E STD M178",
+    "units": 4,
+    "title": "Variable Topics",
+    "description": "(Same as Religion M178.) Seminar, three hours. Interdisciplinary approach to some major topics in study of religion and Middle Eastern studies. May be repeated for credit with topic change. P/NP or letter grading.",
+    "cross_listed": [
+      "RELIGN M178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM178"
+  },
+  {
+    "course_code": "M E STD M179SL",
+    "units": 5,
+    "title": "Movement in Art, Philosophy, and Daily Life",
+    "description": "(Same as Comparative Literature M179SL.) Seminar, three hours; fieldwork, three hours. Exploration of relation between humans and world. Only relevant output of brain, irrespective of what may or may not go on inside it, is control over movements. In living animals, sentience or consciousness exists to integrate often complex input and decide on course of action. Similarly, ownership and agency are inseparably associated with biological systems that control our movements. Movements play vital part in constructing psychosocial environment that permeates and surrounds us. Exploration of how humans and animals move, and how movement, as well as limitations of mobility, relate to personal and community identity. P/NP or letter grading.",
+    "cross_listed": [
+      "COM LIT M179SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTDM179SL"
+  },
+  {
+    "course_code": "M E STD 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD189"
+  },
+  {
+    "course_code": "M E STD 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MESTD189HC"
+  }
+]

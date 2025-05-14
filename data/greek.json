@@ -1,0 +1,422 @@
+[
+  {
+    "course_code": "GREEK 1",
+    "units": 5,
+    "title": "Elementary Greek",
+    "description": "Lecture, three hours; discussion, two hours. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK1"
+  },
+  {
+    "course_code": "GREEK 2",
+    "units": 5,
+    "title": "Elementary Greek",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "GREEK 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK2"
+  },
+  {
+    "course_code": "GREEK 3",
+    "units": 5,
+    "title": "Elementary Greek",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "GREEK 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK3"
+  },
+  {
+    "course_code": "GREEK 8A",
+    "units": 4,
+    "title": "Elementary Modern Greek",
+    "description": "Lecture, three hours. Introduction to basic elements of modern Greek conversation for beginning students, including those with some knowledge of ancient (Attic) Greek. Conducted in modern Greek, with in-class conversation drills, regular homework assignments, and weekly quizzes. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK8A"
+  },
+  {
+    "course_code": "GREEK 8B",
+    "units": 4,
+    "title": "Elementary Modern Greek",
+    "description": "Lecture, three hours. Enforced requisite: course 8A. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "GREEK 8A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK8B"
+  },
+  {
+    "course_code": "GREEK 8C",
+    "units": 4,
+    "title": "Elementary Modern Greek",
+    "description": "Lecture, three hours. Enforced requisite: course 8B. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "GREEK 8B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK8C"
+  },
+  {
+    "course_code": "GREEK 8G",
+    "units": 4,
+    "title": "Reading Scholarly Modern Greek",
+    "description": "Lecture, two and one half hours. Designed for students who want to develop literacy competence in order to read modern Greek scholarly texts. No prior knowledge of modern Greek is required. Covers grammatical concepts and forms necessary to comprehend written academic Greek. Students gain familiarity with various academic genres in Greek (among others, articles, chapters, reviews, lecture transcripts). Emphasis on grammar and reading strategies that enable location, selection, and comprehension of texts central to research needs. Students are familiarized with major stylistic features of contemporary academic modern Greek, and consolidate their competence through reading, translating, and writing activities. Familiarization with basic aspects of modern Greek life and culture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK8G"
+  },
+  {
+    "course_code": "GREEK 9A",
+    "units": 4,
+    "title": "Intermediate Modern Greek",
+    "description": "Lecture, three hours. Enforced requisite: course 8C. Course 9A is enforced requisite to 9B, which is enforced requisite to 9C. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 8C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK9A"
+  },
+  {
+    "course_code": "GREEK 9B",
+    "units": 4,
+    "title": "Intermediate Modern Greek",
+    "description": "Lecture, three hours. Enforced requisite: course 9A. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 9A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK9B"
+  },
+  {
+    "course_code": "GREEK 9C",
+    "units": 4,
+    "title": "Intermediate Modern Greek",
+    "description": "Lecture, three hours. Enforced requisite: course 9B. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 9B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK9C"
+  },
+  {
+    "course_code": "GREEK 15",
+    "units": 12,
+    "title": "Elementary Modern Greek",
+    "description": "Lecture, 18 to 19 hours. Eight-week intensive introduction to principles of speaking, reading, and writing modern (demotic) Greek. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK15"
+  },
+  {
+    "course_code": "GREEK 16",
+    "units": 12,
+    "title": "Intensive First-Year Greek",
+    "description": "Lecture, 19 hours. Eight-week intensive introduction to Greek language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK16"
+  },
+  {
+    "course_code": "GREEK 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK19"
+  },
+  {
+    "course_code": "GREEK 20",
+    "units": 4,
+    "title": "Intermediate Greek I",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 3 or 16. Formal review of Greek grammar and syntax and development of skills in reading original texts of Greek prose. Readings selected to introduce literature and culture of ancient Greece. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 3",
+      "GREEK 16"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK20"
+  },
+  {
+    "course_code": "GREEK 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK89"
+  },
+  {
+    "course_code": "GREEK 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK89HC"
+  },
+  {
+    "course_code": "GREEK 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK99"
+  },
+  {
+    "course_code": "GREEK 100",
+    "units": 4,
+    "title": "Intermediate Greek II: Readings in Greek",
+    "description": "Lecture, three hours. Requisite: course 20. Introduction to developing skills of reading longer, continuous passages of original Greek prose and/or poetry texts, with attention to literary and cultural background. Course is normally requisite to other courses in Greek 100 series. May be repeated for credit with change of assigned readings and with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK100"
+  },
+  {
+    "course_code": "GREEK 101A",
+    "units": 4,
+    "title": "Homer: Odyssey",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK101A"
+  },
+  {
+    "course_code": "GREEK 101B",
+    "units": 4,
+    "title": "Homer: Iliad",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK101B"
+  },
+  {
+    "course_code": "GREEK 102",
+    "units": 4,
+    "title": "Lyric Poets",
+    "description": "Lecture, three hours. Requisite: course 100. Selections from Archilochus to Bacchylides. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK102"
+  },
+  {
+    "course_code": "GREEK 103",
+    "units": 4,
+    "title": "Aeschylus",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK103"
+  },
+  {
+    "course_code": "GREEK 104",
+    "units": 4,
+    "title": "Sophocles",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK104"
+  },
+  {
+    "course_code": "GREEK 105",
+    "units": 4,
+    "title": "Euripides",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK105"
+  },
+  {
+    "course_code": "GREEK 106",
+    "units": 4,
+    "title": "Aristophanes",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK106"
+  },
+  {
+    "course_code": "GREEK 107",
+    "units": 4,
+    "title": "Hesiod",
+    "description": "Lecture, three hours. Requisite: course 100. Reading of Theogony and excerpts from Works and Days, with emphasis on Hesiod\u2019s place in Greek literature and his role in transmission of Greek mythology. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK107"
+  },
+  {
+    "course_code": "GREEK 110",
+    "units": 4,
+    "title": "Study of Greek Prose",
+    "description": "Lecture, three to four hours. Requisite: course 100. Work in sight reading and grammatical analysis of Attic prose texts; writing Attic prose. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK110"
+  },
+  {
+    "course_code": "GREEK 111",
+    "units": 4,
+    "title": "Herodotus",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK111"
+  },
+  {
+    "course_code": "GREEK 112",
+    "units": 4,
+    "title": "Thucydides",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK112"
+  },
+  {
+    "course_code": "GREEK 113",
+    "units": 4,
+    "title": "Attic Orators",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK113"
+  },
+  {
+    "course_code": "GREEK 115",
+    "units": 4,
+    "title": "Xenophon",
+    "description": "Lecture, three hours. Requisite: course 100. Reading of one major work of Xenophon\u2014Memorabilia, Cyropaedia, Anabasis, Hellenica, or Oeconomicus\u2014in Greek. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK115"
+  },
+  {
+    "course_code": "GREEK 121",
+    "units": 4,
+    "title": "Plato",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK121"
+  },
+  {
+    "course_code": "GREEK 122",
+    "units": 4,
+    "title": "Plato: Republic",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK122"
+  },
+  {
+    "course_code": "GREEK 123",
+    "units": 4,
+    "title": "Aristotle: Poetics and Rhetoric",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK123"
+  },
+  {
+    "course_code": "GREEK 124",
+    "units": 4,
+    "title": "Aristotle: Ethics",
+    "description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK124"
+  },
+  {
+    "course_code": "GREEK 130",
+    "units": 4,
+    "title": "Readings in New Testament",
+    "description": "Lecture, three hours. Requisite: course 3. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK130"
+  },
+  {
+    "course_code": "GREEK 131",
+    "units": 4,
+    "title": "Readings in Later Greek",
+    "description": "Lecture, three hours. Requisite: course 100. Topics vary from year to year and include Longinus, On Sublime; Marcus Aurelius; Arrian; Second Sophistic; Plutarch; later epic; epigram; epistolographi Graeci. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK131"
+  },
+  {
+    "course_code": "GREEK 132",
+    "units": 4,
+    "title": "Survey of Byzantine Literature",
+    "description": "Lecture, three hours. Requisite: course 100. Readings based on (1) Anthology of Byzantine Prose, ed. Nigel Wilson and (2) Oxford Book of Medieval and Modern Greek Verse, ed. C.A. Trypanis, or if unavailable, Poeti bizantini, ed. R. Cantarella. In addition, necessary historical and cultural background provided by readings and lectures. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK132"
+  },
+  {
+    "course_code": "GREEK 133",
+    "units": 4,
+    "title": "Readings in Byzantine Literature",
+    "description": "Lecture, three hours. Requisite: course 132. Topics vary from year to year and include Procopius, Agathias, Michael Psellus, Alexiad of Anna Comnena, and Digenis Akritas. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK133"
+  },
+  {
+    "course_code": "GREEK 140",
+    "units": 4,
+    "title": "Topics in Greek Language and Culture",
+    "description": "Seminar, three hours. Requisite: course 9C. Covers topics in modern Greek language, culture, and history. Assigned materials are predominantly in modern Greek. Topics and geographical focus are diverse, ranging from literature and cinema to culture and history of Greek America. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "GREEK 9C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK140"
+  },
+  {
+    "course_code": "GREEK 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK189"
+  },
+  {
+    "course_code": "GREEK 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK189HC"
+  },
+  {
+    "course_code": "GREEK 197",
+    "units": 2,
+    "title": "Individual Studies in Greek",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK197"
+  },
+  {
+    "course_code": "GREEK 199",
+    "units": 2,
+    "title": "Directed Research in Greek",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/GREEK199"
+  }
+]

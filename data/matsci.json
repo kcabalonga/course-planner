@@ -1,0 +1,394 @@
+[
+  {
+    "course_code": "MAT SCI 10",
+    "units": 1,
+    "title": "Freshman Seminar: New Materials",
+    "description": "Seminar, one hour; outside study, two hours. Preparation: high school chemistry and physics. Not open to students with credit for course 104. Introduction to basic concepts of materials science and new materials vital to advanced technology. Microstructural analysis and various material properties discussed in conjunction with such applications as biomedical sensors, pollution control, and microelectronics. Letter grading.",
+    "credit_exclusions": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI10"
+  },
+  {
+    "course_code": "MAT SCI 13L",
+    "units": 5,
+    "title": "Cultural (Materials) Science Investigations in Art and Archaeology",
+    "description": "Laboratory, four hours; discussion, two hours; site visits, four hours; outside study, five hours. Focus on portable X-ray fluorescence (XRF) and ultraviolet, visible, near infrared (UV/Vis/NIR) spectroscopy and forensic imaging, with emphasis on fundamentals of techniques, data collection and interpretation, and effects of weathering and post depositional and taphonomic processes to help answer questions related to ancient materials manufacturing technologies, materials variability, and human interaction with environment. Experimental techniques and analysis of materials through: X-ray fluorescence spectroscopy (XRF); fiber optic reflectance spectroscopy (FORS); and forensic multispectral imaging. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI13L"
+  },
+  {
+    "course_code": "MAT SCI 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI19"
+  },
+  {
+    "course_code": "MAT SCI 33W",
+    "units": 5,
+    "title": "Materials Structure and Technology in Archaeology and Architecture",
+    "description": "(Formerly numbered 33.) Seminar, three hours; laboratory, two hours; discussion, one hour; outside study, nine hours. Requisite: English Composition 3. Exploration of three classes of materials and composites, and relationships that exist between structural elements of materials and their properties: vitreous materials, building material binders, and pigments and colorants. Through study of ancient materials and technology in archaeology and architecture, exploration of relationships among processing, structure, properties, and performance for: vitreous materials\u2014ceramics, frits, and glass; building material binders\u2014aerial lime-based mortars, natural and artificial hydraulic lime/cements and concretes; and pigments and colorants (natural and synthetic organic, inorganic, and organic/inorganic hybrids). Through reverse engineering processing, exploration of ancient engineering materials (their micro/nano structure and physical, chemical, and mechanical properties), and their durability and sustainability as time-proven examples of technology innovation and/or invention. Letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI33W"
+  },
+  {
+    "course_code": "MAT SCI 90L",
+    "units": 2,
+    "title": "Physical Measurement in Materials Engineering",
+    "description": "Laboratory, four hours; outside study, two hours. Various physical measurement methods used in materials science and engineering. Mechanical, thermal, electrical, magnetic, and optical techniques. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI90L"
+  },
+  {
+    "course_code": "MAT SCI 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI99"
+  },
+  {
+    "course_code": "MAT SCI 104",
+    "units": 4,
+    "title": "Science of Engineering Materials",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Requisites: Chemistry 20A, 20B, 20L, Physics 1A. Corequisite: Physics 1B. General introduction to different types of materials used in engineering designs: metals, ceramics, plastics, and composites, relationship between structure (crystals and microstructure) and properties of technological materials. Illustration of their fundamental differences and their applications in engineering. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A",
+      "CHEM 20B",
+      "CHEM 20L",
+      "PHYSICS 1A"
+    ],
+    "corequisites": [
+      "PHYSICS 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI104"
+  },
+  {
+    "course_code": "MAT SCI 105",
+    "units": 4,
+    "title": "Principles of Nanoscience and Nanotechnology",
+    "description": "(Formerly numbered M105.) Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Chemistry 20A, 20B, Physics 1C. Introduction to underlying science encompassing structure, properties, and fabrication of technologically important nanoscale systems. New phenomena that emerge in very small systems (typically with feature sizes below few hundred nanometers) explained using basic concepts from physics and chemistry. Chemical, optical, and electronic properties, electron transport, structural stability, self-assembly, templated assembly and applications of various nanostructures such as quantum dots, nanoparticles, quantum wires, quantum wells and multilayers, carbon nanotubes. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A",
+      "CHEM 20B",
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI105"
+  },
+  {
+    "course_code": "MAT SCI 110",
+    "units": 4,
+    "title": "Introduction to Materials Characterization A (Crystal Structure, Nanostructures, and X-Ray Scattering)",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Modern methods of materials characterization; fundamentals of crystallography, properties of X rays, X-ray scattering; powder method, Laue method; determination of crystal structures; phase diagram determination; high-resolution X-ray diffraction methods; X-ray spectroscopy; design of materials characterization procedures. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI110"
+  },
+  {
+    "course_code": "MAT SCI 110L",
+    "units": 2,
+    "title": "Introduction to Materials Characterization A Laboratory",
+    "description": "Laboratory, four hours; outside study, two hours. Enforced requisite: course 104. Experimental techniques and analysis of materials through X-ray scattering techniques; powder method, crystal structure determination, high-resolution X-ray diffraction methods, and special projects. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI110L"
+  },
+  {
+    "course_code": "MAT SCI C111",
+    "units": 4,
+    "title": "Introduction to Materials Characterization B (Electron Microscopy)",
+    "description": "(Formerly numbered 111.) Lecture, four hours; outside study, eight hours. Characterization of microstructure and microchemistry of materials; transmission electron microscopy; reciprocal lattice, electron diffraction, stereographic projection, direct observation of defects in crystals, replicas; scanning electron microscopy: emissive and reflective modes; chemical analysis; electron optics of both instruments. Concurrently scheduled with course C211. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCIC111"
+  },
+  {
+    "course_code": "MAT SCI 111L",
+    "units": 2,
+    "title": "Introduction to Materials Characterization B Laboratory",
+    "description": "Laboratory, four hours; outside study, two hours. Enforced requisite: course 111. Experimental techniques and analysis of materials through electron microscopy. Determination of morphology, microstructure, and crystallinity of samples. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI111L"
+  },
+  {
+    "course_code": "MAT SCI C112",
+    "units": 4,
+    "title": "Cultural Materials Science II: Characterization Methods in Conservation of Materials",
+    "description": "Lecture, four hours. Preparation: general chemistry, inorganic and organic chemistry, materials science. Principles and methods of materials characterization in conservation: optical and electron microscopy, X-ray and electron spectroscopy, X-ray diffraction, infrared spectroscopy, reflectance spectroscopy and multispectral imaging spectroscopy, chromatography, design of archaeological and ethnographic materials characterization procedures. Concurrently scheduled with course C212. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCIC112"
+  },
+  {
+    "course_code": "MAT SCI 120",
+    "units": 4,
+    "title": "Physics of Materials",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 104, 110 (or Chemistry 113A). Introduction to electrical, optical, and magnetic properties of solids. Free electron model, introduction to band theory and Schr\u00f6dinger wave equation. Crystal bonding and lattice vibrations. Mechanisms and characterization of electrical conductivity, optical absorption, magnetic behavior, dielectrical properties, and p-n junctions. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104",
+      "MAT SCI 110",
+      "CHEM 113A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI120"
+  },
+  {
+    "course_code": "MAT SCI 121",
+    "units": 4,
+    "title": "Materials Science of Semiconductors",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 120. Structure and properties of elemental and compound semiconductors. Electrical and optical properties, defect chemistry, and doping. Electronic materials analysis and characterization, including electrical, optical, and ion-beam techniques. Heterostructures, band-gap engineering, development of new materials for optoelectronic applications. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI121"
+  },
+  {
+    "course_code": "MAT SCI 121L",
+    "units": 2,
+    "title": "Materials Science of Semiconductors Laboratory",
+    "description": "Lecture, 30 minutes; discussion, 30 minutes; laboratory, two hours; outside study, three hours. Enforced corequisite: course 121. Experiments conducted on materials characterization, including measurements of contact resistance, dielectric constant, and thin film biaxial modulus and CTE. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 121"
+    ],
+    "corequisites": [
+      "MAT SCI 121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI121L"
+  },
+  {
+    "course_code": "MAT SCI 122",
+    "units": 4,
+    "title": "Principles of Electronic Materials Processing",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Description of basic semiconductor materials for device processing; preparation and characterization of silicon, III-V compounds, and films. Discussion of principles of CVD, MOCVD, LPE, and MBE; metals and dielectrics. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI122"
+  },
+  {
+    "course_code": "MAT SCI 130",
+    "units": 4,
+    "title": "Phase Relations in Solids",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 104. Summary of thermodynamic laws, equilibrium criteria, solution thermodynamics, mass-action law, binary and ternary phase diagrams, glass transitions. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI130"
+  },
+  {
+    "course_code": "MAT SCI 131",
+    "units": 4,
+    "title": "Diffusion and Diffusion-Controlled Reactions",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 130 or Chemistry 110A. Diffusion in metals and ionic solids, nucleation and growth theory; precipitation from solid solution, eutectoid decomposition, design of heat treatment processes of alloys, growth of intermediate phases, gas-solid reactions, design of oxidation-resistant alloys, recrystallization, and grain growth. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 130",
+      "CHEM 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI131"
+  },
+  {
+    "course_code": "MAT SCI 131L",
+    "units": 2,
+    "title": "Diffusion and Diffusion-Controlled Reactions Laboratory",
+    "description": "Laboratory, two hours; outside study, four hours. Enforced corequisite: course 131. Design of heat-treating cycles and performing experiments to study interdiffusion, growth of intermediate phases, recrystallization, and grain growth in metals. Analysis of data. Comparison of results with theory. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 131"
+    ],
+    "corequisites": [
+      "MAT SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI131L"
+  },
+  {
+    "course_code": "MAT SCI 132",
+    "units": 4,
+    "title": "Structure and Properties of Metallic Alloys",
+    "description": "Lecture, four hours; outside study, eight hours. Enforced requisite: course 131. Physical metallurgy of steels, lightweight alloys (Al and Ti), and superalloys. Strengthening mechanisms, microstructural control methods for strength and toughness improvement. Grain boundary segregation. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI132"
+  },
+  {
+    "course_code": "MAT SCI 140A",
+    "units": 3,
+    "title": "Materials Selection and Engineering Design A",
+    "description": "Lecture, two hours; laboratory, two hours; outside study, five hours. Enforced requisites: two courses from 132, 150, 160. Explicit guidance among myriad materials available for design in engineering. Properties and applications of steels, nonferrous alloys, polymeric, ceramic, and composite materials, coatings. Materials selection, treatment, and serviceability emphasized as part of successful design. Design projects. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 132",
+      "MAT SCI 150",
+      "MAT SCI 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI140A"
+  },
+  {
+    "course_code": "MAT SCI 140B",
+    "units": 3,
+    "title": "Materials Selection and Engineering Design B",
+    "description": "Lecture, two hours; laboratory, two hours; outside study, five hours. Enforced requisite: course 140A. Explicit guidance among myriad materials available for design in engineering. Properties and applications of steels, nonferrous alloys, polymeric, ceramic, and composite materials, coatings. Materials selection, treatment, and serviceability emphasized as part of successful design. Design projects. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 140A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI140B"
+  },
+  {
+    "course_code": "MAT SCI 141L",
+    "units": 2,
+    "title": "Computer Methods and Instrumentation in Materials Science",
+    "description": "Laboratory, four hours. Preparation: knowledge of BASIC or C or assembly language. Limited to junior/senior Materials Science and Engineering majors. Interface and control techniques, real-time data acquisition and processing, computer-aided testing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI141L"
+  },
+  {
+    "course_code": "MAT SCI 143A",
+    "units": 4,
+    "title": "Mechanical Behavior of Materials",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: course 104, Mechanical and Aerospace Engineering 101. Plastic flow of metals under simple and combined loading, strain rate and temperature effects, dislocations, fracture, microstructural effects, mechanical and thermal treatment of steel for engineering applications. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104",
+      "MECH&AE 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI143A"
+  },
+  {
+    "course_code": "MAT SCI 143L",
+    "units": 2,
+    "title": "Mechanical Behavior Laboratory",
+    "description": "Laboratory, four hours. Requisites: courses 90L, 143A (may be taken concurrently). Methods of characterizing mechanical behavior of various materials; elastic and plastic deformation, fracture toughness, fatigue, and creep. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 90L",
+      "MAT SCI 143A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI143L"
+  },
+  {
+    "course_code": "MAT SCI 150",
+    "units": 4,
+    "title": "Introduction to Polymers",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Polymerization mechanisms, molecular weight and distribution, chemical structure and bonding, structure crystallinity, and morphology and their effects on physical properties. Glassy polymers, springy polymers, elastomers, adhesives. Fiber forming polymers, polymer processing technology, plasticiation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI150"
+  },
+  {
+    "course_code": "MAT SCI 151",
+    "units": 4,
+    "title": "Structure and Properties of Composite Materials",
+    "description": "Lecture, four hours; outside study, eight hours. Preparation: at least two courses from 132, 143A, 150, 160. Requisite: course 104. Relationship between structure and mechanical properties of composite materials with fiber and particulate reinforcement. Properties of fiber, matrix, and interfaces. Selection of macrostructures and material systems. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI151"
+  },
+  {
+    "course_code": "MAT SCI 160",
+    "units": 4,
+    "title": "Introduction to Ceramics and Glasses",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 104, 130. Introduction to ceramics and glasses being used as important materials of engineering, processing techniques, and unique properties. Examples of design and control of properties for certain specific applications in engineering. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104",
+      "MAT SCI 130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI160"
+  },
+  {
+    "course_code": "MAT SCI 161",
+    "units": 4,
+    "title": "Processing of Ceramics and Glasses",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 160. Study of processes used in fabrication of ceramics and glasses for structural applications, optics, and electronics. Processing operations, including modern techniques of powder synthesis, greenware forming, sintering, glass melting. Microstructure properties relations in ceramics. Fracture analysis and design with ceramics. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI161"
+  },
+  {
+    "course_code": "MAT SCI 161L",
+    "units": 2,
+    "title": "Laboratory in Ceramics",
+    "description": "Laboratory, four hours. Requisite: course 160. Recommended corequisite: course 161. Processing of common ceramics and glasses. Attainment of specific properties through process control for engineering applications. Quantitative characterization and selection of raw materials. Slip casting and extrusion of clay bodies. Sintering of powders. Glass melting and fabrication. Determination of chemical and physical properties. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 160"
+    ],
+    "corequisites": [
+      "MAT SCI 161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI161L"
+  },
+  {
+    "course_code": "MAT SCI 162",
+    "units": 4,
+    "title": "Electronic Ceramics",
+    "description": "Lecture, four hours; outside study, eight hours. Requisites: course 104, Physics 1C. Utilization of ceramics in microelectronics; thick film and thin film resistors, capacitors, and substrates; design and processing of electronic ceramics and packaging; magnetic ceramics; ferroelectric ceramics and electro-optic devices; optical wave guide applications and designs. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104",
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI162"
+  },
+  {
+    "course_code": "MAT SCI CM163",
+    "units": 4,
+    "title": "Electrochemical Processes",
+    "description": "(Same as Chemical Engineering CM114.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 130 (or Mechanical and Aerospace Engineering 105A), Chemical Engineering 102B. Fundamentals of electrochemistry and engineering applications to industrial electrochemical processes. Primary emphasis on fundamental approach to analyze electrochemical processes. Specific topics include electrochemical reactions on metal and semiconductor surfaces, electrodeposition, electroless deposition, electrosynthesis, fuel cells, aqueous and non-aqueous batteries, solid-state electrochemistry. May be concurrently scheduled with course CM263. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 130",
+      "MECH&AE 105A",
+      "CH ENGR 102B"
+    ],
+    "cross_listed": [
+      "CH ENGR CM114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCICM163"
+  },
+  {
+    "course_code": "MAT SCI 170",
+    "units": 2,
+    "title": "Engaging Elements of Communication: Oral Communication",
+    "description": "Lecture, one hour; discussion, one hour; outside study, four hours. Comprehensive oral presentation and communication skills provided by building on strengths of individual personal styles in creation of positive interpersonal relations. Skill set prepares students for different types of academic and professional presentations for wide range of audiences. Learning environment is highly supportive and interactive as it helps students creatively develop and greatly expand effectiveness of their communication and presentation skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI170"
+  },
+  {
+    "course_code": "MAT SCI 171",
+    "units": 2,
+    "title": "Engaging Elements of Communication: Writing for Technical Community",
+    "description": "Lecture, one hour; discussion, one hour; outside study, four hours. Comprehensive technical writing skills on subjects specific to field of materials science and engineering. Students write review term paper in selected subject field of materials science and engineering from given set of journal publications. Instruction leads students through several crucial steps, including brainstorming, choosing title, coming up with outline, concise writing of abstract, conclusion, and final polishing. Other subjects include writing style, word choices, and grammar. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI171"
+  },
+  {
+    "course_code": "MAT SCI CM180",
+    "units": 4,
+    "title": "Introduction to Biomaterials",
+    "description": "(Same as Bioengineering CM178.) Lecture, three hours; discussion, two hours; outside study, seven hours. Requisites: course 104, or Chemistry 20A, 20B, and 20L. Engineering materials used in medicine and dentistry for repair and/or restoration of damaged natural tissues. Topics include relationships between material properties, suitability to task, surface chemistry, processing and treatment methods, and biocompatibility. Concurrently scheduled with course CM280. Letter grading.",
+    "prerequisites": [
+      "MAT SCI 104",
+      "CHEM 20A",
+      "CHEM 20B",
+      "CHEM 20L"
+    ],
+    "cross_listed": [
+      "BIOENGR CM178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCICM180"
+  },
+  {
+    "course_code": "MAT SCI 188",
+    "units": 4,
+    "title": "Special Courses in Materials Science and Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Special topics in materials science and engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI188"
+  },
+  {
+    "course_code": "MAT SCI 194",
+    "units": 4,
+    "title": "Research Group Seminars: Materials Science and Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI194"
+  },
+  {
+    "course_code": "MAT SCI 199",
+    "units": 2,
+    "title": "Directed Research in Materials Science and Engineering",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. Occasional field trips may be arranged. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/MATSCI199"
+  }
+]

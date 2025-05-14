@@ -1,0 +1,1027 @@
+[
+  {
+    "course_code": "PHYSICS 1A",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Mechanics",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: Mathematics 31A, 31B. Enforced corequisite: Mathematics 32A. Motion, Newton laws, work, energy, linear and angular momentum, rotation, equilibrium, gravitation. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1A"
+  },
+  {
+    "course_code": "PHYSICS 1AH",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Mechanics (Honors)",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: Mathematics 31A, 31B. Enforced corequisite: Mathematics 32A. Recommended corequisite: Mathematics 32B. Enriched preparation for upper-division physics courses. Same material as course 1A but in greater depth; recommended for Physics majors and other students desiring such coverage. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "MATH 32A"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1AH"
+  },
+  {
+    "course_code": "PHYSICS 1B",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, Mathematics 31B, 32A. Enforced corequisite: Mathematics 32B. Fluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 1A",
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "corequisites": [
+      "MATH 32B"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1BH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1B"
+  },
+  {
+    "course_code": "PHYSICS 1BH",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (Honors)",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1AH or 1A, Mathematics 31B, 32A. Enforced corequisite: Mathematics 32B. Recommended corequisite: Mathematics 33A. Enriched preparation for upper-division physics courses. Same material as course 1B but in greater depth; recommended for Physics majors and other students desiring such coverage. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 1AH",
+      "PHYSICS 1A",
+      "MATH 31B",
+      "MATH 32A"
+    ],
+    "corequisites": [
+      "MATH 32B"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1BH"
+  },
+  {
+    "course_code": "PHYSICS 1C",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, 1B, Mathematics 32A, 32B. Enforced corequisite: Mathematics 33A. Magnetic fields, Ampere\u2019s law, Faraday\u2019s law, inductance, and alternating current circuits. Maxwell\u2019s equations, electromagnetic waves, light, geometrical optics, interference and diffraction. Special relativity. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "MATH 32A",
+      "MATH 32B"
+    ],
+    "corequisites": [
+      "MATH 33A"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1CH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1C"
+  },
+  {
+    "course_code": "PHYSICS 1CH",
+    "units": 5,
+    "title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity (Honors)",
+    "description": "Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: courses 1AH or 1A, 1BH or 1B, Mathematics 32A, 32B. Enforced corequisite: Mathematics 33A. Recommended corequisite: Mathematics 33B. Enriched preparation for upper-division physics courses. Same material as course 1C but in greater depth; recommended for Physics majors and other students desiring such coverage. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 1AH",
+      "PHYSICS 1A",
+      "PHYSICS 1BH",
+      "PHYSICS 1B",
+      "MATH 32A",
+      "MATH 32B"
+    ],
+    "corequisites": [
+      "MATH 33A"
+    ],
+    "equivalent_courses": [
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS1CH"
+  },
+  {
+    "course_code": "PHYSICS 4AL",
+    "units": 2,
+    "title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+    "description": "Laboratory, four hours. Enforced requisite: course 1A or 1AH. Enforced corequisite: course 1B or 1BH. Computerized measurements of uniform and accelerated motion, including oscillations. Analysis of data and comparison of results to predictions, including least-squares fitting. Conception, execution, and presentation of creative projects involving motion. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1AH"
+    ],
+    "corequisites": [
+      "PHYSICS 1B",
+      "PHYSICS 1BH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS4AL"
+  },
+  {
+    "course_code": "PHYSICS 4BL",
+    "units": 2,
+    "title": "Physics Laboratory for Scientists and Engineers: Electricity and Magnetism",
+    "description": "Laboratory, four hours. Enforced requisites: courses 1A or 1AH, 1B or 1BH. Enforced corequisite: course 1C or 1CH. Sound waves and electric circuits, taken by digital oscilloscopes and analyzed by Fourier transformation. Geometrical and physical optics. Conception, execution, and presentation of creative projects involving sound waves or electric circuits. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1AH",
+      "PHYSICS 1B",
+      "PHYSICS 1BH"
+    ],
+    "corequisites": [
+      "PHYSICS 1C",
+      "PHYSICS 1CH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS4BL"
+  },
+  {
+    "course_code": "PHYSICS 5A",
+    "units": 5,
+    "title": "Physics for Life Sciences Majors: Mechanics and Energy",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, two hours. Requisites: Life Sciences 30A, 30B, or Mathematics 3A, 3B, 3C (3C may be taken concurrently). Statics and dynamics of forces, motion, energy, including thermal energy, with applications to biological and biochemical systems. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 3C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS5A"
+  },
+  {
+    "course_code": "PHYSICS 5B",
+    "units": 5,
+    "title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, two hours. Requisite: course 5A. Thermal properties of matter, free energy, fluids, ideal gas, diffusion, oscillations, waves, sounds, light, and optics, with applications to biological and biochemical systems. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 5A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS5B"
+  },
+  {
+    "course_code": "PHYSICS 5C",
+    "units": 5,
+    "title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, two hours. Requisite: course 5A. Electrostatics in vacuum and in water. Electricity, circuits, magnetism, quantum, atomic and nuclear physics, radioactivity, with applications to biological and biochemical systems. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "PHYSICS 5A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS5C"
+  },
+  {
+    "course_code": "PHYSICS 10",
+    "units": 4,
+    "title": "Physics",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 1A, 1AH, 5A, or 6A. Special mathematical preparation beyond that necessary for admission to University in freshman standing not required. Topics include planetary motion, Newton laws, gravitation, electricity and magnetism, wave motion, light, sound, and heat, relativity, quantum mechanics, atoms, and subatomic particles. As time permits, development of physical ideas placed in cultural and historical perspective. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "credit_exclusions": [
+      "PHYSICS 5A",
+      "PHYSICS 1A",
+      "PHYSICS 1AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS10"
+  },
+  {
+    "course_code": "PHYSICS 11",
+    "units": 4,
+    "title": "Revolutions in Physics",
+    "description": "Lecture, three hours; discussion, one hour. Survey of modern physics intended for general UCLA students. Overview of classical physics from late 19th century and its growing set of dilemmas. Revolutions of relativity and quantum mechanics that have led to much deeper understanding of structure and evolution of our Universe. Specific topics include special and general relativity, cosmology (Big Bang), quantization of light, nucleus and radioactivity, origin of elements, and quantum mechanics. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS11"
+  },
+  {
+    "course_code": "PHYSICS 12",
+    "units": 4,
+    "title": "Physics of Sustainable Energy",
+    "description": "Lecture, three hours; discussion, one hour. Special mathematical preparation beyond that necessary for admission to UCLA in freshman standing not required. Discussion of physics underpinnings of energy sources and consumption, with emphasis on renewables. Global view of energy balance in our lives from point of view of physical processes. Ways in which energy is used in everyday life (transportation, heating, cooling), and ways in which it is produced, covering all common and speculative sources of energy from fossil fuels to solar, wind, nuclear, and fusion. Fundamental physical limitations of each technology to master concepts such as efficiency of thermodynamic cycles and of chemical and nuclear reactions. Quantitative estimation of amount of energy students use in their daily lives and what physical processes could produce it. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS12"
+  },
+  {
+    "course_code": "PHYSICS 17",
+    "units": 4,
+    "title": "Modern Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH). Corequisite: course 32. Photons, black-body radiation, photoelectric effect, uncertainty principle, Bohr atom, Schr\u00f6dinger equation, hydrogen atom, and selected topics in atomic, solid-state, nuclear, and particle physics. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH"
+    ],
+    "corequisites": [
+      "PHYSICS 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS17"
+  },
+  {
+    "course_code": "PHYSICS 18L",
+    "units": 4,
+    "title": "Modern Physics Laboratory",
+    "description": "Lecture, one hour; laboratory, six hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 4AL, 4BL, 17. Experiments on radioactivity, scattering, Planck constant, superconductivity, superfluidity. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 4AL",
+      "PHYSICS 4BL",
+      "PHYSICS 17"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS18L"
+  },
+  {
+    "course_code": "PHYSICS 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS19"
+  },
+  {
+    "course_code": "PHYSICS 32",
+    "units": 4,
+    "title": "Mathematical Methods",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, 1C (or 1AH, 1BH, 1CH), Mathematics 32A, 32B, 33A. Corequisite: Mathematics 33B. Vectors and fields; operators and transformations; matrices, tensors, and differential forms; ordinary differential equations and integral theorems; Fourier transform. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A"
+    ],
+    "corequisites": [
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS32"
+  },
+  {
+    "course_code": "PHYSICS 88",
+    "units": 2,
+    "title": "Lower-Division Seminar: Current Topics in Physics",
+    "description": "Limited to freshmen/sophomores. Intensive exploration of a particular theme or topic based on current research. Consult Schedule of Classes for topics to be offered in a specific term. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS88"
+  },
+  {
+    "course_code": "PHYSICS 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS89"
+  },
+  {
+    "course_code": "PHYSICS 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS89HC"
+  },
+  {
+    "course_code": "PHYSICS 98XA",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+    "description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in physics for life sciences majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of problem-solving skills and intuition in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS98XA"
+  },
+  {
+    "course_code": "PHYSICS 98XB",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors",
+    "description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in physics for physical sciences and engineering majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of problem-solving skills and intuition in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS98XB"
+  },
+  {
+    "course_code": "PHYSICS 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS99"
+  },
+  {
+    "course_code": "PHYSICS 105A",
+    "units": 4,
+    "title": "Analytic Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 32. Corequisite: Mathematics 33B. Newtonian mechanics and conservation laws, gravitational potentials, calculus of variations, Lagrangian and Hamiltonian mechanics, central force motion, linear and nonlinear oscillations. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 32"
+    ],
+    "corequisites": [
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS105A"
+  },
+  {
+    "course_code": "PHYSICS 105B",
+    "units": 4,
+    "title": "Analytic Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 105A. Conserved quantities, collisions and scattering, special relativity, non-inertial reference frames, rigid bodies, coupled oscillators, and normal modes. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS105B"
+  },
+  {
+    "course_code": "PHYSICS 108",
+    "units": 4,
+    "title": "Optical Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110B. Interaction of light with matter; dispersion theory, oscillator strength, line widths, molecular scattering. Coherence theory, Kirchhoff formulation of diffraction theory, crystal optics, optical rotation, electro and magneto optical effects. Additional topics of fundamental or current interest. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS108"
+  },
+  {
+    "course_code": "PHYSICS 110A",
+    "units": 4,
+    "title": "Electricity and Magnetism",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 32. Electrostatics and magnetostatics. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS110A"
+  },
+  {
+    "course_code": "PHYSICS 110B",
+    "units": 4,
+    "title": "Electricity and Magnetism",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 110A. Corequisite: course 105B. Maxwell\u2019s equations, electromagnetic waves, potential and fields, radiation, Lorentz invariance. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 110A"
+    ],
+    "corequisites": [
+      "PHYSICS 105B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS110B"
+  },
+  {
+    "course_code": "PHYSICS 112",
+    "units": 4,
+    "title": "Thermal Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 115A. Corequisite: course 115B. Fundamentals of thermodynamics and statistical mechanics. Classical and quantum ensembles. Simple applications including heat engines and pumps. Degenerate Fermi gases, Bose condensates, and blackbody radiation. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 115A"
+    ],
+    "corequisites": [
+      "PHYSICS 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS112"
+  },
+  {
+    "course_code": "PHYSICS 114",
+    "units": 4,
+    "title": "Mechanics of Wave Motion and Sound",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 105A, 105B, Mathematics 32B, 33A, 33B. Vibrating systems and wave propagation in gases, liquids, and solids, including elements of hydrodynamics and elasticity. Applications in ultrasonics, low-temperature physics, solid-state physics, architectural acoustics. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 105A",
+      "PHYSICS 105B",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS114"
+  },
+  {
+    "course_code": "PHYSICS 115A",
+    "units": 4,
+    "title": "Quantum Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 17, 32, 105A. Classical background. Basic ideas of quantum nature of light, wave-particle duality, Heisenberg uncertainty principle, Schr\u00f6dinger equation. One-dimensional square well and harmonic oscillator problems. One-dimensional scattering, Formal theory, Hilbert spaces, and Dirac notation. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 17",
+      "PHYSICS 32",
+      "PHYSICS 105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS115A"
+  },
+  {
+    "course_code": "PHYSICS 115B",
+    "units": 4,
+    "title": "Quantum Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 115A. Corequisite: course 105B. Three-dimensional problems. Central potentials. Hydrogen atom. Angular momentum and spin, identical particles, and Pauli exclusion principle. Electrons in electromagnetic field. Symmetries. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 115A"
+    ],
+    "corequisites": [
+      "PHYSICS 105B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS115B"
+  },
+  {
+    "course_code": "PHYSICS 115C",
+    "units": 4,
+    "title": "Quantum Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 115B. Time-independent perturbation theory, application to atomic spectra. Time-dependent perturbation theory. Fermi\u2019s golden rule. Scattering. Wentzel-Kramers-Brillouin (WKB) approximation. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS115C"
+  },
+  {
+    "course_code": "PHYSICS 118",
+    "units": 4,
+    "title": "Electronics for Physical Measurements",
+    "description": "Lecture, three hours; laboratory, four hours. Requisites: courses 1A, 1B, 1C, 117, Mathematics 32A, 32B, 33A. Provides students with opportunity to apply basic knowledge of circuit design for purpose of building stand-alone circuits with function related to control or measurement. Examples of physics-oriented projects include radio-frequency detection and measurement of mechanical resonances of bar, FM transmitter, speed of sound using radio-frequency pulsed ultrasound, sun-following pointers, cosmic ray detector. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 117",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS118"
+  },
+  {
+    "course_code": "PHYSICS M122",
+    "units": 4,
+    "title": "Introduction to Plasma Science and Engineering",
+    "description": "(Same as Earth, Planetary, and Space Sciences M156 and Electrical and Computer Engineering M185.) Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 110B or Electrical and Computer Engineering 101A. Senior-level introductory course on electrodynamics of charged particles and their collective behavior in plasmas in laboratory, near-Earth space and astrophysical settings. Covers selected applications taken from fusion energy, space weather, materials processing, generation of coherent radiation and particle accelerators. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 110B",
+      "EC ENGR 101A"
+    ],
+    "cross_listed": [
+      "EPS SCI M156",
+      "EC ENGR M185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSM122"
+  },
+  {
+    "course_code": "PHYSICS 123",
+    "units": 4,
+    "title": "Atomic Structure",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Corequisite: course 115C. Theory of atomic structure. Interaction of radiation with matter. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "PHYSICS 115C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS123"
+  },
+  {
+    "course_code": "PHYSICS 124",
+    "units": 4,
+    "title": "Nuclear Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Corequisite: course 115C. Nuclear properties, nuclear forces, nuclear structure, nuclear decays, and nuclear reactions. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "PHYSICS 115C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS124"
+  },
+  {
+    "course_code": "PHYSICS 126",
+    "units": 4,
+    "title": "Elementary Particle Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Corequisite: course 115C. Introduction to physics of elementary particles. The four basic interactions: strong, electromagnetic, weak, and gravitational. Properties of baryons, mesons, quarks, and leptons; conservation laws, symmetries and broken symmetries; the Standard Model; experimental techniques; new physics at the new accelerators. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "PHYSICS 115C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS126"
+  },
+  {
+    "course_code": "PHYSICS 127",
+    "units": 4,
+    "title": "General Relativity",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 32, 105B, 110A, 110B. Recommended: courses 115A, 115B, 115C. Introduction to general relativity. Principle of equivalence and curved spacetime, local inertial frames, vectors and three-dimensional surfaces in curved spacetime. Schwarzchild metric, perihelion precession, bending of light by sun, and gravitational redshift. Star-system applications, black holes, gravitational waves. Introduction to cosmology, including Robertson/Walker metric and expanding universe solution to Friedman equations. Dark energy and cosmological constant. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 32",
+      "PHYSICS 105B",
+      "PHYSICS 110A",
+      "PHYSICS 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS127"
+  },
+  {
+    "course_code": "PHYSICS 128",
+    "units": 4,
+    "title": "Cosmology and Particle Astrophysics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 115A, 115B, 126. Introduction to cosmology and high-energy particle astrophysics, based on latest developments of both experiment and theory. Special emphasis on unified picture of universe that emerges from particle physics, astronomy, and cosmology. Extensive discussion of unsolved problems and future prospects to help students determine their opportunities in future. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 115A",
+      "PHYSICS 115B",
+      "PHYSICS 126"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS128"
+  },
+  {
+    "course_code": "PHYSICS 131",
+    "units": 4,
+    "title": "Mathematical Methods of Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Vectors and fields in space, linear transformations, matrices, and operators; Fourier series and integrals. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS131"
+  },
+  {
+    "course_code": "PHYSICS 132",
+    "units": 4,
+    "title": "Mathematical Methods of Physics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Functions of a complex variable, including Riemann surfaces, analytic functions, Cauchy theorem and formula, Taylor and Laurent series, calculus of residues, and Laplace transforms. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 131",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS132"
+  },
+  {
+    "course_code": "PHYSICS 140A",
+    "units": 4,
+    "title": "Introduction to Solid-State Physics",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 112. Introduction to basic theoretical concepts of solid-state physics with applications. Crystal symmetry; cohesive energy; diffraction of electron, neutron, and electromagnetic waves in a lattice; reciprocal lattice; phonons and their interactions; free electron theory of metals; energy bands. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 112"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS140A"
+  },
+  {
+    "course_code": "PHYSICS 140B",
+    "units": 4,
+    "title": "Quantum States of Matter",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: courses 112, 115A. Recommended: courses 115B, 115C, 140A. Introduction to various phases of matter that exhibit quantum mechanics on a macroscopic scale. Topics may include superconductivity, superfluidity, magnetism, density waves, and the integer quantum Hall effect. Landau's phenomenological theory of symmetry-breaking phase transitions, including the application of Ginzburg-Landau theory to superconductivity. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 112",
+      "PHYSICS 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS140B"
+  },
+  {
+    "course_code": "PHYSICS 144",
+    "units": 4,
+    "title": "Polymer Physics",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: courses 105A, 110A, and 112 or Chemistry 110A. How physical properties of polymers can be derived from mathematical models of chains and coils. Comparison of these models to calculations based on random walk problem and used to predict mechanical characteristics of large molecules. Study of networks of polymers and polymeric fluids, with focus on their viscoelastic properties. Discussion of movement of individual polymers within melts. Study of examples of more complex structures, such as polymer fractals. Consideration of applications of this work to biology, with focus on their potential role in evolution and current hypotheses on origins of life. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105A",
+      "PHYSICS 110A",
+      "PHYSICS 112",
+      "CHEM 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS144"
+  },
+  {
+    "course_code": "PHYSICS 150",
+    "units": 4,
+    "title": "Physics of Charged-Particle and Laser Beams",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110A, 110B, 115A, 115B. Physics of charged-particle and laser beams presented as a unified subject. Basic physics of charged-particle beams, covering relativistic particle motion in electromagnetic fields, transverse focusing, acceleration mechanisms, linear and circular accelerators, and advanced topics. Some fundamentals of laser physics, including gain and broadening mechanisms, linear light optics, laser resonators, and advanced topics and applications. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 110A",
+      "PHYSICS 110B",
+      "PHYSICS 115A",
+      "PHYSICS 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS150"
+  },
+  {
+    "course_code": "PHYSICS 170A",
+    "units": 4,
+    "title": "Electronics for Physics Measurement",
+    "description": "(Formerly numbered 117.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Hands-on experimental course to develop understanding of design principles in modern electronics for physics measurements. Broad introduction to analog and digital electronics from practical viewpoint, followed by examination of typical circuits for scientific instrumentation and study of methods of computer data acquisition and signal processing. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS170A"
+  },
+  {
+    "course_code": "PHYSICS 170E",
+    "units": 4,
+    "title": "Introduction to Symbolic Computation",
+    "description": "Lecture, one hour; laboratory, three hours. Corequisite: course 105A. Students learn to use Mathematica or other programs to solve variety of mathematical problems that arise in physics. Use of skills developed to solve complicated systems, model behavior, and explore in greater depth other advanced physics topics. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105A"
+    ],
+    "corequisites": [
+      "PHYSICS 105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS170E"
+  },
+  {
+    "course_code": "PHYSICS C170M",
+    "units": 4,
+    "title": "Machine Learning for Physical Sciences Laboratory",
+    "description": "(Formerly numbered 170M.) Lecture, two hours; laboratory, four hours. Requisites: courses 1A, 1B, 1C (or 1AH, 1BH, 1CH), Mathematics 32A, 33A, or equivalent. Preparation: some experience in programming using Python. Project-based course designed for students with no previous experience in machine learning to learn about methods and algorithms in machine learning and their application to scientific problems in physical sciences. Development of experience in compilation, analysis, and cleaning of data. Machine learning topics include classification, regression, dimensionality reduction, clustering, and kernel methods. Concurrently scheduled with course C270M. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "MATH 32A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSC170M"
+  },
+  {
+    "course_code": "PHYSICS 170N",
+    "units": 4,
+    "title": "Computational Physics and Astronomy Laboratory",
+    "description": "(Formerly numbered 180N.) Lecture, two hours; laboratory, four hours. Requisites: courses 105B, 110B, 112 (or Astronomy 115), 115B. Prior experience in working with computers is helpful but not required. Designed to give first-hand experience in solving physics and astronomy problems on computers. Project-based course, with projects selected from core areas of classical mechanics, electrodynamics, quantum physics, statistical physics, and astronomy. Introduction to problems and to required numerical methods in lectures, so students can write programs in one modern programming language of their choice (Python recommended) and carry out numerical experiments with it, with results documented in reports. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105B",
+      "PHYSICS 110B",
+      "PHYSICS 112",
+      "ASTR 115",
+      "ASTR 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS170N"
+  },
+  {
+    "course_code": "PHYSICS 180A",
+    "units": 4,
+    "title": "Nuclear Physics Laboratory",
+    "description": "Lecture, two hours; laboratory, four hours. Recommended: course 124. Students conduct experiments about cosmic ray counting and statistics, radioactive decay law measurement, beta decay spectrometer, and Compton scattering; perform independent data analyses of experimental data; and write scientific report for each experiment. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180A"
+  },
+  {
+    "course_code": "PHYSICS 180C",
+    "units": 4,
+    "title": "Solid-State Laboratory",
+    "description": "Lecture, two hours; laboratory, four hours. Recommended: course 140A. Laboratory experiments survey quantum and collective phenomena in solids, such as quantum oscillations, superconductivity, and ferroelectricity. Use of introduced methods to investigate bulk properties, such as magneto-transport, dielectric, and magnetic responses. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180C"
+  },
+  {
+    "course_code": "PHYSICS 180D",
+    "units": 4,
+    "title": "Acoustics Laboratory",
+    "description": "Lecture, two hours; laboratory, four hours. Recommended: courses 112, 114. Study of waves and sound propagation in different media. Students uncover various waves in different phases of matter, including gases, liquids, and superfluids. Description of experiments in terms of hydrodynamic theory. Students gain experience in basic electronics, amplifiers, speakers, microphones, cryogenics, and fast Fourier transforms. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180D"
+  },
+  {
+    "course_code": "PHYSICS 180E",
+    "units": 4,
+    "title": "Plasma Physics Laboratory",
+    "description": "Lecture, two hours; laboratory, six hours. Requisite: course 110B. Recommended: course M122. Investigation of plasma physics concepts through experiments using laboratory plasmas. Topics explored may include plasma breakdown and formation by cathode discharge and inductively-coupled electric fields, measurement of plasma properties using Langmuir probes, and excitation and measurement of plasma waves. Theory of operation and use of vacuum systems, electronics, pulsed high power sources, variety of measurement techniques, and data acquisition systems. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180E"
+  },
+  {
+    "course_code": "PHYSICS 180F",
+    "units": 4,
+    "title": "Elementary Particle Laboratory",
+    "description": "Lecture, two hours; laboratory, six hours. Requisites: courses 110A, 115B. Recommended: courses 18L, 126. Experience with computer programming, especially Python, is helpful but not required. Provides hands-on experience in measuring key properties of weak and electromagnetic interactions using cosmic ray muons. Provides exposure to common experimental techniques in particle physics. Overview of standard model, interaction of particles with matter, basic particle detection techniques, introductory probability and statistics, and analysis with Python and ROOT. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 110A",
+      "PHYSICS 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180F"
+  },
+  {
+    "course_code": "PHYSICS M180G",
+    "units": 4,
+    "title": "Soft Matter Laboratory",
+    "description": "(Same as Chemistry M120.) Lecture, 90 minutes; laboratory, four hours. Requisites: courses 110B, 115A. Students gain experience of conducting independent research in experimental biological physics. Construction of modern microscope. Use of microscope to image biological specimens. Students learn optics, diffraction, imaging, microscopy, computational physics, and/or fluorescent labeling. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 110B",
+      "PHYSICS 115A"
+    ],
+    "cross_listed": [
+      "CHEM M120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSM180G"
+  },
+  {
+    "course_code": "PHYSICS 180Q",
+    "units": 4,
+    "title": "Quantum Optics Laboratory",
+    "description": "Lecture, two hours; laboratory, six hours. Requisite or corequisite: course 115C. Limited to junior/senior Astrophysics and Physics majors. Use of techniques of quantum optics to demonstrate concepts of quantum mechanics, including superposition, quantum measurement, hidden variable theories, and Bell\u2019s inequality. Examination and use of modern optics, including lasers, optics, fibers, polarization manipulation, and photon counting. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 115C"
+    ],
+    "corequisites": [
+      "PHYSICS 115C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS180Q"
+  },
+  {
+    "course_code": "PHYSICS C186",
+    "units": 4,
+    "title": "Neurophysics: Brain-Mind Problem",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C, or 5A, 5B, and 5C, or 6A, 6B, and 6C, Chemistry 14A or 20A, Mathematics 3A, 3B, 3C, 33A. How does mind emerge from brain? Provides summary of basic biophysics of neurons, synapses, and plasticity. Introduction to commonly used experimental and theoretical techniques of measuring, quantifying, and modeling neural activity, and their relative strengths and weakness and use of them to understand link between neural circuits, their emergent neural dynamics, and behavior in example model systems. Discussion of mechanisms of interaction between neural circuits and their role in cognition, learning, and sleep. Computer laboratory component where students learn to write simple codes to quantify neural activity patterns. Concurrently scheduled with course C286. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 5A",
+      "PHYSICS 5B",
+      "PHYSICS 5C",
+      "PHYSICS 6A",
+      "PHYSICS 6B",
+      "PHYSICS 6C",
+      "CHEM 14A",
+      "CHEM 20A",
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 3C",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSC186"
+  },
+  {
+    "course_code": "PHYSICS C187A",
+    "units": 4,
+    "title": "Biological Physics I: Life at Rest",
+    "description": "Lecture, three hours. Enforced requisites: courses 105A, 110A, 115A, Chemistry 110A, Molecular, Cell, and Developmental Biology 100 (or M140 or 165A). Equilibrium phenomena. Application of basic mechanics, optics, and thermodynamics to biological design: structure of skeleton, scaling of bone and muscle mass, swim bladders, and animal vision. Application of elementary statistical physics, electrostatics, and elasticity to structure of proteins, DNA, and biomembranes. Concurrently scheduled with course C287A. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105A",
+      "PHYSICS 110A",
+      "PHYSICS 115A",
+      "CHEM 110A",
+      "MCD BIO 100",
+      "MCD BIO M140",
+      "MCD BIO 165A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSC187A"
+  },
+  {
+    "course_code": "PHYSICS C187B",
+    "units": 4,
+    "title": "Biological Physics II: Life in Motion",
+    "description": "Lecture, three hours. Enforced requisites: courses 105A, 110A, 115A, C187A, Chemistry 110A, Molecular, Cell, and Developmental Biology 100. Nonequilibrium phenomena. Application of mechanics, hydrodynamics, diffusion, and electrical transport to dynamical phenomena. Macroscopic phenomena: swimming, flying, thermoregulation, blood circulation, breathing, electrical transport along membranes. Physics of cells: Brownian motion, molecular motors, and cytoskeleton. Concurrently scheduled with course C287B. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 105A",
+      "PHYSICS 110A",
+      "PHYSICS 115A",
+      "PHYSICS C187A",
+      "CHEM 110A",
+      "MCD BIO 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSC187B"
+  },
+  {
+    "course_code": "PHYSICS 188",
+    "units": 4,
+    "title": "Special Courses in Physics",
+    "description": "Lecture, three hours; discussion, one hour. Limited to junior/senior Astrophysics and Physics majors. Departmentally sponsored temporary courses such as pilot courses or those taught by visiting faculty members. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS188"
+  },
+  {
+    "course_code": "PHYSICS 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS188SA"
+  },
+  {
+    "course_code": "PHYSICS 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS188SB"
+  },
+  {
+    "course_code": "PHYSICS 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS188SC"
+  },
+  {
+    "course_code": "PHYSICS 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS189"
+  },
+  {
+    "course_code": "PHYSICS 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS189HC"
+  },
+  {
+    "course_code": "PHYSICS 190",
+    "units": 2,
+    "title": "Research Colloquia in Physics",
+    "description": "Seminar, two hours. Designed to bring together students undertaking supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS190"
+  },
+  {
+    "course_code": "PHYSICS 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Physics and Astronomy",
+    "description": "Seminar, three hours. Participating research seminar on advanced topics in physics. Reading, discussion, and development of culminating project. Content varies from year to year. May be repeated for credit by petition. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS191"
+  },
+  {
+    "course_code": "PHYSICS 192",
+    "units": 2,
+    "title": "Undergraduate Practicum in Physics",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students. Students assist in preparation of materials and development of innovative programs with guidance of faculty members in small course settings. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS192"
+  },
+  {
+    "course_code": "PHYSICS 192M",
+    "units": 2,
+    "title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+    "description": "Seminar, two hours; laboratory, six hours. Requisites: one course from 1A, 1B, 1C, 5A, 5B, 5C, or 131, course 192S (may be taken concurrently), and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with the development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated four times for credit. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 5A",
+      "PHYSICS 5B",
+      "PHYSICS 5C",
+      "PHYSICS 131",
+      "PHYSICS 192S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS192M"
+  },
+  {
+    "course_code": "PHYSICS M192S",
+    "units": 1,
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "description": "(Formerly numbered 192S.) (Same as Atmospheric and Oceanic Sciences M192A, Chemistry M192E, Computer Science M192A, Life Sciences M192A, and Mathematics M192A.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.",
+    "cross_listed": [
+      "CHEM M192E",
+      "A&O SCI M192A",
+      "MATH M192A",
+      "LIFESCI M192A",
+      "COM SCI M192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICSM192S"
+  },
+  {
+    "course_code": "PHYSICS 193",
+    "units": 2,
+    "title": "Journal Club Seminars: Physics",
+    "description": "Seminar, one hour. Limited to undergraduate students. Seminars are linked to speaker-series seminars offered by department on weekly basis. Supplemental reading from literature on speaker\u2019s topic, as well as active participation and discussion to understand what kind of questions modern-day physicists actually ask and how they go about answering them. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS193"
+  },
+  {
+    "course_code": "PHYSICS 194",
+    "units": 1,
+    "title": "Research Group Seminars: Physics and Astronomy",
+    "description": "Research group meeting, one hour. Designed for undergraduate students who are part of research group/laboratory. Discussion of research of faculty members or students with regard to understanding methodology in field and laboratory equipment. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS194"
+  },
+  {
+    "course_code": "PHYSICS 196",
+    "units": 2,
+    "title": "Research Apprenticeship in Physics",
+    "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors with overall 3.0 grade-point average. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS196"
+  },
+  {
+    "course_code": "PHYSICS 197",
+    "units": 2,
+    "title": "Individual Studies in Physics",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS197"
+  },
+  {
+    "course_code": "PHYSICS 198",
+    "units": 2,
+    "title": "Honors Research in Physics",
+    "description": "Tutorial, 12 hours. Limited to juniors/seniors with overall 3.0 grade-point average. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS198"
+  },
+  {
+    "course_code": "PHYSICS 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Physics",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHYSICS199"
+  }
+]

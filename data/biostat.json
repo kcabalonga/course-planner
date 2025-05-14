@@ -1,0 +1,50 @@
+[
+  {
+    "course_code": "BIOSTAT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOSTAT19"
+  },
+  {
+    "course_code": "BIOSTAT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOSTAT99"
+  },
+  {
+    "course_code": "BIOSTAT 100",
+    "units": 4,
+    "title": "Introduction to Biostatistics",
+    "description": "(Formerly numbered 100A.) Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: one biological or physical sciences course. Suitable for juniors/seniors. Limited to nonmajors. Not open for credit to students with credit for course 120. Students who have completed courses in statistics may enroll only with consent of instructor. Introduction to methods and concepts of statistical analysis. Sampling situations, with special attention to those occurring in biological sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, sample size. P/NP or letter grading.",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "credit_exclusions": [
+      "BIOSTAT 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOSTAT100"
+  },
+  {
+    "course_code": "BIOSTAT 120",
+    "units": 5,
+    "title": "Biostatistics in Public Health",
+    "description": "Lecture, three hours; discussion, one hour. Limited to Public Health majors. Not open for credit to students with credit for course 100A. Introduction to basic concepts in biostatistical analysis, presentation of data, and biostatistical aspects of design of public health studies. Special emphasis on application of biostatistical concepts to public health issues. Interpretation and communication of biostatistical findings is stressed. Focus on concepts and applications rather than mathematical theory. Letter grading.",
+    "credit_exclusions": [
+      "BIOSTAT 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOSTAT120"
+  },
+  {
+    "course_code": "BIOSTAT 121",
+    "units": 4,
+    "title": "Biostatistics in Public Health",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: course 100 or 120. Introduction to analysis of variance, linear regression, and correlation analysis. P/NP or letter grading.",
+    "prerequisites": [
+      "BIOSTAT 100",
+      "BIOSTAT 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOSTAT121"
+  }
+]

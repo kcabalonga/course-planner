@@ -1,0 +1,536 @@
+[
+  {
+    "course_code": "CH ENGR 2",
+    "units": 4,
+    "title": "Technology and Environment",
+    "description": "Lecture, four hours; outside study, eight hours. Natural and anthropogenic flows of materials at global and regional scales. Case studies of natural cycles include global warming (CO2 cycles), stratospheric ozone depletion (chlorine and ozone cycles), and global nitrogen cycles. Flow of materials in industrial economies compared and contrasted with natural flows; presentation of lifecycle methods for evaluating environmental impact of processes and products. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR2"
+  },
+  {
+    "course_code": "CH ENGR 10",
+    "units": 1,
+    "title": "Introduction to Chemical and Biomolecular Engineering",
+    "description": "Lecture, one hour; outside study, two hours. General introduction to field of chemical and biomolecular engineering. Description of how chemical and biomolecular engineering analysis and design skills are applied for creative solution of current technological problems in production of microelectronic devices, design of chemical plants for minimum environmental impact, application of nanotechnology to chemical sensing, and genetic-level design of recombinant microbes for chemical synthesis. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR10"
+  },
+  {
+    "course_code": "CH ENGR 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR19"
+  },
+  {
+    "course_code": "CH ENGR 45",
+    "units": 4,
+    "title": "Biomolecular Engineering Fundamentals",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Recommended requisites: Chemistry 20A, 20L, 30A, 30L. Intended for those students who have not taken Life Sciences 2, 3, and Chemistry 153A. Fundamentals of modern biomolecular engineering. Topics include structure and function of biomolecules, central dogma of molecular biology, cellular information and energy processing, and experimental methods, with strong emphasis on applications in medicine, industry, and bioenergy. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A",
+      "CHEM 20L",
+      "CHEM 30A",
+      "CHEM 30L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR45"
+  },
+  {
+    "course_code": "CH ENGR 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR99"
+  },
+  {
+    "course_code": "CH ENGR 100",
+    "units": 4,
+    "title": "Fundamentals of Chemical and Biomolecular Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Chemistry 20B, 20L (not enforced), Mathematics 32B (may be taken concurrently), Physics 1A. Introduction to analysis and design of industrial chemical processes. Material and energy balances. Introduction to programming in MATLAB. Letter grading.",
+    "prerequisites": [
+      "CHEM 20B",
+      "CHEM 20L",
+      "MATH 32B",
+      "PHYSICS 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR100"
+  },
+  {
+    "course_code": "CH ENGR 101A",
+    "units": 4,
+    "title": "Transport Phenomena I",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Mathematics 33A, 33B. Enforced corequisite: course 109. Introduction to analysis of fluid flow in chemical, biological, materials, and molecular processes. Fundamentals of momentum transport, Newton law of viscosity, mass and momentum conservation in laminar flow, Navier/Stokes equations, and engineering analysis of flow systems. Letter grading.",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "corequisites": [
+      "CH ENGR 109"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR101A"
+  },
+  {
+    "course_code": "CH ENGR 101B",
+    "units": 4,
+    "title": "Transport Phenomena II: Heat Transfer",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 101A. Introduction to analysis of heat transfer in chemical, biological, materials, and molecular processes. Fundamentals of thermal energy transport, molecular-level heat transfer in gases, liquids, and solids, forced and free convection, radiation, and engineering analysis of heat transfer in process systems. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR101B"
+  },
+  {
+    "course_code": "CH ENGR 101C",
+    "units": 4,
+    "title": "Mass Transfer",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 101B. Introduction to analysis of mass transfer in systems of interest to chemical engineering practice. Fundamentals of mass species transport, Fick law of diffusion, diffusion in chemically reacting flows, interphase mass transfer, multicomponent systems. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR101C"
+  },
+  {
+    "course_code": "CH ENGR 102A",
+    "units": 4,
+    "title": "Thermodynamics I",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Introduction to thermodynamics of chemical and biological processes. Work, energy, heat, and first law of thermodynamics. Second law, extremum principles, entropy, and free energy. Ideal and real gases, property evaluation. Thermodynamics of flow systems. Applications of first and second laws in biological processes and living organisms. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR102A"
+  },
+  {
+    "course_code": "CH ENGR 102B",
+    "units": 4,
+    "title": "Thermodynamics II",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 102A. Fundamentals of classical and statistical thermodynamics in chemical and biological sciences. Phase equilibria in single and multicomponent systems. Thermodynamics of ideal and nonideal solutions. Chemical reaction equilibria. Statistical ensembles and partition functions. Statistical thermodynamics of ideal gases. Intermolecular interactions and liquid state. Thermodynamics of polymers and biological macromolecules. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR102B"
+  },
+  {
+    "course_code": "CH ENGR 103",
+    "units": 4,
+    "title": "Separation Processes",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 100, 101B. Application of principles of heat, mass, and momentum transport to design and operation of separation processes such as distillation, gas absorption, filtration, and reverse osmosis. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 100",
+      "CH ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR103"
+  },
+  {
+    "course_code": "CH ENGR 104A",
+    "units": 4,
+    "title": "Chemical and Biomolecular Engineering Laboratory I",
+    "description": "Lecture, two hours; laboratory, six hours; outside study, four hours. Enforced requisite: course 100. Enforced corequisite: course 101B. Recommended: course 102B. Investigation of basic transport phenomena in 10 predetermined experiments, collection of data for statistical analysis and individually written technical reports and group presentations. Design and performance of one original experimental study involving transport, separation, or another aspect of chemical and biomolecular engineering. Basic statistics: mean, standard deviation, confidence limits, comparison of two means and of multiple means, single and multiple variable linear regression, and brief introduction to factorial design of experiments. Oral and poster presentations. Technical writing of sections of technical reports and their contents; writing clearly, concisely, and consistently; importance of word choices and punctuation in multicultural engineering environment and of following required formatting. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 100"
+    ],
+    "corequisites": [
+      "CH ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR104A"
+  },
+  {
+    "course_code": "CH ENGR 104B",
+    "units": 6,
+    "title": "Chemical and Biomolecular Engineering Laboratory II",
+    "description": "Lecture, four hours; laboratory, eight hours; outside study, four hours; other, two hours. Enforced requisites: courses 101C, 103, 104A. Course consists of four experiments in chemical engineering unit operations, each of two weeks duration. Students present their results both written and orally. Written report includes sections on theory, experimental procedures, scaleup and process design, and error analysis. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C",
+      "CH ENGR 103",
+      "CH ENGR 104A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR104B"
+  },
+  {
+    "course_code": "CH ENGR 104C",
+    "units": 3,
+    "title": "Semiconductor Processing",
+    "description": "Lecture, four hours; outside study, five hours. Enforced requisite: course 101C. Enforced corequisite: course 104CL. Basic engineering principles of semiconductor unit operations, including fabrication and characterization of semiconductor devices. Investigation of processing steps used to make CMOS devices, including wafer cleaning, oxidation, diffusion, lithography, chemical vapor deposition, plasma etching, metallization, and statistical design of experiments and error analysis. Presentation of student results in both written and oral form. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C"
+    ],
+    "corequisites": [
+      "CH ENGR 104CL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR104C"
+  },
+  {
+    "course_code": "CH ENGR 104CL",
+    "units": 3,
+    "title": "Semiconductor Processing Laboratory",
+    "description": "Laboratory, four hours; outside study, five hours. Enforced requisite: course 101C. Enforced corequisite: course 104C. Series of experiments that emphasize basic engineering principles of semiconductor unit operations, including fabrication and characterization of semiconductor devices. Investigation of processing steps used to make CMOS devices, including wafer cleaning, oxidation, diffusion, lithography, chemical vapor deposition, plasma etching, and metallization. Hands-on device testing includes transistors, diodes, and capacitors. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C"
+    ],
+    "corequisites": [
+      "CH ENGR 104C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR104CL"
+  },
+  {
+    "course_code": "CH ENGR 104D",
+    "units": 6,
+    "title": "Molecular Biotechnology Laboratory: From Gene to Product",
+    "description": "Lecture, two hours; laboratory, eight hours; outside study, eight hours. Enforced requisites: courses 101C, C125. Integration of molecular and engineering techniques in modern biotechnology. Cloning of protein-coding gene into plasmid, transformation of construct into E. coli, production of gene product in bioreactor, downstream processing of bioreactor broth to purify recombinant protein, and characterization of purified protein. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C",
+      "CH ENGR C125"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR104D"
+  },
+  {
+    "course_code": "CH ENGR 106",
+    "units": 4,
+    "title": "Chemical Reaction Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 100, 101C, 102B. Fundamentals of chemical kinetics and catalysis. Introduction to analysis and design of homogeneous and heterogeneous chemical reactors. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 100",
+      "CH ENGR 101C",
+      "CH ENGR 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR106"
+  },
+  {
+    "course_code": "CH ENGR 107",
+    "units": 4,
+    "title": "Process Dynamics and Control",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 101C, 103 (or C125), 106 (or C115). Principles of dynamics modeling and start-up behavior of chemical engineering processes. Chemical process control elements. Design and applications of chemical process computer control. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C",
+      "CH ENGR 103",
+      "CH ENGR C125",
+      "CH ENGR 106",
+      "CH ENGR C115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR107"
+  },
+  {
+    "course_code": "CH ENGR 108A",
+    "units": 4,
+    "title": "Process Economics and Analysis",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 103 (or C125), 104A, 106 (or C115). Integration of chemical engineering fundamentals such as transport phenomena, thermodynamics, separation operations, and reaction engineering and simple economic principles for purpose of designing chemical processes and evaluating alternatives. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 103",
+      "CH ENGR C125",
+      "CH ENGR 104A",
+      "CH ENGR 106",
+      "CH ENGR C115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR108A"
+  },
+  {
+    "course_code": "CH ENGR 108B",
+    "units": 4,
+    "title": "Chemical Process Computer-Aided Design and Analysis",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 103 (or C125), 106 (or C115), 108A, Civil and Environmental Engineering M20 (or Mechanical and Aerospace Engineering M20). Introduction to application of some mathematical and computing methods to chemical engineering design problems; use of simulation programs as automated method of performing steady state material and energy balance calculations. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 103",
+      "CH ENGR C125",
+      "CH ENGR 106",
+      "CH ENGR C115",
+      "CH ENGR 108A",
+      "C&EE M20",
+      "MECH&AE M20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR108B"
+  },
+  {
+    "course_code": "CH ENGR 109",
+    "units": 4,
+    "title": "Numerical and Mathematical Methods in Chemical and Biological Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: Civil and Environmental Engineering M20 or Mechanical and Aerospace Engineering M20. Enforced corequisite: course 101A. Numerical methods for computation of solution of systems or linear and nonlinear algebraic equations, ordinary differential equations, and partial equations. Chemical and biomolecular engineering examples used throughout to illustrate application of these methods. Use of MATLAB as platform (programming environment) to write programs based on numerical methods to solve various problems arising in chemical engineering. Letter grading.",
+    "prerequisites": [
+      "C&EE M20",
+      "MECH&AE M20"
+    ],
+    "corequisites": [
+      "CH ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR109"
+  },
+  {
+    "course_code": "CH ENGR 110",
+    "units": 4,
+    "title": "Intermediate Engineering Thermodynamics",
+    "description": "Lecture, four hours; outside study, eight hours. Enforced requisite: course 102B. Principles and engineering applications of statistical and phenomenological thermodynamics. Determination of partition function in terms of simple molecular models and spectroscopic data; nonideal gases; phase transitions and adsorption; nonequilibrium thermodynamics and coupled transport processes. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR110"
+  },
+  {
+    "course_code": "CH ENGR C111",
+    "units": 4,
+    "title": "Cryogenics and Low-Temperature Processes",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 102A, 102B (or Materials Science 130). Fundamentals of cryogenics and cryoengineering science pertaining to industrial low-temperature processes. Basic approaches to analysis of cryofluids and envelopes needed for operation of cryogenic systems; low-temperature behavior of matter, optimization of cryosystems and other special conditions. Concurrently scheduled with course C211. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 102A",
+      "CH ENGR 102B",
+      "MAT SCI 130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC111"
+  },
+  {
+    "course_code": "CH ENGR C112",
+    "units": 4,
+    "title": "Polymer Processes",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 101A, Chemistry 30A. Formation of polymers, criteria for selecting reaction scheme, polymerization techniques, polymer characterization. Mechanical properties. Rheology of macromolecules, polymer process engineering. Diffusion in polymeric systems. Polymers in biomedical applications and in microelectronics. Concurrently scheduled with course C212. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101A",
+      "CHEM 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC112"
+  },
+  {
+    "course_code": "CH ENGR 113",
+    "units": 4,
+    "title": "Air Pollution Engineering",
+    "description": "Lecture, four hours; preparation, two hours; outside study, six hours. Enforced requisites: courses 101C, 102B. Integrated approach to air pollution, including concentrations of atmospheric pollutants, air pollution standards, air pollution sources and control technology, and relationship of air quality to emission sources. Links air pollution to multimedia environmental assessment. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C",
+      "CH ENGR 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR113"
+  },
+  {
+    "course_code": "CH ENGR CM114",
+    "units": 4,
+    "title": "Electrochemical Processes",
+    "description": "(Same as Materials Science CM163.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 102B, Mechanical and Aerospace Engineering 105A (or Materials Science 130). Fundamentals of electrochemistry and engineering applications to industrial electrochemical processes. Primary emphasis on fundamental approach to analyze electrochemical processes. Specific topics include electrochemical reactions on metal and semiconductor surfaces, electrodeposition, electroless deposition, electrosynthesis, fuel cells, aqueous and non-aqueous batteries, solid-state electrochemistry. May be concurrently scheduled with course CM214. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 102B",
+      "MECH&AE 105A",
+      "MAT SCI 130"
+    ],
+    "cross_listed": [
+      "MAT SCI CM163"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRCM114"
+  },
+  {
+    "course_code": "CH ENGR C115",
+    "units": 4,
+    "title": "Biochemical Reaction Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 101C. Use of previously learned concepts of biophysical chemistry, thermodynamics, transport phenomena, and reaction kinetics to develop tools needed for technical design and economic analysis of biological reactors. May be concurrently scheduled with course CM215. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC115"
+  },
+  {
+    "course_code": "CH ENGR C116",
+    "units": 4,
+    "title": "Surface and Interface Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Introduction to surfaces and interfaces of engineering materials, particularly catalytic surface and thin films for solid-state electronic devices. Topics include classification of crystals and surfaces, analysis of structure and composition of crystals and their surfaces and interfaces. Examination of engineering applications, including catalytic surfaces, interfaces in microelectronics, and solid-state laser. May be concurrently scheduled with course C216. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC116"
+  },
+  {
+    "course_code": "CH ENGR C118",
+    "units": 4,
+    "title": "Multimedia Environmental Assessment",
+    "description": "Lecture, four hours; discussion, one hour; preparation, two hours; outside study, five hours. Recommended requisites: courses 101C, 102B. Pollutant sources, estimation of source releases, waste minimization, transport and fate of chemical pollutants in environment, intermedia transfers of pollutants, multimedia modeling of chemical partitioning in environment, exposure assessment and fundamentals of risk assessment, risk reduction strategies. Concurrently scheduled with course C218. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C",
+      "CH ENGR 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC118"
+  },
+  {
+    "course_code": "CH ENGR C119",
+    "units": 4,
+    "title": "Pollution Prevention for Chemical Processes",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 108A. Systematic methods for design of environment-friendly processes. Development of methods at molecular, unit-operation, and network levels. Synthesis of mass exchange, heat exchange, and reactor networks. Concurrently scheduled with course C219. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 108A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC119"
+  },
+  {
+    "course_code": "CH ENGR C121",
+    "units": 4,
+    "title": "Membrane Science and Technology",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 101A, 101C, 103. Fundamentals of membrane science and technology, with emphasis on separations at micro, nano, and molecular/angstrom scale with membranes. Relationship between structure/morphology of dense and porous membranes and their separation characteristics. Use of nanotechnology for design of selective membranes and models of membrane transport (flux and selectivity). Examples provided from various fields/applications, including biotechnology, microelectronics, chemical processes, sensors, and biomedical devices. Concurrently scheduled with course C221. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101A",
+      "CH ENGR 101C",
+      "CH ENGR 103"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC121"
+  },
+  {
+    "course_code": "CH ENGR C124",
+    "units": 4,
+    "title": "Cell Material Interactions",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 45. Introduction to design and synthesis of biomaterials for regenerative medicine, in vitro cell culture, and drug delivery. Biological principles of cellular microenvironment and design of extracellular matrix analogs using biological and engineering principles. Biomaterials for growth factor, and DNA and siRNA delivery as therapeutics and to facilitate tissue regeneration. Use of stem cells in tissue engineering. Concurrently scheduled with course C224. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 45"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC124"
+  },
+  {
+    "course_code": "CH ENGR C125",
+    "units": 4,
+    "title": "Bioseparations and Bioprocess Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced corequisite: course 101C. Separation strategies, unit operations, and economic factors used to design processes for isolating and purifying materials like whole cells, enzymes, food additives, or pharmaceuticals that are products of biological reactors. Concurrently scheduled with course CM225. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C"
+    ],
+    "corequisites": [
+      "CH ENGR 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC125"
+  },
+  {
+    "course_code": "CH ENGR C126",
+    "units": 4,
+    "title": "Viruses and Biotechnology",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course CM145. Introduction of viruses and their varied roles in biotechnology, from utilization of viral enzymes to biotechnologies used to combat viral infectious diseases. Basic concepts of virology. Focus on use of viruses, including bacteriophages, and viral proteins as tools in biotechnology. Examples include bacteriophage display, virus-based nanomaterials, and viral vectors for gene delivery, and vaccines. Covers case studies of viral diseases and biotechnological strategies for diagnosis, prevention, and treatment. Examples include human immunodeficiency virus and coronaviruses. Students conduct literature searches and write paper on relevant topic of their choice. Concurrently scheduled with course C226. Letter grading.",
+    "prerequisites": [
+      "CH ENGR CM145"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC126"
+  },
+  {
+    "course_code": "CH ENGR CM127",
+    "units": 4,
+    "title": "Synthetic Biology for Biofuels",
+    "description": "(Same as Chemistry CM127.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: Chemistry 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM227. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A"
+    ],
+    "cross_listed": [
+      "CHEM CM127"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRCM127"
+  },
+  {
+    "course_code": "CH ENGR C128",
+    "units": 4,
+    "title": "Hydrogen",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: Chemistry 20A. Electronic, physical, and chemical properties of hydrogen. Various methods of production, including production through methane steam reforming, electrolysis, and thermochemical cycles. Description in depth of several uses of hydrogen, including hydrogen combustion and hydrogen fuel cells. Concurrently scheduled with course C228. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC128"
+  },
+  {
+    "course_code": "CH ENGR C135",
+    "units": 4,
+    "title": "Advanced Process Control",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 107. Introduction to advanced process control. Topics include (1) Lyapunov stability for autonomous nonlinear systems including converse theorems, (2) input to state stability, interconnected systems, and small gain theorems, (3) design of nonlinear and robust controllers for various classes of nonlinear systems, (4) model predictive control of linear and nonlinear systems, (5) advanced methods for tuning of classical controllers, and (6) introduction to control of distributed parameter systems. Concurrently scheduled with course C235. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 107"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC135"
+  },
+  {
+    "course_code": "CH ENGR C140",
+    "units": 4,
+    "title": "Fundamentals of Aerosol Technology",
+    "description": "Lecture, four hours; outside study, eight hours. Enforced requisite: course 101C. Technology of particle/gas systems with applications to gas cleaning, commercial production of fine particles, and catalysis. Particle transport and deposition, optical properties, experimental methods, dynamics and control of particle formation processes. Concurrently scheduled with course C240. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC140"
+  },
+  {
+    "course_code": "CH ENGR CM145",
+    "units": 4,
+    "title": "Molecular Biotechnology for Engineers",
+    "description": "(Same as Bioengineering CM145.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 45 or Life Sciences 7C. Selected topics in molecular biology that form foundation of biotechnology and biomedical industry today. Topics include recombinant DNA technology, molecular research tools, manipulation of gene expression, directed mutagenesis and protein engineering, DNA-based diagnostics and DNA microarrays, antibody and protein-based diagnostics, genomics and bioinformatics, isolation of human genes, gene therapy, and tissue engineering. Concurrently scheduled with course CM245. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 45",
+      "LIFESCI 7C"
+    ],
+    "cross_listed": [
+      "BIOENGR CM145"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRCM145"
+  },
+  {
+    "course_code": "CH ENGR C146",
+    "units": 4,
+    "title": "Systems Biology: Intracellular Network Identification and Analysis",
+    "description": "Lecture, four hours; outside study, eight hours. Requisites: course CM145, Mathematics 31A, 31B, 32A, 33B. Systems approach to intracellular network identification and analysis. Transcriptional regulatory networks, protein networks, and metabolic networks. Data from genome sequencing, large-scale expression analysis, and other high-throughput techniques provide bases for systems identification and analysis. Discussion of gene-metabolic network synthesis. Concurrently scheduled with course C246. Letter grading.",
+    "prerequisites": [
+      "CH ENGR CM145",
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRC146"
+  },
+  {
+    "course_code": "CH ENGR M153",
+    "units": 4,
+    "title": "Introduction to Microscale and Nanoscale Manufacturing",
+    "description": "(Same as Bioengineering M153, Electrical and Computer Engineering M153, and Mechanical and Aerospace Engineering M183B.) Lecture, three hours; laboratory, four hours; outside study, five hours. Enforced requisites: Chemistry 20A, Physics 1A, 1B, 1C, 4AL. Introduction to general manufacturing methods, mechanisms, constrains, and microfabrication and nanofabrication. Focus on concepts, physics, and instruments of various microfabrication and nanofabrication techniques that have been broadly applied in industry and academia, including various photolithography technologies, physical and chemical deposition methods, and physical and chemical etching methods. Hands-on experience for fabricating microstructures and nanostructures in modern clean-room environment. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A",
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 4AL"
+    ],
+    "cross_listed": [
+      "EC ENGR M153",
+      "BIOENGR M153",
+      "MECH&AE M183B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGRM153"
+  },
+  {
+    "course_code": "CH ENGR 188",
+    "units": 4,
+    "title": "Special Courses in Chemical Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Special topics in chemical engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR188"
+  },
+  {
+    "course_code": "CH ENGR 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR188SA"
+  },
+  {
+    "course_code": "CH ENGR 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR188SB"
+  },
+  {
+    "course_code": "CH ENGR 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "CH ENGR 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR188SC"
+  },
+  {
+    "course_code": "CH ENGR 194",
+    "units": 4,
+    "title": "Research Group Seminars: Chemical Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR194"
+  },
+  {
+    "course_code": "CH ENGR 199",
+    "units": 2,
+    "title": "Directed Research in Chemical Engineering",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation of selected topic under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHENGR199"
+  }
+]

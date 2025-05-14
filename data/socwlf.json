@@ -1,0 +1,346 @@
+[
+  {
+    "course_code": "SOC WLF 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF19"
+  },
+  {
+    "course_code": "SOC WLF 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF89"
+  },
+  {
+    "course_code": "SOC WLF 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF99"
+  },
+  {
+    "course_code": "SOC WLF 100A",
+    "units": 4,
+    "title": "Introduction to Social Welfare: Policies and Programs",
+    "description": "Lecture, four hours. Origin and development of major U.S. social welfare programs and policies guiding them, with emphasis on analysis of policy developments/issues related to provision of social welfare services. Study of historical and current responses of profession to major social problems. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF100A"
+  },
+  {
+    "course_code": "SOC WLF 100B",
+    "units": 4,
+    "title": "Social Welfare Policy: Overview",
+    "description": "Lecture, four hours. Requisite: course 100A. Review of existing policy regarding major social issues in field of social welfare. Examination of discrepancy between need and capacity of social agencies to address need. Exploration of differential impact of policy on various populations. P/NP or letter grading.",
+    "prerequisites": [
+      "SOC WLF 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF100B"
+  },
+  {
+    "course_code": "SOC WLF 101",
+    "units": 4,
+    "title": "Social Welfare in Multicultural Society",
+    "description": "Lecture, four hours. Social policy viewed from perspective of various cultural groups. Students to become aware of their own cultural perspective and learn to recognize similarities and differences in values, perspectives, and beliefs across cultural groups. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF101"
+  },
+  {
+    "course_code": "SOC WLF 102",
+    "units": 4,
+    "title": "Social Welfare Organizations and Community Systems",
+    "description": "Lecture, four hours. Recommended requisites: courses 100A, 100B. Detailed demonstration of implementation of policy via functioning of human service organizations. Examination of organizational structures/functions. Exploration of characteristics and organization of community and forces that influence its development and change. P/NP or letter grading.",
+    "prerequisites": [
+      "SOC WLF 100A",
+      "SOC WLF 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF102"
+  },
+  {
+    "course_code": "SOC WLF 103",
+    "units": 4,
+    "title": "Introduction to Direct Practice with Individuals, Families, and Groups",
+    "description": "Lecture, four hours. Requisites: courses 100A, 100B, 101. Description and demonstration of basic skills employed in direct social work practice via casework process. Students practice these skills in written, role-play, small group, and video or audio exercises. P/NP or letter grading.",
+    "prerequisites": [
+      "SOC WLF 100A",
+      "SOC WLF 100B",
+      "SOC WLF 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF103"
+  },
+  {
+    "course_code": "SOC WLF M104C",
+    "units": 4,
+    "title": "Diversity in Aging: Roles of Gender and Ethnicity",
+    "description": "(Same as Chicana/o and Central American Studies M106B, Gender Studies M104C, Gerontology M104C, and Public Affairs M131.) Lecture, four hours. Exploration of complexity of variables related to diversity of aging population and variability in aging process. Examination of gender and ethnicity within context of both physical and social aging, in multidisciplinary perspective utilizing faculty from variety of fields to address issues of diversity. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "GENDER M104C",
+      "PUB AFF M131",
+      "GRNTLGY M104C",
+      "CCAS M106B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM104C"
+  },
+  {
+    "course_code": "SOC WLF M104D",
+    "units": 4,
+    "title": "Public Policy and Aging",
+    "description": "(Same as Gerontology M104D.) Lecture, four hours. Examination of theoretical models and concepts of policy process, with application to aging policy. Analysis of decision-making processes that affect aging policy. Description of history of contemporary aging policy. Exploration of current policy issues affecting elderly. P/NP or letter grading.",
+    "cross_listed": [
+      "GRNTLGY M104D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM104D"
+  },
+  {
+    "course_code": "SOC WLF M104E",
+    "units": 4,
+    "title": "Social Aspects of Aging",
+    "description": "(Same as Gerontology M104E.) Lecture, four hours. Topics include theories of aging, economic factors, changing roles, social relationships, and special populations. Weekly seminars organized around key aspect of social gerontology. P/NP or letter grading.",
+    "cross_listed": [
+      "GRNTLGY M104E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM104E"
+  },
+  {
+    "course_code": "SOC WLF 105",
+    "units": 4,
+    "title": "Social Welfare Policy in Modern America: Historical Perspectives",
+    "description": "Lecture, three hours; outside study, nine hours. Historical overview of American social policy dealing with three core societal problems: poverty, sickness, and joblessness. Programs developed by governments to ameliorate these problems have typically been public insurance programs or cash transfers such as unemployment insurance, welfare, and Social Security. Collectively these programs are known as the welfare state; examination of origins of the U.S. welfare state, its development over time, and features that make it distinctive as compared to welfare states in other nations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF105"
+  },
+  {
+    "course_code": "SOC WLF 106",
+    "units": 4,
+    "title": "Research Seminar and Field Observation: Social Welfare",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Didactic component with focus on development of basic skills in the areas of research. Students select one field of observation experience (module) from a number of field settings. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF106"
+  },
+  {
+    "course_code": "SOC WLF 107",
+    "units": 4,
+    "title": "Field Practicum: Social Welfare",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 106. In field practicum students are placed in a specific agency where they combine observation of agency functions with participation in specific agency tasks and roles under instructional supervision of an agency mentor and a UCLA faculty member. P/NP or letter grading.",
+    "prerequisites": [
+      "SOC WLF 106"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF107"
+  },
+  {
+    "course_code": "SOC WLF M108",
+    "units": 5,
+    "title": "Biomedical, Social, and Policy Frontiers in Human Aging",
+    "description": "(Same as Gerontology M108 and Public Affairs M130.) Lecture, four hours. Limited to juniors/seniors. Course of human aging charted in ways that are based on variety of recent research frontiers. Use of conceptual frameworks to increase relevance of aging to students\u2019 lives and enhance their critical thinking\u2014biopsychosocial approach that is based on recognition that aging is inherently interdisciplinary phenomenon, and life course perspective that is distinguished by analytical framework it provides for understanding interplay between human lives and changing social structures, and allows students to understand how events, successes, and losses at one stage of life can have important effects later in life. Focus on individuals as they age within one particular sociohistorical context. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "GRNTLGY M108",
+      "PUB AFF M130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM108"
+  },
+  {
+    "course_code": "SOC WLF M110",
+    "units": 4,
+    "title": "Inequality and Democracy: Analysis and Praxis of Public Problems",
+    "description": "(Same as Urban Planning M110.) Lecture, three hours; discussion, one hour. Analysis and praxis of public problems. Taking up case of persistent inequality in liberal democracies, coverage of key frameworks and methodologies for understanding and analyzing poverty and inequality and examination of forms of action, from role of government to social movements, that seek to intervene in such problems. Study of problems, programs, policies, and politics in globally interconnected, transnational world, while avoiding analytical divide between global north and global south. Letter grading.",
+    "cross_listed": [
+      "URBN PL M110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM110"
+  },
+  {
+    "course_code": "SOC WLF 130A",
+    "units": 4,
+    "title": "Community Research and Services Seminar",
+    "description": "Seminar, three hours; service learning, four hours; outside study, five hours. Course 130A is requisite to 130B. Limited to juniors/seniors. History and roles of social welfare policy within government, organizations, and communities. Reflections about service-learning site experiences, with application of issues related to lecture and seminar readings. Students to be assigned to two-term tutoring/mentoring site where they apply tutoring techniques as they assist middle school children living in impoverished areas of Los Angeles County. In Progress grading (credit to be given only on completion of course 130B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF130A"
+  },
+  {
+    "course_code": "SOC WLF 130B",
+    "units": 4,
+    "title": "Community Research and Services Seminar",
+    "description": "Seminar, three hours; service learning, four hours; outside study, five hours. Requisite: course 130A. Limited to juniors/seniors. History and roles of social welfare policy within government, organizations, and communities. Reflections about service-learning site experiences, with application of issues related to lecture and seminar readings. Students to be assigned to two-term tutoring/mentoring site where they apply tutoring techniques as they assist middle school children living in impoverished areas of Los Angeles County. P/NP or letter grading.",
+    "prerequisites": [
+      "SOC WLF 130A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF130B"
+  },
+  {
+    "course_code": "SOC WLF 131",
+    "units": 4,
+    "title": "Poverty, Poor, and Welfare Policy",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Current research and policy issues concerning poverty in the U.S., with specific emphasis on single-parent households. Overview of measurements and characteristics of poor people; alternative theoretical explanations of poverty; historical overview of major social welfare policies to combat poverty, particularly Aid to Families with Dependent Children (AFDC) and Personal Responsibility and Work Opportunity Reconciliation Act (PROWA); and critical appraisal of recently enacted state welfare reform policies. Relationship between research knowledge about poverty and current policies, and effects of gender, ethnicity, and class on patterns of poverty and policy responses. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF131"
+  },
+  {
+    "course_code": "SOC WLF 132",
+    "units": 4,
+    "title": "Community Analysis and Community Needs",
+    "description": "Lecture, three hours. Limited to juniors/seniors. Theoretical and practical foundation for understanding and depicting demographic composition of communities and for determining community needs. Use of systems theory as organizing framework. Community-level interventions are affected by community\u2019s social ecology, culture, economic system, political system, ethnic composition, and class structure. Agencies often seek to define community needs and develop interventions to respond to those needs. Knowledge of community infrastructure necessary for ascertaining its strengths and resources that can be mobilized for addressing and responding to community needs, issues, and concerns. Social service agencies and communities can work together in partnership to enhance quality of community life. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF132"
+  },
+  {
+    "course_code": "SOC WLF M140",
+    "units": 4,
+    "title": "Introduction to Study of Aging",
+    "description": "(Same as Psychology M140.) Lecture, three hours. Designed for juniors/seniors. Perspectives on major features of human aging\u2014biological, social, psychological, and humanistic. Introduction to information on range of influences on aging to prepare students for subsequent specialization. P/NP or letter grading.",
+    "cross_listed": [
+      "PSYCH M140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM140"
+  },
+  {
+    "course_code": "SOC WLF M142XP",
+    "units": 4,
+    "title": "Intergenerational Communication across Lifespan",
+    "description": "(Formerly numbered M142SL.) (Same as Gerontology M142XP and Public Affairs M129XP.) Lecture, three hours; fieldwork, one hour. Limited to juniors/seniors. What do you say to your parents in conversation? How do you talk to your grandparents? Does your family talk well to one another as group? How do you communicate well with boss who is 30 years older than you? Individuals of all ages interact with one another, and their interactions have significance throughout their lives. Introduction to psychological, interpersonal, and societal issues related to intergenerational communication across lifespan. Letter grading.",
+    "cross_listed": [
+      "GRNTLGY M142XP",
+      "PUB AFF M129XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM142XP"
+  },
+  {
+    "course_code": "SOC WLF M151",
+    "units": 4,
+    "title": "Child Welfare Policy in America",
+    "description": "(Formerly numbered 151.) (Same as Public Affairs M124.) Lecture, three hours. Limited to juniors/seniors. Examination of public child welfare system in the U.S. Review of social policies and programs that impact children. History of social policies and programs for children, including discussion of orphanages, foster care, and adoptions. Transformation of public child welfare system into child protection system. Impact of welfare reform on child policies and programs in the U.S. Major programs designed to provide safety net for disadvantaged children, including welfare, food stamps, child care, child support, and children\u2019s allowance programs. Review of research and analysis in this area. Overview of social policies and programs that impact children in the U.S. Examination of comparative policies in other countries. P/NP or letter grading.",
+    "cross_listed": [
+      "PUB AFF M124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM151"
+  },
+  {
+    "course_code": "SOC WLF 162",
+    "units": 4,
+    "title": "Health Policy and Services",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Contemporary issues in healthcare financing and delivery and historical perspective on these issues. Role of government in healthcare and ways controversy about this role continues to shape and constrain public policy in health. Major public programs, notably Medicare and Medicaid, and their relationship to issues of access and cost for diverse vulnerable populations. Various public and private approaches to healthcare reform and ways of thinking about their predicted impact, cost, and political feasibility. Issues in care of persons with chronic illness and debate about public and private approaches to long-term care reform. Social work roles in healthcare policy and practice. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF162"
+  },
+  {
+    "course_code": "SOC WLF 163",
+    "units": 4,
+    "title": "Prevention of Risky Substance Use and Related Problems",
+    "description": "Lecture, four hours. Limited to juniors/seniors. Prevention of substance use and related harms from legal and illegal substances is major concern to parents, communities, and nations. Examination of research related to patterns of drug use and related harm (such as crime and mental health disorders) and effectiveness of interventions to reduce these problems. Through review of science-based programs and policies, evaluation of effectiveness of evidence-based interventions to increase student knowledge, skills, and expertise in determining effective interventions to reduce drug-related harm, using most up-to-date information. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF163"
+  },
+  {
+    "course_code": "SOC WLF 164",
+    "units": 4,
+    "title": "HIV Prevention in U.S. and Developing World",
+    "description": "Lecture, three hours. Limited to juniors/seniors. Examination of various approaches to HIV prevention, drawing on infectious disease paradigms from public health and theories of behavior change from fields of psychology, sociology, and communications. Sexual behavior and injection drug use, existing and promising technologies to reduce HIV transmission, and fiscal, cultural, ethical, and moral dilemmas in allocation of prevention resources. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF164"
+  },
+  {
+    "course_code": "SOC WLF M165",
+    "units": 4,
+    "title": "Disability Policy and Services in Contemporary America",
+    "description": "(Same as Disability Studies M130 and Gerontology M165.) Lecture, three hours. Limited to juniors/seniors. Growing numbers of people of all ages with disabilities are leading active and productive lives in American communities. Many others are struggling to lead such lives. Who are people with disabilities in contemporary America? How has U.S. responded over time to various needs and aspirations of people with disabilities, young and old? What demands have been made over time by disability advocates? How has government addressed demands of advocates for various disability populations? What do we know about extent to which public policies and programs are responsive to people in need? How do demographics, economics, and politics continue to influence evolving public policy responses? P/NP or letter grading.",
+    "cross_listed": [
+      "GRNTLGY M165",
+      "DIS STD M130"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLFM165"
+  },
+  {
+    "course_code": "SOC WLF 181",
+    "units": 4,
+    "title": "Nonprofit Sector, State and Civil Society",
+    "description": "Lecture, three hours; outside study, nine hours. Use of political economy perspective to analyze forces that have shaped rise and characteristics of nonprofit sector and its constituent elements. Examination of social history of nonprofit sector in U.S. Exploration of legal and policy environments and distinct organizational forms. Comparative perspective between U.S. and other countries. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF181"
+  },
+  {
+    "course_code": "SOC WLF 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF188SA"
+  },
+  {
+    "course_code": "SOC WLF 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOC WLF 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF188SB"
+  },
+  {
+    "course_code": "SOC WLF 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOC WLF 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF188SC"
+  },
+  {
+    "course_code": "SOC WLF 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF189"
+  },
+  {
+    "course_code": "SOC WLF 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF189HC"
+  },
+  {
+    "course_code": "SOC WLF 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Social Welfare",
+    "description": "Seminar, three hours; outside study, nine hours. Examination in depth of particular subfield of social welfare (e.g., child welfare, children and youth, nonprofit, health, mental health). Limits of investigation set by individual instructor. May be repeated for credit with topic change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF191"
+  },
+  {
+    "course_code": "SOC WLF 194",
+    "units": 1,
+    "title": "Internship Seminars: Social Welfare",
+    "description": "Seminar, one hour; outside study, three hours. Corequisite: course 195. Not open to freshmen. Introduction to topics relevant to psychosocial determinants of children\u2019s health and community resources for children and families, with opportunity to gain breadth and depth of knowledge in seminar setting. May be repeated for credit. P/NP grading.",
+    "prerequisites": [
+      "SOC WLF 195"
+    ],
+    "corequisites": [
+      "SOC WLF 195"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF194"
+  },
+  {
+    "course_code": "SOC WLF 195",
+    "units": 2,
+    "title": "Community Internships in Social Welfare",
+    "description": "Tutorial, four hours. Corequisite: course 194. Not open to freshmen. Introductory course in community-based child health and advocacy. Students learn about community resources for children and families through service learning experience and work with pediatric patients and families in UCLA pediatric unit. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. Letter grading.",
+    "prerequisites": [
+      "SOC WLF 194"
+    ],
+    "corequisites": [
+      "SOC WLF 194"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF195"
+  },
+  {
+    "course_code": "SOC WLF 199",
+    "units": 2,
+    "title": "Directed Research in Social Welfare",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCWLF199"
+  }
+]

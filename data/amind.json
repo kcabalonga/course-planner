@@ -1,0 +1,343 @@
+[
+  {
+    "course_code": "AM IND M10",
+    "units": 5,
+    "title": "Introduction to American Indian Studies",
+    "description": "(Same as World Arts and Cultures M23.) Lecture, three hours; discussion, one hour; activity, one hour. Survey of selected Native North American cultures from pre-Western contact to contemporary period, with particular emphasis on early cultural diversity and diverse patterns of political, linguistic, social, legal, and cultural change in postcontact period. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "WL ARTS M23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM10"
+  },
+  {
+    "course_code": "AM IND M18",
+    "units": 2,
+    "title": "Leadership and Student-Initiated Retention",
+    "description": "(Same as African American Studies M18, Asian American Studies M18, and Chicana/o and Central American Studies M18.) Seminar, two hours. Limited to freshmen/sophomores/first-year transfer students. Not open for credit to students with credit for course M118. Exploration of issues in retention at UCLA through lens of student-initiated and student-run programs, efforts, activities, and services. Focus on populations with historically low graduation rates targeted by Campus Retention Committee. May not be applied toward departmental major or minor elective requirements. May be repeated once for credit. Letter grading.",
+    "credit_exclusions": [
+      "AM IND M118"
+    ],
+    "cross_listed": [
+      "CCAS M18",
+      "AF AMER M18",
+      "ASIA AM M18"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM18"
+  },
+  {
+    "course_code": "AM IND 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND19"
+  },
+  {
+    "course_code": "AM IND 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND89"
+  },
+  {
+    "course_code": "AM IND 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND89HC"
+  },
+  {
+    "course_code": "AM IND 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND99"
+  },
+  {
+    "course_code": "AM IND M118",
+    "units": 4,
+    "title": "Student-Initiated Retention and Outreach Issues in Higher Education",
+    "description": "(Same as African American Studies M118, Asian American Studies M168, and Chicana/o and Central American Studies M118.) Lecture, four hours. Exploration of issues in outreach and retention of students in higher education, especially through student-initiated programs, efforts, activities, and services, with focus on UCLA as case. May be repeated twice for credit. Letter grading.",
+    "cross_listed": [
+      "AF AMER M118",
+      "ASIA AM M168",
+      "CCAS M118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM118"
+  },
+  {
+    "course_code": "AM IND C120",
+    "units": 4,
+    "title": "Working in Tribal Communities: Introduction",
+    "description": "Lecture, four hours. Through readings, discussion, and Native guest lecturers, students learn to participate within Native American communities engaged in political, social, and cultural processes of change and preservation. Development of proposal for Native nation-building project. Concurrently scheduled with course C220. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC120"
+  },
+  {
+    "course_code": "AM IND C121",
+    "units": 4,
+    "title": "Working in Tribal Communities: Preparing for Fieldwork",
+    "description": "Lecture, four hours. Through readings, discussion, Native guest lecturers, and project participation, introduction to rules of conduct and skills necessary to successfully work or carry out community service projects for Native American communities and organizations. Concurrently scheduled with course C221. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC121"
+  },
+  {
+    "course_code": "AM IND C122XP",
+    "units": 4,
+    "title": "Working in Tribal Communities: Community-Engaged Learning",
+    "description": "(Formerly numbered C122SL.) Seminar, one hour; fieldwork, four hours. Enforced requisite: course C121. Recommended: course C120. Participation in community service learning project within Native American communities and organizations where students are mentored and supported by faculty members, other students, and project directors toward completing assigned service learning tasks and contributing to project activities. May be repeated with consent of instructor. Concurrently scheduled with course C222XP. Letter grading.",
+    "prerequisites": [
+      "AM IND C121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC122XP"
+  },
+  {
+    "course_code": "AM IND M123",
+    "units": 4,
+    "title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+    "description": "(Same as African American Studies M121.) Lecture, four hours; discussion, one hour. Examination of how race was developed through experiences of African-descended peoples and indigenous people in U.S. and beyond. Examination of key episodes in history. Using articles, books, documentaries, and contemporary popular culture, examination of relationship between people of African descent and indigenous people. Study takes broad, thematic approach. Topics include first encounters in Americas and ideologies that led to enslavement and dispossession; period of enslavement and indigenous removal in 19th century; mid-20th-century social movements; and contemporary manifestations, especially solidarity shown between Black Lives Matter and Dakota Access Pipeline protesters. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER M121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM123"
+  },
+  {
+    "course_code": "AM IND M129",
+    "units": 4,
+    "title": "Participatory Action Research on Youth Organizing for Racial Justice",
+    "description": "(Same as African American Studies M129B, Asian American Studies M128, Chicana/o and Central American Studies, and Public Affairs M122.) Lecture, four hours. Students are trained to conduct participatory action research on grassroots youth organizing across California. Students gain historical and theoretical background on multi-racial and inclusive organizing. Students learn how to collect and analyze data pertaining to pressing organizing issues. Study and critical analysis of youth organizing strategies. Weekly training modules on data collection and grassroots organizing strategies that prepare students for internships in grassroots youth organizing groups serving Asian American, Black, Latinx, and Native American communities. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M129B",
+      "PUB AFF M122",
+      "ASIA AM M128",
+      "AF AMER M129B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM129"
+  },
+  {
+    "course_code": "AM IND C130",
+    "units": 4,
+    "title": "California Indian Strategies for Contemporary Challenges",
+    "description": "Seminar, three hours. Through readings, discussion, and Native guest lecturers, introduction to contemporary issues and processes of self-directed social change and political, cultural, legal, and economic processes of nation building in contemporary California Native communities. Concurrently scheduled with course C230. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC130"
+  },
+  {
+    "course_code": "AM IND 140",
+    "units": 4,
+    "title": "Federal Indian Law and Policy",
+    "description": "Lecture, four hours. Through readings, discussion, and Native guest lecturers, introduction to fundamental concepts and history of federal Indian law and policy. Investigation of contemporary policies and legal issues and exploration of Native responses to policy and law. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND140"
+  },
+  {
+    "course_code": "AM IND C145",
+    "units": 4,
+    "title": "Contemporary Indigenous Nations",
+    "description": "Seminar, three hours. Introduction to topics on contemporary indigenous nations, including social movements, social and cultural change and continuity, nation building, law and justice relations, economic development, education and socialization, international relations, comparative policy, colonialism, migration, national and social identities, and other issues and social cultural processes, seen as distinct from ethnicity, race, class, and nation, with focus on indigenous communities that have maintained self-government, territory, and culture. Investigation and search for analytic and policy patterns that give greater understanding and knowledge about current conditions and social and cultural processes of indigenous nations. Concurrently scheduled with course C245. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC145"
+  },
+  {
+    "course_code": "AM IND 158",
+    "units": 4,
+    "title": "Nation Building",
+    "description": "Lecture, three hours; fieldwork/research, nine hours. Limited to junior/senior American Indian Studies majors. Examination of historical interplay of federal policies with tribal cultures that has shaped political development of American Indian tribal nations. Current developments within Indian nations, including restructuring government, developing economies, and asserting cultural sovereignty to be subject of research, study, and required community-based projects. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND158"
+  },
+  {
+    "course_code": "AM IND M161",
+    "units": 4,
+    "title": "Comparative American Indian Societies",
+    "description": "(Same as Sociology M161.) Lecture, three hours. Requisite: course M10 or Sociology 1. Comparative and historical study of political, economic, and cultural change in indigenous North American societies. Several theories of social change, applied to selected case studies. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "AM IND M10",
+      "SOCIOL 1"
+    ],
+    "cross_listed": [
+      "SOCIOL M161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM161"
+  },
+  {
+    "course_code": "AM IND M162",
+    "units": 4,
+    "title": "Language Endangerment and Linguistic Revitalization",
+    "description": "(Same as Anthropology M156.) Lecture, three hours; activity, one hour. Requisites: course M10, Anthropology 4. Examination of causes and consequences of current worldwide loss of linguistic diversity and revelation of kinds of efforts that members of threatened heritage language communities have produced in their attempt to revitalize these languages. Projected loss of as many as half of world\u2019s languages by end of 21st century can only be explained as outcome of such factors as nationalism, global economic forces, language ideological change, and language shift away from smaller indigenous and tribal languages. Since loss of such languages means both reduction of cultural as well as linguistic diversity, many affected communities have engaged in various language renewal practices. Examination of some diverse strategies that have been attempted, including immersion, language and culture classes, master-apprentice, interactive multimedia, mass media approaches, and language policy-reform approaches. Evaluation of effectiveness of these measures and of very imagery used to discuss language endangerment. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "AM IND M10",
+      "ANTHRO 4"
+    ],
+    "cross_listed": [
+      "ANTHRO M156"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM162"
+  },
+  {
+    "course_code": "AM IND CM168",
+    "units": 4,
+    "title": "Healthcare for American Indians",
+    "description": "(Same as Health Policy M168.) Lecture, two hours; discussion, one hour. Identification of traditional health beliefs, health practices, and healthcare systems of American Indian tribes to understand role of U.S. government in healthcare services for Indian people. Description of health problems that have affected American Indian people and definition of contemporary health issues and measures taken to raise health status of American Indian people. Concurrently scheduled with course C268. Letter grading.",
+    "cross_listed": [
+      "HLT POL M168"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDCM168"
+  },
+  {
+    "course_code": "AM IND C170",
+    "units": 4,
+    "title": "California Indian History",
+    "description": "Lecture, four hours. Introduction to overview of California Indian history, specific tribal community histories, and/or contemporary California Indian history through readings, discussion, and Native guest lecturers. May be repeated for credit with topic change and consent of interdepartmental chair. Concurrently scheduled with course C270. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC170"
+  },
+  {
+    "course_code": "AM IND C175",
+    "units": 4,
+    "title": "Cultures of Native Southern California",
+    "description": "Lecture, three hours. Introduction to Southern California indigenous societies through readings, discussion, guest lecturers, and direct community participation. May be repeated for credit with topic and/or instructor change and consent of interdepartmental chair. Concurrently scheduled with course C275. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC175"
+  },
+  {
+    "course_code": "AM IND C178",
+    "units": 4,
+    "title": "California Experiences in Native Cultural Resource Management",
+    "description": "Seminar, three hours. Exploration of creation and implementation of laws that affect cultural resource management in California, such as California Environmental Quality Act (CEQA), Native American Graves Protection and Repatriation Act (NAGPRA), AB 978 (California NAGPRA), American Indian Religious Freedom Act, National Environmental Policy Act (NEPA), and National Historic Preservation Act (NHPA), from applied standpoint. To understand goals and challenges of these laws, examination of series of cases from California sites. Concurrently scheduled with course C278. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDC178"
+  },
+  {
+    "course_code": "AM IND 180",
+    "units": 4,
+    "title": "Introduction to and Practicum in Native American Languages",
+    "description": "Lecture, three hours; laboratory, one hour. Development of ability to converse, read, and write at elementary level in Native American languages. Introduction to both phonological and grammatical structures, vocabulary, and cultural patterns of using language as symbolic guide to culture. May be repeated with language change and approval of interdepartmental chair. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND180"
+  },
+  {
+    "course_code": "AM IND M186",
+    "units": 5,
+    "title": "Indigenous Film",
+    "description": "(Same as World Arts and Cultures M187.) Lecture, four hours; discussion, one hour. Introduction to study of indigenous filmic images and representations, with focus on selected ethnographic, documentary, animated, and feature films ranging from 1920 to present. P/NP or letter grading.",
+    "cross_listed": [
+      "WL ARTS M187"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM186"
+  },
+  {
+    "course_code": "AM IND 187",
+    "units": 4,
+    "title": "Special Topics in American Indian Studies",
+    "description": "Lecture, four hours. Variable topics selected from following: Myth and Folklore of Indian Societies; Contemporary American Indian Literature; Social Science Perspectives of American Indian Life; Law and American Indian; History of American Indians (cultural area); Dance and Music of American Indians (cultural area); American Indian Policy. Consult Schedule of Classes for topics and instructors. May be repeated twice for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND187"
+  },
+  {
+    "course_code": "AM IND M187A",
+    "units": 4,
+    "title": "Special Topics in American Indian and Gender Studies",
+    "description": "(Same as Gender Studies M185A.) Lecture, three hours. Variable topics in American Indian and gender studies. May be repeated for credit with topic and/or instructor change. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M185A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM187A"
+  },
+  {
+    "course_code": "AM IND 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND189"
+  },
+  {
+    "course_code": "AM IND 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND189HC"
+  },
+  {
+    "course_code": "AM IND 195",
+    "units": 4,
+    "title": "Community Internships in American Indian Studies",
+    "description": "Tutorial, two hours; fieldwork, eight hours. Requisite: course M10. Limited to juniors/seniors. Internship in supervised setting in community agency. Students meet on regular basis with instructor and provide periodic reports on their experience. Designed to integrate theory and practice through experiential learning to gain firsthand knowledge of diversity, complexity, and variety of needs of American Indian communities. May be repeated for maximum of 8 units. Individual contract with supervising faculty member required. P/NP grading.",
+    "prerequisites": [
+      "AM IND M10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND195"
+  },
+  {
+    "course_code": "AM IND M195CE",
+    "units": 4,
+    "title": "Comparative Approaches to Community and Corporate Internships",
+    "description": "(Same as African American Studies M195CE, Asian American Studies M195CE, Chicana/o and Central American Studies M195CE, and Gender Studies M195CE.) Tutorial, one hour; fieldwork, eight to 10 hours. Limited to juniors/seniors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Learning. Comparative study of race, gender, and indigeneity in relation to contemporary workplace dynamics. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty sponsor and graduate student coordinator construct series of reading assignments that examine issues related to internship site. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M195C",
+      "CCAS M195C",
+      "AF AMER M195C",
+      "ASIA AM M195C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMINDM195CE"
+  },
+  {
+    "course_code": "AM IND 197",
+    "units": 2,
+    "title": "Individual Studies in American Indian Studies",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned readings and tangible evidence of mastery of subject matter required. May be repeated for maximum of 16 units. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND197"
+  },
+  {
+    "course_code": "AM IND 198A",
+    "units": 4,
+    "title": "Honors Research in American Indian Studies",
+    "description": "Tutorial, one hour; activity, three hours. Course 198A is enforced requisite to 198B, which is enforced requisite to 198C. Limited to senior honors program students. Development of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198A"
+  },
+  {
+    "course_code": "AM IND 198B",
+    "units": 4,
+    "title": "Honors Research in American Indian Studies",
+    "description": "Tutorial, one hour; activity, three hours. Enforced requisite: course 198A. Limited to senior honors program students. Continued development of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "AM IND 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198B"
+  },
+  {
+    "course_code": "AM IND 198C",
+    "units": 4,
+    "title": "Honors Research in American Indian Studies",
+    "description": "Tutorial, one hour; activity, three hours. Enforced requisite: course 198B. Limited to senior honors program students. Completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "AM IND 198B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND198C"
+  },
+  {
+    "course_code": "AM IND 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in American Indian Studies",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND199"
+  },
+  {
+    "course_code": "AM IND 199C",
+    "units": 4,
+    "title": "Individual Studies: Capstone Synthesis",
+    "description": "Tutorial, three hours. Preparation: successful completion of eight upper-division major courses. Limited to senior American Indian Studies majors. Faculty members help students relate their course-derived academic experience to their original research/service efforts involving Native American communities. Completion of research paper and presentation of student work at year-end Research Symposium required. Must be taken in conjunction with American Indian Studies C122SL or an alternative upper-division course approved by program chair and academic coordinator. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/AMIND199C"
+  }
+]

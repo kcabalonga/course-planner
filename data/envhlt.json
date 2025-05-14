@@ -1,0 +1,192 @@
+[
+  {
+    "course_code": "ENV HLT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT19"
+  },
+  {
+    "course_code": "ENV HLT 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT89"
+  },
+  {
+    "course_code": "ENV HLT 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT89HC"
+  },
+  {
+    "course_code": "ENV HLT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT99"
+  },
+  {
+    "course_code": "ENV HLT 100",
+    "units": 4,
+    "title": "Introduction to Environmental Health",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one course each in chemistry and biology. Limited to nonmajors. Not open for credit to students with credit for course 120. Introduction to environmental health, including coverage of sanitary principles and chronic and acute health effects of environmental contaminants. P/NP or letter grading.",
+    "credit_exclusions": [
+      "ENV HLT 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT100"
+  },
+  {
+    "course_code": "ENV HLT 101",
+    "units": 3,
+    "title": "Fundamentals of Chemistry in Environmental Health",
+    "description": "Lecture, three hours; discussion, one hour. Guided tutorial on fundamental chemical concepts that are important for public health students that either do not have strong background in chemistry or who have not recently taken chemistry class and want to refresh their knowledge. Discussion of examples relevant to environmental health more broadly in each topic area and used to illustrate why understanding fundamental chemical concepts are important. Interactive study with focus on core chemical concepts. Recommended to be taken before or concurrently with introductory courses. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT101"
+  },
+  {
+    "course_code": "ENV HLT 112",
+    "units": 4,
+    "title": "Fundamentals of Occupational Exposure and Techniques",
+    "description": "Lecture, three hours; laboratory, one hour. Examination of\u00a0occupational exposure agents and technical skills to quantify airborne agents causing worker\u2019s exposure. Topics include sampling strategy, method and design, exposure quantification of airborne agents, sampling device operation and calibration, interpretation of exposed agents and data, and technical report writing. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT112"
+  },
+  {
+    "course_code": "ENV HLT 120",
+    "units": 5,
+    "title": "Environment and Health",
+    "description": "Lecture, three hours; discussion, one hour. Limited to Public Health majors. Not open for credit to students with credit for course 100. Examination of scientific principles and methods of field, as well as translation of science to environmental health practice. Topics include environmental stressors and their health effects, regulations and policy, equity and justice, and systems thinking. Acquisition of skills important for public health professionals, such as application of scientific information to real-world problems and ability to communicate effectively with different stakeholders. Letter grading.",
+    "credit_exclusions": [
+      "ENV HLT 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT120"
+  },
+  {
+    "course_code": "ENV HLT C125",
+    "units": 4,
+    "title": "Atmospheric Transport and Transformations of Airborne Chemicals",
+    "description": "Lecture, four hours. Preparation: one year of calculus, one course each in physics, organic chemistry, and physical chemistry. Designed for science, engineering, and public health students. Role of regional or long-range transport, and atmospheric lifetimes and fates of airborne chemicals in phenomena such as photochemical smog, acid deposition, stratospheric ozone depletion, accumulation of greenhouse gases, and regional and global distribution of volatile toxic compounds. Concurrently scheduled with course C225. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC125"
+  },
+  {
+    "course_code": "ENV HLT C135",
+    "units": 4,
+    "title": "Environmental Policy for Science and Engineering",
+    "description": "Lecture, four hours. Limited to senior undergraduate and graduate students. Examination of theoretical underpinnings of several major types of regulatory policy, as well as practical issues involved in implementing and enforcing each. Exploration of selection and impact of regulatory forms from variety of disciplines and viewpoints. Focus on traditional command and control regulation (including self-executing performance standards and permitting), market-based regulation (such as emissions trading), remediation, and emerging regulatory approaches such as management-based regulation and alternatives assessment. Issues of compliance and enforcement. Concurrently scheduled with course C235. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC135"
+  },
+  {
+    "course_code": "ENV HLT C140",
+    "units": 4,
+    "title": "Fundamentals of Toxicology",
+    "description": "Lecture, four hours. Preparation: one course each in biology, organic chemistry, and biochemistry. Essential aspects of toxicology, with emphasis on human species. Absorption, distribution, excretion, biotransformation, as well as basic toxicologic processes and organ systems. Concurrently scheduled with course C240. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC140"
+  },
+  {
+    "course_code": "ENV HLT C152D",
+    "units": 4,
+    "title": "Properties and Measurement of Airborne Particles",
+    "description": "Lecture, four hours. Preparation: one year each of chemistry, physics, and calculus. Basic theory and application of aerosol science to environmental health, including properties, behavior, sampling, and measurement of aerosols and quantitative problems. Concurrently scheduled with course C252D. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC152D"
+  },
+  {
+    "course_code": "ENV HLT C157",
+    "units": 4,
+    "title": "Risk Assessment and Standard Setting",
+    "description": "Seminar, four hours. Requisite: course C140. Designed to provide students with opportunity to review scientific basis for association of selected occupational and environmental exposures with disease. Special emphasis on critical evaluations of literature. Attention specifically to interface of science and regulatory standards. Concurrently scheduled with course C257. P/NP or letter grading.",
+    "prerequisites": [
+      "ENV HLT C140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC157"
+  },
+  {
+    "course_code": "ENV HLT C164",
+    "units": 4,
+    "title": "Fate and Transport of Organic Chemicals in Aquatic Environment",
+    "description": "Lecture, four hours. Recommended requisites: Chemistry 14A and 14B, or 20A and 20B. Evaluation of how and where and in what form and concentration organic pollutants are distributed in aquatic environments. Study of mass transport mechanisms moving organic chemicals between phases, biological degradation and accumulation, and chemical reactions. Effect of humic substances on these processes. Concurrently scheduled with course C264. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 14B",
+      "CHEM 20A",
+      "CHEM 20B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC164"
+  },
+  {
+    "course_code": "ENV HLT M166",
+    "units": 4,
+    "title": "Environmental Microbiology",
+    "description": "(Same as Civil Engineering M166.) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: Civil Engineering 153. Microbial cell and its metabolic capabilities, microbial genetics and its potentials, growth of microbes and kinetics of growth, microbial ecology and diversity, microbiology of wastewater treatment, probing of microbes, public health microbiology, pathogen control. Letter grading.",
+    "prerequisites": [
+      "C&EE 153"
+    ],
+    "cross_listed": [
+      "C&EE M166"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTM166"
+  },
+  {
+    "course_code": "ENV HLT M166L",
+    "units": 2,
+    "title": "Environmental Microbiology Laboratory",
+    "description": "(Same as Civil Engineering M166L.) Lecture, one hour; laboratory, two hours; outside study, two hours. Requisite: course M166 (may be taken concurrently). General laboratory practice within environmental microbiology, sampling of environmental samples, classical and modern molecular techniques for enumeration of microbes from environmental samples, techniques for determination of microbial activity in environmental samples, laboratory setups for studying environmental biotechnology. Letter grading.",
+    "prerequisites": [
+      "ENV HLT M166"
+    ],
+    "cross_listed": [
+      "C&EE M166L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTM166L"
+  },
+  {
+    "course_code": "ENV HLT 170",
+    "units": 4,
+    "title": "Climate Change and Public Health",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100 or 120 or C185A. Preparation: introductory statistics course. Introduction to critical issues of global environmental change with focus on climate change as related to consequences for human health and wellbeing. Exploration of physical mechanisms that drive anthropogenic climate change. Examination of direct and indirect pathways through which environmental changes influence health and potential solutions. P/NP or letter grading.",
+    "prerequisites": [
+      "ENV HLT 100",
+      "ENV HLT 120",
+      "ENV HLT C185A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT170"
+  },
+  {
+    "course_code": "ENV HLT C185A",
+    "units": 4,
+    "title": "Foundations of Environmental Health Sciences",
+    "description": "Lecture, four hours. Preparation: one year of undergraduate biology and chemistry. Introduction to field of environmental health sciences designed for students pursuing concentration in environmental health or Public Health minors. Examination of series of topics relevant to science of environmental and occupational health (e.g., climate change, ecology, microbiology, and toxicology) by introducing scientific basis from ecological perspective and describing how topics relate to health on a biochemical and molecular basis. Emphasis on scientific aspects of field, with focus on critique of primary literature and quantitative approaches for examination of topics to provide skills that are critical to perform research. Concurrently scheduled with course C200A. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC185A"
+  },
+  {
+    "course_code": "ENV HLT C185B",
+    "units": 2,
+    "title": "Foundations of Environmental Health Sciences for Public Health Professionals",
+    "description": "Lecture/seminar, two hours. Preparation: 4 units each of undergraduate chemistry and biology. Future environmental health and public health leaders must understand vocabulary and systems issues related to local, regional, and global environmental factors affecting public health. Development of content knowledge and thought processes to effectively analyze environmental health problems and development, implementation, and leading of actions to address these problems. Supplements content presented in Public Health 200A and 200B and Environment 100. Concurrently scheduled with course C200B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC185B"
+  },
+  {
+    "course_code": "ENV HLT C185C",
+    "units": 6,
+    "title": "Foundations of Environmental Health Sciences",
+    "description": "Lecture, four hours; group project, two hours. Enforced requisite: course C185A or C185B. Multidisciplinary aspects of environmental health sciences in context of public health for environmental health majors. Concurrently scheduled with course C200C. Letter grading.",
+    "prerequisites": [
+      "ENV HLT C185A",
+      "ENV HLT C185B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLTC185C"
+  },
+  {
+    "course_code": "ENV HLT 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT189"
+  },
+  {
+    "course_code": "ENV HLT 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ENVHLT189HC"
+  }
+]

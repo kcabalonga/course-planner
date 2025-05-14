@@ -1,0 +1,688 @@
+[
+  {
+    "course_code": "COM SCI 1",
+    "units": 1,
+    "title": "Freshman Computer Science Seminar",
+    "description": "Seminar, one hour. Introduction to department resources and principal topics and key ideas in computer science and computer engineering. Students create critical summaries of seminar talks. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI1"
+  },
+  {
+    "course_code": "COM SCI 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI19"
+  },
+  {
+    "course_code": "COM SCI 30",
+    "units": 4,
+    "title": "Principles and Practices of Computing",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Designed for students in computer science and related majors who do not have prior programming experience. Precursor course to introductory computer science sequence (courses 31, 32, 33). Teaches students how to use computers as tool for problem solving, creativity, and exploration through design and implementation of computer programs. Key topics are data types including integers, strings, and lists; control structures, including conditionals and loops; and functional decomposition. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI30"
+  },
+  {
+    "course_code": "COM SCI 31",
+    "units": 4,
+    "title": "Introduction to Computer Science I",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to computer science via theory, applications, and programming. Basic data types, operators and control structures. Input/output. Procedural and data abstraction. Introduction to object-oriented software development. Functions, recursion. Arrays, strings, pointers. Abstract data types, object-oriented programming. Examples and exercises from computer science theory and applications. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI31"
+  },
+  {
+    "course_code": "COM SCI 32",
+    "units": 4,
+    "title": "Introduction to Computer Science II",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 31. Object-oriented software development. Abstract data type definition and use. Overloading, inheritance, polymorphism. Object-oriented view of data structures: stacks, queues, lists. Algorithm analysis. Trees, graphs, and associated algorithms. Searching and sorting. Case studies and exercises from computer science applications. Letter grading.",
+    "prerequisites": [
+      "COM SCI 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI32"
+  },
+  {
+    "course_code": "COM SCI 33",
+    "units": 5,
+    "title": "Introduction to Computer Organization",
+    "description": "Lecture, four hours; discussion, two hours; outside study, nine hours. Enforced requisite: course 32. Introductory course on computer architecture, assembly language, and operating systems fundamentals. Number systems, machine language, and assembly language. Procedure calls, stacks, interrupts, and traps. Assemblers, linkers, and loaders. Operating systems concepts: processes and process management, input/output (I/O) programming, memory management, file systems. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI33"
+  },
+  {
+    "course_code": "COM SCI 35L",
+    "units": 4,
+    "title": "Software Construction",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 31. Fundamentals of tools and environments for software construction projects, particularly open-source platforms used in upper-division computer science courses. Software practice through collaborative student project. Letter grading.",
+    "prerequisites": [
+      "COM SCI 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI35L"
+  },
+  {
+    "course_code": "COM SCI M51A",
+    "units": 4,
+    "title": "Logic Design of Digital Systems",
+    "description": "(Same as Electrical and Computer Engineering M16.) Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to digital systems. Specification and implementation of combinational and sequential systems. Standard logic modules and programmable logic arrays. Specification and implementation of algorithmic systems: data and control sections. Number systems and arithmetic algorithms. Error control codes for digital information. Letter grading.",
+    "cross_listed": [
+      "EC ENGR M16"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM51A"
+  },
+  {
+    "course_code": "COM SCI 97",
+    "units": 1,
+    "title": "Variable Topics in Computer Science",
+    "description": "Lecture, one to four hours; discussion, zero to two hours. Designed for freshmen/sophomores. Variable topics in computer science not covered in regular computer science courses. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI97"
+  },
+  {
+    "course_code": "COM SCI 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI99"
+  },
+  {
+    "course_code": "COM SCI 111",
+    "units": 5,
+    "title": "Operating Systems Principles",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, nine hours. Enforced requisites: courses 32, 33, 35L. Introduction to operating systems design and evaluation. Computer software systems performance, robustness, and functionality. Kernel structure, bootstrapping, input/output (I/O) devices and interrupts. Processes and threads; address spaces, memory management, and virtual memory. Scheduling, synchronization. File systems: layout, performance, robustness. Distributed systems: networking, remote procedure call (RPC), asynchronous RPC, distributed file systems, transactions. Protection and security. Exercises involving applications using, and internals of, real-world operating systems. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "COM SCI 33",
+      "COM SCI 35L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI111"
+  },
+  {
+    "course_code": "COM SCI 112",
+    "units": 4,
+    "title": "Modeling Uncertainty in Information Systems",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: course 111 and one course from Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Designed for juniors/seniors. Probability and stochastic process models as applied in computer science. Basic methodological tools include random variables, conditional probability, expectation and higher moments, Bayes theorem, Markov chains. Applications include probabilistic algorithms, evidential reasoning, analysis of algorithms and data structures, reliability, communication protocol and queueing models. Letter grading.",
+    "prerequisites": [
+      "COM SCI 111",
+      "C&EE 110",
+      "Electrical Engineering 131A",
+      "MATH 170A",
+      "STATS 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI112"
+  },
+  {
+    "course_code": "COM SCI 117",
+    "units": 4,
+    "title": "Computer Networks: Physical Layer",
+    "description": "Lecture, two hours; discussion, two hours; laboratory, two hours; outside study, six hours. Not open to students with credit for course M171L. Introduction to fundamental computer communication concepts underlying and supporting modern networks, with focus on wireless communications and media access layers of network protocol stack. Systems include wireless LANs (IEEE802.11) and ad hoc wireless and personal area networks (e.g., Bluetooth, ZigBee). Experimental project based on mobile radio-equipped devices (smart phones, tablets, etc.) as sensor platforms for personal applications such as wireless health, positioning, and environment awareness, and experimental laboratory sessions included. Letter grading.",
+    "credit_exclusions": [
+      "COM SCI M171L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI117"
+  },
+  {
+    "course_code": "COM SCI 118",
+    "units": 4,
+    "title": "Computer Network Fundamentals",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 111. Designed for juniors/seniors. Introduction to design and performance evaluation of computer networks, including such topics as what protocols are, layered network architecture, Internet protocol architecture, network applications, transport protocols, routing algorithms and protocols, internetworking, congestion control, and link layer protocols including Ethernet and wireless channels. Letter grading.",
+    "prerequisites": [
+      "COM SCI 111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI118"
+  },
+  {
+    "course_code": "COM SCI M119",
+    "units": 4,
+    "title": "Fundamentals of Embedded Networked Systems",
+    "description": "(Same as Electrical and Computer Engineering M119.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: courses 33; 118 or Electrical and Computer Engineering 132B; one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, 170E, Statistics 100A. Design trade-offs and principles of operation of cyber physical systems such as devices and systems constituting Internet of Things. Topics include signal propagation and modeling, sensing, node architecture and operation, and applications. Letter grading.",
+    "prerequisites": [
+      "COM SCI 33"
+    ],
+    "cross_listed": [
+      "EC ENGR M119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM119"
+  },
+  {
+    "course_code": "COM SCI C121",
+    "units": 4,
+    "title": "Probabilistic Models in Computational Genomics",
+    "description": "(Formerly numbered CM121.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 32 or Program in Computing 10C with grade of C\u2013 or better, and one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Prior knowledge of biology is not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to probabilistic models in the context of genomics, with emphasis on concepts and inventing new computational and statistical techniques to analyze genomic data. Concurrently scheduled with course C221. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C",
+      "C&EE 110",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "cross_listed": [
+      "CHEM CM160A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC121"
+  },
+  {
+    "course_code": "COM SCI C122",
+    "units": 4,
+    "title": "Algorithms in Computational Genomics",
+    "description": "(Formerly numbered CM122.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 32 or Program in Computing 10C with grade of C\u2013 or better, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Course C121 is not requisite to C122. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Databases of genomic sequence data are among the largest datasets in all of science. Assembling, indexing, and querying such tremendous datasets is computationally challenging yet critical for many areas of biomedical research. Focus on development of scalable algorithms for analysis of genomic sequence data, with additional focus on formulating biologically relevant problems as computational problems and then solving these problems by developing new algorithms. Concurrently scheduled with course C222. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C",
+      "C&EE 110",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC122"
+  },
+  {
+    "course_code": "COM SCI C124",
+    "units": 4,
+    "title": "Machine Learning Applications in Genetics",
+    "description": "(Formerly numbered CM124.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 32 or Program in Computing 10C with grade of C\u2013 or better, Mathematics 33A, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. Prior knowledge of biology is not required. Introduction of main applications of machine learning in genetics. Students are prepared for interdisciplinary research in genetics that involves a major computational and statistical component. Topics include introduction to genetics, identification of genes involved in disease using regression techniques, inference of heritability using linear mixed models, inferring human population history using Markov models, methods for phasing genotype data including expectation maximization, computational optimization methods and methods for dimensionality reduction including principal component analysis (PCA), and genotype-phenotype prediction using machine learning techniques. Concurrently scheduled with course C224. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C",
+      "MATH 33A",
+      "C&EE 110",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "cross_listed": [
+      "HUM GEN CM124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC124"
+  },
+  {
+    "course_code": "COM SCI 130",
+    "units": 4,
+    "title": "Software Engineering",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Requisites: courses 111, 131. Recommended requisite: Engineering 183EW or 185EW. Structured programming, program specification, program proving, modularity, abstract data types, composite design, software tools, software control systems, program testing, team programming. Letter grading.",
+    "prerequisites": [
+      "COM SCI 111",
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI130"
+  },
+  {
+    "course_code": "COM SCI 131",
+    "units": 4,
+    "title": "Programming Languages",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Enforced requisites: courses 33, 35L. Basic concepts in design and use of programming languages, including abstraction, modularity, control mechanisms, types, declarations, syntax, and semantics. Study of several different language paradigms, including functional, object-oriented, and logic programming. Letter grading.",
+    "prerequisites": [
+      "COM SCI 33",
+      "COM SCI 35L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI131"
+  },
+  {
+    "course_code": "COM SCI 132",
+    "units": 4,
+    "title": "Compiler Construction",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 131. Compiler structure; lexical and syntactic analysis; semantic analysis and code generation; theory of parsing. Letter grading.",
+    "prerequisites": [
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI132"
+  },
+  {
+    "course_code": "COM SCI 134",
+    "units": 4,
+    "title": "Distributed Systems",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 118. Covers fundamental concepts regarding design and implementation of distributed systems. Topics include synchronization (e.g., clock synchronization, logical clocks, vector clocks), failure recovery (e.g., snapshotting, primary-backup), consistency models (e.g., linearizability, eventual, causal), consensus protocols (e.g., Paxos, Raft), distributed transactions, and lock. Students gain hands-on, practical experience through multiple programming assignments that work through steps of creating fault-tolerant, sharded key/value store. Exploration of how these concepts have manifested in several real-world, large-scale distributed systems used by Internet companies like Google, Facebook, and Amazon. Letter grading.",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI134"
+  },
+  {
+    "course_code": "COM SCI 136",
+    "units": 4,
+    "title": "Introduction to Computer Security",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 118. Introduction to basic concepts of information security necessary for students to understand risks and mitigations associated with protection of systems and data. Topics include security models and architectures, security threats and risk analysis, access control and authentication/authorization, cryptography, network security, secure application design, and ethics and law. Letter grading.",
+    "prerequisites": [
+      "COM SCI 118"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI136"
+  },
+  {
+    "course_code": "COM SCI C137A",
+    "units": 4,
+    "title": "Prototyping Programming Languages",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 131. How different programming language paradigms provide dramatically different ways of thinking about computation and offer trade-offs on many dimensions, such as modularity, extensibility, expressiveness, and safety. Concrete exploration of three major programming paradigms\u2014functional, object-oriented, and logic programming\u2014by prototyping implementations of languages in each. Analysis of prototypes to shed light on design and structural properties of each language and paradigm and to allow easy comparison against one another. Hands-on experience implementing new abstractions, both as stand-alone languages and as libraries in existing languages. Concurrently scheduled with course C237A. Letter grading.",
+    "prerequisites": [
+      "COM SCI 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC137A"
+  },
+  {
+    "course_code": "COM SCI C137B",
+    "units": 4,
+    "title": "Programming Language Design",
+    "description": "Seminar, four hours; outside study, eight hours. Enforced requisite: course C137A. Study of various programming language designs, from computing history and research literature, that attempt to address problems of software systems that are bloated, buggy, and difficult to maintain and extend despite trend in computing toward ever higher levels of abstraction for programming. Hands-on experience designing, prototyping, and evaluating new languages, language abstractions, and/or programming environments. Concurrently scheduled with course C237B. Letter grading.",
+    "prerequisites": [
+      "COM SCI C137A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC137B"
+  },
+  {
+    "course_code": "COM SCI M138",
+    "units": 4,
+    "title": "Computer System Security",
+    "description": "(Same as Electrical and Computer Engineering M117.) Lecture, four hours; laboratory, one hour; outside study, seven hours. Requisite: course 33. Recommended requisite: course 111. Introduction to fundamental knowledge of computer system security. Students gain understanding of exploit techniques; learn to use the security tools; learn to design and implement secure systems; and learn concepts of computer security including software vulnerability analysis and defense, web security, mobile security, and network security. Covers the latest security topics in practice (e.g., cryptocurrency), and in research (e.g., state-of-the-art fuzzing techniques and machine-learning-based security analysis). Students get hands-on experience in analyzing and designing secure systems. Includes course project for cutting-edge security research. Letter grading.",
+    "prerequisites": [
+      "COM SCI 33"
+    ],
+    "cross_listed": [
+      "EC ENGR M117"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM138"
+  },
+  {
+    "course_code": "COM SCI 143",
+    "units": 4,
+    "title": "Data Management Systems",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Enforced requisite: course 32 or Program in Computing 10C. Information systems and database systems in enterprises. File organization and secondary storage structures. Relational model and relational database systems. Network, hierarchical, and other models. Query languages. Database design principles. Transactions, concurrency, and recovery. Integrity and authorization. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI143"
+  },
+  {
+    "course_code": "COM SCI 144",
+    "units": 4,
+    "title": "Web Applications",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 143. Important concepts and theory for building effective and safe Web applications and first-hand experience with basic tools. Topics include basic Web architecture and protocol, XML and XML query language, mapping between XML and relational models, information retrieval model and theory, security and user model, Web services and distributed transactions. Letter grading.",
+    "prerequisites": [
+      "COM SCI 143"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI144"
+  },
+  {
+    "course_code": "COM SCI 145",
+    "units": 4,
+    "title": "Introduction to Data Mining",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 32. Introduction of basic concepts, algorithms, and techniques of data mining on different types of datasets including vector data, set data, sequence data, text data, and graph data. Hands-on project involving practice of mining useful knowledge from large data sets. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI145"
+  },
+  {
+    "course_code": "COM SCI M146",
+    "units": 4,
+    "title": "Introduction to Machine Learning",
+    "description": "(Same as Electrical and Computer Engineering M146.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 32 or Program in Computing 10C; Civil and Environmental Engineering 110 or Electrical and Computer Engineering 131A or Mathematics 170A or 170E or Statistics 100A; Mathematics 33A. Introduction to breadth of data science. Foundations for modeling data sources, principles of operation of common tools for data analysis, and application of tools and models to data gathering and analysis. Topics include statistical foundations, regression, classification, kernel methods, clustering, expectation maximization, principal component analysis, decision theory, reinforcement learning and deep learning. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C"
+    ],
+    "cross_listed": [
+      "EC ENGR M146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM146"
+  },
+  {
+    "course_code": "COM SCI M148",
+    "units": 4,
+    "title": "Introduction to Data Science",
+    "description": "(Same as Electrical and Computer Engineering M148.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 31 or Program in Computing 10A, and 10B, and one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, Mathematics 170E, or Statistics 100A. How to analyze data arising in real world so as to understand corresponding phenomenon. Covers topics in machine learning, data analytics, and statistical modeling classically employed for prediction. Comprehensive, hands-on overview of data science domain by blending theoretical and practical instruction. Data science lifecycle: data selection and cleaning, feature engineering, model selection, and prediction methodologies. Letter grading.",
+    "prerequisites": [
+      "COM SCI 31",
+      "PIC 10A",
+      "PIC 10B",
+      "C&EE 110",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "cross_listed": [
+      "EC ENGR M148"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM148"
+  },
+  {
+    "course_code": "COM SCI M151B",
+    "units": 4,
+    "title": "Computer Systems Architecture",
+    "description": "(Same as Electrical and Computer Engineering M116C.) Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: courses 33, and M51A or Electrical and Computer Engineering M16. Recommended: courses 111, and M152A or Electrical and Computer Engineering M116L. Computer system organization and design, implementation of CPU datapath and control, instruction set design, memory hierarchy (caches, main memory, virtual memory) organization and management, input/output subsystems (bus structures, interrupts, DMA), performance evaluation, pipelined processors. Letter grading.",
+    "prerequisites": [
+      "COM SCI 33",
+      "COM SCI M51A",
+      "EC ENGR M16"
+    ],
+    "cross_listed": [
+      "EC ENGR M116C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM151B"
+  },
+  {
+    "course_code": "COM SCI M152A",
+    "units": 2,
+    "title": "Introductory Digital Design Laboratory",
+    "description": "(Same as Electrical and Computer Engineering M116L.) Laboratory, four hours; outside study, two hours. Enforced requisite: course M51A or Electrical and Computer Engineering M16. Hands-on design, implementation, and debugging of digital logic circuits, use of computer-aided design tools for schematic capture and simulation, implementation of complex circuits using programmed array logic, design projects. Letter grading.",
+    "prerequisites": [
+      "COM SCI M51A",
+      "EC ENGR M16"
+    ],
+    "cross_listed": [
+      "EC ENGR M116L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM152A"
+  },
+  {
+    "course_code": "COM SCI 152B",
+    "units": 4,
+    "title": "Digital Design Project Laboratory",
+    "description": "Laboratory, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course M151B or Electrical Engineering M116C. Recommended: Engineering 183EW or 185EW. Limited to seniors. Design and implementation of complex digital subsystems using field-programmable gate arrays (e.g., processors, special-purpose processors, device controllers, and input/output interfaces). Students work in teams to develop and implement designs and to document and give oral presentations of their work. Letter grading.",
+    "prerequisites": [
+      "COM SCI M151B",
+      "EC ENGR M116C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI152B"
+  },
+  {
+    "course_code": "COM SCI 161",
+    "units": 4,
+    "title": "Fundamentals of Artificial Intelligence",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Enforced requisite: course 180. Introduction to fundamental problem solving and knowledge representation paradigms of artificial intelligence. Introduction to Lisp with regular programming assignments. State-space and problem reduction methods, brute-force and heuristic search, planning techniques, two-player games. Knowledge structures including predicate logic, production systems, semantic nets and primitives, frames, scripts. Special topics in natural language processing, expert systems, vision, and parallel architectures. Letter grading.",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI161"
+  },
+  {
+    "course_code": "COM SCI 162",
+    "units": 4,
+    "title": "Natural Language Processing",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 145 or M146. Recommended requisite: course 35L. Introduction to wide range of natural language processing, tasks, algorithms for effectively solving these problems, and methods of evaluating their performance. Focus on statistical and neural-network learning algorithms that train on text corpora to automatically acquire knowledge needed to perform task. Discussion of general issues and present abstract algorithms. Assignments on theoretical foundations of linguistic phenomena and implementation of algorithms. Implemented versions of some of algorithms are provided in order to give feel for how discussed systems really work, and allow for extensions and experimentation as part of course projects. Letter grading.",
+    "prerequisites": [
+      "COM SCI 145",
+      "COM SCI M146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI162"
+  },
+  {
+    "course_code": "COM SCI 163",
+    "units": 4,
+    "title": "Deep Learning for Computer Vision",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: one course from course C124, 145, M146, M148, 161, 162, Electrical and Computer Engineering C147, or 149. Computer vision has been a core field of artificial intelligence, facilitating a wide range of applications from image search to self-driving. The progress of deep learning has greatly advanced the performance of visual tasks like visual recognition and image generation. Study of deep learning approaches for computer vision. Students learn to implement and tune the deep neural networks used in various computer vision, such as visual recognition and image generation. Covers learning algorithms, neural architecture design, and practical skills of training and debugging neural networks. Letter grading.",
+    "prerequisites": [
+      "COM SCI C124",
+      "COM SCI 145",
+      "COM SCI M146",
+      "COM SCI M148",
+      "COM SCI 161",
+      "COM SCI 162",
+      "EC ENGR C147",
+      "EC ENGR 149"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI163"
+  },
+  {
+    "course_code": "COM SCI 168",
+    "units": 4,
+    "title": "Computational Methods for Medical Imaging",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 32 or Program in Computing 10C with grade of C\u2013 or better, Mathematics 33A, one course from Civil and Environmental Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, 170E, or Statistics 100A. Theory and practice of image acquisition including angiography, computed tomography (CT), and magnetic resonance (MR). Project-based course covers applied topics in medical imaging including image processing, atlasing, predictive modeling, personalized medicine, data driven and machine learning methods. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "PIC 10C",
+      "MATH 33A",
+      "C&EE 110",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI168"
+  },
+  {
+    "course_code": "COM SCI 170A",
+    "units": 4,
+    "title": "Mathematical Modeling and Methods for Computer Science",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Enforced requisites: course 180, Mathematics 33B. Introduction to methods for modeling and simulation using interactive computing environments. Extensive coverage of methods for numeric and symbolic computation, matrix algebra, statistics, floating point, optimization, and spectral analysis. Emphasis on applications in simulation of physical systems. Letter grading.",
+    "prerequisites": [
+      "COM SCI 180",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI170A"
+  },
+  {
+    "course_code": "COM SCI M171L",
+    "units": 2,
+    "title": "Data Communication Systems Laboratory",
+    "description": "(Same as Electrical and Computer Engineering M171L.) Laboratory, four to eight hours; outside study, two to four hours. Recommended preparation: course M152A. Limited to seniors. Not open to students with credit for course M117. Interpretation of analog-signaling aspects of digital systems and data communications through experience in using contemporary test instruments to generate and display signals in relevant laboratory setups. Use of oscilloscopes, pulse and function generators, baseband spectrum analyzers, desktop computers, terminals, modems, PCs, and workstations in experiments on pulse transmission impairments, waveforms and their spectra, modem and terminal characteristics, and interfaces. Letter grading.",
+    "credit_exclusions": [
+      "COM SCI 117"
+    ],
+    "cross_listed": [
+      "EC ENGR M171L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM171L"
+  },
+  {
+    "course_code": "COM SCI 172",
+    "units": 4,
+    "title": "Real-Time Three-Dimensional Animation",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 32. Introduction to handling of geometry, appearance, and motion specifically for real-time virtual environments, both on theoretical and practical levels. Completion of one quality real-time three-dimensional animation by following through from preproduction to postproduction. End products expected to be game demonstrations, storytelling games, or machinima (use of real-time graphics engines to create cinematic productions). Focus on achieving highest quality productions to qualify and submit products to Student Academy Awards competition. Use of Unity Game Engine to make technical decisions to adapt stories to games. Introduction to interaction concepts, enabling students to create low-fidelity real-time three-dimensional animation and to concepts in artificial intelligence, enabling them to refine their interactions to create high-fidelity real-time three-dimensional animation. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI172"
+  },
+  {
+    "course_code": "COM SCI 174A",
+    "units": 4,
+    "title": "Introduction to Computer Graphics",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 32. Basic principles behind modern two- and three-dimensional computer graphics systems, including complete set of steps that modern graphics pipelines use to create realistic images in real time. How to position and manipulate objects in scene using geometric and camera transformations. How to create final image using perspective and orthographic transformations. Basics of modeling primitives such as polygonal models and implicit and parametric surfaces. Basic ideas behind color spaces, illumination models, shading, and texture mapping. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI174A"
+  },
+  {
+    "course_code": "COM SCI 174B",
+    "units": 4,
+    "title": "Introduction to Computer Graphics: Three-Dimensional Photography and Rendering",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 174A. State of art in three-dimensional photography and image-based rendering. How to use cameras and light to capture shape and appearance of real objects and scenes. Process provides simple way to acquire three-dimensional models of unparalleled detail and realism. Applications of techniques from entertainment (reverse engineering and postprocessing of movies, generation of realistic synthetic objects and characters) to medicine (modeling of biological structures from imaging data), mixed reality (augmentation of video), and security (visual surveillance). Fundamental analytical tools for modeling and inferring geometric (shape) and photometric (reflectance, illumination) properties of objects and scenes, and for rendering and manipulating novel views. Letter grading.",
+    "prerequisites": [
+      "COM SCI 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI174B"
+  },
+  {
+    "course_code": "COM SCI C174C",
+    "units": 4,
+    "title": "Computer Animation",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 174A. Designed for juniors/seniors. Introduction to computer animation, including basic principles of character modeling, forward and inverse kinematics, forward and inverse dynamics, motion capture animation techniques, physics-based animation of particles and systems, and motor control. Concurrently scheduled with course C274C. Letter grading.",
+    "prerequisites": [
+      "COM SCI 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIC174C"
+  },
+  {
+    "course_code": "COM SCI 180",
+    "units": 4,
+    "title": "Introduction to Algorithms and Complexity",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: course 32, Mathematics 61. Designed for junior/senior Computer Science majors. Introduction to design and analysis of algorithms. Design techniques: divide-and-conquer, greedy method, dynamic programming; selection of prototypical algorithms; choice of data structures and representations; complexity measures: time, space, upper, lower bounds, asymptotic complexity; NP-completeness. Letter grading.",
+    "prerequisites": [
+      "COM SCI 32",
+      "MATH 61"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI180"
+  },
+  {
+    "course_code": "COM SCI 181",
+    "units": 4,
+    "title": "Theory of Computing",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 180. Designed for junior/senior Computer Science majors. Finite state machines, context-free languages, and pushdown automata. Closure properties and pumping lemmas. Turing machines, undecidability. Introduction to computability. Letter grading.",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI181"
+  },
+  {
+    "course_code": "COM SCI M182",
+    "units": 4,
+    "title": "Dynamic Biosystem Modeling and Simulation Methodology",
+    "description": "(Same as Bioengineering M182.) Lecture, four hours; discussion, one hour; laboratory, two hours; outside study, five hours. Requisites: Life Sciences 30A and 30B, or Mathematics 3A and 3B, or 31A and 31B. Recommended requisite or corequisite: Mathematics 3C, 32A, or 32T. For undergraduate students in life, computational, engineering, and mathematical sciences. Active learning approach. Introduction to explicit modeling and simulation of dynamic biological systems. Basic methodology for transforming biology, biochemistry, and physiology into system diagrams, graphs, and mathematical expressions for studying their behavior. Structural models, formulated from basic conservation and mass action laws and feedback concepts, are further transformed into first-order differential equations, and implemented in simulation diagrams for quantifying and exploring biosystem properties. Examples show how to use these explicit models to gain clarity on nature of biosystem phenomena, and frame questions and explore new ideas for research. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "MATH 3A",
+      "MATH 3B",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "cross_listed": [
+      "BIOENGR M182"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM182"
+  },
+  {
+    "course_code": "COM SCI 183",
+    "units": 4,
+    "title": "Introduction to Cryptography",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Preparation: knowledge of basic probability theory. Enforced requisite: course 180. Introduction to cryptography, computer security, and basic concepts and techniques. Topics include notions of hardness, one-way functions, hard-core bits, pseudorandom generators, pseudorandom functions and pseudorandom permutations, semantic security, public-key and private-key encryption, key-agreement, homomorphic encryption, private information retrieval and voting protocols, message authentication, digital signatures, interactive proofs, zero-knowledge proofs, collision-resistant hash functions, commitment protocols, and two-party secure computation with static security. Letter grading.",
+    "prerequisites": [
+      "COM SCI 180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI183"
+  },
+  {
+    "course_code": "COM SCI M184",
+    "units": 2,
+    "title": "Introduction to Computational and Systems Biology",
+    "description": "(Same as Bioengineering M184 and Computational and Systems Biology M184.) Lecture, two hours; outside study, four hours. Enforced requisites: one course from 31, Civil Engineering M20, Mechanical and Aerospace Engineering M20, or Program in Computing 10A; and Life Sciences 30B or Mathematics 3B or 31B. Survey course designed to introduce students to computational and systems modeling and computation in biology and medicine, providing motivation, flavor, culture, and cutting-edge contributions in computational biosciences and aiming for more informed basis for focused studies by students with computational and systems biology interests. Presentations by individual UCLA researchers discussing their active computational and systems biology research. P/NP grading.",
+    "prerequisites": [
+      "COM SCI 31",
+      "C&EE M20",
+      "MECH&AE M20",
+      "PIC 10A"
+    ],
+    "cross_listed": [
+      "C&S BIO M184",
+      "BIOENGR M184"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM184"
+  },
+  {
+    "course_code": "COM SCI CM186",
+    "units": 5,
+    "title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+    "description": "(Same as Bioengineering CM186, Computational and Systems Biology M186, and Ecology and Evolutionary Biology M178.) Lecture, four hours; laboratory, two hours; discussion, one hour. Requisites: Life Sciences 30A, 30B, Mathematics 32A or M32T, 33A, and 33B; or Mathematics 31A, 31B, 32A or M32T, 33A, and 33B. Dynamic biosystem modeling and computer simulation methods for studying biological/biomedical processes and systems at multiple levels of organization. Intermediate linear and nonlinear control system, multicompartmental, epidemiological, pharmacokinetic, and other biomodeling methods applied to life sciences problems at molecular, cellular, organ, and population levels. Both theory- and data-driven modeling, with focus on translating biomodeling goals and data into dynamical mathematical models, and implementing them for simulation, quantification, and analysis. Numerical simulation, optimization, and parameter identifiability and search algorithms, with model discrimination and analysis and software exercises in PC laboratory assignments. Concurrently scheduled with course CM286. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "MATH 32A",
+      "MATH M32T",
+      "MATH 33A",
+      "MATH 33B"
+    ],
+    "cross_listed": [
+      "EE BIOL M178",
+      "C&S BIO M186",
+      "BIOENGR CM186"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM186"
+  },
+  {
+    "course_code": "COM SCI CM187",
+    "units": 4,
+    "title": "Research Communication in Computational and Systems Biology",
+    "description": "(Same as Bioengineering CM187 and Computational and Systems Biology M187.) Lecture, four hours; outside study, eight hours. Requisites: course M182 or CM186 or Computational and Systems Biology M150; and research experience (course 199, Bioengineering 199, Computational and Systems Biology 199, or equivalent). Closely directed, interactive, and real research experience in active quantitative systems biology research laboratory. Direction on how to focus on topics of current interest in scientific community, appropriate to student interests and capabilities. Critiques of oral presentations and written progress reports explain how to proceed with search for research results. Major emphasis on effective research reporting, both oral and written. Concurrently scheduled with course CM287. Letter grading.",
+    "prerequisites": [
+      "COM SCI M182",
+      "COM SCI CM186",
+      "C&S BIO M150"
+    ],
+    "cross_listed": [
+      "BIOENGR CM187",
+      "C&S BIO M187"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCICM187"
+  },
+  {
+    "course_code": "COM SCI 188",
+    "units": 4,
+    "title": "Special Courses in Computer Science",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Special topics in computer science for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188"
+  },
+  {
+    "course_code": "COM SCI 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SA"
+  },
+  {
+    "course_code": "COM SCI 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "COM SCI 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SB"
+  },
+  {
+    "course_code": "COM SCI 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "COM SCI 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI188SC"
+  },
+  {
+    "course_code": "COM SCI 192",
+    "units": 2,
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "description": "Seminar, two hours; clinic, four hours. Requisites: course 192A or Life Sciences 192A (may be taken concurrently), and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated four times for credit. Letter grading.",
+    "prerequisites": [
+      "COM SCI 192A",
+      "LIFESCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI192"
+  },
+  {
+    "course_code": "COM SCI M192A",
+    "units": 1,
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "description": "(Formerly numbered 192A.) (Same as Atmospheric and Oceanic Sciences M192A, Chemistry M192E, Life Sciences M192A, Mathematics M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.",
+    "cross_listed": [
+      "LIFESCI M192A",
+      "PHYSICS M192S",
+      "CHEM M192E",
+      "MATH M192A",
+      "A&O SCI M192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCIM192A"
+  },
+  {
+    "course_code": "COM SCI 194",
+    "units": 4,
+    "title": "Research Group Seminars: Computer Science",
+    "description": "Seminar, four hours; outside study, eight hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI194"
+  },
+  {
+    "course_code": "COM SCI 199",
+    "units": 2,
+    "title": "Directed Research in Computer Science",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMSCI199"
+  }
+]

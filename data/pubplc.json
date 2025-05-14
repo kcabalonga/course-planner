@@ -1,0 +1,297 @@
+[
+  {
+    "course_code": "PUB PLC 10A",
+    "units": 5,
+    "title": "Introduction to Policy Analysis",
+    "description": "Lecture, three hours; workshops and outside study, three hours. Overview of contemporary policy analysis to develop analytical skills with applications in business, economics, government, law, and medicine. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC10A"
+  },
+  {
+    "course_code": "PUB PLC 10B",
+    "units": 4,
+    "title": "California Policy Issues",
+    "description": "Lecture, three hours; outside study, nine hours. Application of policy analysis to California issues. Guest lectures from practitioners and academics along with readings and videos. Student written reports and oral presentations required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC10B"
+  },
+  {
+    "course_code": "PUB PLC 10C",
+    "units": 5,
+    "title": "Public Policy for Crime, Cannabis, and Other Drugs",
+    "description": "Lecture, three hours; outside study, twelve hours. Application of policy analysis, including critical analysis, problem solving, and substantive policy research, to develop knowledge and understanding about drug and crime policy, with focus on cannabis. Guest lectures by instructors and guest academics and practitioners, with readings from academic literature and policy reports. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC10C"
+  },
+  {
+    "course_code": "PUB PLC 10D",
+    "units": 5,
+    "title": "Public Policy and Urban Homelessness",
+    "description": "Lecture, three hours; outside study, film review, and field/volunteer work, nine hours. Application of policy analysis to issues and solutions concerning homelessness. Guest lectures from local policymakers. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC10D"
+  },
+  {
+    "course_code": "PUB PLC 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC19"
+  },
+  {
+    "course_code": "PUB PLC 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC89"
+  },
+  {
+    "course_code": "PUB PLC 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC89HC"
+  },
+  {
+    "course_code": "PUB PLC 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC99"
+  },
+  {
+    "course_code": "PUB PLC 105",
+    "units": 4,
+    "title": "Leadership in Public Interest",
+    "description": "Lecture, three hours. Examination of prevailing models, theories, and practices of leadership in public settings and application of them through case studies, films, and situational articles. Participation in group projects and discussions designed to improve understanding of role of leadership in mobilizing people groups to do difficult work. Introduction to literature and theory on leadership, examination of leadership and group dynamics, and challenge of leadership in times of stress and change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC105"
+  },
+  {
+    "course_code": "PUB PLC 113",
+    "units": 4,
+    "title": "Politics of U.S. Health Policy",
+    "description": "Lecture, three hours. Every modern nation faces similar health system challenges, such as promoting health and longevity, providing effective treatments, balancing benefits and burdens of medical technology, and controlling healthcare costs that grow faster than national income. U.S. seems uniquely disadvantaged with lower life expectancy, problematic quality of medical services, lack of insurance for millions, and highest costs in world, hampering families, businesses, and government. What political dynamics produced this result and influence possibility and direction of ongoing policy change? Examination of meaning of health and healthcare; international experience; current status, organization, and financing of U.S. healthcare system; and factors that affect national health policymaking, including comprehensive healthcare reform: framing of problems, role of public opinion, influence of interest groups, composition and organization of Congress, and opportunities for and applications of presidential leadership. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC113"
+  },
+  {
+    "course_code": "PUB PLC C115",
+    "units": 4,
+    "title": "Environmental and Resource Economics and Policy",
+    "description": "Lecture, three hours. Requisites: Economics 11, 143. Survey of ways economics is used to define, analyze, and resolve problems of environmental management. Overview of analytical questions addressed by environmental economists that bear on public policies. Concurrently scheduled with course CM250. Letter grading.",
+    "prerequisites": [
+      "ECON 11",
+      "ECON 143"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCC115"
+  },
+  {
+    "course_code": "PUB PLC M120",
+    "units": 4,
+    "title": "Race, Inequality, and Public Policy",
+    "description": "(Same as African American Studies M120.) Lecture, three hours; discussion, one hour. Background in economics, sociology, or urban studies preferred but not required. Survey course to examine major debates and current controversies concerning public policy responses to social problems in urban America. Letter grading.",
+    "cross_listed": [
+      "AF AMER M120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCM120"
+  },
+  {
+    "course_code": "PUB PLC CM126XP",
+    "units": 4,
+    "title": "Data Analysis for Educational Equity and Improvement",
+    "description": "(Formerly numbered CM126.) (Same as Public Affairs M117DX.) Lecture, three hours. Requisite: Public Affairs 60. Exploration of challenge of making data useful for decision-making from cleaning data and deciding which analyses to conduct; to conducting those analyses carefully, thoughtfully, and in reproducible way; to displaying results, interpreting them, and communicating them clearly. Focus on challenge of making survey data useful to educators so that they can use those data to reflect on school and district policies and practices and, ultimately, use information to improve students\u2019 school experiences. Concurrently scheduled with course C226. Letter grading.",
+    "prerequisites": [
+      "Public Affairs 60"
+    ],
+    "cross_listed": [
+      "PUB AFF M117DX"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM126XP"
+  },
+  {
+    "course_code": "PUB PLC M127",
+    "units": 4,
+    "title": "Understanding Public Issue Life Cycle",
+    "description": "(Same as Political Science M142D.) Lecture, three or four hours; discussion, one hour (when scheduled). Recommended preparation: Political Science 10, 40, and one course from Economics 1, 2, 5, 11, or 101. Examination of how public issue life cycle is shaped by (1) economic and political incentives of various actors\u2014business, news media, mass public, organized interests, Congress, the president, regulatory agencies, and courts and (2) ideology, cognitive biases, and ethical reasoning. P/NP or letter grading.",
+    "cross_listed": [
+      "POL SCI M142D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCM127"
+  },
+  {
+    "course_code": "PUB PLC C135",
+    "units": 4,
+    "title": "Crime and Public Policy",
+    "description": "Seminar, three hours. Crime is one of most costly social problems faced by societies across world. Examination of crime trends, criminogenic factors that influence them, and policy initiatives that influence them, largely in U.S. context. Criminal justice policy community is increasingly focused on best and evidence-based practice, and often derives implication and policy recommendation from existing empirical research. Focus on basic empirical and theoretical research on determinants of criminal offending and effectiveness, and effects of policy interventions meant to address criminal offending. Concurrently scheduled with course C235. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCC135"
+  },
+  {
+    "course_code": "PUB PLC CM171",
+    "units": 4,
+    "title": "International Development",
+    "description": "(Same as Economics M112A.) Lecture, three hours. Requisite: Economics 102 or 111. Why are some countries rich, while other countries are poor? What can policymakers do to reduce poverty? Discussion of current research on these questions. Study of both methodologies used to answer questions in development economics, like natural experiments and randomized control trials, as well as relationship between development and institutions, education, growth, culture, and gender. Reading intensive, seminar-style course. Students are expected to read academic articles in economics and actively participate in discussions. Students also learn how to use data to evaluate policies. Concurrently scheduled with course C271. P/NP or letter grading.",
+    "prerequisites": [
+      "ECON 102",
+      "ECON 111"
+    ],
+    "cross_listed": [
+      "ECON M112A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM171"
+  },
+  {
+    "course_code": "PUB PLC CM175",
+    "units": 4,
+    "title": "Advanced Technology: Public Policy, Regulation, and Law",
+    "description": "(Same as Public Affairs M165.) Lecture, three hours. Examination of cutting-edge public policy and regulatory issues implicated by advanced technologies such as artificial intelligence, drones, autonomous vehicles, blockchain/Bitcoin, etc. Exploration of whether and how such new technologies should be regulated. Exploration of how policymakers should balance need to promote investment and innovation against need to protect public against potential misuse and abuse of these new technologies. Exploration of many issues raised by these technologies such as privacy, national security, network neutrality, intellectual property rights, and more. Concurrently scheduled with course C275. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM175"
+  },
+  {
+    "course_code": "PUB PLC CM177",
+    "units": 4,
+    "title": "Network Science Using R",
+    "description": "(Same as Public Affairs M117B.) Lecture, three hours. No prior knowledge of R required. Designed for juniors and seniors. Network analysis offers framework for understanding how relationships between people, places, and institutions affect public policy outcomes. For example, why individuals decide to protest or vote, amount of education they pursue, or effect of human interference in ecosystem can all be considered using network analysis. Weekly introduction of concept from network analysis, followed by working through it using popular statistical programming language R. Concurrently scheduled with course C277. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M117B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM177"
+  },
+  {
+    "course_code": "PUB PLC CM179",
+    "units": 4,
+    "title": "Social Movements in Theory and Practice",
+    "description": "(Same as Public Affairs M179A.) Lecture, three hours. Social movement is group of people pressuring for political or social change over long periods of time. Study focuses on how mass movements form, when and where they are likely to form, what types of tactics they choose, how those tactics affect their success, and role new technologies play. Weekly focus on one specific topic, such as nonviolence or social media, with historic and more recent movements used as case studies. Concurrently scheduled with course C279. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M179A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM179"
+  },
+  {
+    "course_code": "PUB PLC CM182",
+    "units": 4,
+    "title": "Science, Technology, and Public Policy",
+    "description": "(Same as Electrical and Computer Engineering CM182 and Public Affairs M164.) Lecture, three hours. Recent and continuing advances in science and technology are raising profoundly important public policy issues. Consideration of selection of critical policy issues, each of which has substantial ethical, social, economic, political, scientific, and technological aspects. Concurrently scheduled with course CM282. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M164",
+      "EC ENGR CM182"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM182"
+  },
+  {
+    "course_code": "PUB PLC C183",
+    "units": 4,
+    "title": "Science Policy and Expertise",
+    "description": "Lecture, three hours. Introduction to social analysis of science and expertise by considering three overlapping themes: social conditions that affect production of scientific knowledge, debates about expertise and democracy in technical and policy decision-making, and current controversies about expertise and autonomy of science (e.g., conflicts of interest in funding of biomedical research and recent charges of politicization of science). Concurrently scheduled with course C283. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCC183"
+  },
+  {
+    "course_code": "PUB PLC 187",
+    "units": 4,
+    "title": "Research Seminar: Public Policy",
+    "description": "Seminar, three hours; outside study, nine hours. Requisite: course 10A or Public Affairs 10. Limited to and required of seniors in Public Affairs minor. Production of research project that examines in depth one particular policy issue in its social context, including political pressures involved and problems of implementation. Emphasis on skills of data acquisition and analysis, conceptualization, and written analysis and presentation. Letter grading.",
+    "prerequisites": [
+      "PUB PLC 10A",
+      "Public Affairs 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC187"
+  },
+  {
+    "course_code": "PUB PLC 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC188SA"
+  },
+  {
+    "course_code": "PUB PLC 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PUB PLC 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC188SB"
+  },
+  {
+    "course_code": "PUB PLC 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PUB PLC 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC188SC"
+  },
+  {
+    "course_code": "PUB PLC 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC189"
+  },
+  {
+    "course_code": "PUB PLC 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC189HC"
+  },
+  {
+    "course_code": "PUB PLC 191A",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Public Policy",
+    "description": "Seminar, three hours; outside study, nine hours. Examination of particular subfields of policy studies (e.g., international policy, crime policy, policy history) in depth, with specific topics to be identified by instructor. Reading, discussion, and development of culminating project. Must be taken for credit if applied toward Public Affairs minor. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC191A"
+  },
+  {
+    "course_code": "PUB PLC CM191B",
+    "units": 4,
+    "title": "Variable Topics Seminar: Public Policy",
+    "description": "(Same as Public Affairs M191P.) Seminar, three hours; discussion, one hour (when scheduled); outside study, eight hours. Emerging issues in public policy. May be repeated for credit. Concurrently scheduled with course C291B. P/NP or letter grading.",
+    "cross_listed": [
+      "PUB AFF M191P"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM191B"
+  },
+  {
+    "course_code": "PUB PLC 191C",
+    "units": 2,
+    "title": "Variable Topics Research Seminars: Public Policy",
+    "description": "Seminar, two hours; outside study, four hours. Examination of particular subfields of policy studies (e.g., international policy, crime policy, policy history) in depth, with specific topics to be identified by instructor. Reading, discussion, and development of culminating project. Must be taken for credit if applied toward Public Affairs minor. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC191C"
+  },
+  {
+    "course_code": "PUB PLC CM191G",
+    "units": 4,
+    "title": "Special Topics in Global Studies and Public Policy",
+    "description": "(Same as Global Studies M161.) Seminar, three hours. Examination of one or more topics related to public policy and global studies. May be repeated for credit with topic change. Concurrently scheduled with course C291G. P/NP or letter grading.",
+    "cross_listed": [
+      "GLBL ST M161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLCCM191G"
+  },
+  {
+    "course_code": "PUB PLC 197",
+    "units": 2,
+    "title": "Individual Studies in Public Policy",
+    "description": "Tutorial, four hours. Preparation: 3.0 grade-point average. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBPLC197"
+  }
+]

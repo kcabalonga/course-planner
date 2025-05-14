@@ -1,0 +1,121 @@
+[
+  {
+    "course_code": "SEMITIC 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC19"
+  },
+  {
+    "course_code": "SEMITIC 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC89"
+  },
+  {
+    "course_code": "SEMITIC 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC89HC"
+  },
+  {
+    "course_code": "SEMITIC 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC99"
+  },
+  {
+    "course_code": "SEMITIC 110",
+    "units": 4,
+    "title": "Neo-Aramaic",
+    "description": "Lecture, three hours. Grammar and reading of selected texts (folktales, homilies, songs) in modern Aramaic dialects of the Jews and Christians of Kurdistan.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC110"
+  },
+  {
+    "course_code": "SEMITIC 115",
+    "units": 4,
+    "title": "Syriac",
+    "description": "Lecture, two hours. Morphology and syntax of Syriac language, introductory reading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC115"
+  },
+  {
+    "course_code": "SEMITIC 130",
+    "units": 4,
+    "title": "Biblical Aramaic",
+    "description": "Lecture, three hours. Requisites: Hebrew 102A, 102B, 102C. Grammar of biblical Aramaic and reading of texts.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC130"
+  },
+  {
+    "course_code": "SEMITIC M140A",
+    "units": 4,
+    "title": "Elementary Akkadian",
+    "description": "(Formerly numbered 140A.) (Same as Ancient Near East M141.) Lecture, three hours. Elementary grammar and reading of texts in standard Babylonian. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA M141"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITICM140A"
+  },
+  {
+    "course_code": "SEMITIC 140B",
+    "units": 4,
+    "title": "Elementary Akkadian",
+    "description": "Lecture, three hours. Elementary grammar and reading of texts in standard Babylonian.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC140B"
+  },
+  {
+    "course_code": "SEMITIC 141",
+    "units": 4,
+    "title": "Advanced Akkadian",
+    "description": "Lecture, three hours. Advanced Akkadian syntax and grammar; reading of Akkadian historical and literary texts. May be repeated for credit. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC141"
+  },
+  {
+    "course_code": "SEMITIC 142",
+    "units": 4,
+    "title": "Akkadian Literary Texts",
+    "description": "Lecture, three hours. Selected readings from Akkadian myths and epics, with introduction to historical tradition of works and their literary structure. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC142"
+  },
+  {
+    "course_code": "SEMITIC 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC189"
+  },
+  {
+    "course_code": "SEMITIC 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC189HC"
+  },
+  {
+    "course_code": "SEMITIC 197",
+    "units": 2,
+    "title": "Individual Studies in Semitics",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC197"
+  },
+  {
+    "course_code": "SEMITIC 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Semitics",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SEMITIC199"
+  }
+]

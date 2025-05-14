@@ -1,0 +1,168 @@
+[
+  {
+    "course_code": "INF STD 10",
+    "units": 5,
+    "title": "Information and Power",
+    "description": "Lecture, four hours. Introduction to core concepts of information and power and relation between them in range of social, economic, political, cultural, technological, and institutional contexts. Topics include markets and economies; cultural and media institutions; state interests in information; conflict and warfare; information organization, classification, and access; power and technology infrastructure; and intellectual freedom. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD10"
+  },
+  {
+    "course_code": "INF STD 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD19"
+  },
+  {
+    "course_code": "INF STD 20",
+    "units": 5,
+    "title": "Digital Cultures and Societies",
+    "description": "Lecture, four hours. Examination of social and cultural contexts of global digital networks and systems. Exploration of ethical, infrastructural, and political questions raised at intersection of technologies and cultures. Topics include data surveillance, algorithms, artificial intelligence (AI) systems, digital economies and labor, social media revolutions, indigenous and non-Western uses of technology, digital media literacies, and more. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD20"
+  },
+  {
+    "course_code": "INF STD 30",
+    "units": 5,
+    "title": "Internet and Society",
+    "description": "Lecture, four hours. Introduction to key historical and sociotechnical developments that have given rise to today's Internet and related information and communication technologies, from networked computing and telecommunications in 20th century to contemporary digital networks and platforms. Focus on economic, political, and cultural consequences of those developments and technologies in society today. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD30"
+  },
+  {
+    "course_code": "INF STD 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD89"
+  },
+  {
+    "course_code": "INF STD 97",
+    "units": 4,
+    "title": "Variable Topics in Information Studies",
+    "description": "Seminar, four hours. Designed for freshmen/sophomores, but open to all undergraduate students. Exploration of changing set of basic concepts and issues in study of information, information technology, and society and culture at introductory level. May be repeated for credit with consent of instructor. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD97"
+  },
+  {
+    "course_code": "INF STD 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD99"
+  },
+  {
+    "course_code": "INF STD C115",
+    "units": 4,
+    "title": "Introduction to Information Literacies",
+    "description": "Lecture, four hours. Foundational introduction to current and historical role and impact of information literacy\u2014ability to identify, locate, critically evaluate, use, and create information effectively and ethically, for personal and scholarly uses. Topics include theory and practice related to impact of economic, legal, and social/environmental issues on development of, access to, use, and assessment of information, currently and historically; developing and refining information researching questions; conducting effective information researching; distinguishing among and critically evaluating information researching tools such as Google and databases, as well as types of items, such as ads, opinions, and factual studies; documenting sources used in information researching; effectively helping others learn information researching and critical thinking in support of equity and inclusivity; and designing, creating, and assessing online educational learning objects as positive contributions to addressing social/environmental issues. Concurrently scheduled with course C215. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTDC115"
+  },
+  {
+    "course_code": "INF STD 118",
+    "units": 5,
+    "title": "Data and Ethics in Society",
+    "description": "Seminar, four hours; discussion, one hour. Exploration of moral, social, political, and ethical ramifications of choices we make at different stages in social construction of data. Includes cultivating critical analysis of processes of data collection, data mining, data storage, and deployment of data affected by variety of different communities, publics, nation-states, and individuals. Students learn basics of ethical and socially just frameworks to assess range of data-driven projects and platforms. Students gain understanding of social, historical, and political dilemmas of big data, algorithmic decision-making, predictive analytics, and distinct challenges associated with ethical, civil-, human-, and sovereign-rights models of engaging modern digital information era. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD118"
+  },
+  {
+    "course_code": "INF STD M121",
+    "units": 5,
+    "title": "Introduction to Media Literacies",
+    "description": "(Same as Education M121.) Seminar, four hours. Exploration of relationships between media, technology, and popular culture. Students guided to analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Through application of critical media literacy framework, students expand notions of literacy to be more inclusive of all types of texts; and deepen their abilities to question power of word, image, and sound-bite to represent social and environmental injustice. Letter grading.",
+    "cross_listed": [
+      "EDUC M121"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTDM121"
+  },
+  {
+    "course_code": "INF STD M135",
+    "units": 5,
+    "title": "Environmental Justice through Lens of Media and Education",
+    "description": "(Same as Education M135.) Seminar, four hours. Exploration of human relationships with natural world, historically and today. Students take critical look at ways information has been shaped, audiences positioned, and movements manipulated to promote commercial interests over public good. Exploration of progressive movements that have in past challenged\u2014and currently challenge\u2014neoliberal agendas, extractive policies, and unsustainable practices. Letter grading.",
+    "cross_listed": [
+      "EDUC M135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTDM135"
+  },
+  {
+    "course_code": "INF STD M137",
+    "units": 4,
+    "title": "Critical Digital Media Literacies",
+    "description": "(Same as Education M137.) Lecture, four hours. Students question relationships with digital media and information society and explore how media and information communication technologies are improving society, strengthening democracy, and opening up opportunities for challenging hegemony and promoting social transformation. Problematization of social media and questioning of ways it is being used to surveil, capture data, spread hate, mislead, distract, and destabilize democracies. Students analyze media representations, question process of normalizing dominant ideologies, and create counter-hegemonic media messages. Combines theoretical foundations of cultural studies and critical pedagogy with practical applications of new digital media and technology, as well as traditional print-based means of communication. Exploration of media representations of race, class, gender, sexual orientation, and other identity markers. Students analyze and create media projects related to education. Letter grading.",
+    "cross_listed": [
+      "EDUC M137"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTDM137"
+  },
+  {
+    "course_code": "INF STD 139",
+    "units": 1,
+    "title": "Letterpress Laboratory",
+    "description": "Laboratory, one hour. Hands-on printing experience in letterpress shop designed to give students in information studies, design, or other disciplines understanding of printing process. Basic instruction provided, and students work on group project for duration of term. May be repeated twice. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD139"
+  },
+  {
+    "course_code": "INF STD 180",
+    "units": 4,
+    "title": "Special Topics in Information Studies",
+    "description": "Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Selected topics or issues related to social, cultural, economic, or political aspects of information and information systems. Consult Schedule of Classes for topics and instructors. May be repeated once for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD180"
+  },
+  {
+    "course_code": "INF STD 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD188SA"
+  },
+  {
+    "course_code": "INF STD 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "INF STD 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD188SB"
+  },
+  {
+    "course_code": "INF STD 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "INF STD 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD188SC"
+  },
+  {
+    "course_code": "INF STD 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD189"
+  },
+  {
+    "course_code": "INF STD 199",
+    "units": 2,
+    "title": "Directed Research in Information Studies",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/INFSTD199"
+  }
+]

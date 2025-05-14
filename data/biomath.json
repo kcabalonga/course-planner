@@ -1,0 +1,58 @@
+[
+  {
+    "course_code": "BIOMATH 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH19"
+  },
+  {
+    "course_code": "BIOMATH 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH99"
+  },
+  {
+    "course_code": "BIOMATH 170A",
+    "units": 4,
+    "title": "Introductory Biomathematics for Medical Investigators",
+    "description": "Lecture, three hours; discussion, one hour. Intensive elementary statistics course emphasizing design and applications to observational studies and experiments/clinical trials. Statistical topics include study design, descriptive statistics, elementary probability and distributions, confidence intervals and hypothesis testing, sample size and power, linear regression and correlation, analysis of variance, nonparametric statistics. Applications to biomedical literature and design of clinical trials. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH170A"
+  },
+  {
+    "course_code": "BIOMATH 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH189HC"
+  },
+  {
+    "course_code": "BIOMATH 190HA",
+    "units": 4,
+    "title": "Honors Research in Biomathematics",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH190HA"
+  },
+  {
+    "course_code": "BIOMATH 190HB",
+    "units": 4,
+    "title": "Honors Research in Biomathematics",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH190HB"
+  },
+  {
+    "course_code": "BIOMATH 197",
+    "units": 2,
+    "title": "Individual Studies in Biomathematics",
+    "description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH197"
+  },
+  {
+    "course_code": "BIOMATH 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Biomathematics",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOMATH199"
+  }
+]

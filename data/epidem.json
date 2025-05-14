@@ -1,0 +1,72 @@
+[
+  {
+    "course_code": "EPIDEM 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM19"
+  },
+  {
+    "course_code": "EPIDEM 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM99"
+  },
+  {
+    "course_code": "EPIDEM 100",
+    "units": 4,
+    "title": "Principles of Epidemiology",
+    "description": "Lecture, four hours; discussion, two hours. Preparation: one full biological sciences course. Limited to nonmajors. Not open for credit to students with credit for course 120. Introductory course to provide qualified undergraduate students with broad and comprehensive overview of concepts of epidemiology including evaluating public health problems in terms of magnitude, person, time and place; critiquing epidemiologic studies; identifying and accessing key sources of data for epidemiologic assessment; using epidemiologic methods and calculating basic epidemiology measures for operational purposes; and communicating basic principles of epidemiology such as definitions of populations, sources of bias, causation for morbidity and mortality, risk and protective factors, and basics of study design. Letter grading.",
+    "credit_exclusions": [
+      "EPIDEM 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM100"
+  },
+  {
+    "course_code": "EPIDEM 120",
+    "units": 5,
+    "title": "Epidemiology in Public Health",
+    "description": "Lecture, four hours; discussion, two hours. Requisite: Public Health 50B. Limited to Public Health majors. Not open for credit to students with credit for course 100. Introduction to main principles of epidemiology, including foundational concepts and terminology, and exploration of key historical developments of field. Survey of major study designs and statistical techniques with emphasis on application of epidemiological concepts in public health. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 50B"
+    ],
+    "credit_exclusions": [
+      "EPIDEM 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM120"
+  },
+  {
+    "course_code": "EPIDEM 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM188SA"
+  },
+  {
+    "course_code": "EPIDEM 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EPIDEM 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM188SB"
+  },
+  {
+    "course_code": "EPIDEM 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EPIDEM 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/EPIDEM188SC"
+  }
+]

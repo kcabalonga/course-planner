@@ -1,0 +1,1024 @@
+[
+  {
+    "course_code": "PHILOS 1",
+    "units": 5,
+    "title": "Beginnings of Western Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Origins of Greek cosmology and philosophy, beginnings of systematic thought and scientific investigation concerning such questions as origin and nature of the material world, concept of laws of nature, possibility and extent of knowledge. Concentration on pre-Socratic philosophers, particularly Anaximander, Heraclitus, the Pythagoreans, Parmenides, Empedocles, and Greek atomists, during first two thirds of course and on Socrates and some earlier works of Plato in last few weeks. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS1"
+  },
+  {
+    "course_code": "PHILOS 2",
+    "units": 5,
+    "title": "Introduction to Philosophy of Religion",
+    "description": "Lecture, four hours; discussion, one hour. Introductory study of such topics as nature and grounds of religious belief, relation between religion and ethics, nature and existence of God, problem of evil, and what can be learned from religious experience. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS2"
+  },
+  {
+    "course_code": "PHILOS 3",
+    "units": 5,
+    "title": "Historical Introduction to Philosophy",
+    "description": "Lecture, three hours; discussion, two hours. Historical introduction to Western philosophy based on classical texts dealing with major problems, related thematically and studied in chronological order: properties of rational argument, existence of God, problem of knowledge, nature of causality, relation between mind and body, possibility of justice, and others. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS3"
+  },
+  {
+    "course_code": "PHILOS 4",
+    "units": 5,
+    "title": "Philosophical Analysis of Contemporary Moral Issues",
+    "description": "Lecture, three hours; discussion, one hour. Critical study of principles and arguments advanced in discussion of current moral issues. Possible topics include revolutionary violence, rules of warfare, sexual morality, right of privacy, punishment, nuclear warfare and deterrence, abortion and mercy killing, experimentation with human subjects, rights of women. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS4"
+  },
+  {
+    "course_code": "PHILOS 5",
+    "units": 5,
+    "title": "Philosophy in Literature",
+    "description": "Lecture, three hours; discussion, one hour. Philosophical inquiry into such themes as freedom, responsibility, guilt, love, self-knowledge and self-deception, death, and meaning of life through examination of great literary works in Western tradition. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS5"
+  },
+  {
+    "course_code": "PHILOS 6",
+    "units": 5,
+    "title": "Introduction to Political Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Study of some classical or contemporary works in political philosophy. Questions that may be discussed include What is justice? Why obey the law? Which form of government is best? How much personal freedom should be allowed in society? P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS6"
+  },
+  {
+    "course_code": "PHILOS 7",
+    "units": 5,
+    "title": "Introduction to Philosophy of Mind",
+    "description": "Lecture, three hours; discussion, one hour. Introductory study of philosophical issues about nature of the mind and its relation to the body, including materialism, functionalism, behaviorism, determinism and free will, nature of psychological knowledge. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS7"
+  },
+  {
+    "course_code": "PHILOS 8",
+    "units": 5,
+    "title": "Introduction to Philosophy of Science",
+    "description": "Lecture, three hours; discussion, one hour. Study of selected problems concerning the character and reliability of scientific understanding, such as nature of scientific theory and explanation, reality of theoretical entities, inductive confirmation of hypotheses, and occurrence of scientific revolutions. Discussion at nontechnical level of episodes from history of science. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS8"
+  },
+  {
+    "course_code": "PHILOS 9",
+    "units": 5,
+    "title": "Principles of Critical Reasoning",
+    "description": "Lecture, four hours; discussion, one hour. Nature of arguments: how to analyze them and assess soundness of reasoning they represent. Common fallacies that often occur in arguments discussed in light of what counts as good deductive or inductive inference. Other topics include use of language in argumentation to arouse emotions as contrasted with conveying thoughts, logic of scientific experiments and hypothesis-testing in general, and some general ideas about probability and its application in making normative decisions (e.g., betting). P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS9"
+  },
+  {
+    "course_code": "PHILOS 10",
+    "units": 5,
+    "title": "Philosophy of Death and Grief",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Students engage with contemporary and historical philosophical approaches to the significance of one\u2019s own death and the death of others, approaching the topics from an ethical, political, and moral-psychological framework. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS10"
+  },
+  {
+    "course_code": "PHILOS 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS19"
+  },
+  {
+    "course_code": "PHILOS 21",
+    "units": 5,
+    "title": "Skepticism and Rationality",
+    "description": "Lecture, four hours; discussion, one hour. Can we know anything with certainty? How can we justify any of our beliefs? Introduction to study of these and related questions through works of some great philosophers of modern period, such as Descartes, Hume, Leibniz, or Berkeley. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS21"
+  },
+  {
+    "course_code": "PHILOS 22",
+    "units": 5,
+    "title": "Introduction to Ethical Theory",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 22W. Recommended or required for many upper-division courses in Group III. Systematic introduction to ethical theory, including discussion of egoism, utilitarianism, justice, responsibility, meaning of ethical terms, relativism, etc. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "equivalent_courses": [
+      "PHILOS 22W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS22"
+  },
+  {
+    "course_code": "PHILOS 22W",
+    "units": 5,
+    "title": "Introduction to Ethical Theory",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Limited to freshmen/sophomores. Not open for credit to students with credit for course 22. Introduction to major ethical theories in Western thought. Examination of works of Plato, Aristotle, Hume, Kant, and Mill. Topics include ideas of virtue, obligation, egoism, relativism, and foundations of morals. Four papers required. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "equivalent_courses": [
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS22W"
+  },
+  {
+    "course_code": "PHILOS 23",
+    "units": 5,
+    "title": "Meaning and Communication",
+    "description": "Lecture, three hours; discussion, one hour. Theory of meaning and its relationship to philosophy more generally; nature, origins, and acquisition of language. Additional topics may include nonlinguistic and nonhuman systems of communication; theories of interpretation in law, literature, and art; use of theoretical terms in science. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS23"
+  },
+  {
+    "course_code": "PHILOS M24",
+    "units": 5,
+    "title": "Language and Identity",
+    "description": "(Same as Linguistics M7.) Lecture, four hours; discussion, one hour (when scheduled). How do we use language to project our own identity? How do we use it to perceive or shape identity of others? Introduction to speech act theory and various claims that speech act theory can account for systematic subordination of women; maligning of racial minorities; and, in some cases, incitement to violence through hate speech. Provides foundation for students of linguistic theory, philosophy, sociology, anthropology, and communication studies. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "LING M7"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM24"
+  },
+  {
+    "course_code": "PHILOS 31",
+    "units": 5,
+    "title": "Logic, First Course",
+    "description": "Lecture, four hours; discussion, one hour. Recommended for students who plan to pursue more advanced studies in logic. Elements of symbolic logic, sentential and quantificational; forms of reasoning and structure of language. P/NP or letter grading.",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS31"
+  },
+  {
+    "course_code": "PHILOS 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS89"
+  },
+  {
+    "course_code": "PHILOS 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS89HC"
+  },
+  {
+    "course_code": "PHILOS 97",
+    "units": 4,
+    "title": "Freshman Seminar",
+    "description": "Variable topics; consult Schedule of Classes or Department Announcements for topics to be offered in a specific term. May be repeated for credit with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS97"
+  },
+  {
+    "course_code": "PHILOS 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS99"
+  },
+  {
+    "course_code": "PHILOS 100A",
+    "units": 4,
+    "title": "History of Greek Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Survey of origins of Greek metaphysics from pre-Socratics through Plato and Aristotle. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS100A"
+  },
+  {
+    "course_code": "PHILOS 100B",
+    "units": 4,
+    "title": "Medieval and Early Modern Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Strongly recommended requisite: course 100A. Survey of development and transformation of Greek metaphysics and epistemology within context of philosophical theology, and transition from medieval to early modern period. Special emphasis on Augustine, Anselm, Aquinas, and Descartes. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS100B"
+  },
+  {
+    "course_code": "PHILOS 100C",
+    "units": 4,
+    "title": "History of Modern Philosophy, 1650 to 1800",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Strongly recommended requisite: course 100B. Courses 100A, 100B, and 100C should be taken in immediately successive terms if possible. Survey of development of metaphysics and theory of knowledge from 1650 to 1800, including Locke and/or Berkeley, Malebranche and/or Leibniz, and culminating in Hume and Kant. Topics may include views of these (and perhaps other) philosophers of the period on mind and body, causality, existence of God, skepticism, empiricism, limits of human knowledge, and philosophical foundations of modern science. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS100C"
+  },
+  {
+    "course_code": "PHILOS M101A",
+    "units": 4,
+    "title": "Plato\u2014Earlier Dialogues",
+    "description": "(Same as Classics M146A.) Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Study of selected topics in early and middle dialogues of Plato. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M146A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM101A"
+  },
+  {
+    "course_code": "PHILOS M101B",
+    "units": 4,
+    "title": "Plato\u2014Later Dialogues",
+    "description": "(Same as Classics M146B.) Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Study of selected topics in middle and later dialogues of Plato. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M146B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM101B"
+  },
+  {
+    "course_code": "PHILOS M102",
+    "units": 4,
+    "title": "Aristotle",
+    "description": "(Same as Classics M147.) Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Study of selected works of Aristotle. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M147"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM102"
+  },
+  {
+    "course_code": "PHILOS M103A",
+    "units": 4,
+    "title": "Ancient Greek and Roman Philosophy",
+    "description": "(Same as Classics M145A.) Lecture, three hours. Study of some major Greek and Roman philosophical texts, including those of pre-Socratics, Plato, Aristotle, and Hellenistic philosophers, with emphasis on historical and cultural setting of texts, their literary form, interrelations, and contribution to discussion of basic philosophical issues. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M145A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM103A"
+  },
+  {
+    "course_code": "PHILOS M103B",
+    "units": 4,
+    "title": "Later Ancient Greek Philosophy",
+    "description": "(Same as Classics M145B.) Lecture, three hours. Preparation: one course from 1, 100A, M101B, M102, or M103A. Study of some major texts in Greek philosophy of Hellenistic and Roman periods. Readings vary and include works by Stoics, skeptics, philosophers of science, Neoplatonists, etc. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M145B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM103B"
+  },
+  {
+    "course_code": "PHILOS 104",
+    "units": 4,
+    "title": "Topics in Islamic Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Development of philosophy within orbit of Islam from beginning of interaction of Islam with ancient philosophy to period of hegemony of Ottoman Empire. Figures examined may vary but usually include many of al-Kindi, Ibn Sina (Avicenna), al-Ghazali, ben Maimon (Maimonides), Ibn Rushd (Averroes), and Suhrawardi. Topics include central issues in metaphysics and epistemology. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS104"
+  },
+  {
+    "course_code": "PHILOS 105A",
+    "units": 4,
+    "title": "Ancient Indian Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Study of the four main traditions of classical Indian philosophy up to the 11th century: Hinduism, Jainism, Buddhism, and C\u0101rv\u0101ka. Examination of metaphysics of self and consciousness, sources of knowledge, structure of the mind, nature of reality, and the ethical outlook of these traditions. Study of main arguments in favor of the different positions offered by these traditions, and the differences between specific sub-schools of the traditions. Emphasis on philosophical argumentation and analysis. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS105A"
+  },
+  {
+    "course_code": "PHILOS 105B",
+    "units": 4,
+    "title": "Medieval Indian Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Study of the four main traditions of classical Indian philosophy from the 11th to the 17th century: Hinduism, Jainism, Buddhism, and C\u0101rv\u0101ka. Examination of metaphysics of self and consciousness, sources of knowledge, structure of the mind, nature of reality, and the ethical outlook of these traditions. Study of main arguments in favor of the different positions offered by these traditions, and the differences between specific sub-schools of the traditions. Emphasis on philosophical argumentation and analysis. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS105B"
+  },
+  {
+    "course_code": "PHILOS 106",
+    "units": 4,
+    "title": "Later Medieval Philosophy",
+    "description": "Prerequisite: one philosophy course or consent of instructor. Metaphysics, theory of knowledge, and theology of Aquinas, Duns Scotus, and Ockham, with less full discussion of other authors from the 13th through early 15th century. Selected texts read in English translation.",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS106"
+  },
+  {
+    "course_code": "PHILOS 107",
+    "units": 4,
+    "title": "Topics in Medieval Philosophy",
+    "description": "Lecture, four hours; discussion, one hour. Preparation: one philosophy course. Recommended requisite: course 105 or 106. Study of philosophy and theology of one medieval philosopher such as Augustine, Anselm, Abelard, Aquinas, Scotus, or Ockham, or study of one single area such as logic or theory of knowledge in several medieval philosophers. Topic announced each term. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 105",
+      "PHILOS 106"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS107"
+  },
+  {
+    "course_code": "PHILOS C108",
+    "units": 4,
+    "title": "Hobbes",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Hobbes\u2019 political philosophy, especially Leviathan, with attention to its relevance to contemporary political philosophy. May be concurrently scheduled with course C208. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC108"
+  },
+  {
+    "course_code": "PHILOS C109",
+    "units": 4,
+    "title": "Descartes",
+    "description": "Lecture, four hours; discussion, one hour. Requisites: course 21 or two philosophy courses. Study of works of Descartes, with discussion of issues such as problem of skepticism, foundations of knowledge, existence of God, relation between mind and body, and connection between science and metaphysics. May be concurrently scheduled with course C209. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC109"
+  },
+  {
+    "course_code": "PHILOS C110",
+    "units": 4,
+    "title": "Spinoza",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Selected topics in philosophy of Spinoza. May be concurrently scheduled with course C210. Limited to 30 students when concurrently scheduled. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC110"
+  },
+  {
+    "course_code": "PHILOS C111",
+    "units": 4,
+    "title": "Leibniz",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 21. Study of philosophy of Leibniz. May be concurrently scheduled with course C211, in which case there is weekly discussion meeting, plus fewer readings and shorter papers for undergraduates. Limited to 30 students when concurrently scheduled. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC111"
+  },
+  {
+    "course_code": "PHILOS C112",
+    "units": 4,
+    "title": "Locke and Berkeley",
+    "description": "Lecture, four hours. Preparation: one philosophy course. Study of philosophies of Locke and Berkeley, with emphasis in some cases on one or the other. Limited to 30 students when concurrently scheduled with course C212. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC112"
+  },
+  {
+    "course_code": "PHILOS C114",
+    "units": 4,
+    "title": "Hume",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Selected topics from metaphysical, epistemological, and ethical writings of Hume. Limited to 40 students when concurrently scheduled with course C214. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC114"
+  },
+  {
+    "course_code": "PHILOS C115",
+    "units": 4,
+    "title": "Kant",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 21 or 22. Study of Kant\u2019s views on related topics in theory of knowledge, ethics, and politics. May be repeated for credit with consent of instructor. Concurrently scheduled with course C215. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21",
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC115"
+  },
+  {
+    "course_code": "PHILOS 116",
+    "units": 4,
+    "title": "19th-Century Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Prerequisite: one philosophy course or consent of instructor. Selected topics in 19th-century thought.",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS116"
+  },
+  {
+    "course_code": "PHILOS 117",
+    "units": 4,
+    "title": "Late 19th- and Early 20th-Century Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Prerequisite: one philosophy course or consent of instructor. Selected topics in work of one or more of following philosophers: Bolzano, Frege, Husserl, Meinong, G. Moore, early Russell, and Wittgenstein. May be repeated for credit with consent of instructor.",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS117"
+  },
+  {
+    "course_code": "PHILOS 118",
+    "units": 4,
+    "title": "Kierkegaard",
+    "description": "Preparation: one philosophy course. Philosophical study of some major works of Kierkegaard, with emphasis on interpretation of the texts.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS118"
+  },
+  {
+    "course_code": "PHILOS M118B",
+    "units": 4,
+    "title": "Kierkegaard and Philosophy of Religion",
+    "description": "(Same as Religion M118B.) Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Study of selected works of Kierkegaard on philosophy of religion, with emphasis on interpretation of texts. P/NP or letter grading.",
+    "cross_listed": [
+      "RELIGN M118B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM118B"
+  },
+  {
+    "course_code": "PHILOS C119",
+    "units": 4,
+    "title": "Topics in History of Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Study of selected philosophers or themes in history of philosophy from different periods (e.g. ancient and medieval, medieval and early modern). May be repeated for credit with consent of instructor. Concurrently scheduled with course C219. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC119"
+  },
+  {
+    "course_code": "PHILOS 122",
+    "units": 4,
+    "title": "Topics in Philosophy of Science",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Philosophical investigation into one aspect of scientific practice (e.g., theorizing, experimentation, modeling, explanation, prediction). May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS122"
+  },
+  {
+    "course_code": "PHILOS 123",
+    "units": 4,
+    "title": "Science and Values",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Discussion of how moral, social, and political values inform scientific inquiry. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS123"
+  },
+  {
+    "course_code": "PHILOS M124",
+    "units": 4,
+    "title": "Philosophy of Science: Historical",
+    "description": "(Formerly numbered 124.) (Same as Chemistry M124.) Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one course in philosophy or a physical science. Historical introduction to philosophy of science. Discussion of general topics in context of actual episodes in development of natural sciences. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "cross_listed": [
+      "CHEM M124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM124"
+  },
+  {
+    "course_code": "PHILOS 125",
+    "units": 4,
+    "title": "Philosophy of Science: Contemporary",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 31 or 124. Introduction to contemporary philosophy of science, focusing on problems of central importance. May be repeated for credit with consent of instructor.",
+    "prerequisites": [
+      "PHILOS 31",
+      "PHILOS 124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS125"
+  },
+  {
+    "course_code": "PHILOS 126",
+    "units": 4,
+    "title": "Philosophy of Science: Social Sciences",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Discussion of topics in philosophy of social sciences (e.g., methods of social sciences in relation to physical sciences, value-bias in social inquiry, concept formation, theory construction, explanation and prediction, nature of social laws).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS126"
+  },
+  {
+    "course_code": "PHILOS C127A",
+    "units": 4,
+    "title": "Philosophy of Language",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 31. Syntax, semantics, pragmatics. Semantical concept of truth, sense and denotation, synonymy and analyticity, modalities and tenses, indirect discourse, indexical terms, semantical paradoxes. May be repeated for credit with consent of instructor. Concurrently scheduled with course C228A. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC127A"
+  },
+  {
+    "course_code": "PHILOS C127B",
+    "units": 4,
+    "title": "Philosophy of Language",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 31. Course C127A is not requisite to C127B. Selected topics similar to those considered in course C127A, but at more advanced and technical level. May be repeated for credit with consent of instructor. Concurrently scheduled with course C228B. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC127B"
+  },
+  {
+    "course_code": "PHILOS C127C",
+    "units": 4,
+    "title": "Philosophy of Language",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 31. Recommended: course C127A or C127B. Selected topics similar to those considered in course C127B, but with focus on contemporary figures. May be repeated for credit with consent of instructor. Concurrently scheduled with course C228C. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC127C"
+  },
+  {
+    "course_code": "PHILOS C128",
+    "units": 4,
+    "title": "Topics in Philosophy of Mathematics",
+    "description": "Lecture, four hours. Requisites: courses 31, 132, and preferably one additional logic course. Introduction to philosophy of mathematics. Survey of philosophy of mathematics from Kant to Hilbert. Study of content and development of three main schools of logicism, formalism, and intuitionism in their historical context. Study of original texts of philosophy such as Kant, Frege, and Russell, and how their philosophy interacted with contemporary developments in mathematics and logic. May be repeated for credit with consent of instructor. May be concurrently scheduled with course C223. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31",
+      "PHILOS 132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC128"
+  },
+  {
+    "course_code": "PHILOS 129",
+    "units": 4,
+    "title": "Philosophy of Psychology",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one 4-unit psychology course, one philosophy course. Selected philosophical issues arising from psychological theories. Nature of perception and issues about perceptual psychology and development of important types of representation (e.g., of body, cause, agency) in early childhood. Relevance of computer simulation to accounts of thinking and meaning; relations between semantical theory and learning theory; psychological aspects of theory of syntax. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS129"
+  },
+  {
+    "course_code": "PHILOS 130",
+    "units": 4,
+    "title": "Philosophy of Space and Time",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses or one philosophy course and one physics course. Selected philosophical problems concerning nature of space and time. Philosophical implications of space-time theories, such as those of Newton and Einstein. Topics may include nature of geometry, conventionalism, absolutist versus relationist views of space and time, philosophical impact of relativity theory.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS130"
+  },
+  {
+    "course_code": "PHILOS 131",
+    "units": 4,
+    "title": "Science and Metaphysics",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: two philosophy courses. Recommended: some background in basic calculus and physics. Intensive study of one or two metaphysical topics on which results of modern science have been thought to bear. Topics may include nature of causation, reality and direction of time, time-travel, backwards causation, realism, determinism, absolute view of space, etc. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS131"
+  },
+  {
+    "course_code": "PHILOS 132",
+    "units": 4,
+    "title": "Logic, Second Course",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 31 (preferably in preceding term). Symbolic logic: extension of systematic development of course 31. Quantifiers, identity, definite descriptions. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS132"
+  },
+  {
+    "course_code": "PHILOS 133",
+    "units": 4,
+    "title": "Topics in Logic and Semantics",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 31. Possible topics include formal theories, definitions, alternative theories of descriptions, many-valued logics, deviant logics. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS133"
+  },
+  {
+    "course_code": "PHILOS C133B",
+    "units": 4,
+    "title": "Probability and Inductive Logic",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 31, or background in logic, computer science, statistics, or mathematics. Topics may include interpretations of probability, Bayesian and non-Bayesian confirmation theory, paradoxes of confirmation, coherence, and conditioning. May be concurrently scheduled with course C225. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC133B"
+  },
+  {
+    "course_code": "PHILOS 133C",
+    "units": 4,
+    "title": "Topics in Probability and Inductive Logic",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 31, or background in logic, computer science, statistics, or mathematics. Topics may include learning theory, statistical inference, causal inference, artificial intelligence, non-probabilistic approaches to inductive logic, or deeper study of topics from course C133B. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS133C"
+  },
+  {
+    "course_code": "PHILOS M134",
+    "units": 4,
+    "title": "Introduction to Set Theory",
+    "description": "(Same as Mathematics M114S.) Lecture, three hours; discussion, one hour. Requisite: course 135 or Mathematics 110A or 131A. Axiomatic set theory as framework for mathematical concepts; relations and functions, numbers, cardinality, axiom of choice, transfinite numbers. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 135",
+      "MATH 110A",
+      "MATH 131A"
+    ],
+    "cross_listed": [
+      "MATH M114S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM134"
+  },
+  {
+    "course_code": "PHILOS 135",
+    "units": 4,
+    "title": "Introduction to Metalogic",
+    "description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 31. Strongly recommended requisite: course 132 (or Mathematics 33A or 33B). Metatheory sentential logic and first-order logic. Introduction to formal language, formal deductive systems, and models. Compactness and completeness theorems that concern complexity of notion of logical consequences. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS135"
+  },
+  {
+    "course_code": "PHILOS 136",
+    "units": 4,
+    "title": "Modal Logic",
+    "description": "Lecture, four hours. Requisites: courses 31 (enforced), 135. Introduction to model theory of modal logic (family of systems that includes logics of possibility and necessity, temporal logics, epistemic logics, and logics of actions/programs). Topics include invariance results, definability theory, completeness theory, game-theoretic methods, and relationship between modal logics and (classical) first- and second-order logic. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 31",
+      "PHILOS 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS136"
+  },
+  {
+    "course_code": "PHILOS 137",
+    "units": 4,
+    "title": "Philosophy of Biology",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Intensive study of one or two current topics in philosophy of biology, which may include structure of evolutionary theory, fitness, taxonomy, reductionism, concept of biological species, and biological explanation. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS137"
+  },
+  {
+    "course_code": "PHILOS 138",
+    "units": 4,
+    "title": "Philosophy of Visual Representation",
+    "description": "Lecture, four hours. Preparation: one philosophy course (in philosophy of mind or language recommended). Investigation of philosophical questions relating to visual representation. Possible topics include visual perception, mental imagery, image versus language, semiotics, pictorial representation, comics and film, diagrams, and data visualization. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS138"
+  },
+  {
+    "course_code": "PHILOS 150",
+    "units": 4,
+    "title": "Society and Morals",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 22. Critical study of principles and arguments advanced in discussion of current moral and social issues. Topics similar to those in course 4, but familiarity with some basic philosophical concepts and methods presupposed. May be repeated for credit with consent of instructor.",
+    "prerequisites": [
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS150"
+  },
+  {
+    "course_code": "PHILOS 151A",
+    "units": 4,
+    "title": "History of Ethics: Selected Classics in Ancient Ethical Theories\u2014Plato, Aristotle",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS151A"
+  },
+  {
+    "course_code": "PHILOS C151B",
+    "units": 4,
+    "title": "History of Ethics: Modern",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Intensive study of Kant\u2019s ethical theory. May be taken independently for credit. May be repeated for credit with consent of instructor. May be concurrently scheduled with course C245. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC151B"
+  },
+  {
+    "course_code": "PHILOS 151C",
+    "units": 4,
+    "title": "History of Ethics: Selected Classics of Medieval Ethics",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS151C"
+  },
+  {
+    "course_code": "PHILOS 152A",
+    "units": 4,
+    "title": "Topics in Moral Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Study of selected topics in moral philosophy. Possible topics may include role of emotions in moral agency, reactive attitudes and other responses to moral and immoral action, moral motivation, moral relationships, moral character and identity, and moral change and moral transformation. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS152A"
+  },
+  {
+    "course_code": "PHILOS M152B",
+    "units": 4,
+    "title": "Topics in Moral Philosophy: Evil",
+    "description": "(Same as Study of Religion M179.) Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Course 152A is not requisite to M152B. Exploration of philosophical issues raised by topic of evil actions and/or evil people. Issues may include nature of evil, problem of evil and theodicies, responsibility for evil and problem of free will, causes and motivations for evil action, and variant responses to evil such as forgiveness and punishment. P/NP or letter grading.",
+    "cross_listed": [
+      "RELIGN M179"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM152B"
+  },
+  {
+    "course_code": "PHILOS 153A",
+    "units": 4,
+    "title": "Topics in Ethical Theory: Normative Ethics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 22. Study of selected topics in normative ethical theory. Topics may include human rights, virtues and vices, principles of culpability and praiseworthiness (criteria of right action). May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS153A"
+  },
+  {
+    "course_code": "PHILOS C153B",
+    "units": 4,
+    "title": "Topics in Ethical Theory: Metaethics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 22. Study and analysis of basic concepts, selected problems, and contemporary issues in metaethics. Topics may include analysis of moral language, justification of moral beliefs, moral realism, skepticism, free will, moral motivation, etc. May be repeated for credit with consent of instructor. May be concurrently scheduled with course C253B. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC153B"
+  },
+  {
+    "course_code": "PHILOS 154",
+    "units": 4,
+    "title": "Topics in Value Theory: Rationality and Action",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 6 or 7 or 22. Selected topics concerning normative issues in practical rationality or philosophy of action. Topics may include moral and practical dilemmas, nature of reasons for action, rationality of morality and prudence, weakness of will, freedom of will, and decision theory. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 6",
+      "PHILOS 7",
+      "PHILOS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS154"
+  },
+  {
+    "course_code": "PHILOS C154B",
+    "units": 4,
+    "title": "Topics in Value Theory: Moral Responsibility and Free Will",
+    "description": "(Formerly numbered 154B.) Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Examination of philosophical problems surrounding moral responsibility and free will, using contemporary or classical readings in attempt to better understand kind of freedom required for moral agents. May be repeated for credit. May be concurrently scheduled with course C244B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC154B"
+  },
+  {
+    "course_code": "PHILOS 155A",
+    "units": 4,
+    "title": "Medical Ethics",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Course 155A is not requisite to 155B. Examination of philosophical issues raised by problems of medical ethics, such as abortion, euthanasia, and medical experimentation. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS155A"
+  },
+  {
+    "course_code": "PHILOS 155B",
+    "units": 4,
+    "title": "Topics in Medical Ethics",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Course 155A is not requisite to 155B. Intensive investigation of one or two topics or philosophical issues in medical ethics, such as paternalism, truth-telling, physician-patient relationship, distributional justice, autonomy and medical decision making, and research ethics. Topics announced each term. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS155B"
+  },
+  {
+    "course_code": "PHILOS C156",
+    "units": 4,
+    "title": "Topics in Political Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Analysis of some basic concepts in political theory. May be repeated for credit with consent of instructor. May be concurrently scheduled with course C247. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSC156"
+  },
+  {
+    "course_code": "PHILOS 157A",
+    "units": 4,
+    "title": "History of Political Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Reading and discussion of classic works in earlier political theory, especially those by Hobbes, Locke, Hume, and Rousseau. May be repeated with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS157A"
+  },
+  {
+    "course_code": "PHILOS 157B",
+    "units": 4,
+    "title": "History of Political Philosophy",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Reading and discussion of classic works in later political theory, especially those by Kant, Hegel, and Marx. May be repeated with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS157B"
+  },
+  {
+    "course_code": "PHILOS 161",
+    "units": 4,
+    "title": "Topics in Aesthetic Theory",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Philosophical theories about nature and importance of art and art criticism, aesthetic experience, and aesthetic values. May be repeated for credit with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS161"
+  },
+  {
+    "course_code": "PHILOS 166",
+    "units": 4,
+    "title": "Philosophy of Law",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Examination, through study of recent philosophical writings, of such topics as nature of law, relationship of law and morals, legal reasoning, punishment, and obligation to obey law. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS166"
+  },
+  {
+    "course_code": "PHILOS 167",
+    "units": 4,
+    "title": "Feminist Issues in Value Theory",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Study of ethical dimensions of feminist theory. Issues discussed may include contested significance of gender; different models of gender identity and gender equality; gender discrimination, subordination, hierarchy, and resistance; gender equality in family and workplace; sexual harassment and violence; reproductive freedom; and just and unjust institutional arrangements as they affect gender. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS167"
+  },
+  {
+    "course_code": "PHILOS 168",
+    "units": 4,
+    "title": "Philosophy of Race",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Examination of theories of race and racism and intersection of race with other social structures. Topics may include metaphysics of race, social construction, racial identity, racial injustice, foundations of racial solidarity, and relationships between race and ethnicity, race and class, and race and gender. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS168"
+  },
+  {
+    "course_code": "PHILOS 169",
+    "units": 4,
+    "title": "Latinx Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Examination of the contributions of philosophers of Latin American descent in the U.S. Topics include social identity, mestizaje, indigeneity, coloniality, linguistic oppression, immigration and citizenship, canon formation, and metaphilosophical questions about the possibility and value of Latinx philosophy. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS169"
+  },
+  {
+    "course_code": "PHILOS 170",
+    "units": 4,
+    "title": "Philosophy of Mind",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two relevant philosophy courses. Analysis of various problems concerning nature of mind and mental phenomena, such as relation between mind and body, and our knowledge of other minds. May be repeated once for credit with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS170"
+  },
+  {
+    "course_code": "PHILOS 172",
+    "units": 4,
+    "title": "Philosophy of Language and Communication",
+    "description": "Lecture, three hours; discussion, one hour. Theories of meaning and communication; how words refer to things; limits of meaningfulness; analysis of speech acts; relation of everyday language to scientific discoveries. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS172"
+  },
+  {
+    "course_code": "PHILOS 173",
+    "units": 4,
+    "title": "Philosophy of Medicine",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Focus on questions like what is health, what is well-being, what is mental disorder, and what is disability. Consideration of naturalistic, normative, and social constructivist types of answers, and error theories. Consideration of roles that fact, value, statistical norms, normal variation, normal function, and harm might have in these concepts. Study of consequences of different accounts of these concepts for people with minority bodies, minds, and sexualities, and for decisions about cure, enhancement, and reproduction. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS173"
+  },
+  {
+    "course_code": "PHILOS 174",
+    "units": 4,
+    "title": "Topics in Theory of Knowledge",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Requisite: course 21. Intensive investigation of one or two selected topics or works in theory of knowledge, such as a priori knowledge, problem of induction, memory, knowledge as justified true belief. Topics announced each term. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS174"
+  },
+  {
+    "course_code": "PHILOS M175",
+    "units": 4,
+    "title": "Topics in Philosophy of Religion",
+    "description": "(Same as Religion M175.) Lecture, three hours; discussion, one hour. Requisite: course 21 or 22. Intensive investigation of one or two topics or works in philosophy of religion, such as attributes of God, arguments for or against existence of God, or relation between religion and ethics. Topics announced each term. May be repeated for credit with consent of instructor.",
+    "prerequisites": [
+      "PHILOS 21",
+      "PHILOS 22"
+    ],
+    "cross_listed": [
+      "RELIGN M175"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM175"
+  },
+  {
+    "course_code": "PHILOS 176",
+    "units": 4,
+    "title": "Metaphysics and Epistemology of Modality",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course.\u00a0Study of metaphysics and epistemology of modality. Central topics include what possible worlds are, and if they are sets of sentences or real concrete particular universes; non-reductive possible worlds analysis of modality; plausibility of realism or anti-realism about modality; existence of one and the same individual in many possible worlds or only in one world; the relation between essence, modality, and grounding; how what is possible, necessary, or essential is known; imagination or conceivability as a guide to possibility; relation between counterfactual and modal reasoning. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS176"
+  },
+  {
+    "course_code": "PHILOS 177A",
+    "units": 4,
+    "title": "Existentialism",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: one philosophy course. Analysis of methods, problems, and views of some of the following: Kierkegaard, Nietzsche, Heidegger, Jaspers, Sartre, Marcel, and Camus. Possible topics include metaphysical foundations, nature of mind, freedom, problem of self, other people, ethics, existential psychoanalysis. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS177A"
+  },
+  {
+    "course_code": "PHILOS 177B",
+    "units": 4,
+    "title": "Historical Studies in Existentialism",
+    "description": "Preparation: one philosophy course. Study of central philosophical texts of one of the following: Nietzsche, Heidegger, Jaspers, Buber, Sartre, or Camus. Emphasis on explication and interpretation of the texts. May be repeated for credit with consent of instructor.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS177B"
+  },
+  {
+    "course_code": "PHILOS 178",
+    "units": 4,
+    "title": "Phenomenology",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Introduction to phenomenological method of approaching philosophical problems via works of some of the following: Brentano, Husserl, Heidegger, Scheler, Sartre, Merleau-Ponty, Ricoeur. Topics include ontology, epistemology, and particularly philosophy of mind.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS178"
+  },
+  {
+    "course_code": "PHILOS 179",
+    "units": 4,
+    "title": "Asian Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Critical study of two or more traditions originating from the areas now geographically known as China, India, Japan, Korea, and the Middle East. Focus on study of core doctrines from some of these traditions in addition to argument identification, reconstruction, and evaluation. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS179"
+  },
+  {
+    "course_code": "PHILOS 180",
+    "units": 4,
+    "title": "Philosophy of Action",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: two philosophy courses. Study of various concepts employed in understanding human action. Topics may include rational choice, desire, intention, weakness of will, and self-deception. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS180"
+  },
+  {
+    "course_code": "PHILOS 181",
+    "units": 4,
+    "title": "Philosophy of Perception",
+    "description": "Lecture, four hours. Preparation: two philosophy courses. Critical study of main philosophical theories of perception and arguments used to establish them. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS181"
+  },
+  {
+    "course_code": "PHILOS 182",
+    "units": 4,
+    "title": "Elements of Metaphysics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 21. Study of basic metaphysical questions; nature of physical world, of minds, and of universals; and answers provided by alternative systems (e.g., phenomenalism, materialism, dualism). P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS182"
+  },
+  {
+    "course_code": "PHILOS 183",
+    "units": 4,
+    "title": "Theory of Knowledge",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 21. Problem-oriented study of contemporary classics of epistemology on topics such as skepticism, justification, foundationalism, epistemic intuitions, tracking, closure, reliabilism, internalism, and externalism, among others. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS183"
+  },
+  {
+    "course_code": "PHILOS 184",
+    "units": 4,
+    "title": "Topics in Metaphysics",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 21. Intensive investigation of one or two topics or works in metaphysics, such as personal identity, nature of dispositions, possibility and necessity, universals and particulars, causality. Topics announced each term. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "PHILOS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS184"
+  },
+  {
+    "course_code": "PHILOS 185",
+    "units": 4,
+    "title": "Major Philosophers of 20th Century",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: two philosophy courses. Study of writings of one or more major modern philosophers (e.g., Russell, Moore, Wittgenstein, Carnap, Quine). May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS185"
+  },
+  {
+    "course_code": "PHILOS 186",
+    "units": 4,
+    "title": "Topics in 19th- and 20th-Century Indian Philosophy",
+    "description": "Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one philosophy course. Critical study of 19th- and 20th-century Indian philosophers. Selected topics from philosophy of mind, epistemology, and metaphysics. May be repeated for credit with instructor consent. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS186"
+  },
+  {
+    "course_code": "PHILOS M187",
+    "units": 4,
+    "title": "Topics in Feminist Philosophy: Metaphysics and Epistemology",
+    "description": "(Same as Gender Studies M110C.) Lecture, three hours; discussion, one hour (when scheduled). Requisite for Gender Studies majors: Gender Studies 10; for other students: one philosophy course. Examination in depth of different theoretical positions on gender and women as they have been applied to study of philosophy. Emphasis on theoretical contributions made by new scholarship on women in philosophy. Critical study of concepts and principles that arise in discussion of women\u2019s rights and liberation. Philosophical approach to feminist theories. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "GENDER M110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOSM187"
+  },
+  {
+    "course_code": "PHILOS 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS188SA"
+  },
+  {
+    "course_code": "PHILOS 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PHILOS 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS188SB"
+  },
+  {
+    "course_code": "PHILOS 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PHILOS 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS188SC"
+  },
+  {
+    "course_code": "PHILOS 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, one hour. Limited to 20 students. Designed as adjunct to upper-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward College Honors for eligible students. May not be applied toward departmental honors. May be repeated for credit. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS189"
+  },
+  {
+    "course_code": "PHILOS 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, one hour. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May not be applied toward departmental honors. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS189HC"
+  },
+  {
+    "course_code": "PHILOS 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Philosophy",
+    "description": "Seminar, one hour; discussion, three hours. Variable topics; consult Schedule of Classes or Department Announcements for topic to be offered in specific term. Reading, discussion, and development of culminating project. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS191"
+  },
+  {
+    "course_code": "PHILOS 198A",
+    "units": 2,
+    "title": "Honors Research in Philosophy",
+    "description": "Tutorial, two hours. Limited to junior/senior philosophy honors program students. To be taken in conjunction with one upper-division philosophy lecture course, either concurrently or in subsequent term, under direct supervision of lecture course instructor. Advanced work related to lecture course, further reading, and preparation of 12- to 15-page paper representing original research. Courses 198A and 198B must be taken in conjunction with two different lecture courses, and both must be taken to satisfy departmental honors requirement. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS198A"
+  },
+  {
+    "course_code": "PHILOS 198B",
+    "units": 2,
+    "title": "Honors Research in Philosophy",
+    "description": "Tutorial, two hours. Limited to junior/senior philosophy honors program students. To be taken in conjunction with one upper-division philosophy lecture course, either concurrently or in subsequent term, under direct supervision of lecture course instructor. Advanced work related to lecture course, further reading, and preparation of 12- to 15-page paper representing original research. Courses 198A and 198B must be taken in conjunction with two different lecture courses, and both must be taken to satisfy departmental honors requirement. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS198B"
+  },
+  {
+    "course_code": "PHILOS 198C",
+    "units": 4,
+    "title": "Honors Research in Philosophy",
+    "description": "Tutorial, four hours. Limited to junior/senior philosophy honors program students. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS198C"
+  },
+  {
+    "course_code": "PHILOS 199",
+    "units": 2,
+    "title": "Directed Research in Philosophy",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper or research project required. Up to 8 units may be applied toward degree requirements, but no 199 course may be substituted for course in one of four groups on basis of similarity of subject matter. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PHILOS199"
+  }
+]

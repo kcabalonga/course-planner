@@ -1,0 +1,195 @@
+[
+  {
+    "course_code": "COM HLT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT19"
+  },
+  {
+    "course_code": "COM HLT 20",
+    "units": 5,
+    "title": "Public Health Perspectives on Sexual and Reproductive Health",
+    "description": "Lecture, four hours; discussion, one hour. Not open for credit to students with credit for course 151. Medically accurate, fact-based course on sexuality, reproduction, and human relationships. Exploration of all topics from a comprehensive and inclusive public health perspective. Topics include history of sex education, human development, relationships, personal skills, sexual behavior, sexual health, reproductive health, and sexual violence. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "credit_exclusions": [
+      "COM HLT 151"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT20"
+  },
+  {
+    "course_code": "COM HLT 48",
+    "units": 5,
+    "title": "Nutrition and Food Studies: Principles and Practice",
+    "description": "Lecture, three hours; discussion, one hour. Overview of nutritional sciences and public health nutrition. Examination of basic science concepts of nutrition and application of them to student lives and real-world issues through lectures, videos, diet analysis, activities, reports, discussion of video and reading assignments, and reviews of community programs that apply nutrition and behavior theory to improve health of public. Students use observational research methods to create and answer questions about nutrition question in their cohort. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT48"
+  },
+  {
+    "course_code": "COM HLT 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT89"
+  },
+  {
+    "course_code": "COM HLT 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT89HC"
+  },
+  {
+    "course_code": "COM HLT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT99"
+  },
+  {
+    "course_code": "COM HLT 100",
+    "units": 4,
+    "title": "Introduction to Community Health Sciences",
+    "description": "Lecture, four hours. Limited to junior/senior nonmajors and graduate students, with preference given to undergraduates in Public Health minor. Not open for credit to students with credit for course 120. Introductory course to provide students with broad and comprehensive overview of concepts, empirical research, and public health practice in community health sciences, with emphasis on social context and determinants of population health, and principles of planning interventions to protect and improve public health. Includes ways to define and measure health and illness, social construction of illness, social and behavioral determinants of health, and health disparities. Discussion also of social and behavioral theories of health-related behavior change, health promotion strategies and methods, advocacy, and public policy. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "credit_exclusions": [
+      "COM HLT 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT100"
+  },
+  {
+    "course_code": "COM HLT 120",
+    "units": 5,
+    "title": "Promoting Healthy Communities",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: Public Health 50B. Limited to Public Health majors. Not open for credit to students with credit for course 100. Comprehensive overview of concepts, empirical research, and public health practice in community health sciences, with emphasis on social context and determinants of population health and principles of planning interventions to protect and improve public health. Ways to define and measure health and illness, social construction of illness, social and behavioral determinants of health, and health disparities, including socioeconomic status, race/ethnicity, gender, and age. Social and behavioral theories of health-related behavior change, health promotion strategies and methods, and public policy. Case studies of evidence-based health promotion programs provided. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 50B"
+    ],
+    "credit_exclusions": [
+      "COM HLT 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT120"
+  },
+  {
+    "course_code": "COM HLT 130",
+    "units": 4,
+    "title": "Nutrition and Health",
+    "description": "Lecture, three hours; laboratory, one hour. Preparation: one biology course, one chemistry course. Basic and clinical nutrition theory and practice for students in health sciences curricula. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT130"
+  },
+  {
+    "course_code": "COM HLT 131",
+    "units": 4,
+    "title": "Healthy Food Access in Los Angeles: History and Practice of Urban Agriculture",
+    "description": "Lecture, three hours; laboratory, 90 minutes. History and recent revival of urban agriculture (gardening) in Los Angeles area. Exploration of how urban gardening is response to crises such as U.S. obesity epidemic and resulting health problems. Critiques of industrial agriculture in California and elsewhere in U.S. Exploration of how urban agriculture springs from healthy food/active living and consumer movements that advocate access to locally grown, in-season, affordable food. Biweekly hands-on gardening laboratory in Sunset Canyon Recreation Center Organic Garden. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT131"
+  },
+  {
+    "course_code": "COM HLT 132",
+    "units": 4,
+    "title": "Health, Disease, and Health Services in Latin America",
+    "description": "Lecture, four hours. Introduction to health, disease, and health services in Latin America, with emphasis on epidemiology, health administration, medical anthropology, and nutrition. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT132"
+  },
+  {
+    "course_code": "COM HLT M140",
+    "units": 4,
+    "title": "Health Issues for Asian Americans and Pacific Islanders: Myth or Model?",
+    "description": "(Same as Asian American Studies M129.) Lecture, three hours; fieldwork, one hour. Introductory overview of mental and physical health issues of Asian Americans and Pacific Islanders; identification of gaps in health status indicators and barriers to both care delivery and research for these populations. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "ASIA AM M129"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLTM140"
+  },
+  {
+    "course_code": "COM HLT 151",
+    "units": 4,
+    "title": "Public Health Approaches to Sexual and Reproductive Health",
+    "description": "Lecture, four hours. Not open\u00a0for credit to students with credit for course 20. Exploration of sexual and reproductive health challenges and well-being from a comprehensive and inclusive public health perspective.\u00a0Topics include sex education; human development and reproduction; sexual behavior, health, and dysfunction; relationships; and sexual violence. Discussion of multilevel interventions based on social, cultural, and biological influences.\u00a0P/NP or letter grading.",
+    "credit_exclusions": [
+      "COM HLT 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT151"
+  },
+  {
+    "course_code": "COM HLT 160",
+    "units": 4,
+    "title": "Health Communication in Public Health",
+    "description": "Lecture, three hours. Exploration of foundational principles and practices of health communication. Examination of theories, models, and strategies used in the field of health communication to promote health, prevent disease, and facilitate behavior change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT160"
+  },
+  {
+    "course_code": "COM HLT CM170",
+    "units": 4,
+    "title": "Improving Worker Health: Social Movements, Policy Debates, and Public Health",
+    "description": "(Same as Labor Studies M170.) Lecture, three hours; fieldwork, two hours. Examination of intersection between work, health, and environment, analysis of social causes of health disparities, investigation of historical trends and social movements, interpretation of current policy debates, and development of innovative interventions. Concurrently scheduled with course CM470. P/NP or letter grading.",
+    "cross_listed": [
+      "LBR STD M170"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLTCM170"
+  },
+  {
+    "course_code": "COM HLT 179",
+    "units": 4,
+    "title": "Life Skills for College Students",
+    "description": "Seminar, four hours. Multidisciplinary exploration of student development in undergraduate experience, with focus on processes of identity formation and emotional and social development. Emphasis on variability associated with gender, race, ethnicity, culture, and sexual orientation. Testing of real-life relevance of theory and research. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT179"
+  },
+  {
+    "course_code": "COM HLT 187A",
+    "units": 4,
+    "title": "Introduction to Interventions for At-Risk Populations",
+    "description": "Lecture, three hours; committee meetings/community service, two to six hours. Course 187A is requisite to 187B. Designed for juniors/seniors. Health and social needs/services from primarily public health perspective, drawing on related academic/professional disciplines. Community-based service learning strategy used to enhance knowledge of concepts covered. As part of service portion, students trained as caseworkers and committee members. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT187A"
+  },
+  {
+    "course_code": "COM HLT 187B",
+    "units": 4,
+    "title": "Introduction to Interventions for At-Risk Populations",
+    "description": "Lecture, three hours; committee meetings/community service, two to six hours. Requisite: course 187A. Designed for juniors/seniors. Health and social needs/services from primarily public health perspective, drawing on related academic/professional disciplines. Community-based service learning strategy used to enhance knowledge of concepts covered. As part of service portion, students trained as caseworkers and committee members. Letter grading.",
+    "prerequisites": [
+      "COM HLT 187A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT187B"
+  },
+  {
+    "course_code": "COM HLT 188A",
+    "units": 4,
+    "title": "Special Courses in Community Health Sciences",
+    "description": "Lecture, three hours. Examination of current topics or particular subfields or experimental or temporary courses in community health sciences. Specific topic areas vary with instructor. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT188A"
+  },
+  {
+    "course_code": "COM HLT 188B",
+    "units": 2,
+    "title": "Special Courses in Community Health Sciences",
+    "description": "Lecture, two hours. Examination of current topics or particular subfields or experimental or temporary courses in community health sciences. Specific topic areas vary with instructor. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT188B"
+  },
+  {
+    "course_code": "COM HLT 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT189"
+  },
+  {
+    "course_code": "COM HLT 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors and departmental honors programs. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/COMHLT189HC"
+  }
+]

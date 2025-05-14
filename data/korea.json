@@ -1,0 +1,940 @@
+[
+  {
+    "course_code": "KOREA 1",
+    "units": 5,
+    "title": "Elementary Modern Korean",
+    "description": "Lecture, three hours; discussion, two hours. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Introduction to standard spoken Korean and Korean writing, with emphasis on conversation. P/NP or letter grading.",
+    "equivalent_courses": [
+      "KOREA 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA1"
+  },
+  {
+    "course_code": "KOREA 1A",
+    "units": 5,
+    "title": "Elementary Korean for Korean-Heritage Speakers",
+    "description": "Lecture, three hours; discussion, one hour. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for Korean-heritage learners who have very limited knowledge in Korean language or have had no formal instruction in it and to students with no Korean-heritage background who want more Korean speaking/listening exposure than available in course 1. Emphasis on spelling, basic grammar, reading, writing, and daily conversation. P/NP or letter grading.",
+    "equivalent_courses": [
+      "KOREA 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA1A"
+  },
+  {
+    "course_code": "KOREA 2",
+    "units": 5,
+    "title": "Elementary Modern Korean",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1 with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of course 1. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "KOREA 1"
+    ],
+    "equivalent_courses": [
+      "KOREA 2A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA2"
+  },
+  {
+    "course_code": "KOREA 2A",
+    "units": 5,
+    "title": "Elementary Korean for Korean-Heritage Speakers",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 1A with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for students who are from Korean-speaking family background and have some limited knowledge of Korean and to students with no Korean-heritage background who want more Korean speaking/listening exposure than available in course 2. Emphasis on formal aspects of standard Korean (basic grammar, reading, daily conversation, polite forms, basic writing). P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "KOREA 1A"
+    ],
+    "equivalent_courses": [
+      "KOREA 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA2A"
+  },
+  {
+    "course_code": "KOREA 3",
+    "units": 5,
+    "title": "Elementary Modern Korean",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2 with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of course 2. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "KOREA 2"
+    ],
+    "equivalent_courses": [
+      "KOREA 3A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA3"
+  },
+  {
+    "course_code": "KOREA 3A",
+    "units": 5,
+    "title": "Elementary Korean for Korean-Heritage Speakers",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 2A with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for students with no Korean-heritage background who want more Korean speaking/listening exposure than available in course 3. Continuation of course 2A. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "KOREA 2A"
+    ],
+    "equivalent_courses": [
+      "KOREA 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA3A"
+  },
+  {
+    "course_code": "KOREA 3R",
+    "units": 5,
+    "title": "Accelerated Modern Korean for Advanced Beginners",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: Korean placement test or department consent. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. For students who wish to complete one-year foreign language requirement at accelerated pace. P/NP or letter grading.",
+    "prerequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA3R"
+  },
+  {
+    "course_code": "KOREA 4",
+    "units": 5,
+    "title": "Intermediate Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 3 or 3A or 8 with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of course 3. Conversation, composition, and readings with structural analysis in modern Korean. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 3",
+      "KOREA 3A",
+      "KOREA 8"
+    ],
+    "equivalent_courses": [
+      "KOREA 4A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA4"
+  },
+  {
+    "course_code": "KOREA 4A",
+    "units": 5,
+    "title": "Intermediate Korean for Korean Speakers",
+    "description": "Lecture, five hours. Enforced requisite: course 3A with grade of C or better or Korean placement test. Not open to students who attended elementary school in Korea for more than one year or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for students who seek training in written components of standard Korean (spelling, reading, writing, and grammar) at intermediate level. Continuation of course 3A. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 3A"
+    ],
+    "equivalent_courses": [
+      "KOREA 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA4A"
+  },
+  {
+    "course_code": "KOREA 5",
+    "units": 5,
+    "title": "Intermediate Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 4 with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of course 4. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 4"
+    ],
+    "equivalent_courses": [
+      "KOREA 5A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA5"
+  },
+  {
+    "course_code": "KOREA 5A",
+    "units": 5,
+    "title": "Intermediate Korean for Korean Speakers",
+    "description": "Lecture, five hours. Enforced requisite: course 4A with grade of C or better or Korean placement test. Not open to students who attended elementary school in Korea for more than one year or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for Korean-heritage learners. Emphasis on four skills (spelling, grammar, readings, and conversation in modern Korean). P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 4A"
+    ],
+    "equivalent_courses": [
+      "KOREA 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA5A"
+  },
+  {
+    "course_code": "KOREA 6",
+    "units": 5,
+    "title": "Intermediate Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 5 with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of course 5. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 5"
+    ],
+    "equivalent_courses": [
+      "KOREA 6A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA6"
+  },
+  {
+    "course_code": "KOREA 6A",
+    "units": 5,
+    "title": "Intermediate Korean for Korean Speakers",
+    "description": "Lecture, five hours. Enforced requisite: course 5A with grade of C or better or Korean placement test. Not open to students who attended elementary school in Korea for more than one year or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed for Korean-heritage learners. Emphasis on four skills (spelling, grammar, readings, and conversation in modern Korean). Continuation of course 5A. Completion of course 6A is equivalent to completion of course 6. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 5A"
+    ],
+    "equivalent_courses": [
+      "KOREA 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA6A"
+  },
+  {
+    "course_code": "KOREA 8",
+    "units": 15,
+    "title": "Elementary Korean: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Intensive course equivalent to courses 1, 2, and 3. Introduction to fundamentals of standard Korean, including pronunciation, grammar, and Korean characters, with emphasis on all four basic language skills\u2014speaking, listening comprehension, reading, and writing. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA8"
+  },
+  {
+    "course_code": "KOREA 10",
+    "units": 15,
+    "title": "Intermediate Modern Korean: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Recommended preparation: course 3, 3A, or 8, or Korean placement test, or courses equivalent to elementary-level Korean. Second-year Korean. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Intensive course equivalent to courses 4, 5, and 6. Conversation, composition, and readings with structural analysis in modern Korean. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA10"
+  },
+  {
+    "course_code": "KOREA 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA19"
+  },
+  {
+    "course_code": "KOREA 40",
+    "units": 5,
+    "title": "Korean Wave: Globalization of South Korean Popular Culture",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Introduction to Korean popular culture and its relationship to transnational social and political contexts. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "equivalent_courses": [
+      "KOREA 40W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA40"
+  },
+  {
+    "course_code": "KOREA 40W",
+    "units": 5,
+    "title": "Korean Wave: Globalization of South Korean Popular Culture",
+    "description": "Lecture, two and one half hours; discussion, one hour. Enforced requisite: English Composition 3. Not open for credit to students with credit for course 50. Knowledge of Korean not required. Introduction to Korean popular culture, with focus on representative global phenomenon of Korean Wave (Hallyu). Use of concepts that theorize transnational flows of culture and relationship between cultural and sociopolitical power as framework, with focus on different genres of media and their individual examples\u2014from pop music, drama, film, and television. Analysis to understand each as example of larger movement of culture across national borders from contexts of production to contexts of reception. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "equivalent_courses": [
+      "KOREA 40"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA40W"
+  },
+  {
+    "course_code": "KOREA 50",
+    "units": 5,
+    "title": "History of Korean Civilization",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. General survey of development of Korean culture within context of political, social, and economic history. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA50"
+  },
+  {
+    "course_code": "KOREA M60",
+    "units": 5,
+    "title": "Introduction to Korean Religions",
+    "description": "(Same as Religion M60C.) Lecture, three hours; discussion, one hour. Knowledge of Asian languages not required. General survey of history of religions in Korea\u2014Shamanism, Buddhism, Confucianism, Daoism, Christianity, Tonghak, and some new religions\u2014with focus on religious doctrines, practices, Korean characteristics, and social impacts. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "RELIGN M60C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAM60"
+  },
+  {
+    "course_code": "KOREA 70",
+    "units": 5,
+    "title": "Images of Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean culture, literature, or language not required. Introduction to visual and textual representations of Korea. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA70"
+  },
+  {
+    "course_code": "KOREA 75",
+    "units": 5,
+    "title": "Introduction to Korean Literature and Culture",
+    "description": "Lecture, three hours; discussion, one hour. Broad overview of cultural history of Korea, from premodern period into present. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA75"
+  },
+  {
+    "course_code": "KOREA 80",
+    "units": 5,
+    "title": "Introduction to Korean Cinema",
+    "description": "Lecture, three hours; discussion, one hour. Broad overview of Korean film history, from beginning of 20th century into present. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA80"
+  },
+  {
+    "course_code": "KOREA 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA89"
+  },
+  {
+    "course_code": "KOREA 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA89HC"
+  },
+  {
+    "course_code": "KOREA 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA99"
+  },
+  {
+    "course_code": "KOREA 100A",
+    "units": 4,
+    "title": "Advanced Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 6, 6A, or 10 with grade of C or better or Korean placement test. Course 100A with grade of C or better or Korean placement test is enforced requisite to 100B; course 100B with grade of C or better or Korean placement test is enforced requisite to 100C. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of courses 6/6A. Readings of modern prose and poetry, with emphasis on grammar and Sino-Korean. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 6",
+      "KOREA 6A",
+      "KOREA 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA100A"
+  },
+  {
+    "course_code": "KOREA 100B",
+    "units": 4,
+    "title": "Advanced Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100A with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of courses 6/6A. Readings of modern prose and poetry, with emphasis on grammar and Sino-Korean. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA100B"
+  },
+  {
+    "course_code": "KOREA 100C",
+    "units": 4,
+    "title": "Advanced Modern Korean",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 100B with grade of C or better or Korean placement test. Not open to students who have learned, from whatever source, enough Korean to qualify for more advanced courses. Continuation of courses 6/6A. Readings of modern prose and poetry, with emphasis on grammar and Sino-Korean. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA100C"
+  },
+  {
+    "course_code": "KOREA 101A",
+    "units": 4,
+    "title": "Advanced Readings in Modern Korean",
+    "description": "Lecture, three hours. Enforced requisite: course 100C or Korean placement test. Course 101A or Korean placement test is enforced requisite to 101B; course 101B or Korean placement test is enforced requisite to 101C. Advanced readings and discussion for students planning to do advanced coursework or research on Korea. Topics selected from magazines, journals, and books related to humanities and social sciences. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA101A"
+  },
+  {
+    "course_code": "KOREA 101B",
+    "units": 4,
+    "title": "Advanced Readings in Modern Korean",
+    "description": "Lecture, three hours. Enforced requisite: course 101A or Korean placement test. Advanced readings and discussion for students planning to do advanced coursework or research on Korea. Topics selected from magazines, journals, and books related to humanities and social sciences. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA101B"
+  },
+  {
+    "course_code": "KOREA 101C",
+    "units": 4,
+    "title": "Advanced Readings in Modern Korean",
+    "description": "Lecture, three hours. Enforced requisite: course 101B or Korean placement test. Advanced readings and discussion for students planning to do advanced coursework or research on Korea. Topics selected from magazines, journals, and books related to humanities and social sciences. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA101C"
+  },
+  {
+    "course_code": "KOREA 101I",
+    "units": 12,
+    "title": "Advanced Readings in Modern Korean: Intensive",
+    "description": "Lecture, 15 hours. Enforced requisite: course 100C or Korean placement test. Intensive course equivalent to courses 101A, 101B, and 101C. Learning advanced Korean language with emphasis on pop culture and social issues of contemporary Korean society. Expansion of Korean literacy and cultural knowledge by examining Korean films/drama, newspapers, and other contemporary publications. Offered in summer only. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA101I"
+  },
+  {
+    "course_code": "KOREA 102A",
+    "units": 4,
+    "title": "Advanced Korean Conversation",
+    "description": "Lecture, three hours. Requisite: course 6 or 6A or 10 or Korean placement test. Not open to students who attended elementary school in Korea for more than two years or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed to improve spoken proficiency. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 6",
+      "KOREA 6A",
+      "KOREA 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA102A"
+  },
+  {
+    "course_code": "KOREA 102B",
+    "units": 4,
+    "title": "Advanced Korean Conversation",
+    "description": "Lecture, three hours. Requisite: course 6 or 6A or 10 or Korean placement test. Not open to students who attended elementary school in Korea for more than two years or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed to improve spoken proficiency. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 6",
+      "KOREA 6A",
+      "KOREA 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA102B"
+  },
+  {
+    "course_code": "KOREA 102C",
+    "units": 4,
+    "title": "Advanced Korean Conversation",
+    "description": "Lecture, three hours. Requisite: course 6 or 6A or 10 or Korean placement test. Not open to students who attended elementary school in Korea for more than two years or who have learned, from whatever source, enough Korean to qualify for more advanced courses. Designed to improve spoken proficiency. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 6",
+      "KOREA 6A",
+      "KOREA 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA102C"
+  },
+  {
+    "course_code": "KOREA 103A",
+    "units": 4,
+    "title": "Readings in Sino-Korean Characters",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 100C or Korean placement test. Course 103A or Korean placement test is requisite to 103B; course 103B or Korean placement test is requisite to 103C. Sino-Korean vocabulary and characters necessary for advanced and superior level of knowledge in Korean. Sino-Korean characters are used differently from same Chinese characters used in contemporary China in terms of pronunciation, meaning, and word formation. Professional-level Korean speakers need to be able to read at least 1,800 Sino-Korean characters. Reinforcement of collocation patterns and semantic association of Sino-Korean vocabulary. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA103A"
+  },
+  {
+    "course_code": "KOREA 103B",
+    "units": 4,
+    "title": "Readings in Sino-Korean Characters",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 103A or Korean placement test. Sino-Korean vocabulary and characters necessary for advanced and superior level of knowledge in Korean. Sino-Korean characters are used differently from same Chinese characters used in contemporary China in terms of pronunciation, meaning, and word formation. Professional-level Korean speakers need to be able to read at least 1,800 Sino-Korean characters. Reinforcement of collocation patterns and semantic association of Sino-Korean vocabulary. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA103B"
+  },
+  {
+    "course_code": "KOREA 103C",
+    "units": 4,
+    "title": "Readings in Sino-Korean Characters",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 103B or Korean placement test. Sino-Korean vocabulary and characters necessary for advanced and superior level of knowledge in Korean. Sino-Korean characters are used differently from same Chinese characters used in contemporary China in terms of pronunciation, meaning, and word formation. Professional-level Korean speakers need to be able to read at least 1,800 Sino-Korean characters. Reinforcement of collocation patterns and semantic association of Sino-Korean vocabulary. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA103C"
+  },
+  {
+    "course_code": "KOREA 104A",
+    "units": 4,
+    "title": "Korean Writing for Advanced Learners",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101C or Korean placement test. Emphasis on academic writing in Korean, including rhetorical conventions, argument construction and coherence, and development of prose style. Readings include representative examples of diverse genres selected from magazines, journals, and books. May be taken independently for credit. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA104A"
+  },
+  {
+    "course_code": "KOREA 104B",
+    "units": 4,
+    "title": "Korean Writing for Advanced Learners",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101C or Korean placement test. Emphasis on academic writing in Korean, including rhetorical conventions, argument construction and coherence, and development of prose style. Readings include representative examples of diverse genres selected from magazines, journals, and books. May be taken independently for credit. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA104B"
+  },
+  {
+    "course_code": "KOREA 104C",
+    "units": 4,
+    "title": "Korean Writing for Advanced Learners",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101C or Korean placement test. Emphasis on academic writing in Korean, including rhetorical conventions, argument construction and coherence, and development of prose style. Readings include representative examples of diverse genres selected from magazines, journals, and books. May be taken independently for credit. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA104C"
+  },
+  {
+    "course_code": "KOREA C105A",
+    "units": 4,
+    "title": "Reading Korean Academic Texts",
+    "description": "Lecture, three hours. Enforced requisite: course 101C or Korean placement test. Intended to improve reading skills for students who have studied Korean to advanced level, with coverage in Korean of materials on Korean history, culture, and society. May be taken independently for credit. Concurrently scheduled with course C205A. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC105A"
+  },
+  {
+    "course_code": "KOREA C105B",
+    "units": 4,
+    "title": "Reading Korean Academic Texts",
+    "description": "Lecture, three hours. Enforced requisite: course 101C or Korean placement test. Intended to improve reading skills for students who have studied Korean to advanced level, with coverage in Korean of materials on Korean history, culture, and society. May be taken independently for credit. Concurrently scheduled with course C205B. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC105B"
+  },
+  {
+    "course_code": "KOREA C105C",
+    "units": 4,
+    "title": "Reading Korean Academic Texts",
+    "description": "Lecture, three hours. Enforced requisite: course 101C or Korean placement test. Intended to improve reading skills for students who have studied Korean to advanced level, with coverage in Korean of materials on Korean history, culture, and society. May be taken independently for credit. Concurrently scheduled with course C205C. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC105C"
+  },
+  {
+    "course_code": "KOREA 106A",
+    "units": 4,
+    "title": "Superior Korean",
+    "description": "Lecture, three hours. Recommended preparation: course 101C. May not be taken concurrently with course 102A, 102B, or 102C. Use of speaking, listening, reading, and writing skills to participate effectively, or understand without difficulty any practical, social, and professional topics, whether those topics are familiar or not. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA106A"
+  },
+  {
+    "course_code": "KOREA 106B",
+    "units": 4,
+    "title": "Superior Korean",
+    "description": "Lecture, three hours. Recommended preparation: course 101C. May not be taken concurrently with course 102A, 102B, or 102C. Use of speaking, listening, reading, and writing skills to participate effectively, or understand without difficulty any practical, social, and professional topics, whether those topics are familiar or not. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA106B"
+  },
+  {
+    "course_code": "KOREA 106C",
+    "units": 4,
+    "title": "Superior Korean",
+    "description": "Lecture, three hours. Recommended preparation: course 101C. May not be taken concurrently with course 102A, 102B, or 102C. Use of speaking, listening, reading, and writing skills to participate effectively, or understand without difficulty any practical, social, and professional topics, whether those topics are familiar or not. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA106C"
+  },
+  {
+    "course_code": "KOREA 106SL",
+    "units": 4,
+    "title": "Superior Korean with Service Learning",
+    "description": "Lecture, three hours; fieldwork, two hours. Recommended preparation: course 101C. May not be taken concurrently with course 102A, 102B, 102C, 106A, or 107SL. Use of speaking, listening, reading, and writing skills to participate effectively, or understand without difficulty any practical, social, and professional topics, whether those topics are familiar or not. Opportunity for students to communicate in Korean in authentic contexts while providing useful service to community. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA106SL"
+  },
+  {
+    "course_code": "KOREA 107A",
+    "units": 4,
+    "title": "Professional/Academic Korean",
+    "description": "Lecture, three hours. Requisite: course 101C or Korean placement test. Course 107A or Korean placement test is requisite to 107B; course 107B or Korean placement test is requisite to 107C. May not be taken concurrently with course 102A, 102B, or 102C. Development of professional and academic proficiency in oral and written Korean to understand many sociolinguistic and cultural references as well as variety of styles and forms pertinent to professional needs, meet demands of professional interactions, and carry out professional-level tasks in student specialization areas. Special attention to vocabulary development on professional level. Development of both interactive and noninteractive listening. Research projects to be assigned according to student interests. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA107A"
+  },
+  {
+    "course_code": "KOREA 107B",
+    "units": 4,
+    "title": "Professional/Academic Korean",
+    "description": "Lecture, three hours. Requisite: course 107A or Korean placement test. May not be taken concurrently with course 102A, 102B, or 102C. Development of professional and academic proficiency in oral and written Korean to understand many sociolinguistic and cultural references as well as variety of styles and forms pertinent to professional needs, meet demands of professional interactions, and carry out professional-level tasks in student specialization areas. Special attention to vocabulary development on professional level. Development of both interactive and noninteractive listening. Research projects to be assigned according to student interests. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 107A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA107B"
+  },
+  {
+    "course_code": "KOREA 107C",
+    "units": 4,
+    "title": "Professional/Academic Korean",
+    "description": "Lecture, three hours. Requisite: course 107B or Korean placement test. May not be taken concurrently with course 102A, 102B, or 102C. Development of professional and academic proficiency in oral and written Korean to understand many sociolinguistic and cultural references as well as variety of styles and forms pertinent to professional needs, meet demands of professional interactions, and carry out professional-level tasks in student specialization areas. Special attention to vocabulary development on professional level. Development of both interactive and noninteractive listening. Research projects to be assigned according to student interests. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 107B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA107C"
+  },
+  {
+    "course_code": "KOREA 107SL",
+    "units": 4,
+    "title": "Professional/Academic Korean and Community-Based Learning",
+    "description": "Lecture, three hours; fieldwork, two hours. Requisite: course 101C or Korean placement test. May not be taken concurrently with course 102A, 102B, 102C, 106A, 106SL, or 107A. Development of professional and academic proficiency in oral and written Korean to understand many sociolinguistic and cultural references as well as variety of styles and forms pertinent to professional needs, meet demands of professional interactions, and carry out professional-level tasks in student specialization areas. Special attention to vocabulary development on professional level. Research projects to be assigned according to student interests. Opportunity for students to communicate in Korean in authentic and professional contexts while providing useful service to community. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA107SL"
+  },
+  {
+    "course_code": "KOREA 108FL",
+    "units": 2,
+    "title": "Special Studies: Readings in Korean",
+    "description": "Seminar, two hours. Enforced requisite: course 100C or Korean placement test. Students must be concurrently enrolled in affiliated main course. Additional work in Korean to augment work assigned in main course, including reading, writing, and other exercises. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA108FL"
+  },
+  {
+    "course_code": "KOREA 109",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Korean",
+    "description": "Tutorial, two hours. Requisite: course 100C or Korean placement test. Tutorial and guided independent study to help students develop advanced to superior proficiency in oral and written Korean. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA109"
+  },
+  {
+    "course_code": "KOREA CM120",
+    "units": 4,
+    "title": "Structure of Korean",
+    "description": "(Same as Linguistics M177.) Lecture, three hours; discussion, one hour. Recommended preparation: two years of Korean, or one year of Korean and some knowledge of linguistics. Discussion of major syntactic, semantic, and pragmatic characteristics of Korean in light of linguistic universals, with brief introduction to formation, typological features, and phonological structure of Korean. Concurrently scheduled with course C220. Letter grading.",
+    "cross_listed": [
+      "LING M177"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREACM120"
+  },
+  {
+    "course_code": "KOREA 124",
+    "units": 4,
+    "title": "Topics in Korean Language and Culture",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: one to two years of college-level Korean. Introduction of basic concepts in sociocultural linguistics, discourse analysis, and multimedia resources to analyze Korean language and culture. Study to increase understanding of variety of sociocultural variables of Korean language. Exploration of interrelationship among language, culture, and society by examining Korean popular media (e.g., film/television drama, talk shows, music videos, digital discourse, advertisement, etc.). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA124"
+  },
+  {
+    "course_code": "KOREA CM127",
+    "units": 4,
+    "title": "Contrastive Analysis of Japanese and Korean",
+    "description": "(Same as Japanese CM127 and Linguistics M178.) Lecture, three hours; discussion, one hour. Recommended preparation: two years of Japanese and knowledge of Hangul, or two years of Korean and knowledge of Hiragana. Prior linguistic background also recommended. Critical reading and discussion of selected current research papers in syntax, pragmatics, discourse, and sociolinguistics from perspective of contrastive study of Japanese and Korean. Concurrently scheduled with course CM227. Letter grading.",
+    "cross_listed": [
+      "JAPAN CM127",
+      "LING M178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREACM127"
+  },
+  {
+    "course_code": "KOREA 130A",
+    "units": 4,
+    "title": "Readings in Modern Korean Literature",
+    "description": "Lecture, three hours. Enforced requisites: course 100C or Korean placement test, English Composition 3 or 3H or one course from Comparative Literature 1A, 1B, 1C, 1D. Readings and discussion of major modern Korean literary texts. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "KOREA 100C",
+      "Korean placement test, English Composition 3",
+      "Korean placement test, English Composition 3H",
+      "COM LIT 1A",
+      "COM LIT 1B",
+      "COM LIT 1C",
+      "COM LIT 1D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA130A"
+  },
+  {
+    "course_code": "KOREA 130B",
+    "units": 4,
+    "title": "Readings in Modern Korean Literature",
+    "description": "Lecture, three hours. Enforced requisites: course 100C or Korean placement test, English Composition 3 or 3H or one course from Comparative Literature 1A, 1B, 1C, 1D. Readings and discussion of major modern Korean literary texts. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "KOREA 100C",
+      "Korean placement test, English Composition 3",
+      "Korean placement test, English Composition 3H",
+      "COM LIT 1A",
+      "COM LIT 1B",
+      "COM LIT 1C",
+      "COM LIT 1D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA130B"
+  },
+  {
+    "course_code": "KOREA 148A",
+    "units": 4,
+    "title": "Reading Modern Korean Academic Texts",
+    "description": "Lecture, three hours. Requisite: Korean 101C or Korean placement test. Designed to improve reading skills for students who have studied Korean to advanced level, and enhance their understanding of Korean culture and society. Covers Korean academic texts (book chapters, journal articles, reviews, and primary sources) on various issues of modern Korean literature, history, philosophy, religions, economy, and politics. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA148A"
+  },
+  {
+    "course_code": "KOREA C149",
+    "units": 4,
+    "title": "Readings of Sino-Korean and Korean Sources of Modern Korea",
+    "description": "Seminar, three hours. Recommended preparation: reading knowledge of Korean and basic classical Chinese. Readings and discussions of Sino-Korean and Korean texts published in modern Korean newspapers, magazines, and books from 1885 to 1970. Concurrently scheduled with course C249. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC149"
+  },
+  {
+    "course_code": "KOREA C150",
+    "units": 4,
+    "title": "Korean Literature in Translation: Classical",
+    "description": "Lecture, three hours. Knowledge of Korean not required. Survey of premodern Korean literature from beginning to 19th century. Concurrently scheduled with course C250. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC150"
+  },
+  {
+    "course_code": "KOREA C151",
+    "units": 4,
+    "title": "Korean Literature in Translation: Modern",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: English Composition 3 or 3H or one course from Comparative Literature 1A, 1B, 1C, 1D. Knowledge of Korean not required. Survey of modern and contemporary Korean literature. Concurrently scheduled with course C251. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "COM LIT 1A",
+      "COM LIT 1B",
+      "COM LIT 1C",
+      "COM LIT 1D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC151"
+  },
+  {
+    "course_code": "KOREA C152",
+    "units": 4,
+    "title": "Environment and Literature in Korea",
+    "description": "Seminar, three hours. Exploration of creative ways of reading classical Korean literature through lens of environmental literary criticism. Conscious of the current environmental crisis, study hypothesizes that the natural environment would have been imagined, been represented, and functioned in different ways in a non-modern and non-Western world. Study approaches classical Korean literature as a gateway to different ways of thinking about the environment and as an arena where ideas on the environment can be challenged, debated, and revised. Exploration of topics and questions including reconceptualization of humans and nonhumans; historicization of the environment; literary and cultural representations of the environmental imagination. Reading of variety of texts written before 20th century in Korea, including supernatural stories, poetry on nature, travelogues, and political writings. Engages with a diverse range of aural, visual, and cinematic materials. Concurrently scheduled with course C252. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC152"
+  },
+  {
+    "course_code": "KOREA 153",
+    "units": 4,
+    "title": "Korea West Encounters",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Exploration of major cross-cultural encounters between Korea and West from late 16th to early 20th century and writings of leading historical figures. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA153"
+  },
+  {
+    "course_code": "KOREA 154",
+    "units": 4,
+    "title": "Contemporary Korean Culture through Literature and Film",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: English Composition 3 or one course from Comparative Literature 1A, 1B, 1C, 1D. Knowledge of Korean not required. Use of fiction and film to explore contemporary Korean culture in cross-cultural context. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3",
+      "COM LIT 1A",
+      "COM LIT 1B",
+      "COM LIT 1C",
+      "COM LIT 1D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA154"
+  },
+  {
+    "course_code": "KOREA 155",
+    "units": 4,
+    "title": "Topics in Korean Cinema",
+    "description": "Lecture, one hour; discussion, one hour; film viewing, three hours. Knowledge of Korean not required. Historical and critical survey of Korean cinema, examining intersection between 20th-century Korean history, politics, and filmmaking. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA155"
+  },
+  {
+    "course_code": "KOREA 159",
+    "units": 4,
+    "title": "Variable Topics in Culture and Society in Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of relationship between culture (art, literature, film) and society in Korea. Reading, audio and visual material, discussion, and development of culminating projects and/or writing assignments. May be repeated for credit with topic change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA159"
+  },
+  {
+    "course_code": "KOREA CM160",
+    "units": 4,
+    "title": "Korean Buddhism",
+    "description": "(Same as Religion M161C.) Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Introduction and development of Buddhism in Korea, interactions between indigenous Korean culture and Sinitic traditions of Buddhism, Korean syntheses of imported Buddhist theological systems and meditative techniques, and independent Son (Zen) schools of Korea. Concurrently scheduled with course C260. Letter grading.",
+    "cross_listed": [
+      "RELIGN M161C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREACM160"
+  },
+  {
+    "course_code": "KOREA 165",
+    "units": 4,
+    "title": "Introduction to Korean Buddhist Texts",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisite: course 100A or Chinese 110C or Korean placement test. Introduction to reading premodern Korean Buddhist texts written in Sino-Korean and taken from indigenous doxographic materials and philosophical writings, Korean Buddhist apocryphal scriptures, native exegetical commentaries, and Son (Zen) texts. Coverage varies. Texts may be read in either Sino-Korean or literary Chinese. May be repeated with consent of instructor. Letter grading.",
+    "prerequisites": [
+      "KOREA 100A",
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA165"
+  },
+  {
+    "course_code": "KOREA 172",
+    "units": 4,
+    "title": "Topics in Korean Christianity",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Historical development of Christianity in Korea, beliefs and practices, impact of Christianity on modern Korean culture and society. Coverage varies. May be repeated for credit with consent of instructor. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA172"
+  },
+  {
+    "course_code": "KOREA 175",
+    "units": 4,
+    "title": "Intellectual History of Premodern Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. General survey of Korean thought from earliest records to 19th century, including shamanism, Taoism, Buddhism, Christianity, and neo-Confucianism. Korean traditions and those found in India, China, Japan, and West. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA175"
+  },
+  {
+    "course_code": "KOREA 176",
+    "units": 4,
+    "title": "Introduction to Korean Confucian Texts",
+    "description": "Lecture, three hours. Enforced requisite: course 100C or Chinese 110C or Korean placement test. Reading in premodern Koryo and Choson texts on politics, society, and culture. Coverage varies. Texts may be read in either Sino-Korean or literary Chinese. May be repeated with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 100C",
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA176"
+  },
+  {
+    "course_code": "KOREA C177",
+    "units": 4,
+    "title": "Intellectual History of Modern Korea",
+    "description": "(Formerly numbered 177.) Lecture, three hours; discussion, one hour. Requisite: course 50. Knowledge of Korean not required. Survey of Korean thought in late 19th and 20th centuries, including religious thought, political thought, feminism, nationalism, and economic thinking and practice. Concurrently scheduled with course C277. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 50"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAC177"
+  },
+  {
+    "course_code": "KOREA 178",
+    "units": 4,
+    "title": "Introduction to Modern Korean Historiography",
+    "description": "Seminar, three hours. Enforced requisite: course 101A or C105A or Korean placement test. Introduction to major Korean language historiographical works on Korean history in modern period. Coverage varies. May be repeated with consent of instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "KOREA 101A",
+      "KOREA C105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA178"
+  },
+  {
+    "course_code": "KOREA 179",
+    "units": 4,
+    "title": "Gender and Sexuality in Korean Literature",
+    "description": "Seminar, three hours. Examination of Korean literature from 15th through 19th centuries, focusing on topics related to gender and sexuality. By revising modern presumption of gender inequality in premodern and non-Western societies, examination of complex and dynamic cultural constructions of gender and sexuality in premodern Korean society through reading of major works of classical Korean literature. Exploration of questions dealing with how gender and sexuality intersected with other social distinctions in diverse dimensions such as distinctions between human and nonhuman, aristocrats and commoners, and heterosexuals and homosexuals. Readings include ghost stories, dream narratives, biographical and autobiographical writings, and scripts for oral performance, all in English translation. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA179"
+  },
+  {
+    "course_code": "KOREA 180A",
+    "units": 4,
+    "title": "History of Korea through 1259",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of evolution of Korean culture and society within context of political and institutional industry. Consideration of both higher and popular culture. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA180A"
+  },
+  {
+    "course_code": "KOREA 180B",
+    "units": 4,
+    "title": "History of Korea, 1260 through 1876",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of evolution of Korean culture and society within context of political and institutional industry. Consideration of both higher and popular culture. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA180B"
+  },
+  {
+    "course_code": "KOREA 180C",
+    "units": 4,
+    "title": "History of Korea since 1876",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of evolution of Korean culture and society within context of political and institutional industry. Consideration of both higher and popular culture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA180C"
+  },
+  {
+    "course_code": "KOREA 181",
+    "units": 4,
+    "title": "Reading Korean Cultural Landscape",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Introduction to Korean culture from historical/geographical perspective. Examination of human cultural imprint on land in religious, linguistic, rural, and urban landscapes. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA181"
+  },
+  {
+    "course_code": "KOREA 182",
+    "units": 4,
+    "title": "1894 Kabo Reforms: History at Crossroads of Civilizations",
+    "description": "Seminar, three hours. Knowledge of Korean not required. Examination of modernizing reforms adopted in Korea in 1894. Consideration of conflict among radical Westernizers who had studied in Japan and U.S., moderate reformers who followed Chinese model of adopting Western technology to defend Confucian order, and orthodox Confucians who strongly opposed any changes. Focus on historical and intellectual background in first half, with debates among students who assume roles in Deliberative Council that was responsible for designing reforms in second half. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA182"
+  },
+  {
+    "course_code": "KOREA 183",
+    "units": 4,
+    "title": "Korean Folklore",
+    "description": "Lecture, three hours; discussion, one hour. Survey of Korean folklore and its perspectives and methods\u2014oral literature, performing folk arts, social folk custom, and material culture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA183"
+  },
+  {
+    "course_code": "KOREA 184",
+    "units": 4,
+    "title": "Women in History: Korea",
+    "description": "Lecture, two and one half hours; discussion, one hour. Examination of Korean history from perspective of women. Because gender roles and identities are social constructs and thus vary over time and place, consideration of how concepts relating to gender have been continuously reconstructed. Examination of how premodern women\u2019s identities formed through continual negotiation by women and men with larger processes of political, social, and cultural changes, such as formation of centralized bureaucratic systems, rise of aristocratic social system, and propagation of, and challenges to, Confucian social norms. Examination of how after opening of Korea to West and its aftermath brought about changes in women\u2019s education, employment, social/legal status, especially in context of colonialism, war, democratization, and economic development. Covers current issues concerning gender in 21st-century Korea. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA184"
+  },
+  {
+    "course_code": "KOREA 184A",
+    "units": 4,
+    "title": "Women in History: Premodern Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of premodern Korean history from perspective of women. Consideration of how gender roles and identities were socially (re)constructed over time, with focus on continual negotiation by women and men within larger processes of political, social, and cultural changes such as formation of centralized bureaucratic systems, rise of aristocratic social order, and propagation of Confucian social values. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA184A"
+  },
+  {
+    "course_code": "KOREA 184B",
+    "units": 4,
+    "title": "Women in History: Modern Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Examination of modern Korean history from perspective of women since mid-19th century. Consideration of how gender roles and identities were socially (re)constructed over time, with focus on continual negotiation by women and men within larger processes of political, social, and cultural transformations. Discussion of issues such as changes in women\u2019s education, employment, social/legal status, especially in context of colonialism, war, democratization, and economic development. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA184B"
+  },
+  {
+    "course_code": "KOREA 185",
+    "units": 4,
+    "title": "Education and Society in Korea",
+    "description": "Lecture, three hours. Knowledge of Korean not required. Coverage of historical legacies and current realities of education in Korea. Topics include Confucian background, colonial education, role of education in rapid economic development, views on education as vehicle for social mobility, and problems related to excessive emphasis on education. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA185"
+  },
+  {
+    "course_code": "KOREA M186",
+    "units": 4,
+    "title": "Korea and Vietnam: Comparative Modern Histories",
+    "description": "(Same as Vietnamese M186.) Seminar, three hours. Comparative survey of intertwined and parallel histories of Korea and Vietnam, organized chronologically, but structured around key themes that serve as basis for comparison. Modern experiences of colonized Vietnam and Korea have many significant parallels, including imposition of colonial control, transition to modernized societies within context of colonialism, and shared experiences of World War II. Both were also divided after war between communist regimes in north and strongly anticommunist regimes in south. Each also experienced warfare after division and direct involvement of U.S. during height of cold war between 1950s and 1970s. P/NP or letter grading.",
+    "cross_listed": [
+      "VIETMSE M186"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREAM186"
+  },
+  {
+    "course_code": "KOREA 187",
+    "units": 4,
+    "title": "Popular and Folk Religion in Korea",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Korean not required. Introduction to history, forms, and scholarship concerning folk religion in Korea. Exploration of forms of popular and folk religion in Korea, including shamanism, ancestor worship, and contemporary religions. Consideration of fortune-telling, geomancy, and spirit belief. P/NP (undergraduates), S/U (graduates), or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA187"
+  },
+  {
+    "course_code": "KOREA 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA189"
+  },
+  {
+    "course_code": "KOREA 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA189HC"
+  },
+  {
+    "course_code": "KOREA 191A",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Premodern or Early Modern Korea",
+    "description": "Seminar, three hours. Research seminar on selected topics in premodern or early modern Korea. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA191A"
+  },
+  {
+    "course_code": "KOREA 191B",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Contemporary Korean History",
+    "description": "Seminar, three hours. Research seminar on selected topics in modern Korean history. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA191B"
+  },
+  {
+    "course_code": "KOREA 197",
+    "units": 4,
+    "title": "Individual Studies in Korean",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors and graduate students who desire more advanced or specialized instruction in Korean. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required; see undergraduate adviser. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/KOREA197"
+  }
+]

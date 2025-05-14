@@ -1,0 +1,1291 @@
+[
+  {
+    "course_code": "ART HIS 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS19"
+  },
+  {
+    "course_code": "ART HIS 20",
+    "units": 5,
+    "title": "Ancient Art",
+    "description": "Lecture, three hours; quiz, one hour; museum field trips. Prehistoric, Egyptian, Mesopotamian, Aegean, Greek, Hellenistic, and Roman art and architecture. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS20"
+  },
+  {
+    "course_code": "ART HIS 21",
+    "units": 5,
+    "title": "Medieval Art",
+    "description": "Lecture, three hours; quiz, one hour. Early Christian, Byzantine, Islamic, Carolingian, Ottonian, Romanesque, and Gothic art and architecture. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS21"
+  },
+  {
+    "course_code": "ART HIS 22",
+    "units": 5,
+    "title": "Renaissance and Baroque Art",
+    "description": "Lecture, three hours; discussion, one hour. Survey of Renaissance and baroque art. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS22"
+  },
+  {
+    "course_code": "ART HIS 23",
+    "units": 5,
+    "title": "Modern Art",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. History of modern art from 1860s to 1960s, from Manet and impressionists to pop art and minimalism. Study of origins and social functions, as well as aesthetic innovations and philosophical dilemmas of modernism. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS23"
+  },
+  {
+    "course_code": "ART HIS 24",
+    "units": 5,
+    "title": "Architecture in Modern World",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to study of architectural history through examination of built world of past two centuries. Building technologies and forms of economic, social, and political life have produced modern built environment that is both diverse and increasingly connected. Focus on factors that have affected architecture globally and those that give regions, cultures, and historical periods their particular qualities. Topics include architectural and urban ramifications of modern self-consciousness, nationalism and internationalism, industrialism, colonialism and anticolonialism, and new art and architectural theories. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS24"
+  },
+  {
+    "course_code": "ART HIS 25",
+    "units": 5,
+    "title": "Museum Studies",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. General introduction to study of museums in their social and historical contexts. Examination of debates about museum\u2019s role in society through case studies and analysis of exhibitions in range of museums including art, history, and ethnographic museums. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS25"
+  },
+  {
+    "course_code": "ART HIS 27",
+    "units": 5,
+    "title": "Art and Architecture of Ancient Americas",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. Introduction to art, architecture, and urbanism of Americas (North to South) from earliest settlement until AD 1450. Analysis of variety of media within their historical and cultural context. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS27"
+  },
+  {
+    "course_code": "ART HIS 28",
+    "units": 5,
+    "title": "Arts of Africa",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. Introduction to arts and architecture of Africa. Examination of social and historical contexts of their production. Introduction to body of information within framework of conceptual problem through series of case studies. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS28"
+  },
+  {
+    "course_code": "ART HIS 29",
+    "units": 5,
+    "title": "Chinese Art",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. General introduction to Chinese art, covering all major periods from Neolithic to modern age. Presentation of monuments as well as artifacts in variety of media in their social and historical contexts. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS29"
+  },
+  {
+    "course_code": "ART HIS 30",
+    "units": 5,
+    "title": "Arts of Japan",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. General introduction to art, architecture, and material culture of Japan, from earliest records to present. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS30"
+  },
+  {
+    "course_code": "ART HIS 31",
+    "units": 5,
+    "title": "Art of India and Southeast Asia",
+    "description": "Lecture, three hours; discussion, one hour; museum field trips. Discussion of selection of monuments and objects from Indian subcontinent and Southeast Asia using key historical, cultural, and religious concepts. Analysis of each monument or object in detail, with their relationships compared and contrasted. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS31"
+  },
+  {
+    "course_code": "ART HIS 32",
+    "units": 5,
+    "title": "Arts of the Mediterranean",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to past and present cultural diversity of the Mediterranean world. Examination of the Mediterranean region as a connective space, rather than a boundary, between Europe and Africa. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS32"
+  },
+  {
+    "course_code": "ART HIS 88",
+    "units": 4,
+    "title": "Lower-Division Seminars",
+    "description": "Seminar, three hours. Limited to freshmen. Variable topics; consult Schedule of Classes or department for topics to be offered in specific term. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS88"
+  },
+  {
+    "course_code": "ART HIS 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS89"
+  },
+  {
+    "course_code": "ART HIS 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS89HC"
+  },
+  {
+    "course_code": "ART HIS 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS99"
+  },
+  {
+    "course_code": "ART HIS 100",
+    "units": 4,
+    "title": "Art Historical Theories and Methodologies",
+    "description": "Seminar, three hours. Requisites: three courses from 20 through 31. Critical examination of history of discipline of art history, with studies of various theoretical, critical, and methodological approaches to visual arts. Letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "ART HIS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS100"
+  },
+  {
+    "course_code": "ART HIS M110A",
+    "units": 4,
+    "title": "Art and Architecture of Ancient Egypt, Predynastic Period to New Kingdom",
+    "description": "(Same as Ancient Near East CM101A.) Lecture, three hours. Study of architecture, sculpture, painting, and minor arts during Predynastic period and Old Kingdom. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA CM101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110A"
+  },
+  {
+    "course_code": "ART HIS M110B",
+    "units": 4,
+    "title": "Art and Architecture of Ancient Egypt, New Kingdom to Greco-Roman Period",
+    "description": "(Same as Ancient Near East CM101B.) Lecture, three hours. Study of architecture, sculpture, painting, and minor arts from New Kingdom to Greco-Roman period. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA CM101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110B"
+  },
+  {
+    "course_code": "ART HIS M110C",
+    "units": 4,
+    "title": "Ancient Egyptian Temple and City of Thebes",
+    "description": "(Same as Ancient Near East M101C.) Lecture, four hours; fieldwork, one hour. Focus on ancient temples of city of Thebes (modern day Luxor). Theban temples are some of best-preserved cult buildings in all of Egypt, and their study illuminates traditions of artistic representation, architectural development, and social and political transformations echoed throughout all of ancient Egypt. Investigation of ritual linking of temples on Nile\u2019s eastern and western banks through festival processions, chronological changes in function and form of Theban temples through time, and statuary program of individual temples. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA M101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110C"
+  },
+  {
+    "course_code": "ART HIS M110D",
+    "units": 4,
+    "title": "Art and Death in Ancient Egypt",
+    "description": "(Same as Ancient Near East M166.) Lecture, four hours. Ways of death, burial, funerary ritual, and afterlife beliefs in ancient Egypt, as well as in ancient Near East and Nubia, with focus on ancient visual materials\u2014both objects and architecture\u2014from Predynastic to Roman periods. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA M166"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM110D"
+  },
+  {
+    "course_code": "ART HIS M111",
+    "units": 4,
+    "title": "Minoan Art and Archaeology",
+    "description": "(Same as Classics M153A.) Lecture, three hours. Requisite: course 20 or Classics 10 or 51A. Study of development of art and architecture in Minoan Crete from circa 3000 to 1000 BC. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 51A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM111"
+  },
+  {
+    "course_code": "ART HIS M111E",
+    "units": 4,
+    "title": "Archaeology of Levant",
+    "description": "(Same as Ancient Near East M164, Archeology M164, and Middle Eastern Studies M164.) Lecture, three hours. Survey of archaeology of Levant from late fifth millennium through arrival of Alexander the Great (circa 4500-332 BC). Examination of social, economic, political, and cultural developments through archaeological finds from geographic region bounded by Anatolia and Mesopotamia on north, Egypt to south, and Arabian Peninsula to east. Archaeological methods, theory, and practice are addressed; and geographic, environmental, climatological, and textual data are employed to establish broader context for Levantine traditions. P/NP or letter grading.",
+    "cross_listed": [
+      "ARCHEOL M164",
+      "M E STD M164",
+      "AN N EA M164"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM111E"
+  },
+  {
+    "course_code": "ART HIS M112A",
+    "units": 4,
+    "title": "Mycenaean Art and Archaeology",
+    "description": "(Same as Classics M153B.) Lecture, three hours. Requisite: course 20 or Classics 10 or 51A. Study of development of art and architecture in Mycenaean Greece from circa 2000 to 1000 BC. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 51A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112A"
+  },
+  {
+    "course_code": "ART HIS M112B",
+    "units": 4,
+    "title": "Archaic Greek Art and Archaeology",
+    "description": "(Same as Classics M153C.) Lecture, three hours. Requisite: course 20 or Classics 10 or 51A. Study of development of art and architecture of Greek world from approximately 800 through 490 BC. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 51A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112B"
+  },
+  {
+    "course_code": "ART HIS M112C",
+    "units": 4,
+    "title": "Classical Greek Art and Archaeology",
+    "description": "(Same as Classics M153D.) Lecture, three hours. Requisite: course 20 or Classics 10 or 51A. Study of development of art and architecture of Greek world from approximately 490 through 350 BC. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 51A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112C"
+  },
+  {
+    "course_code": "ART HIS M112D",
+    "units": 4,
+    "title": "Hellenistic Greek Art and Archaeology",
+    "description": "(Same as Classics M153E.) Lecture, three hours. Requisite: course 20 or Classics 10 or 51A. Study of development of art and architecture of Greek world from middle of 4th century BC, including transmittal of Greek art forms to Romans. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 51A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM112D"
+  },
+  {
+    "course_code": "ART HIS M113A",
+    "units": 4,
+    "title": "Etruscan Art and Archaeology",
+    "description": "(Same as Classics M153F.) Lecture, three hours. Requisite: course 20 or Classics 20 or 51B. Arts of Italic peninsula from circa 1000 BC. to end of Roman Republic. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 20",
+      "CLASSIC 51B"
+    ],
+    "cross_listed": [
+      "CLASSIC M153F"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113A"
+  },
+  {
+    "course_code": "ART HIS M113B",
+    "units": 4,
+    "title": "Roman Art and Archaeology",
+    "description": "(Same as Classics M153G.) Lecture, three hours. Requisite: course 20 or Classics 20 or 51B. Art and architecture of Rome and its Empire from circa 300 BC to AD 300. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 20",
+      "CLASSIC 51B"
+    ],
+    "cross_listed": [
+      "CLASSIC M153G"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113B"
+  },
+  {
+    "course_code": "ART HIS M113C",
+    "units": 4,
+    "title": "Late Roman Art",
+    "description": "(Same as Classics M153H.) Lecture, three hours. Requisite: course 20 or Classics 20 or 51B. Art of Roman Empire from 2nd through 4th century (AD). P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 20",
+      "CLASSIC 51B"
+    ],
+    "cross_listed": [
+      "CLASSIC M153H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM113C"
+  },
+  {
+    "course_code": "ART HIS M114A",
+    "units": 4,
+    "title": "Classical Archaeology: Greco-Roman Architecture",
+    "description": "(Same as Classics M153I.) Lecture, three hours. Requisite: one course from 20, Classics 10, 20, 51A, 51B, or History 1A. Knowledge of Greek and Latin not required. General introduction to study of Aegean, Greek, and Roman architecture, sculpture, and painting. May be repeated for credit with department consent. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 20",
+      "CLASSIC 51A",
+      "CLASSIC 51B",
+      "History 1A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114A"
+  },
+  {
+    "course_code": "ART HIS M114B",
+    "units": 4,
+    "title": "Classical Archaeology: Greco-Roman Sculpture",
+    "description": "(Same as Classics M153J.) Lecture, three hours. Requisite: one course from 20, Classics 10, 20, 51A, 51B, or History 1A. Knowledge of Greek and Latin not required. General introduction to study of Aegean, Greek, and Roman architecture, sculpture, and painting. May be repeated for credit with department consent. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 20",
+      "CLASSIC 51A",
+      "CLASSIC 51B",
+      "HIST 1A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153J"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114B"
+  },
+  {
+    "course_code": "ART HIS M114C",
+    "units": 4,
+    "title": "Classical Archaeology: Greco-Roman Painting",
+    "description": "(Same as Classics M153K.) Lecture, three hours. Requisite: one course from 20, Classics 10, 20, 51A, 51B, or History 1A. Knowledge of Greek and Latin not required. General introduction to study of Aegean, Greek, and Roman architecture, sculpture, and painting. May be repeated for credit with department consent. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "CLASSIC 10",
+      "CLASSIC 20",
+      "CLASSIC 51A",
+      "CLASSIC 51B",
+      "HIST 1A"
+    ],
+    "cross_listed": [
+      "CLASSIC M153K"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM114C"
+  },
+  {
+    "course_code": "ART HIS C114D",
+    "units": 4,
+    "title": "Selected Topics in Ancient Art",
+    "description": "Lecture, three hours. Variable topics in ancient art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C214D. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC114D"
+  },
+  {
+    "course_code": "ART HIS CM115A",
+    "units": 4,
+    "title": "Late Antique Art and Architecture",
+    "description": "(Same as Classics M153L.) Lecture, three hours. Art and architecture of late Roman Empire and early Christian world. Concurrently scheduled with course C215A. P/NP or letter grading.",
+    "cross_listed": [
+      "CLASSIC M153L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM115A"
+  },
+  {
+    "course_code": "ART HIS C115B",
+    "units": 4,
+    "title": "Early Medieval Art and Architecture",
+    "description": "Lecture, three hours. Requisite: course 21. Art and architecture of Western Europe from Migration period until AD 1000. Concurrently scheduled with course C215B. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115B"
+  },
+  {
+    "course_code": "ART HIS 115C",
+    "units": 4,
+    "title": "Romanesque Art and Architecture",
+    "description": "Lecture, three hours. Requisite: course 21. Art and architecture of Western Europe in 11th and 12th centuries. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS115C"
+  },
+  {
+    "course_code": "ART HIS C115D",
+    "units": 4,
+    "title": "Gothic Art and Architecture",
+    "description": "Lecture, three hours. Art and architecture of Europe in 13th century. Concurrently scheduled with course C215D. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115D"
+  },
+  {
+    "course_code": "ART HIS 115E",
+    "units": 4,
+    "title": "Late Gothic Art and Architecture",
+    "description": "Lecture, three hours. Strongly recommended preparation: course 21. Art and architecture of Europe in 14th and early 15th centuries. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS115E"
+  },
+  {
+    "course_code": "ART HIS C115F",
+    "units": 4,
+    "title": "Medieval Paris",
+    "description": "Lecture, three hours. Enforced requisite: course 21. Material culture, art, architecture, and history of city of Paris to circa 1500. Concurrently schedule with course C215F. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC115F"
+  },
+  {
+    "course_code": "ART HIS C116A",
+    "units": 4,
+    "title": "Middle Byzantine Art and Architecture",
+    "description": "Lecture, three hours. Requisite: course 21. Theory and development of Byzantine art from iconoclastic controversy to 1204. Concurrently scheduled with course C216A. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 21"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC116A"
+  },
+  {
+    "course_code": "ART HIS C116B",
+    "units": 4,
+    "title": "Late Byzantine Art and Architecture",
+    "description": "Lecture, three hours. Theory and development of Byzantine art from 1204 to 1453. Concurrently scheduled with course C216B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC116B"
+  },
+  {
+    "course_code": "ART HIS C117A",
+    "units": 4,
+    "title": "Medieval Archaeology",
+    "description": "Lecture, three hours. Archaeology of medieval world. Concurrently scheduled with course C217A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC117A"
+  },
+  {
+    "course_code": "ART HIS C117B",
+    "units": 4,
+    "title": "Selected Topics in Medieval Art",
+    "description": "Lecture, three hours. Variable topics in medieval art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C217B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC117B"
+  },
+  {
+    "course_code": "ART HIS M118A",
+    "units": 4,
+    "title": "Medieval Armenian Art",
+    "description": "(Same as Armenian M172.) Lecture, three hours. Examination of cultural and historical impact of Armenian miniature paintings. P/NP or letter grading.",
+    "cross_listed": [
+      "ARMENIA M172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM118A"
+  },
+  {
+    "course_code": "ART HIS M118B",
+    "units": 4,
+    "title": "Armenian Painting, 17th to 20th Century",
+    "description": "(Same as Armenian M173.) Lecture, three hours. Overview of development of modern Armenian painting out of its matrix in 17th and 18th centuries. P/NP or letter grading.",
+    "cross_listed": [
+      "ARMENIA M173",
+      "Armenian Painting, 17",
+      "Armenian Painting, 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM118B"
+  },
+  {
+    "course_code": "ART HIS C118C",
+    "units": 4,
+    "title": "Selected Topics in Armenian Art",
+    "description": "Lecture, three hours. Variable topics in Armenian art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C218. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC118C"
+  },
+  {
+    "course_code": "ART HIS 119A",
+    "units": 4,
+    "title": "Western Islamic Art",
+    "description": "Lecture, three hours. From Tigris and Euphrates Rivers to Spain, 7th to 16th century. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS119A"
+  },
+  {
+    "course_code": "ART HIS 119B",
+    "units": 4,
+    "title": "Eastern Islamic Art",
+    "description": "Lecture, three hours. From Tigris and Euphrates Rivers through Afghanistan and parts of central Asia; Ottoman Empire. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS119B"
+  },
+  {
+    "course_code": "ART HIS M119C",
+    "units": 4,
+    "title": "Introduction to Islamic Archaeology",
+    "description": "(Same as Islamic Studies M111 and Middle Eastern Studies M111.) Lecture, three hours. From earliest monuments of Islam in Arabia and Jerusalem to humble remains of small Egyptian port, broad focus on archaeological and standing remains in central Islamic lands (primarily Syria, Egypt, and Iraq), Turkey, Iran, North Africa, and Spain. Profound cultural transformations occurred from birth of Islam in 7th century to early Ottoman period in 16th and 17th centuries, which are traceable in material records. Assessment of effectiveness of tools afforded by historical archaeology to aid understanding of past societies. P/NP or letter grading.",
+    "cross_listed": [
+      "ISLM ST M111",
+      "M E STD M111"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM119C"
+  },
+  {
+    "course_code": "ART HIS M119D",
+    "units": 4,
+    "title": "Archaeology and Art of Christian and Islamic Egypt",
+    "description": "(Same as Archaeology M112, Islamic Studies M112, and Middle Eastern Studies M112.) Lecture, three hours. Culture of Egypt transformed gradually after Muslim conquest in mid-7th century CE. According to material evidence such as ceramics, textiles, architectural forms, and building techniques, it is functionally impossible to separate pre-Islamic Christian Egypt from early Islamic Egypt. Although population may have become largely Muslim by 10th century, Egypt remained Coptic in many senses even to 14th century and retains sizeable Christian minority to present. Survey of archaeological remains and standing architecture of Egypt from 6th to 19th century, charting changes and continuities in material culture and shifts in human geography and land use. P/NP or letter grading.",
+    "cross_listed": [
+      "ISLM ST M112",
+      "ARCHEOL M112",
+      "M E STD M112"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM119D"
+  },
+  {
+    "course_code": "ART HIS C120",
+    "units": 4,
+    "title": "Selected Topics in Islamic Art",
+    "description": "Lecture, three hours. Variable topics in Islamic art and architecture that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C220A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC120"
+  },
+  {
+    "course_code": "ART HIS 121A",
+    "units": 4,
+    "title": "Italian Renaissance Art of 14th Century",
+    "description": "Lecture, three hours. Art and architecture of 14th century. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121A"
+  },
+  {
+    "course_code": "ART HIS 121B",
+    "units": 4,
+    "title": "Italian Renaissance Art of 15th Century",
+    "description": "Lecture, three hours. Art and architecture of 15th century. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121B"
+  },
+  {
+    "course_code": "ART HIS 121C",
+    "units": 4,
+    "title": "Italian Renaissance Art of 16th Century",
+    "description": "Lecture, three hours. Art and architecture of 16th century. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121C"
+  },
+  {
+    "course_code": "ART HIS 121D",
+    "units": 4,
+    "title": "Late Renaissance Art: Counter-Reformation",
+    "description": "Lecture, three hours. Requisite: course 22. Painting, sculpture, and architecture of late 16th and early 17th centuries considered in context of Counter-Reformation. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS121D"
+  },
+  {
+    "course_code": "ART HIS 124",
+    "units": 4,
+    "title": "Northern Renaissance Art",
+    "description": "Lecture, three hours. Requisite: course 22. Painting and sculpture in Northern Renaissance. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 22"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS124"
+  },
+  {
+    "course_code": "ART HIS C125A",
+    "units": 4,
+    "title": "Southern Baroque Art",
+    "description": "Lecture, three hours. Art and architecture of Spain or Italy, 16th to late 17th century. Concurrently scheduled with course C225. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC125A"
+  },
+  {
+    "course_code": "ART HIS 125B",
+    "units": 4,
+    "title": "Northern Baroque Art",
+    "description": "Lecture, three hours. Requisite: course C125A. Art and architecture of Northern Europe, 16th to late 17th century. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS C125A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS125B"
+  },
+  {
+    "course_code": "ART HIS C126",
+    "units": 4,
+    "title": "Selected Topics in Early Modern Art",
+    "description": "Lecture, three hours. Variable topics in early modern art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C226. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC126"
+  },
+  {
+    "course_code": "ART HIS 127A",
+    "units": 4,
+    "title": "European Art of 17th and 18th Centuries",
+    "description": "Lecture, three hours. Requisite: one course from course 20 through 31. Examination of art and visual culture of 17th and 18th centuries in light of political and intellectual developments. Special emphasis on effects of royal courts, colonialism, and revolution. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 20",
+      "ART HIS 31"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS127A"
+  },
+  {
+    "course_code": "ART HIS 127B",
+    "units": 4,
+    "title": "European Art of 19th Century",
+    "description": "Lecture, three hours. Requisite: course 23. Neoclassicism and Romanticism, with emphasis on France\u2014development and influence of David, Ingres, and Delacroix. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS127B"
+  },
+  {
+    "course_code": "ART HIS M127C",
+    "units": 4,
+    "title": "Cultural and Intellectual History of Modern Europe, 19th Century",
+    "description": "(Same as History M122E.) Lecture, three hours; discussion, one hour (when scheduled). Designed for juniors/seniors. Climates of taste and climates of opinion. Educational, moral, and religious attitudes; art, thought, and manners of time in historical context. P/NP or letter grading.",
+    "cross_listed": [
+      "HIST M122E",
+      "Cultural and Intellectual History of Modern Europe, 19"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM127C"
+  },
+  {
+    "course_code": "ART HIS C128A",
+    "units": 4,
+    "title": "History of Photography, 1839 to 1910",
+    "description": "Lecture, three hours. Study of origin, social functions, and development of photography in 19th and early 20th centuries, from Ni\u00e9pce to Atget. Concurrently scheduled with course C228A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128A"
+  },
+  {
+    "course_code": "ART HIS C128B",
+    "units": 4,
+    "title": "History of Photography, 1910 to Present",
+    "description": "Lecture, three hours; discussion, one hour. History of photography in 20th century, with special attention to photography\u2019s entrance into project of avant-garde and its role in formation of postmodern aesthetic. Concurrently scheduled with course C228B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128B"
+  },
+  {
+    "course_code": "ART HIS C128C",
+    "units": 4,
+    "title": "History of Photography: Selected Topics",
+    "description": "Lecture, three hours. Variable topics in history of photography that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C228C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC128C"
+  },
+  {
+    "course_code": "ART HIS C129A",
+    "units": 4,
+    "title": "Modern Art, 1900 to 1950",
+    "description": "Lecture, three hours. Inquiry into 20th-century modernism from Fauvism to abstract expressionism. Topics include primitivism, gender, and sexuality in modernist art; origins of abstraction, collage, photomontage, and ready-made; rise of automatism and chance procedures; art, utopia, and political revolution; antimodernism and fascism; mass culture, machine paradigm, and work of art in age of mechanical reproduction. Concurrently scheduled with course C229A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129A"
+  },
+  {
+    "course_code": "ART HIS C129B",
+    "units": 4,
+    "title": "Dada, 1915 to 1923",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Introduction to modernism and historical avant-garde of early 20th century, tracing in detail emergence of Dada avant-garde in its various geographical locales during and after World War I. Visual art, literature, film, and performance addressed, with special attention to invention of series of avant-garde strategies crucial to Dada: ready-made, chance procedures, mechanical drawing, and photomontage. Concurrently scheduled with course C229B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129B"
+  },
+  {
+    "course_code": "ART HIS C129C",
+    "units": 4,
+    "title": "Surrealism, 1924 to 1939",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Study of art, literature, and film associated with surrealist movement in France, with special attention to dissident surrealism of writer and philosopher Georges Bataille, as well as to challenge to art history posed by surrealism\u2019s engagement with lessons of psychoanalysis. Concurrently scheduled with course C229C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC129C"
+  },
+  {
+    "course_code": "ART HIS 130",
+    "units": 4,
+    "title": "Selected Topics in Modern Art",
+    "description": "Lecture, three hours. Requisite: course 23. Changing topics in modern art (post-1780) that reflect interests of individual regular and visiting faculty members. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS130"
+  },
+  {
+    "course_code": "ART HIS C131A",
+    "units": 4,
+    "title": "Contemporary Art, 1940s to 1950s",
+    "description": "Lecture, three hours. Requisite: course 23. Study of major artistic and cultural trends following World War II in U.S. and Europe, covering abstract expressionism to pop art. Concurrently scheduled with course C231A. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131A"
+  },
+  {
+    "course_code": "ART HIS C131B",
+    "units": 4,
+    "title": "Contemporary Art, 1960s to 1970s",
+    "description": "Lecture, three hours. Requisite: course 23. Study of ambitions and contexts of pop art, minimalism, conceptual art, feminist art, performance, land art, and more. Concurrently scheduled with course C231B. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131B"
+  },
+  {
+    "course_code": "ART HIS C131C",
+    "units": 4,
+    "title": "Contemporary Art, 1980s to 1990s",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 23. Study of politics of representation at end of century, covering dominant strategies and trends in postmodernist art. Concurrently scheduled with course C231C. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC131C"
+  },
+  {
+    "course_code": "ART HIS 132",
+    "units": 4,
+    "title": "Selected Topics in Contemporary Art",
+    "description": "Lecture, three hours. Requisite: course 23. Changing topics in contemporary art (post-1945) that reflect interests of individual regular and/or visiting faculty members. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 23"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS132"
+  },
+  {
+    "course_code": "ART HIS C133A",
+    "units": 4,
+    "title": "American Art before Civil War",
+    "description": "Lecture, three hours. Painting, sculpture, and architecture in U.S. from Colonial period through Civil War. Concurrently scheduled with course C233A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133A"
+  },
+  {
+    "course_code": "ART HIS C133B",
+    "units": 4,
+    "title": "American Art in Gilded Age, 1860 to 1900",
+    "description": "Lecture, three hours. Painting, sculpture, and architecture in U.S. from Civil War to turn of century. Concurrently scheduled with course C233B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133B"
+  },
+  {
+    "course_code": "ART HIS C133C",
+    "units": 4,
+    "title": "American Art, 1900 to 1945",
+    "description": "Lecture, three hours. Painting, sculpture, and photography in U.S. from 1900 to 1945. Concurrently scheduled with course C233C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC133C"
+  },
+  {
+    "course_code": "ART HIS 133D",
+    "units": 4,
+    "title": "Architecture in U.S.",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to architecture built in U.S. over last 5,000 years. Architecture as vehicle for political and cultural authority, citizenship, ethnic and social identity; its role in defining place and our relationship to natural environment and as vehicle for asserting human control over natural world; its place in world of work and commerce; and its status as professional and aesthetic pursuit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS133D"
+  },
+  {
+    "course_code": "ART HIS 133E",
+    "units": 4,
+    "title": "American Houses",
+    "description": "Lecture, three hours. Many historians consider single-family houses to be one of two most American contributions to world architecture (next to skyscrapers). Examination of this claim critically by placing single-family houses in broader context of varied dwellings built and occupied by residents of present-day U.S. over last 500 years, including both aesthetically ambitious houses and ordinary (or vernacular) ones, houses of indigenous groups and those of immigrants of many sorts, urban and rural houses, and single-family houses and multiple dwellings of all sorts. Offers ways to think about houses we occupy and to understand how they relate to major themes in history of American architecture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS133E"
+  },
+  {
+    "course_code": "ART HIS CM135A",
+    "units": 4,
+    "title": "African American Art before 1900",
+    "description": "(Same as African American Studies CM135A.) Lecture, three hours. Detailed inquiry into work to circa 1900 of African American artists whose works provide insightful and critical commentary about major features of American life and society. Concurrently scheduled with course CM235A. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "cross_listed": [
+      "AF AMER CM135A",
+      "African American Art before 1900"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM135A"
+  },
+  {
+    "course_code": "ART HIS CM135B",
+    "units": 4,
+    "title": "African American Art, 1900 to 1963",
+    "description": "(Same as African American Studies CM135B.) Lecture, three hours. Detailed inquiry into work of African American artists from Columbian Exposition to 1963 March on Washington within context of social, political, and cultural engagement, as well as in codification of modern black life in U.S. Concurrently scheduled with course CM235B. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "cross_listed": [
+      "AF AMER CM135B",
+      "African American Art, 1900",
+      "African American Art, 1963"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM135B"
+  },
+  {
+    "course_code": "ART HIS C136A",
+    "units": 4,
+    "title": "Selected Topics in African American Art",
+    "description": "Lecture, three hours. Variable topics in African American art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C236A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC136A"
+  },
+  {
+    "course_code": "ART HIS 137",
+    "units": 4,
+    "title": "Arts of Native North America",
+    "description": "Lecture, three hours. Survey of painting, sculpture, and other arts from Inuit to peoples of Caribbean and Southwestern U.S. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS137"
+  },
+  {
+    "course_code": "ART HIS CM139A",
+    "units": 4,
+    "title": "Maya Art and Architecture",
+    "description": "(Same as Chicana/o and Central American Studies M137.) Lecture, three hours. Requisite: course 27. Study of art of selected Maya-speaking cultures of southern Mesoamerica from circa 2000 BC to Conquest, with particular emphasis on history and iconography. Concurrently scheduled with course C239A. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 27"
+    ],
+    "cross_listed": [
+      "CCAS M137"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM139A"
+  },
+  {
+    "course_code": "ART HIS C139B",
+    "units": 4,
+    "title": "Aztec Art and Architecture",
+    "description": "Lecture, three hours. Requisite: course 27. Painting, sculpture, architecture, and other arts of Nahuatl-speaking peoples of central Mexico, with emphasis on their social and historical context and major scholarly debates. Concurrently scheduled with course C239B. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC139B"
+  },
+  {
+    "course_code": "ART HIS C139C",
+    "units": 4,
+    "title": "Inca Art and Architecture",
+    "description": "Lecture, three hours. Exploration of art, architecture, and urbanism of Incas from their empire\u2019s height in late 15th century to their political and cultural fragmentation during Spanish occupation of Andes (1532 to 1824). Concurrently scheduled with course C239C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC139C"
+  },
+  {
+    "course_code": "ART HIS C140",
+    "units": 4,
+    "title": "Selected Topics in Arts of Indigenous Americas",
+    "description": "Lecture, three hours. Variable topics in artistic production of Native people across Americas that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C240A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC140"
+  },
+  {
+    "course_code": "ART HIS CM141",
+    "units": 4,
+    "title": "Colonial Latin American Art",
+    "description": "(Same as Chicana/o and Central American Studies M187B.) Lecture, three hours; discussion, one hour (when scheduled). Art and architecture of colonial Americas from 16th to 18th century. Concurrently scheduled with course C241. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M187B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISCM141"
+  },
+  {
+    "course_code": "ART HIS C142A",
+    "units": 4,
+    "title": "Mexican Art in Modern Age",
+    "description": "Lecture, three hours. Mexican art of 19th and 20th centuries, from foundation of academy in 1785 to present day. Study of art and revolution, muralism, surrealism, indigenism, postcolonialism, and postmodernism in painting, sculpture, prints, photography, and architecture. Concurrently scheduled with course C242A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC142A"
+  },
+  {
+    "course_code": "ART HIS C142B",
+    "units": 4,
+    "title": "Latin American Art of 20th Century",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Mainstream modern and contemporary art and architecture of selected Latin American countries, including both modernist and postmodernist forms, considered in context of social and political concerns, both national and international. Concurrently scheduled with course C242B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC142B"
+  },
+  {
+    "course_code": "ART HIS 143",
+    "units": 4,
+    "title": "Selected Topics in Latin American Art",
+    "description": "Lecture, three hours. Variable topics in Latin American art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS143"
+  },
+  {
+    "course_code": "ART HIS 144",
+    "units": 4,
+    "title": "Caribbean Art",
+    "description": "Lecture, three hours. Cultural history of Caribbean. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS144"
+  },
+  {
+    "course_code": "ART HIS C145A",
+    "units": 4,
+    "title": "Architecture and Urbanism in Africa",
+    "description": "Lecture, three hours. Survey of African built environment at various moments and in different places from about 200 CE to present, with emphasis on cultural, social, and historical contexts of architecture, gender, and space, and contemporary African cities. Concurrently scheduled with course C245A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC145A"
+  },
+  {
+    "course_code": "ART HIS C145B",
+    "units": 4,
+    "title": "Contemporary Arts of Africa",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Survey of African visual practices since mid-20th century, with special emphasis on changing meaning of art object, status of African artist, global reception of contemporary African art, and very definitions of contemporary African art. Concurrently scheduled with course C245B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC145B"
+  },
+  {
+    "course_code": "ART HIS C146A",
+    "units": 4,
+    "title": "Selected Topics in African Art",
+    "description": "Lecture, three hours. Variable topics in African art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C246A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC146A"
+  },
+  {
+    "course_code": "ART HIS 147",
+    "units": 4,
+    "title": "Arts of Oceania",
+    "description": "Lecture, three hours. Requisite: course 28. Survey of arts of major island groupings of Pacific, emphasizing style-regions and broad historical relationships. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 28"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS147"
+  },
+  {
+    "course_code": "ART HIS C148A",
+    "units": 4,
+    "title": "Art and Material Culture, Neolithic to 210 BC",
+    "description": "Lecture, three hours; discussion, one hour. Genesis of Chinese civilization in light of new archaeological finds, including sites and works of art (e.g., ceramics, bronzes, jades). Concurrently scheduled with course C248A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148A"
+  },
+  {
+    "course_code": "ART HIS C148B",
+    "units": 4,
+    "title": "Art and Material Culture of Early Imperial China, 210 BC to AD 906",
+    "description": "Lecture, three hours. Palaces and tombs of early imperial dynasties, impact of Buddhist art (cave temples), rise of new media and technologies. Concurrently scheduled with course C248B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148B"
+  },
+  {
+    "course_code": "ART HIS C148C",
+    "units": 4,
+    "title": "Art and Material Culture of Late Imperial China, 906 to 1911",
+    "description": "Lecture, three hours. Secular and religious (Buddhist and Taoist) architecture, painting, sculpture, and various luxury industries (lacquer, porcelain, textiles, jade, bronze, furniture, wood and bamboo carving, etc.). Concurrently scheduled with course C248C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148C"
+  },
+  {
+    "course_code": "ART HIS C148D",
+    "units": 4,
+    "title": "Advanced Chinese Art",
+    "description": "Lecture, three hours. Study in Chinese painting and sculpture. Concurrently scheduled with course C248D. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148D"
+  },
+  {
+    "course_code": "ART HIS C148E",
+    "units": 4,
+    "title": "Art in Modern China",
+    "description": "Lecture, three hours. Concentrated look at major schools and masters of Chinese art from turn of 20th century to present, with focus on interaction with foreign cultures and issues of self-identity, assimilation, modernity, tradition, and continuity. Consideration of recent developments in Chinese art in global context. Concurrently scheduled with course C248E. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148E"
+  },
+  {
+    "course_code": "ART HIS C148F",
+    "units": 4,
+    "title": "Advanced Chinese Painting",
+    "description": "Lecture, three hours. Examination of classical painting of imperial China through theory and practice. Concurrently scheduled with course C248F. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148F"
+  },
+  {
+    "course_code": "ART HIS C148G",
+    "units": 4,
+    "title": "Gardens in Chinese Art and Culture",
+    "description": "Lecture, three hours; discussion, one hour. Overview of practice, theory, and representation of Chinese gardens in their historical, philosophical, artistic, social, and cultural contexts through literary writings, paintings, and aspects of material culture. Concurrently scheduled with course C248G. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC148G"
+  },
+  {
+    "course_code": "ART HIS C149",
+    "units": 4,
+    "title": "Selected Topics in Chinese Art",
+    "description": "Lecture, three hours. Variable topics in Chinese art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C249A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC149"
+  },
+  {
+    "course_code": "ART HIS 150A",
+    "units": 4,
+    "title": "Japanese Art",
+    "description": "Lecture, three hours. Not open to freshmen. Japanese art from its beginning in prehistory through 19th century. Emphasis on development of Buddhist art and its relationship with culture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS150A"
+  },
+  {
+    "course_code": "ART HIS C150B",
+    "units": 4,
+    "title": "Advanced Japanese Art",
+    "description": "Lecture, three hours. Requisite: course 150A. Study in Japanese painting and sculpture. Concurrently scheduled with course C250. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 150A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC150B"
+  },
+  {
+    "course_code": "ART HIS C151",
+    "units": 4,
+    "title": "Selected Topics in Japanese Art",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Variable topics in Japanese art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C251A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC151"
+  },
+  {
+    "course_code": "ART HIS 152A",
+    "units": 4,
+    "title": "Arts of Korea",
+    "description": "Lecture, three hours; museum field trip. Introduction to arts and archaeology on Korean peninsula from Neolithic beginnings to early 20th century through analysis and discussion of selection of monuments and objects within technological, stylistic, religious, cultural, and sociopolitical contexts. Examination of construction of concepts of history and art under colonial and nationalist perspectives, with regard to historical and contemporary East Asian cultural and political interrelations. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS152A"
+  },
+  {
+    "course_code": "ART HIS C152B",
+    "units": 4,
+    "title": "History of Korean Painting",
+    "description": "Lecture, three hours. Limited to juniors/seniors. Korean painting history from Three Kingdoms period to 19th century, examined within cultural and sociopolitical contexts. Special emphasis on diversity of topics and social status of artists during Choson dynasty (1392 to 1910). Concurrently scheduled with course C252A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152B"
+  },
+  {
+    "course_code": "ART HIS C152C",
+    "units": 4,
+    "title": "History of Korean Ceramics",
+    "description": "Lecture, three hours. Limited to juniors/seniors. History of Korean ceramics from Neolithic period to 19th century, with special emphasis on technological and stylistic developments. Concurrently scheduled with course C252B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152C"
+  },
+  {
+    "course_code": "ART HIS C152D",
+    "units": 4,
+    "title": "History of Korean Buddhist Art",
+    "description": "Lecture, three hours. Limited to juniors/seniors. History of Korean Buddhist art from Three Kingdoms period to Choson dynasty, with special emphasis on Buddhist iconography and relationship between sculpture, painting, and architecture. Concurrently scheduled with course C252C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC152D"
+  },
+  {
+    "course_code": "ART HIS C153",
+    "units": 4,
+    "title": "Selected Topics in Korean Art",
+    "description": "Lecture, three hours. Limited to juniors/seniors. Variable topics in Korean art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C253A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC153"
+  },
+  {
+    "course_code": "ART HIS 154A",
+    "units": 4,
+    "title": "Early Art of India",
+    "description": "Lecture, three hours. Not open to freshmen. Survey of Indian art from Indus Valley cultures to 10th century. Emphasis on Buddhist and Hindu backgrounds of arts. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154A"
+  },
+  {
+    "course_code": "ART HIS 154B",
+    "units": 4,
+    "title": "Later Art of India",
+    "description": "Lecture, three hours. Not open to freshmen. Survey of Indian art from 10th to 19th century. Decline of Buddhist art, last efflorescence of Hindu architecture, Muslim painting and architecture, and Rajput painting. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154B"
+  },
+  {
+    "course_code": "ART HIS C154C",
+    "units": 4,
+    "title": "Advanced Indian Art",
+    "description": "Lecture, three hours. Requisite: course 154A. Study in Indian sculpture and architecture. Concurrently scheduled with course C254A. P/NP or letter grading.",
+    "prerequisites": [
+      "ART HIS 154A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC154C"
+  },
+  {
+    "course_code": "ART HIS 154D",
+    "units": 4,
+    "title": "Modern and Contemporary South Asian Art",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Topics in modern and contemporary South Asian art from 1900 to present. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS154D"
+  },
+  {
+    "course_code": "ART HIS C155",
+    "units": 4,
+    "title": "Selected Topics in South and Southeast Asian Art",
+    "description": "Lecture, three hours. Variable topics in South and Southeast Asian art that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C255A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC155"
+  },
+  {
+    "course_code": "ART HIS 156",
+    "units": 4,
+    "title": "Arts of Southeast Asia",
+    "description": "Lecture, three hours. Not open to freshmen. Southeast Asian art from its beginning in prehistory through 19th century. Study of art of selected cultures from Burma, Malaysia, Thailand, Cambodia, Vietnam, and Indonesia. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS156"
+  },
+  {
+    "course_code": "ART HIS C158A",
+    "units": 4,
+    "title": "Selected Topics in Asian Arts and Architecture",
+    "description": "Lecture, three hours. Variable topics in Asian arts and architecture that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C258A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC158A"
+  },
+  {
+    "course_code": "ART HIS C160",
+    "units": 4,
+    "title": "Art and Empire",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Examination of relationship between art and imperial ideologies and introduction to current issues in colonial studies and postcolonial criticism. Concurrently scheduled with course C260A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC160"
+  },
+  {
+    "course_code": "ART HIS 161",
+    "units": 4,
+    "title": "Cities in History",
+    "description": "Lecture, three hours; discussion, one hour. Examination of history of cities worldwide, locating cities in their aesthetic, social, cultural, and symbolic contexts. History of cities from origins of urbanism to present, with focus on recent centuries. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS161"
+  },
+  {
+    "course_code": "ART HIS C169",
+    "units": 4,
+    "title": "Selected Topics in Architectural History",
+    "description": "Lecture, three hours. Variable topics in architectural history that reflect interests of individual regular and/or visiting faculty members. May be repeated twice for credit. Concurrently scheduled with course C269. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC169"
+  },
+  {
+    "course_code": "ART HIS C170A",
+    "units": 4,
+    "title": "Museum Studies",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Introduction to museology as critical practice, with emphasis on history and theory of museums and impact of culture and society on current museum theory and practice. Concurrently scheduled with course C270A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC170A"
+  },
+  {
+    "course_code": "ART HIS C170B",
+    "units": 2,
+    "title": "Museum Studies Practicum",
+    "description": "Lecture, three hours. On-site examination and discussion of selected artworks, exhibitions, and associated published and distributed materials, and of museum and gallery institutions, practices, and policies. Concurrently scheduled with course C270B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC170B"
+  },
+  {
+    "course_code": "ART HIS C171",
+    "units": 4,
+    "title": "Selected Topics in Museum Studies",
+    "description": "Seminar, three hours. Variable topics in museum studies that reflect interests of individual regular and/or visiting faculty members. May be repeated for credit with topic change. Concurrently scheduled with course C271. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC171"
+  },
+  {
+    "course_code": "ART HIS C172A",
+    "units": 4,
+    "title": "Preservation of Art",
+    "description": "Lecture, three hours. Designed for Anthropology and Art History majors and other juniors/seniors. Introduction to preservation of cultural heritage materials, including what should be preserved and why, as well as who should be involved in decision-making process. Discussion of issues of preservation and restoration of these cultural heritage materials both in museum and outdoor environment contexts. Materials and techniques used to make cultural heritage materials, in relation to preservation efforts needed to prevent decay and loss. Introduction to examples of conservation issues related to sites, buildings, monuments, and collections. Ethical and contextual aspects with reference to changing values, illustrating how cultural materials may have been treated differently according to those values. Concurrently scheduled with course C272A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC172A"
+  },
+  {
+    "course_code": "ART HIS C172B",
+    "units": 4,
+    "title": "Art: Fakes, Forgeries, and Authenticity",
+    "description": "Lecture, three hours. Examination of concepts of authenticity, originality, fakes, and forgeries in art. Overview of problems inherent in concept of authenticity and description of many examples of problems related to this concept in series of discussions based on objects from variety of cultures. Introduction to subject of fakes and account of three different areas of connoisseurship that are essential component of production, study, and scientific examination of fakes. Nature of art connoisseurship described in many examples from Renaissance and earlier panel paintings, as well as antiquities and traditional African arts. Background of art restoration and art conservation discussed in relationship to authenticity and technical studies. Scientific tools that form basis of another kind of connoisseurship described in terms of dating techniques that can be applied directly to works of art and technical methods by which material constituents of works of art are studied. Concurrently scheduled with course C272C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISC172B"
+  },
+  {
+    "course_code": "ART HIS M179",
+    "units": 4,
+    "title": "Cultural Heritage and Identity Representation: Creating Fowler and Virtual Exhibit",
+    "description": "(Same as Ancient Near East M179.) Lecture, three hours; discussion, one hour. Exploration of what it takes to run museum and create exhibit. Introduction to different types of museum work, ranging from collecting and curation, to research, conservation, presentation, visitor experience, and management. Students jointly create exhibit based on Fowler Museum collection. Students research and discuss context and different stakeholders that relate to material under consideration. Consideration of narrative exhibit and how objects and their arrangement convey deliberate or accidental messages. Consideration of audiences as well as original context of each object. Focus on people behind objects, technologies, or material characteristics. P/NP or letter grading.",
+    "cross_listed": [
+      "AN N EA M179"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHISM179"
+  },
+  {
+    "course_code": "ART HIS 185",
+    "units": 4,
+    "title": "Undergraduate Seminar",
+    "description": "Seminar, three hours. Designed for juniors/seniors. Selected aspects of art history explored through readings, discussion, research papers, and oral presentations. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS185"
+  },
+  {
+    "course_code": "ART HIS 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SA"
+  },
+  {
+    "course_code": "ART HIS 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ART HIS 188S"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SB"
+  },
+  {
+    "course_code": "ART HIS 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "ART HIS 188S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS188SC"
+  },
+  {
+    "course_code": "ART HIS 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS189"
+  },
+  {
+    "course_code": "ART HIS 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS189HC"
+  },
+  {
+    "course_code": "ART HIS 195",
+    "units": 3,
+    "title": "Museum Studies Internship",
+    "description": "Tutorial, five hours; fieldwork, four hours. Requisite: course C170A. Limited to junior/senior Art History majors. Internship in supervised setting at participating host museum at UCLA or in greater Los Angeles area. Participation in ongoing museum projects and operations, with specific work to be determined by host institution in consultation with faculty mentor. Curatorial, educational, communications, public relations, and development work may be included, as well as assistance at public programs and related events. Students meet on regular basis with faculty mentor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty mentor required. P/NP grading.",
+    "prerequisites": [
+      "ART HIS C170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS195"
+  },
+  {
+    "course_code": "ART HIS 196",
+    "units": 2,
+    "title": "Research Apprenticeship in Art History",
+    "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS196"
+  },
+  {
+    "course_code": "ART HIS 197A",
+    "units": 2,
+    "title": "Individual Studies in Art History",
+    "description": "Tutorial, to be arranged. Preparation: 3.0 grade-point average in major. Limited to seniors. Individual intensive study for majors, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for maximum of 8 units. Eight units may be applied toward major. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS197A"
+  },
+  {
+    "course_code": "ART HIS 197B",
+    "units": 2,
+    "title": "Individual Capstone Studies",
+    "description": "Tutorial, two hours. Limited to departmental junior/senior majors and minors. Guided study led by faculty supervisor. Instructor meets with student to help design culminating capstone project so it conforms to departmental capstone project guidelines. Must be taken in conjunction and concurrently with one upper-division departmental course. May not be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS197B"
+  },
+  {
+    "course_code": "ART HIS 198A",
+    "units": 4,
+    "title": "Honors Research in Art History",
+    "description": "Tutorial, to be arranged. Preparation: completion of minimum of four upper-division art history courses with 3.5 departmental grade-point average and overall 3.0 grade-point average. Limited to junior/senior Art History and History/Art History majors. Two-term independent research project under supervision of appropriate faculty member, culminating in departmental honors thesis of approximately 30 pages. Individual contract required. In Progress grading (credit to be given only on completion of course 198B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS198A"
+  },
+  {
+    "course_code": "ART HIS 198B",
+    "units": 4,
+    "title": "Honors Research in Art History",
+    "description": "Tutorial, to be arranged. Preparation: completion of minimum of four upper-division art history courses with 3.5 departmental grade-point average and overall 3.0 grade-point average. Limited to junior/senior Art History and History/Art History majors. Two-term independent research project under supervision of appropriate faculty member, culminating in departmental honors thesis of approximately 30 pages. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS198B"
+  },
+  {
+    "course_code": "ART HIS 199",
+    "units": 2,
+    "title": "Directed Research in Art History",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARTHIS199"
+  }
+]

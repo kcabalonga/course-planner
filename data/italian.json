@@ -1,0 +1,398 @@
+[
+  {
+    "course_code": "ITALIAN 1",
+    "units": 4,
+    "title": "Elementary Italian\u2014Beginning",
+    "description": "Lecture, five hours. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN1"
+  },
+  {
+    "course_code": "ITALIAN 2",
+    "units": 4,
+    "title": "Elementary Italian\u2014Continued",
+    "description": "Lecture, five hours. Enforced requisite: course 1. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ITALIAN 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN2"
+  },
+  {
+    "course_code": "ITALIAN 3",
+    "units": 4,
+    "title": "Elementary Italian\u2014Continued",
+    "description": "Lecture, five hours. Enforced requisite: course 2. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ITALIAN 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN3"
+  },
+  {
+    "course_code": "ITALIAN 4",
+    "units": 4,
+    "title": "Intermediate Italian",
+    "description": "Lecture, five hours. Enforced requisite: course 3. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN4"
+  },
+  {
+    "course_code": "ITALIAN 5",
+    "units": 4,
+    "title": "Intermediate Italian",
+    "description": "Lecture, five hours. Enforced requisite: course 4. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN5"
+  },
+  {
+    "course_code": "ITALIAN 6",
+    "units": 4,
+    "title": "Intermediate Italian",
+    "description": "Lecture, three hours. Enforced requisite: course 5. Advanced grammar and composition course with readings from select literary works. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN6"
+  },
+  {
+    "course_code": "ITALIAN 9",
+    "units": 12,
+    "title": "Intensive Italian",
+    "description": "Lecture, 20 hours. Intensive language program equivalent to first year of college Italian (courses 1, 2, 3) and designed to develop basic language skills. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN9"
+  },
+  {
+    "course_code": "ITALIAN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN19"
+  },
+  {
+    "course_code": "ITALIAN 42A",
+    "units": 5,
+    "title": "Italy through Ages in English: Saints and Sinners in Early Modern Italy",
+    "description": "Lecture, four hours; discussion, one hour. Examination of issues of cultural hegemony, political and religious freedom, and doctrinal conflict through Italy\u2019s early modern literary and artistic production. Texts may include Dante\u2019s Divine Comedy, Boccaccio\u2019s Decameron, Saint Catherine\u2019s letters, Machiavelli\u2019s The Prince, and Galileo\u2019s scientific writings. Artworks may include those of Raphael and Michelangelo, as well as Bernini\u2019s sculptures. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN42A"
+  },
+  {
+    "course_code": "ITALIAN 42B",
+    "units": 5,
+    "title": "Italy through Ages in English: Modern and Contemporary Italy",
+    "description": "Lecture, four hours; discussion, one hour. Cultural and political developments from 18th century to present. Topics include Beccaria and opposition to death penalty and absolutism; Garibaldi, Italian Risorgimento, national liberation, and unification; Lombroso and criminology in new Italy; Mussolini and Fascism; Gramsci and Communism; Italian Catholicism; Berlusconi and media; migration and today\u2019s multiethnic Italy. Assigned works include relevant literature and memoirs, music, and film, futurist and fascist art, and organized crime fiction and film. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN42B"
+  },
+  {
+    "course_code": "ITALIAN 42C",
+    "units": 5,
+    "title": "Italy Through the Ages in English: Food and Literature in Italy",
+    "description": "Lecture, four hours; discussion, one hour. Profile of Italian history and culture through analysis of gastronomic and literary texts. Special emphasis on late Middle Ages, Renaissance, and Risorgimento. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN42C"
+  },
+  {
+    "course_code": "ITALIAN 46",
+    "units": 5,
+    "title": "Italian Cinema and Culture in English",
+    "description": "Lecture/screenings, five hours; discussion, one hour. Special topics in Italian culture as reflected and reinforced by the nation\u2019s prime artform, stressing aesthetics and ideology of films, contemporary Italian history, and politics. Rotating topics include sex and politics, comedy, integration, family networks, and neorealism. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN46"
+  },
+  {
+    "course_code": "ITALIAN 50A",
+    "units": 5,
+    "title": "Masterpieces of Italian Literature in English: Middle Ages to Baroque",
+    "description": "Lecture, four hours; discussion, one hour. Leading philosophical, religious, and sociopolitical issues in Europe, examined in authors such as St. Francis, Dante, Boccaccio, Petrarch, Lorenzo de\u2019 Medici, Machiavelli, Castiglione, Ariosto, and Tasso. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN50A"
+  },
+  {
+    "course_code": "ITALIAN 50B",
+    "units": 5,
+    "title": "Masterpieces of Italian Literature in English: Enlightenment to Postmodernity",
+    "description": "Lecture, four hours; discussion, one hour. Comparative study of major literary texts and their adaptations into different forms of public spectacle, including theater, opera, and film. Works by Goldoni, Gozzi, Mascagni, Verga, Puccini, Pirandello, Calvino, Ortese, Zavattini, de Sica, and Taviani Brothers. Emphasis on development of ideas of spectacle. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN50B"
+  },
+  {
+    "course_code": "ITALIAN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN89"
+  },
+  {
+    "course_code": "ITALIAN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN89HC"
+  },
+  {
+    "course_code": "ITALIAN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN99"
+  },
+  {
+    "course_code": "ITALIAN 100",
+    "units": 4,
+    "title": "Composition and Style",
+    "description": "Lecture, three hours. Enforced requisite: course 5. Taught in Italian. Development of writing techniques and proficiency in composition and style, with emphasis on editing for grammar and style. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN100"
+  },
+  {
+    "course_code": "ITALIAN 102A",
+    "units": 4,
+    "title": "Italian Cultural Experience in English",
+    "description": "Lecture, three hours. Study of cultural development of Italy. Roots of Western civilization; social and artistic achievements of communal society; Marco Polo, Dante, Boccaccio, Giotto, rise of Italian merchant class. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN102A"
+  },
+  {
+    "course_code": "ITALIAN 102B",
+    "units": 4,
+    "title": "Italian Cultural Experience in English",
+    "description": "Lecture, three hours. Study of cultural development of Italy. Renaissance discovery of human genius; crucial period between Machiavelli and Galileo, leading Italy and Europe to scientific revolution. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN102B"
+  },
+  {
+    "course_code": "ITALIAN 102C",
+    "units": 4,
+    "title": "Italian Cultural Experience in English",
+    "description": "Lecture, three hours. Study of cultural development of Italy. Birth of Italian nation from wars of independence to foundation of modern republic, delineated through narrative and cinema in historical context. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN102C"
+  },
+  {
+    "course_code": "ITALIAN 103A",
+    "units": 4,
+    "title": "Introduction to Classic Italian Literary and Cultural Studies",
+    "description": "Lecture, three hours. Enforced requisite: course 100. Taught in Italian. Selected classic works of Italian literature, theater, art, and culture from medieval era to Renaissance and baroque. Emphasis on critical methods and skills for analyzing and interpreting wide range of Italian texts and cultural formations in their historical context and in comparison to contemporary and transnational views. Representative authors may include Saint Francis of Assisi, Dante, Petrarch, Boccaccio, Saint Catherine of Siena, Machiavelli, Giotto, Botticelli, Michelangelo, Leonardo, Caravaggio, Gaspara Stampa, Veronica Franco, Ariosto, Tasso, and Galileo. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN103A"
+  },
+  {
+    "course_code": "ITALIAN 103B",
+    "units": 4,
+    "title": "Introduction to Modern Italian Literary and Cultural Studies",
+    "description": "Lecture, three hours. Enforced requisite: course 100. Taught in Italian. Selected modern works of Italian literature, theater, art, and culture from Enlightenment to present. Emphasis on critical methods and skills for analyzing and interpreting wide range of Italian texts and cultural formations in their historical context and in comparison to contemporary and transnational views. Representative authors may include Vico, Goldoni, Alfieri, Beccaria, Rosalba Carriera, Piranesi, Tiepolo, Leopardi, Manzoni, Pirandello, Aleramo, Marinetti, Boccioni, Modigliani, De Chirico, Calvino, Ortese, Pasolini, Franca Rame, and Dario Fo. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN103B"
+  },
+  {
+    "course_code": "ITALIAN 110",
+    "units": 4,
+    "title": "Dante in English",
+    "description": "Lecture, three hours. Close study of one of world\u2019s greatest literary geniuses, particularly of his masterpiece, Divine Comedy, the archetypal medieval journey through the afterworld. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN110"
+  },
+  {
+    "course_code": "ITALIAN 113",
+    "units": 4,
+    "title": "Dante's \"La Divina Commedia\"",
+    "description": "Lecture, three hours. Enforced requisite: course 100. Taught in Italian. Study of medieval philosophy, religion, and politics in La Divina Commedia, greatest literary achievement of the age. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN113"
+  },
+  {
+    "course_code": "ITALIAN 114B",
+    "units": 4,
+    "title": "Middle Ages: Medieval Humor, Moralism, and Society",
+    "description": "Lecture, three hours. Novelty of Boccaccio\u2019s witty and comic masterpiece, Decameron, analyzed within context of moral and social codes of culture of time. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN114B"
+  },
+  {
+    "course_code": "ITALIAN 116A",
+    "units": 4,
+    "title": "Italian Renaissance: Renewal of Art and Thought",
+    "description": "Lecture, three hours. Study of Quattrocento and its representatives in arts and humanistic thought (i.e., Mantegna, Botticelli, Pico, Valla, and Ficino). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN116A"
+  },
+  {
+    "course_code": "ITALIAN 116B",
+    "units": 4,
+    "title": "Italian Renaissance: Power and Imagination in Renaissance",
+    "description": "Lecture, three hours. Study of artistic world of Leonardo, Raffaello, Michelangelo, Titian, and literary masterpieces of Machiavelli, Castiglione, Ariosto, Tasso, in world molded by powerful political forces, such as Roman Papacy and Medici, Gonzaga, and D\u2019Este courts. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN116B"
+  },
+  {
+    "course_code": "ITALIAN 120",
+    "units": 4,
+    "title": "Modern and Contemporary Literature",
+    "description": "Lecture, three hours. Analysis of novels, short fiction, poetry, and drama in connection with modern and contemporary thought, politics, and culture. Authors may include D\u2019Annunzio, Aleramo, Pirandello, Ungaretti, Montale, Pasolini, Ortese, Morante, Ginzburg, Calvino, Fo, Eco, Celati, and Tabucchi. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN120"
+  },
+  {
+    "course_code": "ITALIAN 121",
+    "units": 4,
+    "title": "Literature and Film",
+    "description": "Lecture, three hours. Comparative study of specific literary works and their adaptation into film and of different techniques in two media and forms of expression. Texts include literary works, screenplays, and works on literary and film theory. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN121"
+  },
+  {
+    "course_code": "ITALIAN 122",
+    "units": 4,
+    "title": "Italian Theater",
+    "description": "Lecture, three hours. Study of works for stage from Renaissance to present, including examples of opera and questions pertaining to acting, staging, and performance. May include texts by Machiavelli, Aretino, Alfieri, Gozzi, Goldoni, Verdi, Puccini, D\u2019Annunzio, Amelia Rosselli, Dacia Maraini, Dario Fo, and Franca Rame. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN122"
+  },
+  {
+    "course_code": "ITALIAN 123",
+    "units": 4,
+    "title": "Modern Italian Cultural Studies",
+    "description": "Seminar, three hours. Reading, research, and writing on various cultural aspects of modern and contemporary Italy. Examination of contemporary Italian food culture, fashion and design, photography and visual arts, mass media, politics, music, and sports. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN123"
+  },
+  {
+    "course_code": "ITALIAN 124",
+    "units": 4,
+    "title": "Food and Literature in Italy",
+    "description": "Lecture, three hours. Profile of Italian history and culture through analysis of gastronomic documents, food traditions, and literary and visual works. Emphasis on late Middle Ages, Renaissance, and Risorgimento, or modern and contemporary movements such as Cucina futurista and slow food. Examination of relation of Italian traditions of food and eating with health, body, gender, community, politics, biodiversity, and environment. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN124"
+  },
+  {
+    "course_code": "ITALIAN 125",
+    "units": 4,
+    "title": "Italian through Opera",
+    "description": "Lecture, three hours. Requisite: course 6. Taught in Italian. Introduction to traditional Italian opera as means of appreciating culture of Italy, art form of opera, and study of Italian language at advanced level through reading of libretti. Six masterworks of Italian opera tradition\u2014Il Barbiere di Siviglia, La Boh\u00e8me, Pagliacci, Otello, Tosca, and La Traviata\u2014offer culturally authentic contexts to learn about operas, their characters, plots, settings, and themes. Exploration of various historical, political, and cultural issues raised in each opera. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN125"
+  },
+  {
+    "course_code": "ITALIAN 131",
+    "units": 4,
+    "title": "Reading and Reciting",
+    "description": "Lecture, three hours. Enforced requisite: course 100. Taught in Italian. Emphasis on diction, interpretation, and performance of one-act plays as vehicles for perfection of pronunciation, comprehension, and fluency. P/NP or letter grading.",
+    "prerequisites": [
+      "ITALIAN 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN131"
+  },
+  {
+    "course_code": "ITALIAN 140",
+    "units": 4,
+    "title": "Italian Novella from Boccaccio to Basile in Translation",
+    "description": "Lecture, three hours. Analysis of development of Italian novella in its structure, historical context, and folk material. Special emphasis on how Italian novella influenced other European literatures. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN140"
+  },
+  {
+    "course_code": "ITALIAN 150",
+    "units": 4,
+    "title": "Modern Fiction in Translation",
+    "description": "Lecture, three hours. Select issues in 20th-century thought traced in writers of international fame, with focus on concerns and styles of several prose works such as Umberto Eco\u2019s The Name of the Rose, Pasolini\u2019s The Ragazzi, Pirandello\u2019s The Late Mattia Pascal, and Calvino\u2019s The Cosmicomics. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN150"
+  },
+  {
+    "course_code": "ITALIAN 152",
+    "units": 4,
+    "title": "Italy between Europe and Africa",
+    "description": "Lecture, three hours. Knowledge of Italian or background in Italian studies not required. Analysis and critical discussion of works by Italian, northern European, and African writers (including travelers and migrants) who from 18th century to present have seen or experienced Italian peninsula and islands as bridge between Europe and Africa, or mix of both. Readings include works by northern European and African authors about Italy, and Italian authors about Africa and southern Italy. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN152"
+  },
+  {
+    "course_code": "ITALIAN M158",
+    "units": 4,
+    "title": "Women, Gender, and Sexuality in Italian Culture",
+    "description": "(Same as Gender Studies M158.) Lecture, three hours; discussion, one hour. Analysis of gender roles, images of femininity and masculinity, patriarchy, myths of Madonna and Latin lover, condition of women in Italian society through history, politics, literature, film, and other media. Italian majors required to read texts in Italian. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M158"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIANM158"
+  },
+  {
+    "course_code": "ITALIAN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN189"
+  },
+  {
+    "course_code": "ITALIAN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN189HC"
+  },
+  {
+    "course_code": "ITALIAN 191",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Italian Studies",
+    "description": "Seminar, three hours. Research seminar with focus on themes and issues outside uniquely Italian literature topics covered in regular departmental undergraduate courses. Reading, discussion, and development of culminating project. May be repeated once for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN191"
+  },
+  {
+    "course_code": "ITALIAN 195",
+    "units": 4,
+    "title": "Community or Corporate Internships in Italian",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN195"
+  },
+  {
+    "course_code": "ITALIAN 198",
+    "units": 4,
+    "title": "Honors Research in Italian",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Development and completion of significant research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN198"
+  },
+  {
+    "course_code": "ITALIAN 199A",
+    "units": 2,
+    "title": "Directed Research in Italian",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN199A"
+  },
+  {
+    "course_code": "ITALIAN 199B",
+    "units": 4,
+    "title": "Directed Capstone Research in Italian and Italian and Special Fields",
+    "description": "Tutorial, to be arranged. Requisites: courses 100 and at least four required courses for the major. Limited to senior Italian and Italian and Special Fields majors. Supervised individual research under guidance of faculty mentor. Capstone tutorial in which interdisciplinary paper (20 to 25 pages) is to be written in either Italian or English that requires students to synthesize their knowledge of Italian or Italian and one special field of study. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "ITALIAN 100"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ITALIAN199B"
+  }
+]

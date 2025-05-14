@@ -1,0 +1,260 @@
+[
+  {
+    "course_code": "TURKIC 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC19"
+  },
+  {
+    "course_code": "TURKIC 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC89"
+  },
+  {
+    "course_code": "TURKIC 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC89HC"
+  },
+  {
+    "course_code": "TURKIC 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC99"
+  },
+  {
+    "course_code": "TURKIC 101A",
+    "units": 5,
+    "title": "Elementary Turkish",
+    "description": "Lecture, five hours. Course 101A is requisite to 101B, which is requisite to 101C. Grammar, reading, conversation, and elementary composition drills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC101A"
+  },
+  {
+    "course_code": "TURKIC 101B",
+    "units": 5,
+    "title": "Elementary Turkish",
+    "description": "Lecture, five hours. Requisite: course 101A. Grammar, reading, conversation, and elementary composition drills. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "TURKIC 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC101B"
+  },
+  {
+    "course_code": "TURKIC 101C",
+    "units": 5,
+    "title": "Elementary Turkish",
+    "description": "Lecture, five hours. Requisite: course 101B. Grammar, reading, conversation, and elementary composition drills. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "TURKIC 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC101C"
+  },
+  {
+    "course_code": "TURKIC 102A",
+    "units": 4,
+    "title": "Advanced Turkish",
+    "description": "Lecture, five hours. Requisites: courses 101A, 101B, 101C. Continuing study of grammar, conversation, and composition. Readings in modern literature and social science texts. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "TURKIC 101A",
+      "TURKIC 101B",
+      "TURKIC 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC102A"
+  },
+  {
+    "course_code": "TURKIC 102B",
+    "units": 4,
+    "title": "Advanced Turkish",
+    "description": "Lecture, five hours. Requisites: courses 101A, 101B, 101C. Continuing study of grammar, conversation, and composition. Readings in modern literature and social science texts. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "TURKIC 101A",
+      "TURKIC 101B",
+      "TURKIC 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC102B"
+  },
+  {
+    "course_code": "TURKIC 102C",
+    "units": 4,
+    "title": "Advanced Turkish",
+    "description": "Lecture, five hours. Requisites: courses 101A, 101B, 101C. Continuing study of grammar, conversation, and composition. Readings in modern literature and social science texts. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "TURKIC 101A",
+      "TURKIC 101B",
+      "TURKIC 101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC102C"
+  },
+  {
+    "course_code": "TURKIC 111A",
+    "units": 4,
+    "title": "Elementary Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Elementary grammar, reading, and composition exercises; elementary conversation.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC111A"
+  },
+  {
+    "course_code": "TURKIC 111B",
+    "units": 4,
+    "title": "Elementary Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Elementary grammar, reading, and composition exercises; elementary conversation.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC111B"
+  },
+  {
+    "course_code": "TURKIC 111C",
+    "units": 4,
+    "title": "Elementary Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Elementary grammar, reading, and composition exercises; elementary conversation.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC111C"
+  },
+  {
+    "course_code": "TURKIC 112A",
+    "units": 4,
+    "title": "Advanced Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Descriptive Uzbek grammar, reading, and analysis of Uzbek literary and folkloric texts. High-style composition and conversation.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC112A"
+  },
+  {
+    "course_code": "TURKIC 112B",
+    "units": 4,
+    "title": "Advanced Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Descriptive Uzbek grammar, reading, and analysis of Uzbek literary and folkloric texts. High-style composition and conversation.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC112B"
+  },
+  {
+    "course_code": "TURKIC 112C",
+    "units": 4,
+    "title": "Advanced Uzbek",
+    "description": "Lecture, three hours; laboratory, two hours. Descriptive Uzbek grammar, reading, and analysis of Uzbek literary and folkloric texts. High-style composition and conversation.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC112C"
+  },
+  {
+    "course_code": "TURKIC M115A",
+    "units": 4,
+    "title": "Elementary Azeri",
+    "description": "(Same as Iranian M115A.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.",
+    "cross_listed": [
+      "IRANIAN M115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKICM115A"
+  },
+  {
+    "course_code": "TURKIC M115B",
+    "units": 4,
+    "title": "Elementary Azeri",
+    "description": "(Same as Iranian M115B.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "cross_listed": [
+      "IRANIAN M115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKICM115B"
+  },
+  {
+    "course_code": "TURKIC M115C",
+    "units": 4,
+    "title": "Elementary Azeri",
+    "description": "(Same as Iranian M115C.) Lecture, five hours. Knowledge of Russian, Turkish, and Iranian helpful. Grammatical competence at elementary level; knowledge of basic facts of Azeri grammar; reading competence with help of dictionary; ability to write simple compositions; basic conversational skill. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "cross_listed": [
+      "IRANIAN M115C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKICM115C"
+  },
+  {
+    "course_code": "TURKIC 116A",
+    "units": 4,
+    "title": "Advanced Azeri",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: placement test. Proficiency-based course in descriptive Azeri grammar. Reading and analysis of Azeri literary and folkloric texts in new writing system. High-style composition and conversation. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC116A"
+  },
+  {
+    "course_code": "TURKIC 116B",
+    "units": 4,
+    "title": "Advanced Azeri",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: placement test. Proficiency-based course in descriptive Azeri grammar. Reading and analysis of Azeri literary and folkloric texts in new writing system. High-style composition and conversation. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC116B"
+  },
+  {
+    "course_code": "TURKIC 116C",
+    "units": 4,
+    "title": "Advanced Azeri",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: placement test. Proficiency-based course in descriptive Azeri grammar. Reading and analysis of Azeri literary and folkloric texts in new writing system. High-style composition and conversation. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC116C"
+  },
+  {
+    "course_code": "TURKIC 160",
+    "units": 4,
+    "title": "Turkish Tradition",
+    "description": "Lecture/discussion. Preparation: entrance examination. Survey of cultural history of the Turks, as seen primarily through their literature, from their early history to the present.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC160"
+  },
+  {
+    "course_code": "TURKIC 165",
+    "units": 4,
+    "title": "Islamic Literary Heritage of Central Asia",
+    "description": "Lecture, two hours; discussion, one hour. Systematic survey of Islamic documents produced in Turkish and Persian in Central Asia, with reading of primary sources in English translation. Study of special characteristics of Central Asian Islam.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC165"
+  },
+  {
+    "course_code": "TURKIC 170",
+    "units": 4,
+    "title": "Turco-Mongolian Nomadic Empires",
+    "description": "Lecture, three hours. Required of students in Turkic program. Survey of history of Turkic and Mongolian dominions from the 3rd century BC to AD 19th century (Hsiung-nu, Hsien-pi, Juan-Juan, T\u2019u-Chueh, Uyghur, Khitan, Karakhanid, Seljuq, Kara-Khitay, Khorazmian, Jengiz-Khanite).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC170"
+  },
+  {
+    "course_code": "TURKIC 180",
+    "units": 4,
+    "title": "Modern Turkic Languages and Peoples",
+    "description": "Lecture, three hours. Required of students in Turkic program and recommended for students in Soviet studies. Ethnic and linguistic survey of the Turkic peoples.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC180"
+  },
+  {
+    "course_code": "TURKIC 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC189"
+  },
+  {
+    "course_code": "TURKIC 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC189HC"
+  },
+  {
+    "course_code": "TURKIC 197",
+    "units": 2,
+    "title": "Individual Studies in Turkic",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC197"
+  },
+  {
+    "course_code": "TURKIC 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Turkic",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/TURKIC199"
+  }
+]

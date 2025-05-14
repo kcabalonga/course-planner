@@ -1,0 +1,974 @@
+[
+  {
+    "course_code": "EC ENGR 1",
+    "units": 1,
+    "title": "Undergraduate Seminar",
+    "description": "Seminar, one hour; outside study, two hours. Introduction by faculty members and industry lecturers to electrical engineering disciplines through current and emerging applications of autonomous systems and vehicles, biomedical devices, aerospace electronic systems, consumer products, data science, and entertainment products (amusement rides, etc.), as well as energy generation, storage, and transmission. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR1"
+  },
+  {
+    "course_code": "EC ENGR 2",
+    "units": 4,
+    "title": "Physics for Electrical Engineers",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: Physics 1C. Introduction to concepts of modern physics necessary to understand solid-state devices, including elementary quantum theory, Fermi energies, and concepts of electrons in solids. Discussion of electrical properties of semiconductors leading to operation of junction devices. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1C"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 2H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR2"
+  },
+  {
+    "course_code": "EC ENGR 2H",
+    "units": 4,
+    "title": "Physics for Electrical Engineers (Honors)",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: Physics 1C. Honors course parallel to course 2. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1C"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR2H"
+  },
+  {
+    "course_code": "EC ENGR 3",
+    "units": 4,
+    "title": "Introduction to Electrical Engineering",
+    "description": "Lecture, two hours; laboratory, two hours; outside study, eight hours. Introduction to field of electrical engineering. Basic circuits techniques with application to explanation of electrical engineering inventions such as telecommunications, electrical grid, automatic computing and control, and enabling device technology. Research frontiers of electrical engineering. Introduction to measurement and design of electrical circuits. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR3"
+  },
+  {
+    "course_code": "EC ENGR 10",
+    "units": 4,
+    "title": "Circuit Theory I",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 3 (or Computer Science 1 or Materials Science 10), Mathematics 33A, Physics 1B. Corequisites: course 11L (enforced), Mathematics 33B. Introduction to linear circuit analysis. Resistive circuits, capacitors, inductors and ideal transformers, Kirchhoff laws, node and loop analysis, first-order circuits, second-order circuits, Thevenin and Norton theorem, sinusoidal steady state. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 3",
+      "COM SCI 1",
+      "MAT SCI 10",
+      "MATH 33A",
+      "PHYSICS 1B"
+    ],
+    "corequisites": [
+      "EC ENGR 11L",
+      "MATH 33B"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 10H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR10"
+  },
+  {
+    "course_code": "EC ENGR 10H",
+    "units": 4,
+    "title": "Circuit Theory I (Honors)",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 3 (or Computer Science 1 or Materials Science 10), Mathematics 33A, Physics 1B. Corequisites: course 11L (enforced only for Computer Science and Engineering and Electrical Engineering majors), Mathematics 33B. Honors course parallel to course 10. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 3",
+      "COM SCI 1",
+      "MAT SCI 10",
+      "MATH 33A",
+      "PHYSICS 1B"
+    ],
+    "corequisites": [
+      "EC ENGR 11L",
+      "MATH 33B"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR10H"
+  },
+  {
+    "course_code": "EC ENGR 11L",
+    "units": 1,
+    "title": "Circuits Laboratory I",
+    "description": "Lecture, one hour; laboratory, one hour; outside study, one hour. Enforced corequisite: course 10. Experiments with basic circuits containing resistors, capacitors, inductors, and transformers. Ohm\u2019s law voltage and current division, Thevenin and Norton equivalent circuits, superposition, transient and steady state analysis. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 10"
+    ],
+    "corequisites": [
+      "EC ENGR 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR11L"
+  },
+  {
+    "course_code": "EC ENGR M16",
+    "units": 4,
+    "title": "Logic Design of Digital Systems",
+    "description": "(Same as Computer Science M51A.) Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to digital systems. Specification and implementation of combinational and sequential systems. Standard logic modules and programmable logic arrays. Specification and implementation of algorithmic systems: data and control sections. Number systems and arithmetic algorithms. Error control codes for digital information. Letter grading.",
+    "cross_listed": [
+      "COM SCI M51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM16"
+  },
+  {
+    "course_code": "EC ENGR 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR19"
+  },
+  {
+    "course_code": "EC ENGR 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR89"
+  },
+  {
+    "course_code": "EC ENGR 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR99"
+  },
+  {
+    "course_code": "EC ENGR 100",
+    "units": 4,
+    "title": "Electrical and Electronic Circuits",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Requisites: Mathematics 33A, 33B or Mechanical and Aerospace Engineering 82, Physics 1C. Not open for credit to students with credit for course 110. Electrical quantities, linear circuit elements, circuit principles, signal waveforms, transient and steady state circuit behavior, semiconductor diodes and transistors, small signal models, and operational amplifiers. Letter grading.",
+    "prerequisites": [
+      "MATH 33A",
+      "MATH 33B",
+      "MECH&AE 82",
+      "PHYSICS 1C"
+    ],
+    "credit_exclusions": [
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR100"
+  },
+  {
+    "course_code": "EC ENGR 101A",
+    "units": 4,
+    "title": "Engineering Electromagnetics",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: Mathematics 32A and 32B, or 33A and 33B, Physics 1C. Electromagnetic field concepts, waves and phasors, transmission lines and Smith chart, transient responses, vector analysis, introduction to Maxwell equations, static and quasi-static electric and magnetic fields. Letter grading.",
+    "prerequisites": [
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A",
+      "MATH 33B",
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR101A"
+  },
+  {
+    "course_code": "EC ENGR 101B",
+    "units": 4,
+    "title": "Electromagnetic Waves",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 101A. Time-varying fields and Maxwell equations, plane wave propagation and interaction with media, energy flow and Poynting vector, guided waves in waveguides, phase and group velocity, radiation and antennas. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR101B"
+  },
+  {
+    "course_code": "EC ENGR 102",
+    "units": 4,
+    "title": "Systems and Signals",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: Mathematics 33A. Corequisite: Mathematics 33B. Elements of differential equations, first- and second-order equations, variation of parameters method and method of undetermined coefficients, existence and uniqueness. Systems: input/output description, linearity, time-invariance, and causality. Impulse response functions, superposition and convolution integrals. Laplace transforms and system functions. Fourier series and transforms. Frequency responses, responses of systems to periodic signals. Sampling theorem. Letter grading.",
+    "prerequisites": [
+      "MATH 33A"
+    ],
+    "corequisites": [
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR102"
+  },
+  {
+    "course_code": "EC ENGR 110",
+    "units": 4,
+    "title": "Circuit Theory II",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Enforced requisites: courses 10, M16 (or Computer Science M51A), 102. Corequisite: course 111L (enforced only for Computer Science and Engineering and Electrical Engineering majors). Sinusoidal excitation and phasors, AC steady state analysis, AC steady state power, network functions, poles and zeros, frequency response, mutual inductance, ideal transformer, application of Laplace transforms to circuit analysis. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 10",
+      "EC ENGR M16",
+      "COM SCI M51A",
+      "COM SCI 102"
+    ],
+    "corequisites": [
+      "EC ENGR 111L"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 110H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR110"
+  },
+  {
+    "course_code": "EC ENGR 110H",
+    "units": 4,
+    "title": "Circuit Theory II (Honors)",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: courses 10, M16 (or Computer Science M51A), 102. Corequisite: course 111L. Sinusoidal excitation and phasors, AC steady state analysis, AC steady state power, network functions, poles and zeros, frequency response, mutual inductance, ideal transformer, application of Laplace transforms to circuit analysis. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 10",
+      "EC ENGR M16",
+      "COM SCI M51A",
+      "COM SCI 102"
+    ],
+    "corequisites": [
+      "EC ENGR 111L"
+    ],
+    "equivalent_courses": [
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR110H"
+  },
+  {
+    "course_code": "EC ENGR 110L",
+    "units": 2,
+    "title": "Circuit Measurements Laboratory",
+    "description": "Laboratory, four hours; outside study, two hours. Requisite: course 100 or 110. Experiments with basic circuits containing resistors, capacitors, inductors, and op-amps. Ohm\u2019s law voltage and current division, Thevenin and Norton equivalent circuits, superposition, transient and steady state analysis, and frequency response principles. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 100",
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR110L"
+  },
+  {
+    "course_code": "EC ENGR 111L",
+    "units": 1,
+    "title": "Circuits Laboratory II",
+    "description": "Lecture, one hour; laboratory, one hour; outside study, one hour. Enforced requisites: courses 10, 11L. Enforced corequisite: course 110. Experiments with electrical circuits containing resistors, capacitors, inductors, transformers, and op-amps. Steady state power analysis, frequency response principles, op-amp-based circuit synthesis, and two-port network principles. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 10",
+      "EC ENGR 11L"
+    ],
+    "corequisites": [
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR111L"
+  },
+  {
+    "course_code": "EC ENGR 112",
+    "units": 4,
+    "title": "Introduction to Power Systems",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 110. Complete overview of organization and operation of interconnected power systems. Development of appropriate models for interconnected power systems and learning how to perform power flow, economic dispatch, and short circuit analysis. Introduction to power system transient dynamics. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR112"
+  },
+  {
+    "course_code": "EC ENGR 113",
+    "units": 4,
+    "title": "Digital Signal Processing",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 102. Relationship between continuous-time and discrete-time signals. Z-transform. Discrete Fourier transform. Fast Fourier transform. Structures for digital filtering. Introduction to digital filter design techniques. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR113"
+  },
+  {
+    "course_code": "EC ENGR 113DA",
+    "units": 4,
+    "title": "Digital Signal Processing Design",
+    "description": "Lecture, two hours; laboratory, four hours; outside study, six hours. Enforced requisite: course 113. Real-time implementation of digital signal processing algorithms on digital processor chips. Experiments involving A/D and D/A conversion, aliasing, digital filtering, sinusoidal oscillators, Fourier transforms, and finite wordlength effects. Course project involving original design and implementation of machine learning and signal processing systems for communications, radar, medical and other imaging, speech, music, or video using DSP hardware. Lectures include ethical concerns and societal implications of DSP-related technologies, and bi-weekly Writing II discussions. In progress grading (credit to be given only on completion of course 113DW).",
+    "prerequisites": [
+      "EC ENGR 113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR113DA"
+  },
+  {
+    "course_code": "EC ENGR 113DW",
+    "units": 4,
+    "title": "Digital Signal Processing Design",
+    "description": "(Formerly numbered 113DB.) Laboratory, four hours; outside study, eight hours. Enforced requisites: courses 113, 113DA. Real-time implementation of digital signal processing algorithms on digital processor chips. Experiments involving A/D and D/A conversion, aliasing, digital filtering, sinusoidal oscillators, Fourier transforms, and finite wordlength effects. Course project involving original design and implementation of signal processing systems for communications, speech, audio, or video using DSP chip. Completion of projects begun in course 113DA. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "EC ENGR 113",
+      "EC ENGR 113DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR113DW"
+  },
+  {
+    "course_code": "EC ENGR 114",
+    "units": 4,
+    "title": "Speech and Image Processing Systems Design",
+    "description": "Lecture, three hours; discussion, one hour; laboratory, two hours; outside study, six hours. Enforced requisite: course 113. Design principles of speech and image processing systems. Speech production, analysis, and modeling in first half of course; design techniques for image enhancement, filtering, and transformation in second half. Lectures supplemented by laboratory implementation of speech and image processing tasks. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR114"
+  },
+  {
+    "course_code": "EC ENGR 115A",
+    "units": 4,
+    "title": "Analog Electronic Circuits I",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 110. Review of physics and operation of diodes and bipolar and MOS transistors. Equivalent circuits and models of semiconductor devices. Analysis and design of single-stage amplifiers. DC biasing circuits. Small-signal analysis. Operational amplifier systems. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115A"
+  },
+  {
+    "course_code": "EC ENGR 115AL",
+    "units": 2,
+    "title": "Analog Electronics Laboratory I",
+    "description": "Laboratory, four hours; outside study, two hours. Enforced requisites: courses 110L or 111L, 115A. Experimental determination of device characteristics, resistive diode circuits, single-stage amplifiers, compound transistor stages, effect of feedback on single-stage amplifiers, operational amplifiers, and operational amplifier circuits. Introduction to hands-on design experience based on individual student hardware design and implementation platforms. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 110L",
+      "EC ENGR 111L",
+      "EC ENGR 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115AL"
+  },
+  {
+    "course_code": "EC ENGR 115B",
+    "units": 4,
+    "title": "Analog Electronic Circuits II",
+    "description": "Lecture, four hours; discussion, one hour; outside study, eight hours. Enforced requisite: course 115A. Analysis and design of differential amplifiers in bipolar and CMOS technologies. Current mirrors and active loads. Frequency response of amplifiers. Feedback and its properties. Stability issues and frequency compensation. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 115A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115B"
+  },
+  {
+    "course_code": "EC ENGR 115C",
+    "units": 4,
+    "title": "Digital Electronic Circuits",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 100 or 115A, and Computer Science M51A. Transistor-level digital circuit analysis and design. Modern logic families (static CMOS, pass-transistor, dynamic logic), integrated circuit (IC) layout, digital circuits (logic gates, flipflops/latches, counters, etc.), computer-aided simulation of digital circuits. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 100",
+      "EC ENGR 115A",
+      "COM SCI M51A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115C"
+  },
+  {
+    "course_code": "EC ENGR 115DA",
+    "units": 4,
+    "title": "Electronic Circuits and Systems Design",
+    "description": "(Formerly numbered 164DA.) Lecture, two hours; laboratory, two hours; outside study, eight hours. Recommended corequisite: course 115B or consent of instructor.\u00a0Design of analog circuits, components and systems, emphasizing theoretical foundations and hands-on experience. Design of key analog and digital building blocks according to given specifications or in the form of open-ended problems. Introduction to advanced topics related to projects through lectures and laboratories. Creation by students of end-to-end systems in application context, managing trade-offs across subsystems while meeting constraints and optimizing metrics related to cost, performance, ease of use, manufacturability, testing, and other real-world issues. Oral and written presentations of project results are required. In Progress grading (credit to be given only on completion of course 115DW).",
+    "prerequisites": [
+      "EC ENGR 115B"
+    ],
+    "corequisites": [
+      "EC ENGR 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115DA"
+  },
+  {
+    "course_code": "EC ENGR 115DW",
+    "units": 4,
+    "title": "Electronic Circuits and Systems Design",
+    "description": "(Formerly numbered 115DB.) Lecture, one hour; laboratory, three hours; outside study, eight hours. Enforced requisite: course 115DA. Limited to senior Electrical Engineering majors. Design of analog circuits, components and systems, emphasizing theoretical foundations and hands-on experience. Design of key analog and digital building blocks according to given specifications or in the form of open-ended problems. Introduction to advanced topics related to projects through lectures and laboratories. Creation by students of end-to-end systems in application context, managing trade-offs across subsystems while meeting constraints and optimizing metrics related to cost, performance, ease of use, manufacturability, testing, and other real-world issues. Professional technical writing instruction and assignments. Professional technical writing instruction on assignments. Oral and written presentations of project results are required. Completion of projects begun in course 115DA. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "EC ENGR 115DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115DW"
+  },
+  {
+    "course_code": "EC ENGR 115E",
+    "units": 4,
+    "title": "Design Studies in Electronic Circuits",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 115B. Description of process of circuit design through lectures to complement other laboratory-based design courses. Topics vary by instructor and include communication circuits, power electronics, and instrumentation and measurement and may entail simulation-based design projects. Emphasis throughout on design-oriented analysis and rigorous approach to practical circuit design. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR115E"
+  },
+  {
+    "course_code": "EC ENGR M116C",
+    "units": 4,
+    "title": "Computer Systems Architecture",
+    "description": "(Same as Computer Science M151B.) Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: course M16 or Computer Science M51A, Computer Science 33. Recommended: course M116L or Computer Science M152A, Computer Science 111. Computer system organization and design, implementation of CPU datapath and control, instruction set design, memory hierarchy (caches, main memory, virtual memory) organization and management, input/output subsystems (bus structures, interrupts, DMA), performance evaluation, pipelined processors. Letter grading.",
+    "prerequisites": [
+      "EC ENGR M16",
+      "COM SCI M51A",
+      "COM SCI 33"
+    ],
+    "cross_listed": [
+      "COM SCI M151B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM116C"
+  },
+  {
+    "course_code": "EC ENGR M116L",
+    "units": 2,
+    "title": "Introductory Digital Design Laboratory",
+    "description": "(Same as Computer Science M152A.) Laboratory, four hours; outside study, two hours. Enforced requisite: course M16 or Computer Science M51A. Hands-on design, implementation, and debugging of digital logic circuits, use of computer-aided design tools for schematic capture and simulation, implementation of complex circuits using programmed array logic, design projects. Letter grading.",
+    "prerequisites": [
+      "EC ENGR M16",
+      "COM SCI M51A"
+    ],
+    "cross_listed": [
+      "COM SCI M152A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM116L"
+  },
+  {
+    "course_code": "EC ENGR M117",
+    "units": 4,
+    "title": "Computer System Security",
+    "description": "(Formerly numbered 117.) (Same as Computer Science M138.) Lecture, four hours; laboratory, one hour; outside study, seven hours. Requisite: Computer Science 33. Recommended requisite: Computer Science 111. Introduction to fundamental knowledge of computer system security. Students gain understanding of exploit techniques; learn to use the security tools; learn to design and implement secure systems; and learn concepts of computer security including software vulnerability analysis and defense, web security, mobile security, and network security. Covers the latest security topics in practice (e.g., cryptocurrency), and in research (e.g., state-of-the-art fuzzing techniques and machine-learning-based security analysis). Students get hands-on experience in analyzing and designing secure systems. Includes course project for cutting-edge security research. Letter grading.",
+    "prerequisites": [
+      "COM SCI 33"
+    ],
+    "cross_listed": [
+      "COM SCI M138"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM117"
+  },
+  {
+    "course_code": "EC ENGR M119",
+    "units": 4,
+    "title": "Fundamentals of Embedded Networked Systems",
+    "description": "(Same as Computer Science M119.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 132B or Computer Science 118; one course from course 131A, Civil and Environmental Engineering 110, Mathematics 170A, 170E, Statistics 100A; Computer Science 33. Design trade-offs and principles of operation of cyber physical systems such as devices and systems constituting Internet of Things. Topics include signal propagation and modeling, sensing, node architecture and operation, and applications. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 132B",
+      "COM SCI 118"
+    ],
+    "cross_listed": [
+      "COM SCI M119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM119"
+  },
+  {
+    "course_code": "EC ENGR 121B",
+    "units": 4,
+    "title": "Principles of Semiconductor Device Design",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Enforced requisite: course 2. Introduction to principles of operation of bipolar and MOS transistors, equivalent circuits, high-frequency behavior, voltage limitations. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR121B"
+  },
+  {
+    "course_code": "EC ENGR 121DA",
+    "units": 4,
+    "title": "Semiconductor Processing and Device Design",
+    "description": "Lecture, four hours; laboratory, four hours; outside study, four hours. Enforced requisite or corequisite: course 121B. Design fabrication and characterization of p-n junction and transistors. Students perform various processing tasks such as wafer preparation, oxidation, diffusion, metallization, and photolithography. Introduction to CAD tools used in integrated circuit processing and device design. Device structure optimization tool based on MEDICI; process integration tool based on SUPREM. Course familiarizes students with those tools. Using CAD tools, CMOS process integration to be designed. In progress grading (credit to be given only on completion of course 121DB).",
+    "prerequisites": [
+      "EC ENGR 121B"
+    ],
+    "corequisites": [
+      "EC ENGR 121B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR121DA"
+  },
+  {
+    "course_code": "EC ENGR 121DB",
+    "units": 4,
+    "title": "Semiconductor Processing and Device Design",
+    "description": "Lecture, two hours; laboratory, four hours; outside study, six hours. Enforced requisites: courses 121B, 121DA. Design fabrication and characterization of p-n junction and transistors. Students perform various processing tasks such as wafer preparation, oxidation, diffusion, metallization, and photolithography. Introduction to CAD tools used in integrated circuit processing and device design. Device structure optimization tool based on MEDICI; process integration tool based on SUPREM. Course familiarizes students with those tools. Using CAD tools, CMOS process integration to be designed. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 121B",
+      "EC ENGR 121DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR121DB"
+  },
+  {
+    "course_code": "EC ENGR 123A",
+    "units": 4,
+    "title": "Fundamentals of Solid-State I",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 2 or Physics 1C. Limited to junior/senior engineering majors. Fundamentals of solid-state, introduction to quantum mechanics and quantum statistics applied to solid-state. Crystal structure, energy levels in solids, and band theory and semiconductor properties. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 2",
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR123A"
+  },
+  {
+    "course_code": "EC ENGR 123B",
+    "units": 4,
+    "title": "Fundamentals of Solid-State II",
+    "description": "Lecture, four hours; outside study, eight hours. Enforced requisite: course 123A. Discussion of solid-state properties, lattice vibrations, thermal properties, dielectric, magnetic, and superconducting properties. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 123A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR123B"
+  },
+  {
+    "course_code": "EC ENGR 128",
+    "units": 4,
+    "title": "Principles of Nanoelectronics",
+    "description": "Lecture, four hours; discussion, four hours; outside study, four hours. Requisite: Physics 1C. Introduction to fundamentals of nanoscience for electronics nanosystems. Principles of fundamental quantities: electron charge, effective mass, Bohr magneton, and spin, as well as theoretical approaches. From these nanoscale components, discussion of basic behaviors of nanosystems such as analysis of dynamics, variability, and noise, contrasted with those of scaled CMOS. Incorporation of design project in which students are challenged to design electronics nanosystems. Letter grading.",
+    "prerequisites": [
+      "PHYSICS 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR128"
+  },
+  {
+    "course_code": "EC ENGR 131A",
+    "units": 4,
+    "title": "Probability and Statistics",
+    "description": "Lecture, four hours; discussion, one hour; outside study, 10 hours. Requisites: Mathematics 32B, 33B. Introduction to basic concepts of probability, including random variables and vectors, distributions and densities, moments, characteristic functions, and limit theorems. Applications to communication, control, and signal processing. Introduction to computer simulation and generation of random events. Letter grading.",
+    "prerequisites": [
+      "MATH 32B",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR131A"
+  },
+  {
+    "course_code": "EC ENGR 132A",
+    "units": 4,
+    "title": "Introduction to Communication Systems",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: courses 102, 113, 131A. Review of basic probability, basics of hypothesis testing, sufficient statistics and waveform communication, signal-design tradeoffs for digital communications, basics of error control coding, intersymbol interference channels and orthogonal frequency division multiplexing (OFDM), basics of wireless communications. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 102",
+      "EC ENGR 113",
+      "EC ENGR 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR132A"
+  },
+  {
+    "course_code": "EC ENGR 132B",
+    "units": 4,
+    "title": "Data Communications and Telecommunication Networks",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 131A. Layered communications architectures. Queueing system modeling and analysis. Error control, flow and congestion control. Packet switching, circuit switching, and routing. Network performance analysis and design. Multiple-access communications: TDMA, FDMA, polling, random access. Local, metropolitan, wide area, integrated services networks. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR132B"
+  },
+  {
+    "course_code": "EC ENGR 133A",
+    "units": 4,
+    "title": "Applied Numerical Computing",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: course 131A, and Civil Engineering M20 or Computer Science 31 or Mechanical and Aerospace Engineering M20. Introduction to numerical computing/analysis; analytic formulations versus numerical solutions; floating-point representations and rounding errors. Review of MATLAB; mathematical software. Linear equations; LU factorization; bounds on error; iterative methods for solving linear equations; conditioning and stability; complexity. Interpolation and approximation; splines. Zeros and roots of nonlinear equations. Linear least squares and orthogonal (QR) factorization; statistical interpretation. Numerical optimization; Newton method; nonlinear least squares. Numerical quadrature. Solving ordinary differential equations. Eigenvalues and singular values; QR algorithm; statistical applications. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A",
+      "C&EE M20",
+      "COM SCI 31",
+      "MECH&AE M20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR133A"
+  },
+  {
+    "course_code": "EC ENGR 133B",
+    "units": 4,
+    "title": "Simulation, Optimization, and Data Analysis",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 133A. Simulation of dynamical systems. Algorithms for ordinary differential and difference equations. Fourier analysis; fast Fourier transforms. Random number generators. Simulation of stochastic systems, Monte Carlo methods. Constrained optimization; applications of optimization to engineering design, modeling, and data analysis. Introduction to data mining and machine learning. Algorithms and complexity. Integration of mathematical software in applications. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 133A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR133B"
+  },
+  {
+    "course_code": "EC ENGR 134",
+    "units": 4,
+    "title": "Graph Theory in Engineering",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Basics of graph theory, including trees, bipartite graphs and matching, vertex and edge coloring, planar graphs and networks. Emphasis on reducing real-world engineering problems to graph theory formulations. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR134"
+  },
+  {
+    "course_code": "EC ENGR 141",
+    "units": 4,
+    "title": "Principles of Feedback Control",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 102. Mathematical modeling of physical control systems in form of differential equations and transfer functions. Design problems, system performance indices of feedback control systems via classical techniques, root-locus and frequency-domain methods. Computer-aided solution of design problems from real world. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR141"
+  },
+  {
+    "course_code": "EC ENGR 142",
+    "units": 4,
+    "title": "Linear Systems: State-Space Approach",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 102. State-space methods of linear system analysis and synthesis, with application to problems in networks, control, and system modeling. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR142"
+  },
+  {
+    "course_code": "EC ENGR C143A",
+    "units": 4,
+    "title": "Neural Signal Processing",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 131A, Mathematics 33A. Topics include fundamental properties of electrical activity in neurons; technology for measuring neural activity; spiking statistics and Poisson processes; generative models and classification; regression and Kalman filtering; principal components analysis, factor analysis, and expectation maximization. Concurrently scheduled with course C243A. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRC143A"
+  },
+  {
+    "course_code": "EC ENGR M146",
+    "units": 4,
+    "title": "Introduction to Machine Learning",
+    "description": "(Same as Computer Science M146.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 131A or Civil and Environmental Engineering 110 or Mathematics 170A or 170E or Statistics 100A; Computer Science 32 or Program in Computing 10C; Mathematics 33A. Introduction to breadth of data science. Foundations for modeling data sources, principles of operation of common tools for data analysis, and application of tools and models to data gathering and analysis. Topics include statistical foundations, regression, classification, kernel methods, clustering, expectation maximization, principal component analysis, decision theory, reinforcement learning and deep learning. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A",
+      "C&EE 110",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A"
+    ],
+    "cross_listed": [
+      "COM SCI M146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM146"
+  },
+  {
+    "course_code": "EC ENGR C147",
+    "units": 4,
+    "title": "Neural Networks and Deep Learning",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 131A, 133A or 205A, and M146, or equivalent. Review of machine learning concepts; maximum likelihood; supervised classification; neural network architectures; backpropagation; regularization for training neural networks; optimization for training neural networks; convolutional neural networks; practical CNN architectures; deep learning libraries in Python; recurrent neural networks, backpropagation through time, long short-term memory and gated recurrent units; variational autoencoders; generative adversarial networks; adversarial examples and training. Concurrently scheduled with course C247. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A",
+      "EC ENGR 133A",
+      "EC ENGR 205A",
+      "EC ENGR M146"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRC147"
+  },
+  {
+    "course_code": "EC ENGR M148",
+    "units": 4,
+    "title": "Introduction to Data Science",
+    "description": "(Same as Computer Science M148.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: one course from 131A, Civil and Environmental Engineering 110, Mathematics 170A, Mathematics 170E, or Statistics 100A, and Computer Science 31 or Program in Computing 10A, and 10B. How to analyze data arising in real world so as to understand corresponding phenomenon. Covers topics in machine learning, data analytics, and statistical modeling classically employed for prediction. Comprehensive, hands-on overview of data science domain by blending theoretical and practical instruction. Data science lifecycle: data selection and cleaning, feature engineering, model selection, and prediction methodologies. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 131A",
+      "C&EE 110",
+      "MATH 170A",
+      "MATH 170E",
+      "STATS 100A",
+      "COM SCI 31",
+      "PIC 10A",
+      "PIC 10B"
+    ],
+    "cross_listed": [
+      "COM SCI M148"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM148"
+  },
+  {
+    "course_code": "EC ENGR 149",
+    "units": 4,
+    "title": "Foundations of Computer Vision",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisites: courses 102, 131A, Mathematics 33A. Covers foundations of computer vision from both theoretical and practical perspective. Particular emphasis on classical computer vision, which should be seen as complementary to deep learning. Study is relevant for various majors in the sciences specializing in artificial intelligence, cyberphysical systems and information engineering, robotics, machine learning, perception, and others looking for applications. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 102",
+      "EC ENGR 131A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR149"
+  },
+  {
+    "course_code": "EC ENGR M153",
+    "units": 4,
+    "title": "Introduction to Microscale and Nanoscale Manufacturing",
+    "description": "(Same as Bioengineering M153, Chemical Engineering M153, and Mechanical and Aerospace Engineering M183B.) Lecture, three hours; laboratory, four hours; outside study, five hours. Enforced requisites: Chemistry 20A, Physics 1A, 1B, 1C, 4AL. Introduction to general manufacturing methods, mechanisms, constrains, and microfabrication and nanofabrication. Focus on concepts, physics, and instruments of various microfabrication and nanofabrication techniques that have been broadly applied in industry and academia, including various photolithography technologies, physical and chemical deposition methods, and physical and chemical etching methods. Hands-on experience for fabricating microstructures and nanostructures in modern clean-room environment. Letter grading.",
+    "prerequisites": [
+      "CHEM 20A",
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 4AL"
+    ],
+    "cross_listed": [
+      "BIOENGR M153",
+      "MECH&AE M183B",
+      "CH ENGR M153"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM153"
+  },
+  {
+    "course_code": "EC ENGR 162A",
+    "units": 4,
+    "title": "Wireless Communication Links and Antennas",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 101B. Basic properties of transmitting and receiving antennas and antenna arrays. Array synthesis. Adaptive arrays. Friis transmission formula, radar equations. Cell-site and mobile antennas, bandwidth budget. Noise in communication systems (transmission lines, antennas, atmospheric, etc.). Cell-site and mobile antennas, cell coverage for signal and traffic, interference, multipath fading, ray bending, and other propagation phenomena. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR162A"
+  },
+  {
+    "course_code": "EC ENGR 163A",
+    "units": 4,
+    "title": "Introductory Microwave Circuits",
+    "description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisite: course 101B. Transmission lines description of waveguides, impedance matching techniques, power dividers, directional couplers, active devices, transistor amplifier design. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR163A"
+  },
+  {
+    "course_code": "EC ENGR 163C",
+    "units": 4,
+    "title": "Fundamental Principles of Radiofrequency and Microwave Systems",
+    "description": "Lecture, four hours; outside study, eight hours. Enforced requisite: course 101B. Theory and design of modern radiofrequency (RF) and microwave systems such as cellular communications, satellite systems, radar systems, wireless sensors, and biological applications of microwaves such as magnetic resonance imaging (MRI). Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR163C"
+  },
+  {
+    "course_code": "EC ENGR 163DA",
+    "units": 4,
+    "title": "Microwave and Wireless Design I",
+    "description": "Lecture, one hour; laboratory, three hours; outside study, eight hours. Enforced requisites: courses 101A, 101B. Course 163DA is enforced requisite to 163DB. Limited to senior Electrical Engineering majors. Capstone design course, with emphasis on transmission line-based circuits and components to address need in industry and research community for students with microwave and wireless circuit design experiences. Standard design procedure for waveguide and transmission line-based microwave circuits and systems to gain experience in using Microwave CAD software such as Agilent ADS or HFSS. How to fabricate and test these designs, In Progress grading (credit to be given only on completion of course 163DB).",
+    "prerequisites": [
+      "EC ENGR 101A",
+      "EC ENGR 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR163DA"
+  },
+  {
+    "course_code": "EC ENGR 163DB",
+    "units": 4,
+    "title": "Microwave and Wireless Design II",
+    "description": "Lecture, one hour; laboratory, three hours; outside study, eight hours. Enforced requisites: courses 101A, 101B, 163DA. Limited to senior Electrical Engineering majors. Design of radio frequency circuits and systems, with emphasis on both theoretical foundations and hands-on experience. Design of radio frequency transceivers and their building blocks according to given specifications or in form of open-ended problems. Introduction to advanced topics related to projects through lecture and laboratories. Creation by students of end-to-end systems in application context, managing trade-offs across subsystems while meeting constraints and optimizing metrics related to cost, performance, ease of use, manufacturability, testing, and other real-world issues. Oral and written presentations of project results required. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A",
+      "EC ENGR 101B",
+      "EC ENGR 163DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR163DB"
+  },
+  {
+    "course_code": "EC ENGR 170A",
+    "units": 4,
+    "title": "Principles of Photonics",
+    "description": "Lecture, four hours; recitation, one hour; outside study, seven hours. Enforced requisites: courses 2, 101A. Development of solid foundation on essential principles of photonics from ground up with minimum prior knowledge on this subject. Topics include optical properties of materials, optical wave propagation and modes, optical interferometers and resonators, optical coupling and modulation, optical absorption and emission, principles of lasers and light-emitting diodes, and optical detection. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 2",
+      "EC ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR170A"
+  },
+  {
+    "course_code": "EC ENGR 170B",
+    "units": 4,
+    "title": "Lasers and Photonic Devices",
+    "description": "Lecture, four hours; recitation, one hour; outside study, seven hours. Enforced requisite: course 170A. Coverage of laser physics, related photonic devices, and applications of lasers. Topics include resonators, thermal radiation, Einstein coefficients, optical amplification, semiconductor lasers, optical modulation and detection. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 170A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR170B"
+  },
+  {
+    "course_code": "EC ENGR 170C",
+    "units": 4,
+    "title": "Photonic Sensors and Solar Cells",
+    "description": "Lecture, four hours; recitation, one hour; outside study, seven hours. Enforced requisite: course 101A. Recommended: courses 2, 170A. Fundamentals of detection of light for communication and sensing, as well as conversion of light to electrical energy in solar cells. Introduction to radiometry, semiconductor photodetectors, noise processes and figures of merit, thermal detectors, and photovoltaic solar cells of various types and materials. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR170C"
+  },
+  {
+    "course_code": "EC ENGR M171L",
+    "units": 2,
+    "title": "Data Communication Systems Laboratory",
+    "description": "(Same as Computer Science M171L.) Laboratory, four to eight hours; outside study, two to four hours. Recommended preparation: course M116L. Limited to seniors. Not open to students with credit for course M117. Interpretation of analog-signaling aspects of digital systems and data communications through experience in using contemporary test instruments to generate and display signals in relevant laboratory setups. Use of oscilloscopes, pulse and function generators, baseband spectrum analyzers, desktop computers, terminals, modems, PCs, and workstations in experiments on pulse transmission impairments, waveforms and their spectra, modem and terminal characteristics, and interfaces. Letter grading.",
+    "credit_exclusions": [
+      "COM SCI 117"
+    ],
+    "cross_listed": [
+      "COM SCI M171L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM171L"
+  },
+  {
+    "course_code": "EC ENGR 173DA",
+    "units": 4,
+    "title": "Photonics and Communication Design",
+    "description": "Lecture, one hour; laboratory, three hours; outside study, eight hours. Enforced requisite: course 101A. Recommended: course 170A or Bioengineering C170. Introduction to measurement of basic photonic devices, including LEDs, lasers, detectors, and amplifiers; fiber-optic fundamentals and measurement of fiber systems. Modulation techniques, including AM, FM, phase and suppressed carrier methods. Possible projects include lasers, optical communication, and biomedical imaging and sensing. Choice of project preliminary design. In Progress grading (credit to be given only on completion of course 173DB).",
+    "prerequisites": [
+      "EC ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR173DA"
+  },
+  {
+    "course_code": "EC ENGR 173DB",
+    "units": 4,
+    "title": "Photonics and Communication Design",
+    "description": "Lecture, one hour; laboratory, three hours; outside study, eight hours. Enforced requisites: courses 101A, 173DA. Introduction to measurement of basic photonic devices, including LEDs, lasers, detectors, and amplifiers; fiber-optic fundamentals and measurement of fiber systems. Modulation techniques, including AM, FM, phase and suppressed carrier methods. Possible projects include lasers, optical communication, and biomedical imaging and sensing. Finalization of design and testing of projects begun in course 173DA. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A",
+      "EC ENGR 173DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR173DB"
+  },
+  {
+    "course_code": "EC ENGR 176",
+    "units": 4,
+    "title": "Photonics in Biomedical Applications",
+    "description": "Lecture, three hours; discussion, one hour; outside study, eight hours. Enforced requisite: course 101A. Study of different types of optical systems and their physics background. Examination of their roles in current and projected biomedical applications. Specific capabilities of photonics to be related to each example. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR176"
+  },
+  {
+    "course_code": "EC ENGR 180DA",
+    "units": 4,
+    "title": "Systems Design",
+    "description": "Lecture, two hours; laboratory, four hours; outside study, six hours. Limited to senior Electrical Engineering and Computer Engineering majors. Advanced systems design integrating communications, control, and signal processing subsystems. Introduction to advanced topics related to projects through lecture and laboratories. Open-ended projects vary each offering. Student teams create high-performance designs that manage trade-offs among subsystem components, including cost, performance, ease of use, and other real-world constraints. Societal implications of such systems. Professional technical writing instruction and assignments. Oral and written presentation of project results. In Progress grading (credit to be given only on completion of course 180DW).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR180DA"
+  },
+  {
+    "course_code": "EC ENGR 180DW",
+    "units": 4,
+    "title": "Systems Design",
+    "description": "(Formerly numbered 180DB.) Laboratory, four hours; outside study, eight hours. Enforced requisite: course 180DA. Advanced systems design integrating communications, control, and signal processing subsystems. Introduction to advanced topics related to projects through lecture and laboratories. Open-ended projects vary each offering. Student teams create high-performance designs that manage trade-offs among subsystem components, including cost, performance, ease of use, and other real-world constraints. Societal implications of such systems. Professional technical writing instruction and assignments. Oral and written presentation of project results. Completion of projects begun in course 180DA. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "EC ENGR 180DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR180DW"
+  },
+  {
+    "course_code": "EC ENGR 181DA",
+    "units": 4,
+    "title": "Honors Thesis",
+    "description": "Tutorial, one hour; outside study, 11 hours. Limited to seniors. Research by individuals or small teams under supervision of faculty mentor, leading to composition and presentation of honors thesis. Study of fundamentals of modern research and development: project conception, planning, development and testing; design iteration cycle; research and data documentation standards; how to read technical literature. Planning, execution, and documentation of original open-ended research/development project. Study of research fundamentals, conception of project plan, and first iteration of design such as experiment, simulation, algorithm, or hardware artifact, each with testing and validation plan. Written documentation of design with oral presentation. In Progress grading (credit to be given only on completion of course 181DB).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR181DA"
+  },
+  {
+    "course_code": "EC ENGR 181DB",
+    "units": 4,
+    "title": "Honors Thesis",
+    "description": "Tutorial, one hour; outside study, 11 hours. Enforced requisite: course 181DA. Limited to seniors. Research by individuals or small teams under supervision of faculty mentor, leading to composition and presentation of honors thesis. Study of fundamentals of modern research and development: project conception, planning, development and testing; design iteration cycle; research and data documentation standards; how to read technical literature. Planning, execution, and documentation of original open-ended research/development project. Iterations of design. Written documentation in form of thesis documenting results in their societal and technical contexts, and oral presentation/demonstration of final results. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 181DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR181DB"
+  },
+  {
+    "course_code": "EC ENGR CM182",
+    "units": 4,
+    "title": "Science, Technology, and Public Policy",
+    "description": "(Same as Public Affairs M164 and Public Policy CM182.) Lecture, three hours. Recent and continuing advances in science and technology are raising profoundly important public policy issues. Consideration of selection of critical policy issues, each of which has substantial ethical, social, economic, political, scientific, and technological aspects. Concurrently scheduled with course CM282. Letter grading.",
+    "cross_listed": [
+      "PUB PLC CM182",
+      "PUB AFF M164"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRCM182"
+  },
+  {
+    "course_code": "EC ENGR 183DA",
+    "units": 4,
+    "title": "Design of Robotic Systems I",
+    "description": "Lecture, four hours; laboratory, two hours; outside study, six hours. Requisite: course 102. Recommended: courses 141, 142. Course 183DA is requisite to 183DB. Limited to senior Electrical Engineering majors. Topics in robotic design include integrated electromechanical design, design for manufacturing (DFM), design software, and design automation. Topics in robotic manufacturing include materials, sensors and actuators, programming, and rapid prototyping. Topics in control include manipulation, motion and path planning, learning and adaptation, and human-robot interaction. Additional topics may include distributed and multi-robot systems, bio-inspired robotics, project management, and societal implications. Open-ended projects vary annually. Student teams create and analyze robotic systems for various applications. Oral and written presentation of project results. In Progress grading (credit to be given only on completion of course 183DB).",
+    "prerequisites": [
+      "EC ENGR 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR183DA"
+  },
+  {
+    "course_code": "EC ENGR 183DB",
+    "units": 4,
+    "title": "Design of Robotic Systems II",
+    "description": "Laboratory, four hours; outside study, eight hours. Requisite: course 183DA. Recommended: courses 141, 142. Limited to senior Electrical Engineering majors. Topics in robotic design include integrated electromechanical design, design for manufacturing (DFM), design software, and design automation. Topics in robotic manufacturing include materials, sensors and actuators, programming, and rapid prototyping. Topics in control include manipulation, motion and path planning, learning and adaptation, and human-robot interaction. Additional topics may include distributed and multi-robot systems, bio-inspired robotics, project management, and societal implications. Open-ended projects vary annually. Student teams create and analyze robotic systems for various applications. Oral and written presentation of project results. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 183DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR183DB"
+  },
+  {
+    "course_code": "EC ENGR 184DA",
+    "units": 2,
+    "title": "Independent Group Project Design",
+    "description": "Laboratory, five hours; discussion, one hour. Enforced requisites: courses M16, 110, 110L. Course 184DA is enforced requisite to 184DB. Courses centered on group project that runs year long to give students intensive experience on hardware design, microcontroller programming, and project coordination. Several projects based on autonomous robots that traverse small mazes and courses offered yearly and target regional competitions. Students may submit proposals that are evaluated and approved by faculty members. Topics include sensing circuits and amplifier-based design, microcontroller programming, feedback control, actuation, and motor control. In Progress grading (credit to be given only on completion of course 184DB).",
+    "prerequisites": [
+      "EC ENGR M16",
+      "EC ENGR 110",
+      "EC ENGR 110L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR184DA"
+  },
+  {
+    "course_code": "EC ENGR 184DB",
+    "units": 2,
+    "title": "Independent Group Project Design",
+    "description": "Laboratory, five hours; discussion, one hour. Enforced requisites: courses M16, 110, 110L, 184DA. Courses centered on group project that runs year long to give students intensive experience on hardware design, microcontroller programming, and project coordination. Several projects based on autonomous robots that traverse small mazes and courses offered yearly and target regional competitions. Students may submit proposals that are evaluated and approved by faculty members. Topics include sensing circuits and amplifier-based design, microcontroller programming, feedback control, actuation, and motor control. Letter grading.",
+    "prerequisites": [
+      "EC ENGR M16",
+      "EC ENGR 110",
+      "EC ENGR 110L",
+      "EC ENGR 184DA"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR184DB"
+  },
+  {
+    "course_code": "EC ENGR M185",
+    "units": 4,
+    "title": "Introduction to Plasma Science and Engineering",
+    "description": "(Same as Earth, Planetary, and Space Sciences M156 and Physics M122.) Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 101A or Physics 110B. Senior-level introductory course on electrodynamics of charged particles and their collective behavior in plasmas in laboratory, near-Earth space and astrophysical settings. Covers selected applications taken from fusion energy, space weather, materials processing, generation of coherent radiation and particle accelerators. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 101A",
+      "PHYSICS 110B"
+    ],
+    "cross_listed": [
+      "EPS SCI M156",
+      "PHYSICS M122"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGRM185"
+  },
+  {
+    "course_code": "EC ENGR 188",
+    "units": 4,
+    "title": "Special Courses in Electrical Engineering",
+    "description": "Lecture, four hours; discussion, two hours; outside study, six hours. Special topics in electrical engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated once for credit with topic or instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR188"
+  },
+  {
+    "course_code": "EC ENGR 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR188SA"
+  },
+  {
+    "course_code": "EC ENGR 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR188SB"
+  },
+  {
+    "course_code": "EC ENGR 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "EC ENGR 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR188SC"
+  },
+  {
+    "course_code": "EC ENGR 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR189"
+  },
+  {
+    "course_code": "EC ENGR 194",
+    "units": 2,
+    "title": "Research Group Seminars: Electrical Engineering",
+    "description": "Seminar, four hours; outside study, eight hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR194"
+  },
+  {
+    "course_code": "EC ENGR 199",
+    "units": 2,
+    "title": "Directed Research in Electrical Engineering",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ECENGR199"
+  }
+]

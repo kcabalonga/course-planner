@@ -1,0 +1,965 @@
+[
+  {
+    "course_code": "CHIN 1",
+    "units": 5,
+    "title": "Elementary Modern Chinese",
+    "description": "Lecture, three hours; discussion, two hours. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Introduction to fundamentals of standard Chinese, including pronunciation, grammar, and Chinese characters, with emphasis on all four basic language skills\u2014speaking, listening comprehension, reading, and writing. P/NP or letter grading.",
+    "equivalent_courses": [
+      "CHIN 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN1"
+  },
+  {
+    "course_code": "CHIN 1A",
+    "units": 5,
+    "title": "Elementary Modern Chinese for Advanced Beginners",
+    "description": "Lecture, three hours; discussion, two hours. Recommended preparation: ability to speak and understand Mandarin or other Chinese dialects at elementary levels. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Designed for students who already have certain listening and speaking skills in Mandarin or other Chinese dialects at elementary levels. Training in all four basic language skills (speaking, listening, reading, and writing). P/NP or letter grading.",
+    "equivalent_courses": [
+      "CHIN 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN1A"
+  },
+  {
+    "course_code": "CHIN 2",
+    "units": 5,
+    "title": "Elementary Modern Chinese",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1 with grade of C or better or Chinese placement test. First-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 1. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "CHIN 1"
+    ],
+    "equivalent_courses": [
+      "CHIN 2A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN2"
+  },
+  {
+    "course_code": "CHIN 2A",
+    "units": 5,
+    "title": "Elementary Modern Chinese for Advanced Beginners",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1A with grade of C or better or Chinese placement test. First-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 1A. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "CHIN 1A"
+    ],
+    "equivalent_courses": [
+      "CHIN 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN2A"
+  },
+  {
+    "course_code": "CHIN 3",
+    "units": 5,
+    "title": "Elementary Modern Chinese",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2 with grade of C or better or Chinese placement test. First-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 2. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "CHIN 2"
+    ],
+    "equivalent_courses": [
+      "CHIN 3R",
+      "CHIN 3A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN3"
+  },
+  {
+    "course_code": "CHIN 3A",
+    "units": 5,
+    "title": "Elementary Modern Chinese for Advanced Beginners",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2A with grade of C or better or Chinese placement test. First-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 2A. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "CHIN 2A"
+    ],
+    "equivalent_courses": [
+      "CHIN 3R",
+      "CHIN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN3A"
+  },
+  {
+    "course_code": "CHIN 3R",
+    "units": 5,
+    "title": "Accelerated Modern Chinese for Advanced Beginners",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: Chinese placement test or department consent. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. For students who wish to complete one-year foreign language requirement at accelerated pace. P/NP or letter grading.",
+    "prerequisites": [],
+    "equivalent_courses": [
+      "CHIN 3",
+      "CHIN 3A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN3R"
+  },
+  {
+    "course_code": "CHIN 4",
+    "units": 5,
+    "title": "Intermediate Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 3 or 8 with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Designed to strengthen communicative skills of listening, speaking, reading, and writing. Grammar reviews, knowledge of idiomatic expressions, and both traditional and simplified characters. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 3",
+      "CHIN 8"
+    ],
+    "equivalent_courses": [
+      "CHIN 4A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN4"
+  },
+  {
+    "course_code": "CHIN 4A",
+    "units": 5,
+    "title": "Intermediate Modern Chinese for Advanced Students",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 3A with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Designed for students who already have certain listening and speaking skills in Mandarin or other Chinese dialects at intermediate levels. Training in all four basic language skills (speaking, listening, reading, and writing). P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 3A"
+    ],
+    "equivalent_courses": [
+      "CHIN 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN4A"
+  },
+  {
+    "course_code": "CHIN 5",
+    "units": 5,
+    "title": "Intermediate Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 4 with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 4. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 4"
+    ],
+    "equivalent_courses": [
+      "CHIN 5A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN5"
+  },
+  {
+    "course_code": "CHIN 5A",
+    "units": 5,
+    "title": "Intermediate Modern Chinese for Advanced Students",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 4A with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 4A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 4A"
+    ],
+    "equivalent_courses": [
+      "CHIN 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN5A"
+  },
+  {
+    "course_code": "CHIN 5C",
+    "units": 5,
+    "title": "Mandarin for Cantonese Speakers",
+    "description": "Lecture, four hours. Enforced preparation: Chinese placement test. Designed for students who are Cantonese speakers and familiar with Chinese characters and who need to improve their pronunciation of standard Mandarin dialect. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN5C"
+  },
+  {
+    "course_code": "CHIN 6",
+    "units": 5,
+    "title": "Intermediate Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 5 with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 5. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 5"
+    ],
+    "equivalent_courses": [
+      "CHIN 6A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN6"
+  },
+  {
+    "course_code": "CHIN 6A",
+    "units": 5,
+    "title": "Intermediate Modern Chinese for Advanced Students",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 5A with grade of C or better or Chinese placement test. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Continuation of course 5A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 5A"
+    ],
+    "equivalent_courses": [
+      "CHIN 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN6A"
+  },
+  {
+    "course_code": "CHIN 6C",
+    "units": 5,
+    "title": "Mandarin for Cantonese Speakers",
+    "description": "Lecture, four hours. Enforced requisite: course 5C or Chinese placement test. Designed for students who are Cantonese speakers and familiar with Chinese characters and who need to improve their pronunciation of standard Mandarin dialect. Completion of course 6C is equivalent to completion of course 6. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 5C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN6C"
+  },
+  {
+    "course_code": "CHIN 8",
+    "units": 15,
+    "title": "Elementary Chinese: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Intensive course equivalent to courses 1, 2, and 3. Introduction to fundamentals of standard Chinese, including pronunciation, grammar, and Chinese characters, with emphasis on all four basic language skills\u2014speaking, listening comprehension, reading, and writing. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN8"
+  },
+  {
+    "course_code": "CHIN 8A",
+    "units": 15,
+    "title": "Elementary Modern Chinese for Advanced Beginners: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Intensive course equivalent to courses 1A, 2A, and 3A. Designed for students who already have some listening and speaking skills in Mandarin Chinese but do not have any reading and writing skills and for students who speak Chinese dialect other than Mandarin at home and have some knowledge of Chinese characters (i.e., can read some basic Chinese). Coverage of listening, speaking, reading, and writing skills. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN8A"
+  },
+  {
+    "course_code": "CHIN 10",
+    "units": 15,
+    "title": "Intermediate Modern Chinese: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Recommended preparation: course 3, 3A, or 8, or Chinese placement test or courses equivalent to elementary-level Chinese. Second-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Intensive course equivalent to courses 4, 5, and 6. Designed to strengthen communicative skills of listening, speaking, reading, and writing. Grammar reviews, knowledge of idiomatic expressions, and both traditional and simplified characters. Completion of course 10 is equivalent to completion of course 6. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN10"
+  },
+  {
+    "course_code": "CHIN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN19"
+  },
+  {
+    "course_code": "CHIN 30",
+    "units": 4,
+    "title": "Chinese Language, Society, and Culture",
+    "description": "Lecture, two hours; discussion, two hours. Recommended preparation: one to two years of college-level Chinese. Exploration of relationship between Chinese language, society, and culture. Discussion of fundamental role that language plays in Chinese social life and cultural practices while simultaneously exploring how social and cultural factors impact ways in which Chinese language is organized. Main focus on language and thought patterns, language and gender, language and politics, language and commerce, language and law, language and arts, and language and globalization. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN30"
+  },
+  {
+    "course_code": "CHIN 40",
+    "units": 5,
+    "title": "Popular Culture in Modern Chinese Societies",
+    "description": "Lecture, three hours; discussion, one hour. Examination of modern Chinese popular culture in China, Taiwan, Hong Kong, and overseas Chinese communities. From fiction to film, music to MTV, and cartoons to karaoke, probing of popular as it has manifested itself in Chinese societies and tracing of its development over last century. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN40"
+  },
+  {
+    "course_code": "CHIN 50",
+    "units": 5,
+    "title": "Chinese Civilization",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 50W. Knowledge of Chinese not required. Introduction to most important aspects of Chinese culture. Topics include early Chinese civilization, historical development of Chinese society, issues of ethnicity, Chinese language and philosophy, and early scientific and technological innovation. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "equivalent_courses": [
+      "CHIN 50W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN50"
+  },
+  {
+    "course_code": "CHIN 50W",
+    "units": 5,
+    "title": "Chinese Civilization",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 50. Knowledge of Chinese not required. Introduction to most important aspects of Chinese culture. Topics include early Chinese civilization, historical development of Chinese society, issues of ethnicity, Chinese language and philosophy, and early scientific and technological innovation. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "equivalent_courses": [
+      "CHIN 50"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN50W"
+  },
+  {
+    "course_code": "CHIN M60",
+    "units": 5,
+    "title": "Introduction to Chinese Religions",
+    "description": "(Same as Religion M60B.) Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course M60W. Knowledge of Chinese not required. General survey of religious life in China, with emphasis on everyday religious practice over doctrine, and themes common to Buddhism, Daoism, and Confucianism. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "equivalent_courses": [
+      "RELIGN M61W",
+      "CHIN M60W"
+    ],
+    "cross_listed": [
+      "RELIGN M60B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINM60"
+  },
+  {
+    "course_code": "CHIN M60W",
+    "units": 5,
+    "title": "Introduction to Chinese Religions",
+    "description": "(Same as Religion M61W.) Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course M60. Knowledge of Chinese not required. General survey of religious life in China, with emphasis on everyday religious practice over doctrine, and themes common to Buddhism, Daoism, and Confucianism. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "equivalent_courses": [
+      "RELIGN M60B",
+      "CHIN M60"
+    ],
+    "cross_listed": [
+      "RELIGN M61W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINM60W"
+  },
+  {
+    "course_code": "CHIN 70",
+    "units": 5,
+    "title": "Introduction to Traditional Chinese Literature",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 70W. Prior knowledge of Chinese culture, literature, or language not required. Introduction to pre-20th-century Chinese literary traditions, including selections from poetry, prose, fiction, and drama. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "equivalent_courses": [
+      "CHIN 70W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN70"
+  },
+  {
+    "course_code": "CHIN 80",
+    "units": 5,
+    "title": "Chinese Cinema: Pictures, Prisms, Products, Projections",
+    "description": "Lecture, two hours; discussion, one hour; film viewing, three hours. Knowledge of Chinese not required. Introduction to history and major themes of Chinese cinema. Representative films studied in contexts of culture, society, politics, and economics, with reflections on changing meanings of both Chinese and cinema. May not be repeated for credit. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN80"
+  },
+  {
+    "course_code": "CHIN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN89"
+  },
+  {
+    "course_code": "CHIN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN89HC"
+  },
+  {
+    "course_code": "CHIN 97",
+    "units": 4,
+    "title": "Variable Topics in Chinese Culture",
+    "description": "Lecture, three hours. Knowledge of Chinese language or culture not required. Variable topics course covering many different aspects of Chinese culture. Consult Schedule of Classes for topics to be offered in specific term. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN97"
+  },
+  {
+    "course_code": "CHIN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN99"
+  },
+  {
+    "course_code": "CHIN 100A",
+    "units": 4,
+    "title": "Advanced Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 6 or 10 with grade of C or better or Chinese placement test. Course 100A with grade of C or better or Chinese placement test is enforced requisite to 100B; course 100B with grade of C or better or Chinese placement test is enforced requisite to 100C. Third-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 6",
+      "CHIN 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100A"
+  },
+  {
+    "course_code": "CHIN 100B",
+    "units": 4,
+    "title": "Advanced Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 100A with grade of C or better or Chinese placement test. Third-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100B"
+  },
+  {
+    "course_code": "CHIN 100C",
+    "units": 4,
+    "title": "Advanced Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 100B with grade of C or better or Chinese placement test. Third-year Chinese. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100C"
+  },
+  {
+    "course_code": "CHIN 100D",
+    "units": 4,
+    "title": "Advanced Modern Chinese for Heritage Speakers",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 6A with grade of C or better or Chinese placement test. Course 100D with grade of C or better or Chinese placement test is enforced requisite to 100E; course 100E with grade of C or better or Chinese placement test is enforced requisite to 100F. Third-year Chinese for heritage speakers. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 6A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100D"
+  },
+  {
+    "course_code": "CHIN 100E",
+    "units": 4,
+    "title": "Advanced Modern Chinese for Heritage Speakers",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 100D with grade of C or better or Chinese placement test. Third-year Chinese for heritage speakers. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100E"
+  },
+  {
+    "course_code": "CHIN 100F",
+    "units": 4,
+    "title": "Advanced Modern Chinese for Heritage Speakers",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 100E with grade of C or better or Chinese placement test. Third-year Chinese for heritage speakers. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100F"
+  },
+  {
+    "course_code": "CHIN 100I",
+    "units": 12,
+    "title": "Advanced Modern Chinese: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Enforced requisite: course 6 or 10 with grade of C or better or Chinese placement test. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Intensive course equivalent to courses 100A, 100B, and 100C. Materials selected from contemporary Chinese publications, with emphasis on social sciences. Texts analyzed for their linguistic features and social and cultural background. Readings, compositions, informal debates on topical issues, and oral presentations. Offered in summer only. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 6",
+      "CHIN 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN100I"
+  },
+  {
+    "course_code": "CHIN 101A",
+    "units": 4,
+    "title": "Advanced Readings in Modern Chinese",
+    "description": "Lecture, two hours; discussion, two hours. Requisite: course 100C or 100F or 100I or Chinese placement test. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Advanced readings and discussion for students planning to do advanced coursework or research on China. Topics from magazines, journals, and books related to humanities and social sciences. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 100C",
+      "CHIN 100F",
+      "CHIN 100I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN101A"
+  },
+  {
+    "course_code": "CHIN 101B",
+    "units": 4,
+    "title": "Advanced Readings in Modern Chinese",
+    "description": "Lecture, two hours; discussion, two hours. Requisite: course 100C or 100F or 100I or Chinese placement test. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Advanced readings and discussion for students planning to do advanced coursework or research on China. Topics from magazines, journals, and books related to humanities and social sciences. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 100C",
+      "CHIN 100F",
+      "CHIN 100I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN101B"
+  },
+  {
+    "course_code": "CHIN 101C",
+    "units": 4,
+    "title": "Advanced Readings in Modern Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 101B or Chinese placement test. Not open to students who have learned, from whatever source, enough Chinese to qualify for more advanced courses. Advanced readings and discussion for students planning to do advanced coursework or research on China. Topics from magazines, journals, and books related to humanities and social sciences. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN101C"
+  },
+  {
+    "course_code": "CHIN 102A",
+    "units": 4,
+    "title": "Advanced Chinese for International Business",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 6 or 10 with grade C or better or Chinese placement test. Not open to native speakers. Designed to improve student language skills in service of business practice and ground language learning in authentic social cultural settings. Focus on oral and written business communication, cross-cultural communication, social etiquette in business conduct, Chinese economic and business climate, language of business and trade regulations, resources and environment, and business case studies. Letter grading.",
+    "prerequisites": [
+      "CHIN 6",
+      "CHIN 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN102A"
+  },
+  {
+    "course_code": "CHIN 102B",
+    "units": 4,
+    "title": "Advanced Chinese for International Business",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 6 or 10 with grade C or better or Chinese placement test. Not open to native speakers. Doing business with China and understanding Chinese economy and business conducts require advanced level of Chinese language proficiency and deep understanding of Chinese society and culture. Designed to improve student language skills in service of business practice and ground language learning in authentic social cultural settings. Focus on oral and written business communication, cross-cultural communication, social etiquette in business conduct, Chinese economic and business climate, language of business and trade regulations, resources and environment, and business case studies. Letter grading.",
+    "prerequisites": [
+      "CHIN 6",
+      "CHIN 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN102B"
+  },
+  {
+    "course_code": "CHIN 102I",
+    "units": 8,
+    "title": "Business Chinese",
+    "description": "Lecture, eight hours; discussion, eight hours. Recommended preparation: two years of college-level Chinese. Not open to native speakers. Doing business with China and understanding Chinese economy and business conducts require intermediate to advanced level of Chinese language proficiency and deep understanding of Chinese society and culture. Designed to improve student language skills in service of business practice and ground language learning in authentic social cultural settings. Oral and written business communication, social etiquettes in business conduct, Chinese economic and business climate, business law and regulations, resources and environment, and business case studies. Offered in summer only. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN102I"
+  },
+  {
+    "course_code": "CHIN 103",
+    "units": 4,
+    "title": "Topics in Chinese Language and Culture",
+    "description": "Lecture, two hours; discussion, two hours. Recommended preparation: one to two years of college-level Chinese. Chinese language and culture for special purposes. Exploration of interdependent relation between Chinese language and culture. Introduction to basic concepts in sociocultural linguistics, discourse analysis, and technology to analyze Chinese language and cultural conventions expressed through verbal and non-verbal linguistic devices. Major coverage on language use as reflected in various types of media: film, television, Internet, advertisement, etc. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN103"
+  },
+  {
+    "course_code": "CHIN 105A",
+    "units": 4,
+    "title": "Advanced Chinese Rhetoric and Critical Thinking",
+    "description": "Lecture, three hours. Requisite: Chinese placement test. Designed for students who have completed secondary education or equivalent in Chinese. Focus on developing sophisticated Chinese rhetoric strategies in speaking and writing and critical thinking skills through use of Chinese language. Chinese texts and multimedia materials used as basis for in-depth analysis and understanding of contemporary topics in Chinese language, culture, and society. May be taken independently for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN105A"
+  },
+  {
+    "course_code": "CHIN 105B",
+    "units": 4,
+    "title": "Advanced Chinese Rhetoric and Critical Thinking",
+    "description": "Lecture, three hours. Requisite: Chinese placement test. Designed for students who have completed secondary education or equivalent in Chinese. Focus on developing sophisticated Chinese rhetoric strategies in speaking and writing and critical thinking skills through use of Chinese language. Chinese texts and multimedia materials used as basis for in-depth analysis and understanding of contemporary topics in Chinese language, culture, and society. May be taken independently for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN105B"
+  },
+  {
+    "course_code": "CHIN C107A",
+    "units": 4,
+    "title": "Academic/Professional Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101B or Chinese placement test. Intended to improve reading and writing skills in specific academic and professional subject areas for students who have studied general Chinese at advanced level, with coverage in Chinese humanities and social sciences, science and technology, medicine, and applied linguistics. Concurrently scheduled with course C207A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC107A"
+  },
+  {
+    "course_code": "CHIN C107B",
+    "units": 4,
+    "title": "Academic/Professional Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 101B or Chinese placement test. Intended to improve reading and writing skills in specific academic and professional subject areas for students who have studied general Chinese at advanced level, with coverage in Chinese humanities and social sciences, science and technology, medicine, and applied linguistics. Concurrently scheduled with course C207B. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC107B"
+  },
+  {
+    "course_code": "CHIN 108FL",
+    "units": 2,
+    "title": "Special Studies: Readings in Chinese",
+    "description": "Seminar, two hours. Enforced requisite: course 100C or 100I or Chinese placement test. Students must be concurrently enrolled in affiliated main course. Additional work in Chinese to augment work assigned in main course, including reading, writing, and other exercises. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100C",
+      "CHIN 100I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN108FL"
+  },
+  {
+    "course_code": "CHIN 109",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Chinese",
+    "description": "Tutorial, two hours. Requisite: course 100C or Chinese placement test. Tutorial and guided independent study to help students develop advanced to superior proficiency in oral and written Chinese. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 100C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN109"
+  },
+  {
+    "course_code": "CHIN 110A",
+    "units": 4,
+    "title": "Introduction to Classical Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 3 or Chinese placement test. Course 110A is enforced requisite to 110B, which is enforced requisite to 110C. Grammar and readings in selected premodern texts. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN110A"
+  },
+  {
+    "course_code": "CHIN 110B",
+    "units": 4,
+    "title": "Introduction to Classical Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 110A. Grammar and readings in selected premodern texts. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN110B"
+  },
+  {
+    "course_code": "CHIN 110C",
+    "units": 4,
+    "title": "Introduction to Classical Chinese",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 110B. Grammar and readings in selected premodern texts. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN110C"
+  },
+  {
+    "course_code": "CHIN C120",
+    "units": 4,
+    "title": "Introduction to Chinese Linguistics",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: one to two years of college-level Chinese. Introduction to Chinese sound system, writing system and its reform, regional differences, major structural features, language in society and in cultural practices. Concurrently scheduled with course C240. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC120"
+  },
+  {
+    "course_code": "CHIN 124",
+    "units": 4,
+    "title": "Taiwanese Language and Culture",
+    "description": "Lecture, two hours; discussion, one hour. Enforced requisite: course 3 or 8 or Chinese placement test. Taiyu, or Taiwanese (also known as Minnan, Hoklo, or Hokkien, depending on context or region), is language that most Taiwanese people use in daily lives, including everyday interaction and communication, entertainment, social and cultural events, etc. Examination of various manifestations of Taiyu in different forms of cultural production, including cinema, television series, pop music, animation, Gezai opera, glove puppetry, and other media. Discussion also of how these media have represented Taiwan\u2019s society and shaped its cultural landscape. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 3",
+      "CHIN 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN124"
+  },
+  {
+    "course_code": "CHIN 125",
+    "units": 4,
+    "title": "Taiwanese Language and Expressive Cultures",
+    "description": "Lecture, two hours; discussion, one hour. Enforced requisite: course 3 or 8 or Chinese placement test. Taiyu, or Taiwanese (also known as Minnan, Hoklo, or Hokkien, depending on context or region), is language that most Taiwanese people use in daily lives, including everyday interaction and communication, entertainment, social and cultural events, etc. Expressive culture is one way by which group of people express their ideas, emotions, values, ideologies, and belief systems through sensorial and aesthetic performances germane to everyday life. Investigation of expressive cultures through Taiyu language is important way to understand multi-faceted society of Taiwan as vital site of cultural production. Examination of various manifestations of Taiyu in different forms of cultural production including pop music; traditional and modern theatre including Gezai opera, glove puppetry, and others; documentary; and other media. Discussion also of how these media have represented Taiwan\u2019s society and shaped its cultural landscape. P/NP or letter grading.",
+    "prerequisites": [
+      "CHIN 3",
+      "CHIN 8"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN125"
+  },
+  {
+    "course_code": "CHIN 130A",
+    "units": 4,
+    "title": "Readings in Modern Chinese Literature",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 100B or Chinese placement test. Readings and discussion of works of modern Chinese literature. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN130A"
+  },
+  {
+    "course_code": "CHIN 130B",
+    "units": 4,
+    "title": "Readings in Modern Chinese Literature",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 100B or Chinese placement test. Readings and discussion of works of modern Chinese literature. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN130B"
+  },
+  {
+    "course_code": "CHIN 131",
+    "units": 4,
+    "title": "World Sinophone Literature: Theories and Texts",
+    "description": "Lecture, two hours; discussion, one hour. Readings in original language. Exploration of Sinophone as analytic category for literature written in Sinitic languages. Theories of Sinophone and literary texts from Taiwan, Hong Kong, Malaysia, China, and elsewhere. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN131"
+  },
+  {
+    "course_code": "CHIN 135",
+    "units": 4,
+    "title": "Chinese-Language Film and Culture",
+    "description": "Lecture, two hours; discussion, one hour; film viewing, three hours. Enforced requisite: course 100C or 100I or Chinese placement test. Viewing and discussion of Chinese films, along with relevant readings in Chinese. Letter grading.",
+    "prerequisites": [
+      "CHIN 100C",
+      "CHIN 100I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN135"
+  },
+  {
+    "course_code": "CHIN C137",
+    "units": 4,
+    "title": "How to Read Chinese Poetry",
+    "description": "Lecture, two and one half hours; discussion, one hour. From earliest vestiges of Chinese poetry more than two thousand years ago, to doors of contemporary Chinese homes, and to San Francisco\u2019s Angel Island in late 19th century, few students of China (or pre-modern East Asia) go far without suddenly encountering pervasive presence of Chinese poetry (shi). Examination of why poetry, roles poetry plays in Chinese culture, and how to read it. Basic beginning in learning how to read Chinese classical poetry. Study is topical and accumulative, designed to have effect of building blocks and progressive overlays. Introduction to language, forms, and history of shi poetry. Study of smallest integral unit of Chinese lyric poetry, individual words and their selection; formal elements and rhetorical features; modes of perception and how it governs lyric description, narration, and argument. Consideration of presuppositions of what poetry is and how it is to be read. Concurrently scheduled with course C237. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC137"
+  },
+  {
+    "course_code": "CHIN C138",
+    "units": 4,
+    "title": "Travel Writing in Premodern China",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: course 50. Exploration of travel writing in China, with focus on English translations of works by native writers and by foreign visitors through centuries. Concurrently scheduled with course C238. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC138"
+  },
+  {
+    "course_code": "CHIN 139",
+    "units": 4,
+    "title": "Gardens in China",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: course 50. Interdisciplinary survey of historic and literary gardens in China, with focus on English translations of texts by native writers and recent Western scholarship. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN139"
+  },
+  {
+    "course_code": "CHIN 140A",
+    "units": 4,
+    "title": "Readings in Classical Chinese Literature: Poetry",
+    "description": "Lecture, three hours. Enforced requisite: course 110C. Advanced classical Chinese. Readings and discussion of works of premodern Chinese literature. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN140A"
+  },
+  {
+    "course_code": "CHIN 140B",
+    "units": 4,
+    "title": "Readings in Classical Chinese Literature: Prose",
+    "description": "Lecture, three hours. Enforced requisite: course 110C. Advanced classical Chinese. Readings and discussion of works of premodern Chinese literature. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN140B"
+  },
+  {
+    "course_code": "CHIN 140C",
+    "units": 4,
+    "title": "Readings in Classical Chinese Literature: Fiction",
+    "description": "Lecture, three hours. Enforced requisite: course 110C. Advanced classical Chinese. Readings and discussion of works of premodern Chinese literature. Each course may be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN140C"
+  },
+  {
+    "course_code": "CHIN 140D",
+    "units": 4,
+    "title": "Readings in Classical Chinese Literature: Philosophical Texts",
+    "description": "Lecture, three hours. Enforced requisite: course 110C. Advanced classical Chinese. Readings and discussion of works of premodern Chinese literature. May be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "CHIN 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN140D"
+  },
+  {
+    "course_code": "CHIN C144",
+    "units": 4,
+    "title": "Translation Workshop: Modern Chinese Texts",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: bilingual competency in Chinese and English. Workshop on Chinese-English literary translation, designed to hone and improve translation skills. Focus on close readings and analysis of original texts against published English translations and actual translation work. May include interpretation segment, designed to improve interpretation skills. Concurrently scheduled with course C244. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC144"
+  },
+  {
+    "course_code": "CHIN C150A",
+    "units": 4,
+    "title": "Lyrical Traditions",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Readings in English translation of poetic and critical writings of traditional China, with emphasis on development of subjectivity and modes of address. Concurrently scheduled with course C250A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC150A"
+  },
+  {
+    "course_code": "CHIN C150B",
+    "units": 4,
+    "title": "Chinese Literature in Translation: Traditional Narrative and Fiction",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Examination of formation and development of Chinese narrative traditions from Tang to mid-Qing periods (7th-18th centuries). Readings from biographical writings, fiction, drama, legal cases, etc., with emphasis on different narrative conventions and their cultural assumptions and intersections. Exploration of important issues in context of imperial China, including order and chaos, self and other, desire and transcendence, gender norms and transgression, violence and justice. May be taken independently for credit. Concurrently scheduled with course C250B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC150B"
+  },
+  {
+    "course_code": "CHIN 151",
+    "units": 4,
+    "title": "Chinese Literature in Translation: Modern Literature",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: English Composition 3 or 3H or one course from Comparative Literature 1A, 1B, 1C, 1D. Knowledge of Chinese not required. Lectures and reading of representative works from 1900 to present in English translation. Letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "COM LIT 1A",
+      "COM LIT 1B",
+      "COM LIT 1C",
+      "COM LIT 1D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN151"
+  },
+  {
+    "course_code": "CHIN 152",
+    "units": 4,
+    "title": "Topics in Contemporary Chinese Literature and Culture",
+    "description": "Lecture, two hours; discussion, one hour. Knowledge of Chinese not required. Investigation of various topics in contemporary Chinese literature and culture, including politics and poetics of Chinese postmodernism, nativism, feminism, mass culture, and media. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN152"
+  },
+  {
+    "course_code": "CHIN M153",
+    "units": 4,
+    "title": "Chinese Immigrant Literature and Film",
+    "description": "(Same as Asian American Studies M130B and Comparative Literature M171.) Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. In-depth look at Chinese immigrant experience by reading literature and watching films. Theories of diaspora, gender, and race to inform thinking and discussion of relevant issues. P/NP or letter grading.",
+    "cross_listed": [
+      "ASIA AM M130B",
+      "COM LIT M171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINM153"
+  },
+  {
+    "course_code": "CHIN 154",
+    "units": 4,
+    "title": "Introduction to Chinese Cinema",
+    "description": "Lecture, two hours; discussion, one hour; film viewing, three hours. Knowledge of Chinese not required. History of Chinese-language cinemas, with emphasis on mainland China. Examination of film style and aesthetics, as well as contexts of industry, economics, politics, culture, and society. May not be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN154"
+  },
+  {
+    "course_code": "CHIN 155",
+    "units": 4,
+    "title": "Topics in Chinese Cinema",
+    "description": "Lecture, two hours; discussion, one hour; film viewing, three hours. Knowledge of Chinese not required. Critical study of films from China, Hong Kong, Taiwan, and Chinese diaspora. Examination of aesthetics, genres, directors and stars, other arts and media, and cultural and political histories. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN155"
+  },
+  {
+    "course_code": "CHIN C156",
+    "units": 4,
+    "title": "Variable Topics in Culture and Society in Taiwan",
+    "description": "Lecture, three hours; discussion, one hour. Designed for seniors. Knowledge of Chinese not required. Examination of relationship between culture (art, literature, film) and society in Taiwan. Reading, audio and visual material, discussion, and development of culminating project. May be repeated for credit with topic change. Concurrently scheduled with course C257. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC156"
+  },
+  {
+    "course_code": "CHIN 157",
+    "units": 4,
+    "title": "Contemporary Chinese Popular Culture",
+    "description": "Lecture, three hours; discussion, one hour. Examination of various aspects of modern and contemporary popular culture in China, Taiwan, and Hong Kong from cultural studies perspective. Genres and media include literature, print culture, cinema, martial arts film and fiction, television, radio, pop music, visual arts, fashion, advertising, and cyberculture. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN157"
+  },
+  {
+    "course_code": "CHIN 159",
+    "units": 4,
+    "title": "Variable Topics in Culture and Society in China",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese language not required. Examination of relationship between culture (art, literature, history, film) and society in China. Reading, audio and visual material, discussion, and development of culminating project. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN159"
+  },
+  {
+    "course_code": "CHIN CM160",
+    "units": 4,
+    "title": "Chinese Buddhism",
+    "description": "(Same as Religion M161A.) Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Introduction and development of Buddhism in China, interaction between Buddhism and Chinese culture, rise of Chinese schools of Buddhism. Concurrently scheduled with course C260. Letter grading.",
+    "cross_listed": [
+      "RELIGN M161A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINCM160"
+  },
+  {
+    "course_code": "CHIN 165",
+    "units": 4,
+    "title": "Introduction to Chinese Buddhist Texts",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisite: course 100A or 110B or Japanese 110A or Korean 100A or Chinese placement test. Readings in premodern Buddhist texts written in literary Chinese and taken from translated Indian sutras, indigenous exegetical materials, Chinese apocryphal scriptures, and Ch\u2019an writings. Problems in translation from Indo-European languages into Chinese; evolution of Chinese Buddhist terminology. Coverage varies. May be repeated for credit with consent of instructor. Letter grading.",
+    "prerequisites": [
+      "CHIN 100A",
+      "CHIN 110B",
+      "JAPAN 110A",
+      "KOREA 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN165"
+  },
+  {
+    "course_code": "CHIN 174",
+    "units": 4,
+    "title": "Chinese Strategic Thought",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Introduction to early Chinese narratives and theories of military, diplomatic, and rhetorical strategy. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN174"
+  },
+  {
+    "course_code": "CHIN C175",
+    "units": 4,
+    "title": "Introduction to Chinese Thought",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Survey of Chinese thought as represented in texts of Zhou through early Han periods (circa 1000 to 100 BCE), with focus on invention of Confucian tradition (including Five Classics) and on defenses of that tradition against challenges from Mohists, Taoists, and other groups of thinkers. Concurrently scheduled with course C275. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINC175"
+  },
+  {
+    "course_code": "CHIN 175SL",
+    "units": 4,
+    "title": "Community-Based Introduction to Chinese Thought",
+    "description": "Seminar, three hours; fieldwork, two hours. Knowledge of Chinese not required. Community-based survey of Chinese thought as represented in texts of Zhou through early Han periods (circa 1000 to 100 BCE), with focus on invention of Confucian tradition (including Five Classics) and on defenses of that tradition against challenges from Mohists, Taoists, and other groups of thinkers. Service learning component includes meaningful work with community partners, such as local schools, selected in advance by instructor. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN175SL"
+  },
+  {
+    "course_code": "CHIN 176",
+    "units": 4,
+    "title": "Neo-Confucianism",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Examination of movement to revitalize and reinterpret teachings of Confucius during Tang, Song, Yuan, and Ming dynasties, with consideration of both neo-Confucian philosophy and social action. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN176"
+  },
+  {
+    "course_code": "CHIN 180",
+    "units": 4,
+    "title": "Chinese Mythology and Supernatural",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Survey of corpus of traditional Chinese mythology, with focus on examples preserved in variety of early texts, later evolutions in dramatic and fictional works, and evidence from visual arts. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN180"
+  },
+  {
+    "course_code": "CHIN 182",
+    "units": 4,
+    "title": "Archaeology of Early Global Trade and Piracy",
+    "description": "Lecture, three hours; discussion, one hour. Exploration of role of trade and piracy at threshold of globalization (13th to 17th century), with focus on continuity and transformation in Asiatic trade network in response to early global trade. Investigation based on archaeological study of porcelain, tracing movement from kilns around Chinese trading ports to shipwrecks and consumer societies in Southeast Asia and colonial Americas. As one of most important commodities on trans-Pacific voyage, close association of porcelain production and trade with international piracy in traditional historiography presents new angle for understanding dynamics of early global trade and industries. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN182"
+  },
+  {
+    "course_code": "CHIN M183",
+    "units": 4,
+    "title": "Archaeological Landscapes of China",
+    "description": "(Same as Anthropology M116R.) Lecture, three hours; discussion, one hour (when scheduled). Declassified space images from Cold War era and open remote sensing data of 21st century provide new opportunities for studying landscape transformation in historical China. Combining lectures, library research, and hands-on analysis of archaeological sites on satellite images, investigation of changing historical and archaeological landscape in China during last 5,000 years. Social processes at various scales, from emergence of early cities to rise of metropolitan centers and formation of imperial landscapes. P/NP or letter grading.",
+    "cross_listed": [
+      "ANTHRO M116R"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHINM183"
+  },
+  {
+    "course_code": "CHIN 184",
+    "units": 4,
+    "title": "Crime, Law, and Punishment in Traditional China",
+    "description": "Lecture, three hours; discussion, one hour. Preventing crime and administering justice are important parts of any society, but these are not straightforward or simple processes. What is crime? Are there crimes so terrible that they merit special kinds of punishment? How is punishment decided and by whom? What happens if justice is not carried out? Consideration of these questions as they apply to premodern China from multiple perspectives: legal codes and casebooks, literary re-imaginings of trials, depictions of postmortem punishment, and tales of supernatural retribution. Discussion of how legal and penal systems of China have been represented in West. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN184"
+  },
+  {
+    "course_code": "CHIN 185",
+    "units": 4,
+    "title": "Food and Love in Chinese Culture",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Based on studies of cultural, historical, anthropological, and archaeological materials, introduction to how Chinese have been engaging themselves in fields of food eating and love making. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN185"
+  },
+  {
+    "course_code": "CHIN 186",
+    "units": 4,
+    "title": "Archaeology in China",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Chinese not required. Early Chinese study of their own past, types of artifacts, beginnings of scientific archaeology, and surveys of major excavations of sites of all periods. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN186"
+  },
+  {
+    "course_code": "CHIN 187",
+    "units": 4,
+    "title": "Chinese Etymology and Calligraphy",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisite: course 3. Coverage of (1) development of Chinese writing system from pottery inscriptions 6,000 years ago to modern simplified forms and studies of six scripts principles that were used to form Chinese characters and (2) aesthetic training of calligraphic art and its appreciation, with focus on ways of recognizing and interpreting cursive style, common form of handwriting. Letter grading.",
+    "prerequisites": [
+      "CHIN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN187"
+  },
+  {
+    "course_code": "CHIN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN189"
+  },
+  {
+    "course_code": "CHIN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN189HC"
+  },
+  {
+    "course_code": "CHIN 191A",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Classical China",
+    "description": "Seminar, three hours. Designed for juniors/seniors. Research seminar on selected topics in premodern Chinese literature, thought, and culture. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN191A"
+  },
+  {
+    "course_code": "CHIN 191B",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: 20th-Century China and Taiwan",
+    "description": "Seminar, three hours. Designed for juniors/seniors. Research seminar on selected topics in modern and contemporary literature and culture from China and Taiwan. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN191B"
+  },
+  {
+    "course_code": "CHIN 197",
+    "units": 4,
+    "title": "Individual Studies in Chinese",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors and graduate students who desire more advanced or specialized instruction in Chinese. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required; see undergraduate adviser. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHIN197"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "course_code": "HUM GEN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN19"
+  },
+  {
+    "course_code": "HUM GEN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN99"
+  },
+  {
+    "course_code": "HUM GEN CM113",
+    "units": 2,
+    "title": "Ethical, Legal, and Societal Topics in Genetic Counseling",
+    "description": "(Same as Society and Genetics M113.) Lecture, two hours. Discussion of social, cultural, ethical, and legal issues in genetics and genetic counseling. Concurrently scheduled with course C413. Letter grading.",
+    "cross_listed": [
+      "SOC GEN M113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGENCM113"
+  },
+  {
+    "course_code": "HUM GEN C144",
+    "units": 4,
+    "title": "Genomic Technology",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4. Survey of key technologies that have led to successful application of genomics to biology, with focus on theory behind specific genome-wide technologies and their current applications. Concurrently scheduled with course C244. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGENC144"
+  },
+  {
+    "course_code": "HUM GEN 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN188SA"
+  },
+  {
+    "course_code": "HUM GEN 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HUM GEN 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN188SB"
+  },
+  {
+    "course_code": "HUM GEN 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HUM GEN 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN188SC"
+  },
+  {
+    "course_code": "HUM GEN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN189"
+  },
+  {
+    "course_code": "HUM GEN 199",
+    "units": 2,
+    "title": "Special Studies in Human Genetics",
+    "description": "Tutorial, to be arranged. Students select instructor among eligible research faculty and carry out independent research project under instructor supervision. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HUMGEN199"
+  }
+]

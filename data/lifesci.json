@@ -1,0 +1,413 @@
+[
+  {
+    "course_code": "LIFESCI 3H",
+    "units": 5,
+    "title": "Introduction to Molecular Biology (Honors)",
+    "description": "Lecture, two and one half hours; discussion, 90 minutes; movie section, two and one half hours. Enforced requisites: course 2, and Chemistry 14C or 30A. Honors course parallel to course 3, but at a more advanced level. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 2",
+      "CHEM 14C",
+      "CHEM 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI3H"
+  },
+  {
+    "course_code": "LIFESCI 4A",
+    "units": 1,
+    "title": "Collaborative Learning Workshop",
+    "description": "Lecture, two hours. Enforced corequisite: course 4. Development of problem-solving skills and intuition in genetics in collaborative learning environment. P/NP grading.",
+    "prerequisites": [
+      "LIFESCI 4"
+    ],
+    "corequisites": [
+      "LIFESCI 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI4A"
+  },
+  {
+    "course_code": "LIFESCI 7A",
+    "units": 5,
+    "title": "Cell and Molecular Biology",
+    "description": "Lecture, three hours; discussion, 75 minutes. Introduction to basic principles of cell structure and cell biology, biochemistry, and molecular biology. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI7A"
+  },
+  {
+    "course_code": "LIFESCI 7B",
+    "units": 5,
+    "title": "Genetics, Evolution, and Ecology",
+    "description": "Lecture, three hours; laboratory, 80 minutes. Enforced requisite: course 7A. Principles of Mendelian inheritance and population genetics. Introduction to principles and mechanisms of evolution by natural selection, population, behavioral, and community ecology, and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 7A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI7B"
+  },
+  {
+    "course_code": "LIFESCI 7C",
+    "units": 5,
+    "title": "Physiology and Human Biology",
+    "description": "Lecture, three hours; discussion, 75 minutes. Enforced requisite: course 7B. Organization of cells into tissues and organs and principles of physiology of organ systems. Introduction to human genetics and genomics. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 7B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI7C"
+  },
+  {
+    "course_code": "LIFESCI 7L",
+    "units": 3,
+    "title": "Introduction to Laboratory and Scientific Methodology",
+    "description": "(Formerly numbered 23L.) Lecture, one hour; laboratory, three hours. Requisite: course 7B. Recommended to be taken concurrently with course 7C. Introductory life sciences laboratory designed for undergraduate students. Opportunity to conduct wet-laboratory and cutting-edge bioinformatics laboratory experiments. Students work in groups of three conducting experiments in areas of physiology, metabolism, cell biology, molecular biology, genotyping, and bioinformatics. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 7B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI7L"
+  },
+  {
+    "course_code": "LIFESCI 15",
+    "units": 5,
+    "title": "Life: Concepts and Issues",
+    "description": "Lecture, two and one half hours; discussion, 75 minutes. Introduction to important concepts and issues in the field for non-life sciences majors. Topics include chemistry of life, genetics, physiology, evolution, and ecology\u2014all explored in lecture and debates, with writing component. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI15"
+  },
+  {
+    "course_code": "LIFESCI 15L",
+    "units": 1,
+    "title": "Life: Concepts and Issues Laboratory",
+    "description": "Laboratory, two hours. Requisite or corequisite: course 15. Broad introduction to biology, with focus on scientific literacy and thinking. Topics include scientific thinking and decision making to interpret and analyze data, evolution and genetics, physiology (chemistry, nutrition, reproduction, endocrinology, and neurobiology), and human behavioral biology. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "LIFESCI 15"
+    ],
+    "corequisites": [
+      "LIFESCI 15"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI15L"
+  },
+  {
+    "course_code": "LIFESCI 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI19"
+  },
+  {
+    "course_code": "LIFESCI 20",
+    "units": 5,
+    "title": "Quantitative Concepts for Life Sciences",
+    "description": "Lecture, three hours; discussion, two hours. Preparation: three years of high school mathematics (to algebra II), some basic familiarity with computers. Introduction to variety of quantitative concepts that are relevant to biology. Designed to enhance quantitative skills that are essential for success in life sciences, chemistry, mathematics, and physics courses that make up core curriculum for life sciences majors at UCLA. Biological examples used throughout to gain appreciation of relevance of mathematics to biology. Letter grading.",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI20"
+  },
+  {
+    "course_code": "LIFESCI 30A",
+    "units": 5,
+    "title": "Mathematics for Life Scientists",
+    "description": "Lecture, three hours; laboratory, two hours. Preparation: three years of high school mathematics (to algebra II), some basic familiarity with computers. Mathematical modeling as tool for understanding dynamics of biological systems. Fundamental concepts of single-variable calculus and development of single- and multi-variable differential equation models of dynamical processes in ecology, physiology, and other subjects in which quantities change with time. Use of free computer program Sage for problem solving, plotting, and dynamical simulation in laboratory. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences with Lab Credit (Scientific Inquiry)",
+      "Quantitative Reasoning"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI30A"
+  },
+  {
+    "course_code": "LIFESCI 30B",
+    "units": 5,
+    "title": "Mathematics for Life Scientists",
+    "description": "Lecture, three hours; laboratory, two hours. Enforced requisite: course 30A. Introduction to concept of matrices and linear transformations to equip students with some basic tools to understand dynamics of multivariable nonlinear systems. Examples from ecological, physiological, chemical, and other systems. Letter grading.",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "prerequisites": [
+      "LIFESCI 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI30B"
+  },
+  {
+    "course_code": "LIFESCI M32",
+    "units": 4,
+    "title": "Essential Calculus for Mathematical Biologists",
+    "description": "(Same as Computational and Systems Biology M32 and Mathematics M32T.) Lecture, three hours; discussion, one hour. Requisites: courses 30A, 30B. Not open to students with credit for Mathematics 31A, 31B, 32A, or 32B. Designed for life sciences students. Methods and results of single and multivariable calculus essential for quantitative training in biology. Limits, differentiation (single and several variables), optimization, integration and methods of integration, Taylor polynomials and applications to approximation, Taylor and other power series, vector valued functions, gradients, and Lagrange multipliers. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 30A",
+      "LIFESCI 30B"
+    ],
+    "credit_exclusions": [
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 31A",
+      "MATH 31B"
+    ],
+    "cross_listed": [
+      "C&S BIO M32",
+      "MATH M32T"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCIM32"
+  },
+  {
+    "course_code": "LIFESCI 40",
+    "units": 5,
+    "title": "Statistics of Biological Systems",
+    "description": "Lecture, three hours; laboratory, two hours. Requisite: course 30A. Designed for life sciences students. Introduction to statistics with emphasis on computer simulation of chance probabilities as replacement for traditional formula-based approach. Simulations allow for deeper understanding of statistical concepts, and are applicable to wider class of distributions and estimators. Students learn simple programming language to carry out statistical simulations, and apply them to classic problems of elementary statistics. Letter grading.",
+    "satisfies": [
+      "Quantitative Reasoning"
+    ],
+    "prerequisites": [
+      "LIFESCI 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI40"
+  },
+  {
+    "course_code": "LIFESCI 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI89"
+  },
+  {
+    "course_code": "LIFESCI 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI89HC"
+  },
+  {
+    "course_code": "LIFESCI 97",
+    "units": 1,
+    "title": "Variable Topics in Life Sciences",
+    "description": "Seminar, two to four hours. Current issues in research and/or development in life sciences. Consult Schedule of Classes for topics and instructors. May be repeated once for credit with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI97"
+  },
+  {
+    "course_code": "LIFESCI 98XA",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+    "description": "Seminar, three hours. Corequisite: associated undergraduate lecture course in life sciences. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI98XA"
+  },
+  {
+    "course_code": "LIFESCI 98XB",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+    "description": "Seminar, three hours. Corequisite: associated undergraduate lecture course in life sciences. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated three times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "prerequisites": [],
+    "corequisites": [],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI98XB"
+  },
+  {
+    "course_code": "LIFESCI 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI99"
+  },
+  {
+    "course_code": "LIFESCI 101",
+    "units": 2,
+    "title": "Understanding Scientific Literature and Context",
+    "description": "Seminar/discussion, one to two hours. Introduction to set of skills proven to help students read and understand scientific research papers. Offers opportunity to practice those skills while interacting with scientists at UCLA. Reading and understanding scientific research papers is skill. It can develop quickly and be refined/practiced for rest of scientific journey. Uses CREATE learning framework, Consider, Read, Elucidate hypotheses, Analyze and interpret data, and Think of next Experiment. At UCLA, CREATESS! uses additional dimensions of final Synthesis and Social context. Students work within learning pod and are guided by lead instructors. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI101"
+  },
+  {
+    "course_code": "LIFESCI 107",
+    "units": 5,
+    "title": "Genetics",
+    "description": "Lecture, three hours; discussion, 75 minutes. Requisites: courses 7C, 23L, Chemistry 14A (or 20A), 14C (or 30A). Not open for credit to students with credit for course 4. Advanced Mendelian genetics, recombination, biochemical genetics, mutation, DNA, genetic code, gene regulation, genes in populations. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 7C",
+      "LIFESCI 23L",
+      "CHEM 14A",
+      "CHEM 20A",
+      "CHEM 14C",
+      "CHEM 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI107"
+  },
+  {
+    "course_code": "LIFESCI 110",
+    "units": 2,
+    "title": "Career Exploration in Life Sciences",
+    "description": "Seminar, two hours. Recommended for all students interested in exploring career options in life sciences, including incoming transfers. Designed to increase confidence and skills, and expand awareness through self-reflection and guest speakers. Networking, interviewing, r\u00e9sum\u00e9, and cover letter building. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI110"
+  },
+  {
+    "course_code": "LIFESCI 130",
+    "units": 1,
+    "title": "Science Classroom Observation and Participation",
+    "description": "Seminar, one hour. Preparation: completion of three mathematics and/or science courses at level required of science majors. Observation, participation, and assisting in science classes at elementary, middle, and secondary schools. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI130"
+  },
+  {
+    "course_code": "LIFESCI M174",
+    "units": 4,
+    "title": "Health Disparities",
+    "description": "(Same as Psychology M174.) Lecture, three hours. Examination of health disparities and ways in which societal responses to race and ethnicity in combination with variety of other factors create differential quality and access to healthcare resulting in poor health outcomes in racial/ethnic minorities. Basic foundation for critical thinking about assumptions that shape life sciences, medical research, clinical practice, and social and behavioral sciences as they relate to racial and ethnic minority populations and to teach students to integrate concepts of culture and health disparities into other social, biological, political, psychological, genetic, and clinical health interests. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "PSYCH M174"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCIM174"
+  },
+  {
+    "course_code": "LIFESCI 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI188SA"
+  },
+  {
+    "course_code": "LIFESCI 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI188SB"
+  },
+  {
+    "course_code": "LIFESCI 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI188SC"
+  },
+  {
+    "course_code": "LIFESCI 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI189"
+  },
+  {
+    "course_code": "LIFESCI 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI189HC"
+  },
+  {
+    "course_code": "LIFESCI M192A",
+    "units": 1,
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "description": "(Formerly numbered 192A.) (Same as Atmospheric and Oceanic Sciences M192A, Chemistry M192E, Computer Science M192A, Mathematics M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.",
+    "equivalent_courses": [
+      "A&O SCI M192A",
+      "MATH M192A",
+      "CHEM M192E",
+      "LIFESCI M192A",
+      "PHYSICS M192S"
+    ],
+    "cross_listed": [
+      "A&O SCI M192A",
+      "COM SCI M192A",
+      "MATH M192A",
+      "PHYSICS M192S",
+      "CHEM M192E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCIM192A"
+  },
+  {
+    "course_code": "LIFESCI 192B",
+    "units": 3,
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "description": "Seminar, one hour; clinic, six hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated three times for credit. Combination of courses 192B, 192C, 192D, and 192E may not be taken for more than total of 4 times or 4 courses. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192B"
+  },
+  {
+    "course_code": "LIFESCI 192C",
+    "units": 4,
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "description": "Seminar, three hours; clinic, nine hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated three times for credit. Combination of courses 192B, 192C, 192D, and 192E may not be taken for more than total of 4 times or 4 courses. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192C"
+  },
+  {
+    "course_code": "LIFESCI 192D",
+    "units": 2,
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "description": "Seminar, three hours; clinic, three hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated three times for credit. Combination of courses 192B, 192C, 192D, and 192E may not be taken for more than total of 4 times or 4 courses. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192D"
+  },
+  {
+    "course_code": "LIFESCI 192E",
+    "units": 1,
+    "title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+    "description": "Seminar, one hour; clinic, two hours. Requisites: course 192A (may be taken concurrently) and at least one term of prior experience in same course in which collaborative learning theory is practiced and refined under supervision of instructors. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated three times for credit. Combination of courses 192B, 192C, 192D, and 192E may not be taken for more than total of 4 times or 4 courses. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192E"
+  },
+  {
+    "course_code": "LIFESCI 192F",
+    "units": 4,
+    "title": "Undergraduate Practicum in Life Sciences",
+    "description": "Seminar, two hours; clinic, nine hours. Requisite: one course from 1, 2, 3, 4, 7A, 7B, 7C, 20, 23L, 30A, 30B, 107, 110. Limited to sophomores/juniors/seniors. Advanced training and supervised practicum for experienced undergraduate students. Under guidance of faculty members, students refine their professional skills and take leadership roles in mentoring students. May be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 1",
+      "LIFESCI 2",
+      "LIFESCI 3",
+      "LIFESCI 4",
+      "LIFESCI 7A",
+      "LIFESCI 7B",
+      "LIFESCI 7C",
+      "LIFESCI 20",
+      "LIFESCI 23L",
+      "LIFESCI 30A",
+      "LIFESCI 30B",
+      "LIFESCI 107",
+      "LIFESCI 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192F"
+  },
+  {
+    "course_code": "LIFESCI 192G",
+    "units": 1,
+    "title": "Collaborative Learning Theory and Practice: Anti-Racism Discourse",
+    "description": "Seminar, two hours; discussion, one hour. Students engage in anti-racism discourse. Peers circulate through, engage, and reflect on various topics that target systemic racism surrounding our communities through proactive small-group conversation and weekly action plans. Peers practice communication skills with frequent assessment and feedback with facilitators. May be repeated three times for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI192G"
+  },
+  {
+    "course_code": "LIFESCI 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Life Sciences",
+    "description": "Tutorial, two hours. Enforced requisite: course 3. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper/project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/LIFESCI199"
+  }
+]

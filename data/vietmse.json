@@ -1,0 +1,286 @@
+[
+  {
+    "course_code": "VIETMSE 1",
+    "units": 5,
+    "title": "Introductory Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Coverage of basic Vietnamese grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "equivalent_courses": [
+      "VIETMSE 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE1"
+  },
+  {
+    "course_code": "VIETMSE 1A",
+    "units": 5,
+    "title": "Introductory Vietnamese for Heritage Learners",
+    "description": "Lecture, two hours; discussion, three hours. Not open to students who have learned, from whatever source, enough Vietnamese to qualify for more advanced courses. Designed for Vietnamese-heritage learners who have some limited knowledge of Vietnamese or have had no formal instruction in Vietnamese. Emphasis on spelling, basic grammar, reading, writing, daily conversation, and polite forms. P/NP or letter grading.",
+    "equivalent_courses": [
+      "VIETMSE 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE1A"
+  },
+  {
+    "course_code": "VIETMSE 2",
+    "units": 5,
+    "title": "Introductory Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 1 with grade of C or better. Coverage of basic Vietnamese grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "VIETMSE 1"
+    ],
+    "equivalent_courses": [
+      "VIETMSE 2A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE2"
+  },
+  {
+    "course_code": "VIETMSE 2A",
+    "units": 5,
+    "title": "Introductory Vietnamese for Heritage Learners",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 1A with grade of C or better or Vietnamese placement test. Not open to students who have learned, from whatever source, enough Vietnamese to qualify for more advanced courses. Designed for Vietnamese-heritage learners who have some limited knowledge of Vietnamese or have had no formal instruction in Vietnamese. Emphasis on spelling, basic grammar, reading, writing, daily conversation, and polite forms. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "VIETMSE 1A"
+    ],
+    "equivalent_courses": [
+      "VIETMSE 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE2A"
+  },
+  {
+    "course_code": "VIETMSE 3",
+    "units": 5,
+    "title": "Introductory Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 2 with grade of C or better. Coverage of basic Vietnamese grammar, with equal emphasis on reading, writing, conversation, and comprehension. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "VIETMSE 2"
+    ],
+    "equivalent_courses": [
+      "VIETMSE 3A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE3"
+  },
+  {
+    "course_code": "VIETMSE 3A",
+    "units": 5,
+    "title": "Introductory Vietnamese for Heritage Learners",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 2A with grade of C or better or Vietnamese placement test. Not open to students who have learned, from whatever source, enough Vietnamese to qualify for more advanced courses. Designed for Vietnamese-heritage learners who have some limited knowledge of Vietnamese or have had no formal instruction in Vietnamese. Emphasis on spelling, basic grammar, reading, writing, daily conversation, and polite forms. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "VIETMSE 2A"
+    ],
+    "equivalent_courses": [
+      "VIETMSE 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE3A"
+  },
+  {
+    "course_code": "VIETMSE 3R",
+    "units": 5,
+    "title": "Introductory Vietnamese Reading and Writing",
+    "description": "Lecture, five hours. Recommended preparation: speaking and listening skills in Vietnamese. Training in reading and writing skills at elementary level, equivalent to completion of one year of Vietnamese. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE3R"
+  },
+  {
+    "course_code": "VIETMSE 4",
+    "units": 5,
+    "title": "Intermediate Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 3 with grade of C or better. Reinforcement of basic Vietnamese grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE4"
+  },
+  {
+    "course_code": "VIETMSE 5",
+    "units": 5,
+    "title": "Intermediate Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 4 with grade of C or better. Reinforcement of basic Vietnamese grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE5"
+  },
+  {
+    "course_code": "VIETMSE 6",
+    "units": 5,
+    "title": "Intermediate Vietnamese",
+    "description": "Lecture, two hours; discussion, three hours. Enforced requisite: course 5 with grade of C or better. Reinforcement of basic Vietnamese grammar and coverage of more advanced topics. Broadening of skills in conversation and composition; reading of selected texts. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE6"
+  },
+  {
+    "course_code": "VIETMSE 8",
+    "units": 15,
+    "title": "Elementary Vietnamese: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Intensive course equivalent to courses 1, 2, and 3. Coverage of basic Vietnamese grammar, with equal emphasis on reading, writing, conversation, and comprehension. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE8"
+  },
+  {
+    "course_code": "VIETMSE 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE19"
+  },
+  {
+    "course_code": "VIETMSE 40",
+    "units": 5,
+    "title": "War in Vietnamese Popular Culture",
+    "description": "Lecture, three hours; discussion, one hour. Knowledge of Vietnamese not required. Focus on popular culture produced and consumed by, or about, people in Vietnam and diasporas. Materials include theoretical and other scholarly texts, as well as literature, music, visual art, films, and comics. Reading of scholarly writings for argument, date, and methods, and learning to apply theoretical frameworks in readings and lectures to analysis of popular cultural productions. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE40"
+  },
+  {
+    "course_code": "VIETMSE 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE89"
+  },
+  {
+    "course_code": "VIETMSE 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE89HC"
+  },
+  {
+    "course_code": "VIETMSE 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE99"
+  },
+  {
+    "course_code": "VIETMSE 100A",
+    "units": 4,
+    "title": "Advanced Vietnamese",
+    "description": "Lecture, three hours. Enforced requisite: course 6 with grade of C or better or Vietnamese placement test. Designed to strengthen and build on language skills previously acquired at beginning and intermediate levels. Content-based readings and discussion, with various aspects of Vietnam, particularly its culture. Readings include both authentic original works and simplified texts. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE100A"
+  },
+  {
+    "course_code": "VIETMSE 100B",
+    "units": 4,
+    "title": "Advanced Vietnamese",
+    "description": "Lecture, three hours. Enforced requisite: course 6 with grade of C or better or Vietnamese placement test. Designed to strengthen and build on language skills previously acquired at beginning and intermediate levels. Content-based readings and discussion, with various aspects of Vietnam, particularly its culture. Readings include both authentic original works and simplified texts. Each course may be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE100B"
+  },
+  {
+    "course_code": "VIETMSE 100C",
+    "units": 4,
+    "title": "Advanced Vietnamese",
+    "description": "Lecture, three hours. Enforced requisite: course 6 with grade of C or better or Vietnamese placement test. Designed to strengthen and build on language skills previously acquired at beginning and intermediate levels. Content-based readings and discussion, with various aspects of Vietnam, particularly its culture. Readings include both authentic original works and simplified texts. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE100C"
+  },
+  {
+    "course_code": "VIETMSE 109",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Vietnamese",
+    "description": "Tutorial, two hours. Requisite: course 6 or Vietnamese placement test. Tutorial and guided independent study to help students develop advanced to superior proficiency in oral and written Vietnamese. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE109"
+  },
+  {
+    "course_code": "VIETMSE CM155",
+    "units": 4,
+    "title": "Topics in Vietnamese Cinema and/or Literature",
+    "description": "(Same as Asian American Studies M173.) Lecture, three hours; discussion, one hour. Knowledge of Vietnamese not required. Critical and historical examination of literary and/or filmic representations connected to social practices such as empire, nation, diaspora, and globalization. Original language course materials available for interested students. May be concurrently scheduled with course C255. P/NP or letter grading.",
+    "cross_listed": [
+      "ASIA AM M173"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSECM155"
+  },
+  {
+    "course_code": "VIETMSE 155FL",
+    "units": 2,
+    "title": "Readings in Vietnamese",
+    "description": "Seminar, two hours. Requisite: course 3 or 3A. Enforced corequisite: course M155. Additional work in Vietnamese to augment work assigned in course M155, including reading, writing, and other exercises in Vietnamese. P/NP or letter grading.",
+    "prerequisites": [
+      "VIETMSE 3",
+      "VIETMSE 3A"
+    ],
+    "corequisites": [
+      "VIETMSE M155"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE155FL"
+  },
+  {
+    "course_code": "VIETMSE 170",
+    "units": 4,
+    "title": "Variable Topics in Vietnamese Linguistics, Languages, and Cultures",
+    "description": "Lecture, three hours. Knowledge of Vietnamese may be required. Critical analysis of language and culture in Vietnam, exploring notion of Vietnam as culture area, surveying literary landscape through poetry and short stories. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE170"
+  },
+  {
+    "course_code": "VIETMSE 180A",
+    "units": 4,
+    "title": "Vietnam: History and Civilization to 1858",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: at least one Asian history course. Exploration of Vietnamese society and culture from origins to early 19th century, with emphasis on examination of ways in which interactions between indigenous and Chinese/Southeast Asian political and cultural forces helped shape religious, literary, and social traditions. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE180A"
+  },
+  {
+    "course_code": "VIETMSE 180B",
+    "units": 4,
+    "title": "Vietnam: History and Civilization, 1858 to Present",
+    "description": "Lecture, three hours; discussion, one hour. Recommended preparation: at least one Asian history or civilization course. Exploration of Vietnamese history and civilization during colonial and postcolonial eras, with emphasis on profound changes that swept through Vietnamese society during period of extended political and military conflict. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE180B"
+  },
+  {
+    "course_code": "VIETMSE M186",
+    "units": 4,
+    "title": "Korea and Vietnam: Comparative Modern Histories",
+    "description": "(Same as Korean M186.) Seminar, three hours. Comparative survey of intertwined and parallel histories of Korea and Vietnam, organized chronologically, but structured around key themes that serve as basis for comparison. Modern experiences of colonized Vietnam and Korea have many significant parallels, including imposition of colonial control, transition to modernized societies within context of colonialism, and shared experiences of World War II. Both were also divided after war between communist regimes in north and strongly anticommunist regimes in south. Each also experienced warfare after division and direct involvement of U.S. during height of cold war between 1950s and 1970s. P/NP or letter grading.",
+    "cross_listed": [
+      "KOREA M186"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSEM186"
+  },
+  {
+    "course_code": "VIETMSE 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE189"
+  },
+  {
+    "course_code": "VIETMSE 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/VIETMSE189HC"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "course_code": "SCAND 1",
+    "units": 4,
+    "title": "Elementary Swedish",
+    "description": "Discussion, four hours. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND1"
+  },
+  {
+    "course_code": "SCAND 2",
+    "units": 4,
+    "title": "Elementary Swedish",
+    "description": "Discussion, four hours. Enforced requisite: course 1. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "SCAND 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND2"
+  },
+  {
+    "course_code": "SCAND 3",
+    "units": 4,
+    "title": "Elementary Swedish",
+    "description": "Discussion, four hours. Enforced requisite: course 2. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SCAND 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND3"
+  },
+  {
+    "course_code": "SCAND 4",
+    "units": 4,
+    "title": "Intermediate Swedish",
+    "description": "(Formerly numbered 105A.) Lecture, three hours. Requisite: course 3. Readings, composition, and conversation in Swedish. P/NP or letter grading.",
+    "prerequisites": [
+      "SCAND 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND4"
+  },
+  {
+    "course_code": "SCAND 5",
+    "units": 4,
+    "title": "Intermediate Swedish",
+    "description": "(Formerly numbered 105B.) Lecture, three hours. Requisite: course 4. Readings, composition, and conversation in Swedish. P/NP or letter grading.",
+    "prerequisites": [
+      "SCAND 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND5"
+  },
+  {
+    "course_code": "SCAND 6",
+    "units": 4,
+    "title": "Intermediate Swedish",
+    "description": "(Formerly numbered 105C.) Lecture, three hours. Requisite: course 5. Readings, composition, and conversation in Swedish. P/NP or letter grading.",
+    "prerequisites": [
+      "SCAND 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND6"
+  },
+  {
+    "course_code": "SCAND 11",
+    "units": 4,
+    "title": "Elementary Norwegian",
+    "description": "Discussion, four hours. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND11"
+  },
+  {
+    "course_code": "SCAND 12",
+    "units": 4,
+    "title": "Elementary Norwegian",
+    "description": "Discussion, four hours. Enforced requisite: course 11. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "SCAND 11"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND12"
+  },
+  {
+    "course_code": "SCAND 13",
+    "units": 4,
+    "title": "Elementary Norwegian",
+    "description": "Discussion, four hours. Enforced requisite: course 12. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SCAND 12"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND13"
+  },
+  {
+    "course_code": "SCAND 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND19"
+  },
+  {
+    "course_code": "SCAND 40",
+    "units": 5,
+    "title": "Heroic Journey in Northern Myth, Legend, and Epic",
+    "description": "Lecture, three hours. Not open for credit to students with credit for course 40W. All readings in English. Comparison of journeys of heroes. Readings in Nordic mythology, legend, folktale, and epic. Cultural and historic backgrounds to texts. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "credit_exclusions": [
+      "SCAND 40W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND40"
+  },
+  {
+    "course_code": "SCAND 40W",
+    "units": 5,
+    "title": "Heroic Journey in Northern Myth, Legend, and Epic",
+    "description": "Lecture, two hours; discussion, two hours. Enforced requisite: English Composition 3. Not open for credit to students with credit for course 40. All readings in English. Comparison of journeys of heroes. Readings in Nordic mythology, legend, folktale, and epic. Cultural and historic backgrounds to texts. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "credit_exclusions": [
+      "SCAND 40"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND40W"
+  },
+  {
+    "course_code": "SCAND 50",
+    "units": 5,
+    "title": "Introduction to Scandinavian Literatures and Cultures",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 50W. Designed for students in general and for those wishing to prepare for more advanced and specialized studies in Scandinavian literature and culture. Selected works from literatures of Denmark, Norway, Sweden, Iceland, and Finland, ranging from myth, national epic, saga, and folktale through modern novel, poem, play, short story, and film, read in English and critically discussed. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "credit_exclusions": [
+      "SCAND 50W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND50"
+  },
+  {
+    "course_code": "SCAND 50W",
+    "units": 5,
+    "title": "Introduction to Scandinavian Literatures and Cultures",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 50. Designed for students in general and for those wishing to prepare for more advanced and specialized studies in Scandinavian literature and culture. Selected works from literatures of Denmark, Norway, Sweden, Iceland, and Finland, ranging from myth, national epic, saga, and folktale through modern novel, poem, play, short story, and film, read in English and critically discussed. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ENGCOMP 3H",
+      "ESL 36"
+    ],
+    "credit_exclusions": [
+      "SCAND 50"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND50W"
+  },
+  {
+    "course_code": "SCAND 60",
+    "units": 5,
+    "title": "Introduction to Nordic Cinema",
+    "description": "Lecture, three hours. Not open to students with credit for course 60W. Broad introductory overview of cinematic traditions of Nordic countries. Survey of wide range of films to become familiar with several significant threads running throughout history of Nordic film, while simultaneously building necessary tools with which to write effectively about film narrative. Offers historical and theoretical framework for understanding Nordic cinema by reading several relevant texts touching on issues such as globalization, immigration, Dogme 95, and feminist film theory. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "credit_exclusions": [
+      "SCAND 60W"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND60"
+  },
+  {
+    "course_code": "SCAND 60W",
+    "units": 5,
+    "title": "Introduction to Nordic Cinema",
+    "description": "Lecture, two hours; discussion, two hours. Enforced requisite: English Composition 3 or English as a Second Language 36. Not open for credit to students with credit for course 60. Introduction to cinematic traditions of Nordic countries, with emphasis on construction of other or outsider as conceptual category. Survey of wide range of films to interrogate relationship between various forms of minority discourse and dominant values, institutions, and mechanisms and instruments of social control. Investigation of how these cinematic narratives of dominant normativity and diversity reflect cultural anxieties surrounding identity, ideology, collective memory, and power relationships. Screenings supplemented with relevant theoretical texts to give tools necessary to more effectively contextualize and analyze images. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "ENGCOMP 3",
+      "ESL 36"
+    ],
+    "credit_exclusions": [
+      "SCAND 60"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND60W"
+  },
+  {
+    "course_code": "SCAND 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND89"
+  },
+  {
+    "course_code": "SCAND 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND89HC"
+  },
+  {
+    "course_code": "SCAND 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND99"
+  },
+  {
+    "course_code": "SCAND C131",
+    "units": 4,
+    "title": "Introduction to Viking Age",
+    "description": "Lecture, three hours. History, society, and culture of early Scandinavians. All texts in English, including readings in Old Norse sagas and Eddas. Concurrently scheduled with course C231. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC131"
+  },
+  {
+    "course_code": "SCAND C133A",
+    "units": 4,
+    "title": "Saga",
+    "description": "Seminar, three hours. Sagas are largest extant medieval prose literature. Texts in English, with selections from different types of Icelandic sagas. Consideration of history and society that produced these narratives. Concurrently scheduled with course C233A. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC133A"
+  },
+  {
+    "course_code": "SCAND 133C",
+    "units": 4,
+    "title": "Social Network Analysis and Icelandic Family Saga",
+    "description": "Seminar, three hours. Exploration of how character interactions can be used as basis for developing social network view of stage on which saga action plays out. Examination of how best to model sagas as dynamic social networks and learn about metrics and analytical approaches from social network analysis (SNA) that deepen understanding of saga actions. SNA provides additional opportunity to explore hypothetical situations and recognize alternative social pathways that may have led to other types of community formations. Study of Icelandic saga toward increasing complexity, developing understanding of characters and character roles, and using this as basis of preliminary investigations. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND133C"
+  },
+  {
+    "course_code": "SCAND 134",
+    "units": 4,
+    "title": "Scandinavian Mythology",
+    "description": "Seminar, three hours. Overview of major gods and goddesses, heroes and heroines, narratives and adventures that make up lore collectively referred to as Scandinavian, or Norse, myth. Reading and examination of this lore that is chiefly preserved in two collections traditionally called Poetic (or Elder) Edda and Prose (or Younger) Edda. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND134"
+  },
+  {
+    "course_code": "SCAND C137",
+    "units": 4,
+    "title": "Old Norse Literature and Society",
+    "description": "Seminar, three hours. Critical issues in medieval Scandinavian studies. May be repeated for credit. Concurrently scheduled with course C237. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC137"
+  },
+  {
+    "course_code": "SCAND 138",
+    "units": 5,
+    "title": "Vikings",
+    "description": "Lecture, three hours. Survey of history, anthropology, and archaeology of Scandinavian societies in Viking Age. Consideration of impact of Vikings on Europe and beyond, and depiction of Vikings in sagas and other post-Viking-Age sources. Readings draw on medieval texts and secondary material. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND138"
+  },
+  {
+    "course_code": "SCAND C141A",
+    "units": 4,
+    "title": "Theory of Scandinavian Novel",
+    "description": "Seminar, three hours. Analysis of predominant structures of Scandinavian novel from its 18th-century beginnings through its rise in 19th century and its 20th-century evolution. Discussion of application of contemporary critical theories to novels. May be concurrently scheduled with course C241A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC141A"
+  },
+  {
+    "course_code": "SCAND 141C",
+    "units": 4,
+    "title": "Short Story in Scandinavia",
+    "description": "Seminar, three hours. Exploration of range of classic short story and novella texts from Scandinavian literary canon, with stories by authors such as Hans Christian Andersen, Jens Peter Jacobsen, Alexander Kielland, Amalie Skram, Sigbj\u00f8rn Obstfelder, Knut Hamsun, Isak Dinesen, and Rub\u00e9n Palma. Examination of authors\u2019 lives and oeuvres, larger Nordic/European literary movements of 19th and 20th centuries, and tropes and conventions of short stories themselves. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND141C"
+  },
+  {
+    "course_code": "SCAND 142A",
+    "units": 4,
+    "title": "Introduction to Nordic Theater and Drama",
+    "description": "Lecture, three hours. Examination of artistic legacy of Henrik Ibsen and August Strindberg in context of emergence of modern Nordic theater and drama as whole, as well as important contributions of their contemporaries and successors. Readings include plays, letters, speeches, and memoirs by Ludvig Holberg, Henrik Ibsen, August Strindberg, P\u00e4r Lagerkvist, Kjeld Abell, Eeva-Liisa Manner, Hrafnhildur Hagal\u00edn Gudmundsd\u00f3ttir, and Jonas Hassen Khemiri. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND142A"
+  },
+  {
+    "course_code": "SCAND 143A",
+    "units": 4,
+    "title": "Scandinavian Detective Fiction",
+    "description": "Seminar, three hours. Scandinavian authors have been writing detective fiction for years. Maj Sj\u00f6wall and Per Wahl\u00f6\u00f6 were famous worldwide in 1960s and 1970s, especially with their Martin Beck series, and once they had established that Scandinavian writers could be successfully translated into many languages, others followed. Scandinavian authors, while following traditional rules of crime fiction, also analyze and often criticize values and cultures of their societies. Reading of these works as representations of critical social and intellectual problems not only in Scandinavia, but in Europe and world at large. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND143A"
+  },
+  {
+    "course_code": "SCAND 143C",
+    "units": 4,
+    "title": "Scandinavian Crime Literature",
+    "description": "Seminar, three hours. Introduction to background of crime fiction and its relation to Scandinavia. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND143C"
+  },
+  {
+    "course_code": "SCAND C145A",
+    "units": 4,
+    "title": "Henrik Ibsen",
+    "description": "Seminar, three hours. Readings and discussion of selected plays by Henrik Ibsen. May be concurrently scheduled with course C245A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC145A"
+  },
+  {
+    "course_code": "SCAND C145B",
+    "units": 4,
+    "title": "Knut Hamsun",
+    "description": "Seminar, three hours. Readings and discussion of selected works by Knut Hamsun and other 19th- and 20th-century Scandinavian writers who explored theme of nature as modern idyll. May be concurrently scheduled with course C245B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC145B"
+  },
+  {
+    "course_code": "SCAND C146A",
+    "units": 4,
+    "title": "August Strindberg",
+    "description": "Seminar, three hours. August Strindberg\u2019s portrayals of marital conflict reflected and shaped literary representation of so-called battle of sexes. His work, as well as its literary transformations, placed into Scandinavian, European, and feminist context. May be concurrently scheduled with course C246A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC146A"
+  },
+  {
+    "course_code": "SCAND 147A",
+    "units": 4,
+    "title": "Hans Christian Andersen",
+    "description": "Lecture, two hours; discussion, one hour. Study of works of Hans Christian Andersen, Danish novelist, dramatist, and writer of tales, including consideration of his literary background and of his times. Analysis of his works in terms of their structure, style, and meaning. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND147A"
+  },
+  {
+    "course_code": "SCAND C147B",
+    "units": 4,
+    "title": "Soren Kierkegaard",
+    "description": "Seminar, three hours. Readings and discussion of selected works by S\u00f8ren Kierkegaard and other existentialist writers. May be concurrently scheduled with course C247B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC147B"
+  },
+  {
+    "course_code": "SCAND 147C",
+    "units": 4,
+    "title": "Karen Blixen",
+    "description": "Lecture, three hours. Investigation of life, work, writings, and legacy of Danish author Karen Blixen, also known in the English-speaking world as Isak Dinesen. Focus on literary and philosophical paradoxes personified and articulated by enigmatic, controversial, and widely acclaimed Dinesen. Using memoirs, short fiction, and essays by Dinesen, interrogation of aesthetic theory, historiography and biography, feminist theory, postmodern and transcolonial theory, and identity. Secondary readings include texts by Bhabha, Gilbert and Gubar, JanMohamed, Kierkegaard, Nietzsche, Ngugi, Said, and Thurman. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND147C"
+  },
+  {
+    "course_code": "SCAND 154",
+    "units": 4,
+    "title": "Romanticism",
+    "description": "Seminar, three hours. Exploration of Romanticism in Scandinavian literature. Reading and discussion of different approaches to Romanticism and analysis of works of prominent Scandinavian writers from Romantic period to understand Scandinavian Romanticism in larger European context, including work from both English and German Romantic writers and artists. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND154"
+  },
+  {
+    "course_code": "SCAND C155",
+    "units": 4,
+    "title": "Modern Breakthrough",
+    "description": "(Formerly numbered 155.) Seminar, three hours. Readings and discussions of selected works of realism, naturalism, and symbolism in late 19th-century Scandinavian literature and art. Concurrently offered with course C255. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC155"
+  },
+  {
+    "course_code": "SCAND 156",
+    "units": 4,
+    "title": "Scandinavian Literature of 20th Century",
+    "description": "Seminar, three hours. Readings and discussion of selected works of modern Scandinavian literature from beginning of century to present. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND156"
+  },
+  {
+    "course_code": "SCAND 157",
+    "units": 4,
+    "title": "Contemporary Nordic Literature",
+    "description": "Seminar, three hours. Reading and analysis of selected texts by major 20th-century Swedish authors. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND157"
+  },
+  {
+    "course_code": "SCAND 161",
+    "units": 4,
+    "title": "Introduction to Nordic Cinema",
+    "description": "Seminar, three hours. Designed for students in general and for those preparing for more advanced studies in Scandinavian literature and culture. Viewing and discussion of films by Ingmar Bergman and other Scandinavians. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND161"
+  },
+  {
+    "course_code": "SCAND C163A",
+    "units": 4,
+    "title": "Introduction to Danish Cinema",
+    "description": "Seminar, three hours. Introduction to history of cinema in Denmark, as well as to some fundamental concepts in study of film. Deliberately broad and historically centered approach to development of cinema in Denmark rather than focus on films of particular directors or topics. Theoretical readings from important critics, including Kracauer, Bazin, Metz, and Chatman, along with several directed exercises, to develop vocabulary and critical method for discussing films in general and Danish cinema in particular. Other readings include selections from Hjort, Sandberg, Tangherlini, and other Scandinavian theorists. Concurrently scheduled with course C263A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC163A"
+  },
+  {
+    "course_code": "SCAND C163B",
+    "units": 4,
+    "title": "Introduction to Swedish Cinema",
+    "description": "Lecture, three hours. Introduction to and exploration of history of Swedish cinema from silent era to present. Filmmakers include auteurs in international canon, such as Victor Sj\u00f6str\u00f6m, Mauritz Stiller, and Ingmar Bergman, as well as other key Swedish filmmakers such as Gustaf Molander, Alf Sj\u00f6berg, Mai Zetterling, Vilgot Sj\u00f6man, Jan Troell, Lukas Moodysson, and Josef Fares. Development of Scandinavian high art cinema and popular genres such as rural romanticism, melodrama, sex, crime, and horror. All films have English subtitles. Concurrently scheduled with course C263B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC163B"
+  },
+  {
+    "course_code": "SCAND C163C",
+    "units": 4,
+    "title": "Introduction to Norwegian Cinema",
+    "description": "Seminar, three hours. Introduction to and exploration of history of Norwegian cinema from silent era to present. Filmmakers include Tancred Ibsen, Arne Skouen, Edith Carlmar, Nils Gaup, Erik Skjoldbj\u00e6rg, Bent Hamer, Khalid Hussain, and Petter N\u00e6ss. Particular focus on popular genres such as war films, horror, noir, romantic comedies, and documentaries. Concurrently scheduled with course C263C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC163C"
+  },
+  {
+    "course_code": "SCAND 165B",
+    "units": 4,
+    "title": "Vikings on Film",
+    "description": "Seminar, three hours. Exploration of representations of Vikings in medium of film, considering Viking films within their historic and cultural contexts. How does representation of Vikings on film correspond to historical reality of Vikings? What have Vikings come to signify in modern era and why? Do we see development in idea of Vikings over time that is reflected in films from different periods? How do representations of Vikings in films produced in Scandinavia differ from their representations in films from other cultures? How do we see changing ideas about gender, ethnicity, dis/ability, sexual preference, and other aspects of identity reflected in Viking films? Development of critical thinking and close textual analysis skills. All readings and films in English or with English subtitles. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND165B"
+  },
+  {
+    "course_code": "SCAND C166A",
+    "units": 4,
+    "title": "Ingmar Bergman",
+    "description": "Seminar, three hours. Exploration of Ingmar Bergman\u2019s development as film artist through various periods, spanning mid-1940s and late 1970s. Contextualization of work of this most personal of filmmakers within multiple frameworks of postwar Swedish film industry, international art cinema movement, and issues of auteur filmmaking. Course readings and viewing of 10 Bergman films. All films have English subtitles. Concurrently scheduled with course C266A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC166A"
+  },
+  {
+    "course_code": "SCAND C166C",
+    "units": 4,
+    "title": "Carl Dreyer",
+    "description": "Seminar, three hours. Carl Theodor Dreyer (1889 to 1968) is not only one of great masters of Nordic cinema, but of world cinema as well. Focus on films that Dreyer made during near half century between 1919 and 1964. Contextualization of silent and sound works of this most personal of filmmakers within multiple frameworks: Danish national film industry, transnational European cinema, and issues of auteur filmmaking. Writings by key Dreyer scholars such as David Bordwell, Ray Carney, Paul Schrader, Mark Sandberg, and others, as well as Dreyer\u2019s own writings on cinema. All films have English intertitles or subtitles. Concurrently scheduled with course C266C. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC166C"
+  },
+  {
+    "course_code": "SCAND C171",
+    "units": 4,
+    "title": "Introduction to Scandinavian Folklore",
+    "description": "Seminar, three hours. Introduction to fairy tales and legends of Scandinavian tradition as well as to interpretive methodologies that strive to answer question why do people tell stories that they tell? Concurrently scheduled with course C271. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC171"
+  },
+  {
+    "course_code": "SCAND 172A",
+    "units": 4,
+    "title": "Nordic Folk and Fairy Tales",
+    "description": "Seminar, three hours. Exploration of Nordic version of classic tale-types such as Dragon Slayer, Cinderella, Hansel and Gretel, and King Lindorm in historic and cultural contexts. Reading of important works of Nordic and international folktale scholarship, representing historical-geographic, structuralist, psychological, feminist, disability-theory, and queer-theory approaches. Development of critical thinking and close textual analysis skills, and understanding and appreciation of genre that continues to pervade popular culture. Readings in English translation. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND172A"
+  },
+  {
+    "course_code": "SCAND 173A",
+    "units": 4,
+    "title": "Popular Culture in Scandinavia",
+    "description": "Seminar, three hours. Examination of popular culture in Scandinavia through study of contemporary Scandinavian literature, film, music, and art. Investigation of how issues such as globalization, immigration, and nationalism are portrayed in popular culture in Denmark, Norway, Sweden, Finland, and Iceland. Discussion of how and why human condition is interpreted through study of cultural expressions and how it is possible\u2014taking literature, film, and art as point of departure\u2014to analyze cultural, historical, and political expression in given piece of art. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND173A"
+  },
+  {
+    "course_code": "SCAND C174A",
+    "units": 4,
+    "title": "Minority Cultures in Scandinavia",
+    "description": "Seminar, three hours. Exploration of emergence of immigrant cultures in Nordic region. Beginning in 1960s, large numbers of people from Turkey, Italy, and Pakistan began immigrating to Nordic countries, followed in subsequent decades by immigrants and refugees from Vietnam, India, Iran, Iraq, Afghanistan, Cambodia, and countries throughout Africa. Cultural landscape previously marked by relatively high degree of cultural homogeneity now characterized by broad cultural diversity. Examination of emergence of new voices in Nordic cultural landscape in wide range of cultural expressive media, including literature, film, and visual and performing arts. Exploration of emergence of new forms of Nordic languages, such as well-documented phenomenon of Rinkeby Swedish. Concurrently scheduled with course C274A. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC174A"
+  },
+  {
+    "course_code": "SCAND 174B",
+    "units": 4,
+    "title": "Queer Scandinavia",
+    "description": "Seminar, three hours. Queer themes in Scandinavian literature, mainly from 19th and 20th centuries. Scandinavian countries have had more progressive view on homosexuality than most other countries, and Scandinavian writers portrayed homosexuality in explicit and radical ways as early as turn of 19th century. Introduction to key theoretical works within field of gay and lesbian studies and queer studies, as well as presentation of historical view of how homosexuality has been perceived in Western world over time. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND174B"
+  },
+  {
+    "course_code": "SCAND C180",
+    "units": 4,
+    "title": "Literature and Scandinavian Society",
+    "description": "Seminar, three hours. Discussion of selected aspects of Scandinavian society based on readings of contemporary literature as well as historical and/or sociological material. May be repeated for credit (as determined by undergraduate adviser) with topic change. May be concurrently scheduled with course C280. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC180"
+  },
+  {
+    "course_code": "SCAND C185",
+    "units": 4,
+    "title": "Seminar: Scandinavian Literature",
+    "description": "Seminar, three hours. Selected topics in Scandinavian prose, poetry, and drama. May be repeated for credit with consent of instructor and undergraduate adviser. May be concurrently scheduled with course C265. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCANDC185"
+  },
+  {
+    "course_code": "SCAND 187FL",
+    "units": 2,
+    "title": "Special Studies: Readings in Scandinavian",
+    "description": "Seminar, two hours. Requisite: course 105B or 106B or 107B. Students must be concurrently enrolled in affiliated main course. Additional work in Nordic languages (Danish, Icelandic, Norwegian, Swedish) to augment work assigned in main course, including reading, writing, and other exercises. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "SCAND 105B",
+      "SCAND 106B",
+      "SCAND 107B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND187FL"
+  },
+  {
+    "course_code": "SCAND 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND188SA"
+  },
+  {
+    "course_code": "SCAND 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SCAND 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND188SB"
+  },
+  {
+    "course_code": "SCAND 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SCAND 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND188SC"
+  },
+  {
+    "course_code": "SCAND 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND189"
+  },
+  {
+    "course_code": "SCAND 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND189HC"
+  },
+  {
+    "course_code": "SCAND 197",
+    "units": 2,
+    "title": "Individual Studies in Scandinavian",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND197"
+  },
+  {
+    "course_code": "SCAND 199",
+    "units": 4,
+    "title": "Directed Research in Scandinavian",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SCAND199"
+  }
+]

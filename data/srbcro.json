@@ -1,0 +1,196 @@
+[
+  {
+    "course_code": "SRB CRO 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO19"
+  },
+  {
+    "course_code": "SRB CRO 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO89"
+  },
+  {
+    "course_code": "SRB CRO 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO89HC"
+  },
+  {
+    "course_code": "SRB CRO 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO99"
+  },
+  {
+    "course_code": "SRB CRO 101A",
+    "units": 5,
+    "title": "Elementary Serbian/Croatian",
+    "description": "Lecture, five hours. Course 101A is recommended preparation for 101B, which is recommended preparation for 101C. Each course may be waived with consent of instructor. Basic course in Serbian/Croatian. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO101A"
+  },
+  {
+    "course_code": "SRB CRO 101B",
+    "units": 5,
+    "title": "Elementary Serbian/Croatian",
+    "description": "Lecture, five hours. Recommended preparation: course 101A (may be waived with consent of instructor). Basic course in Serbian/Croatian. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO101B"
+  },
+  {
+    "course_code": "SRB CRO 101C",
+    "units": 5,
+    "title": "Elementary Serbian/Croatian",
+    "description": "Lecture, five hours. Recommended preparation: courses 101A, 101B (may be waived with consent of instructor). Basic course in Serbian/Croatian. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO101C"
+  },
+  {
+    "course_code": "SRB CRO 102A",
+    "units": 4,
+    "title": "Advanced Serbian/Croatian",
+    "description": "Lecture, three hours. Recommended preparation: course 101C (may be waived with consent of instructor). Course 102A is recommended preparation for 102B, which is recommended preparation for 102C. Each course may be waived with consent of instructor. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO102A"
+  },
+  {
+    "course_code": "SRB CRO 102B",
+    "units": 4,
+    "title": "Advanced Serbian/Croatian",
+    "description": "Lecture, three hours. Recommended preparation: course 102A (may be waived with consent of instructor). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO102B"
+  },
+  {
+    "course_code": "SRB CRO 102C",
+    "units": 4,
+    "title": "Advanced Serbian/Croatian",
+    "description": "Lecture, three hours. Recommended preparation: courses 102A, 102B (may be waived with consent of instructor). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO102C"
+  },
+  {
+    "course_code": "SRB CRO 103",
+    "units": 12,
+    "title": "Intensive Elementary Bosnian, Serbian, Croatian",
+    "description": "Lecture, 25 hours. Intensive basic course in Bosnian, Serbian, Croatian equivalent to courses 101A, 101B, 101C. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO103"
+  },
+  {
+    "course_code": "SRB CRO 154",
+    "units": 4,
+    "title": "South Slavic Literature",
+    "description": "Lecture, three hours. Lectures and readings in English. Survey of South Slavic literature from Middle Ages to the present. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO154"
+  },
+  {
+    "course_code": "SRB CRO 187A",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Enforced requisite: course 102C or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SRB CRO 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187A"
+  },
+  {
+    "course_code": "SRB CRO 187B",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187B"
+  },
+  {
+    "course_code": "SRB CRO 187C",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187C"
+  },
+  {
+    "course_code": "SRB CRO 187D",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187D"
+  },
+  {
+    "course_code": "SRB CRO 187E",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187E"
+  },
+  {
+    "course_code": "SRB CRO 187F",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187F"
+  },
+  {
+    "course_code": "SRB CRO 187G",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187G"
+  },
+  {
+    "course_code": "SRB CRO 187I",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187I"
+  },
+  {
+    "course_code": "SRB CRO 187J",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187J"
+  },
+  {
+    "course_code": "SRB CRO 187K",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187K"
+  },
+  {
+    "course_code": "SRB CRO 187L",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187L"
+  },
+  {
+    "course_code": "SRB CRO 187M",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Serbian/Croatian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Serbian/Croatian placement test. Tutorial and guided independent study of advanced Serbian/Croatian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO187M"
+  },
+  {
+    "course_code": "SRB CRO 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO189"
+  },
+  {
+    "course_code": "SRB CRO 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SRBCRO189HC"
+  }
+]

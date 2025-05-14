@@ -1,0 +1,1824 @@
+[
+  {
+    "course_code": "PSYCH 10",
+    "units": 4,
+    "title": "Introductory Psychology",
+    "description": "Lecture, four hours. General introduction including topics in cognitive, experimental, personality, developmental, social, and clinical psychology; six hours of psychological research and a grade of C or better required of all departmental premajors. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH10"
+  },
+  {
+    "course_code": "PSYCH 15",
+    "units": 4,
+    "title": "Introductory Psychobiology",
+    "description": "Lecture, three hours. Designed for nonmajors. Survey of genetic, evolutionary, physiological, pharmacological, and experiential factors affecting behavior. Using comparative approach where appropriate, emphasis on relevance of biological mechanisms to understanding of humans and their interaction with their environment. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH15"
+  },
+  {
+    "course_code": "PSYCH 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH19"
+  },
+  {
+    "course_code": "PSYCH 20A",
+    "units": 4,
+    "title": "MATLAB Programming for Behavioral Sciences",
+    "description": "Lecture, two hours; laboratory, one hour. Prior programming experience not required. Introduction to MATLAB and programming methods useful in experimental psychology. Reading and writing of code for conducting experiments, analyzing data, and modeling. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH20A"
+  },
+  {
+    "course_code": "PSYCH 20B",
+    "units": 4,
+    "title": "Advanced Topics in MATLAB Programming for Behavioral Sciences",
+    "description": "Lecture, two hours; laboratory, one hour. Requisite: course 20A. Introduction of advanced topics in MATLAB programming for behavioral sciences, including Psychtoolbox, advanced MATLAB graphics and input/out, simulations and modeling, and efficient MATLAB coding. Active programming during class and for homework required. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 20A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH20B"
+  },
+  {
+    "course_code": "PSYCH 30",
+    "units": 4,
+    "title": "Web Programming for Psychology",
+    "description": "Lecture, one hours; laboratory, three hours. Introduction to core technologies of Internet, with focus on applications that collect and analyze data. Server side programming includes Perl and MYSQL databases. Client side programming includes HTML and Javascript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH30"
+  },
+  {
+    "course_code": "PSYCH 85",
+    "units": 4,
+    "title": "Introduction to Cognitive Science",
+    "description": "Lecture, three hours. Exploration of computer metaphor of mind as an information-processing system, focusing especially on perception, knowledge representation, and thought based on research in cognitive psychology, neuropsychology, and artificial intelligence. Many examples from visual information processing.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH85"
+  },
+  {
+    "course_code": "PSYCH 88A",
+    "units": 4,
+    "title": "Lower-Division Seminar: Stress, Adaptation, and Coping",
+    "description": "Seminar, three hours. Enforced requisite: course 10. Limited to freshmen. Physiological and psychological processes related to stresses and strains of daily living and potential relation of these processes to disease states. Examination of multifaceted nature of coping with stressors and exploration of strategies for stress management. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH88A"
+  },
+  {
+    "course_code": "PSYCH 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH89"
+  },
+  {
+    "course_code": "PSYCH 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH89HC"
+  },
+  {
+    "course_code": "PSYCH 97",
+    "units": 4,
+    "title": "Variable Topics in Psychology",
+    "description": "Seminar, three hours. Enforced requisite: course 10. Study of selected topics in psychology at introductory level; seminar format designed for freshmen/sophomores. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH97"
+  },
+  {
+    "course_code": "PSYCH 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH99"
+  },
+  {
+    "course_code": "PSYCH 100A",
+    "units": 4,
+    "title": "Psychological Statistics",
+    "description": "Lecture, four hours. Requisites: course 10 with a grade of C or better, and one course from Mathematics 2, Program in Computing 10A, Statistics 10, or one term of calculus. Designed for premajors. Basic statistical procedures and their application to research and practice in various areas of psychology. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "C or better, and one course from Mathematics 2",
+      "PIC 10A",
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH100A"
+  },
+  {
+    "course_code": "PSYCH 100B",
+    "units": 5,
+    "title": "Research Methods in Psychology",
+    "description": "Lecture, two hours; laboratory, two hours. Enforced requisite: course 10, with grade of C or better. Introduction to research methods and critical analysis in psychology. Lecture and laboratory topics include experimental and nonexperimental research methods, statistical design and analysis as applied to a broad range of basic and applied research issues. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH100B"
+  },
+  {
+    "course_code": "PSYCH 101",
+    "units": 4,
+    "title": "General Psychology Laboratory",
+    "description": "Laboratory, four hours. Requisites: courses 10, 100A, 100B. General laboratory course for psychology students to acquire key concepts in psychology through active participation in enriched environment. Use of current technologies (e.g., Web-based teaching, interactive computer demonstrations) in challenging atmosphere to learn how mind works. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH101"
+  },
+  {
+    "course_code": "PSYCH M107",
+    "units": 4,
+    "title": "Asian American Personality and Mental Health",
+    "description": "(Same as Asian American Studies M117.) Lecture, three hours. Requisite: course 10. Foundations of personality development and mental health among Asian Americans. Topics include culture, family patterns, achievements, stressors, resources, and immigrant and minority group status. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "cross_listed": [
+      "ASIA AM M117"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM107"
+  },
+  {
+    "course_code": "PSYCH 110",
+    "units": 4,
+    "title": "Fundamentals of Learning",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Designed for juniors/seniors. Experimental findings on animal and human conditioning; retention and transfer of training; relation of learning and motivation. Intended to provide empirical basis for theory and research in this area. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH110"
+  },
+  {
+    "course_code": "PSYCH 111",
+    "units": 4,
+    "title": "Learning Laboratory",
+    "description": "Lecture, two hours; laboratory, three hours. Requisites: courses 10, 100A, 100B, 110. Designed for departmental majors. Laboratory experience with techniques in study of learning, especially with animals. Letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH111"
+  },
+  {
+    "course_code": "PSYCH 112A",
+    "units": 4,
+    "title": "Basic Processes of Motivated Behavior",
+    "description": "Lecture, 90 minutes; discussion, 90 minutes. Requisites: courses 10, 100A, 110. Designed for juniors/seniors. Examination of some basic processes underlying motivated behavior, stressing environmental determinants of behaviors such as feeding, drinking, and reproduction-related behavior. Discussion of physiological mechanisms that contribute to such behaviors. Consideration of topics such as reinforcement, acquired motivation, and drug addiction. Evaluation of evidence obtained in laboratory studies conducted with animals. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH112A"
+  },
+  {
+    "course_code": "PSYCH 112B",
+    "units": 4,
+    "title": "Psychobiology of Fear and Anxiety",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A, 110. Recommended: course 115. Designed for juniors/seniors. Presentation of biological and behavioral approaches to fear and anxiety, taken from laboratory and applied research. In addition to overview of major principles from each approach, emphasis on areas in which significant research advances have recently occurred. Examination of concordance and discordance between results from laboratory and applied research. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH112B"
+  },
+  {
+    "course_code": "PSYCH 112C",
+    "units": 4,
+    "title": "Psychobiology of Anxiety and Depression",
+    "description": "Lecture, two and one half hours; discussion, 30 minutes. Requisites: courses 110 and 115, or Neuroscience M101A, M101B, and M101C. Limited to juniors/seniors. Presentation of biological and behavioral approaches to anxiety and depression, taken from laboratory and applied research. In addition to overview of major principles from each approach, emphasis on areas in which significant research advances have recently occurred. Examination of concordance and discordance between results from laboratory and applied research. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 110",
+      "PSYCH 115",
+      "NEUROSC M101A",
+      "NEUROSC M101B",
+      "NEUROSC M101C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH112C"
+  },
+  {
+    "course_code": "PSYCH 112D",
+    "units": 4,
+    "title": "Animal Cognition",
+    "description": "Lecture, 90 minutes; discussion, 90 minutes. Requisites: courses 10, 100A, 110. Designed for juniors/seniors. Investigation of scientific study of cognition and behavior in animals. Topics include perception and attention, working and reference memory, spatial cognition, timing and counting, concept formation, and abstract reasoning. Most discussions focus on laboratory findings with animals, as viewed from evolutionary framework concerned with natural histories of animals. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH112D"
+  },
+  {
+    "course_code": "PSYCH 112E",
+    "units": 4,
+    "title": "Decision Making and Brain",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A, 110. Designed for juniors/seniors. Survey of neural mechanisms of value-based decision making from perspective of neoclassical economics. Discussion of theoretical models of valuation and decision making from economics and application to psychological and neuroscience studies of learning and decision making. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 110"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH112E"
+  },
+  {
+    "course_code": "PSYCH 115",
+    "units": 4,
+    "title": "Principles of Behavioral Neuroscience",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 100A, Life Sciences 2 or 7A or 15. Not open to students with credit for course M117A (or Molecular, Cell, and Developmental Biology M175A or Neuroscience M101A or Physiological Science M180A). Designed for juniors/seniors. Nervous system anatomy, physiology, pharmacology, and their relationship to behavior. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 100A",
+      "LIFESCI 2",
+      "LIFESCI 7A",
+      "LIFESCI 15"
+    ],
+    "credit_exclusions": [
+      "PSYCH M117A",
+      "NEUROSC M101A",
+      "MCD BIO M175A",
+      "PHYSCI M180A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH115"
+  },
+  {
+    "course_code": "PSYCH M116A",
+    "units": 4,
+    "title": "Behavioral Neuroscience Laboratory",
+    "description": "(Formerly numbered 116.) (Same as Neuroscience M116A.) Lecture, one hour; laboratory, three hours. Requisites: courses 10, 100A, 100B, and 115, or Neuroscience M101A and M101B (M101B may be taken concurrently). Not open for credit to students with credit for course 116B. Designed for Psychobiology, Psychology, and Neuroscience majors. Laboratory experience with various topics in behavioral neuroscience. Hands-on experience with important methodology and experimental approaches in neuroscience. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 115",
+      "NEUROSC M101A",
+      "NEUROSC M101B"
+    ],
+    "credit_exclusions": [
+      "PSYCH 116B"
+    ],
+    "cross_listed": [
+      "NEUROSC M116A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM116A"
+  },
+  {
+    "course_code": "PSYCH 116B",
+    "units": 4,
+    "title": "Human Neuropsychology Laboratory",
+    "description": "Laboratory, four hours. Requisites: courses 10, 100A, 100B, 115. Not open for credit to students with credit for 116A. Focus on human neural function in health and disease. Concentration on neural underpinnings of behaviors unique to humans. Hands-on empirical investigations of neural functions in which students themselves serve as subjects. Incorporation of neural bases of language and cognition, assessment in field of neuropsychology, and human neuroanatomy. Addresses disorders of nervous system that have profound impacts on human functioning such as stroke and central nervous system damage, dementia, mental illness, and pain. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 115"
+    ],
+    "credit_exclusions": [
+      "PSYCH M116A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH116B"
+  },
+  {
+    "course_code": "PSYCH M117A",
+    "units": 5,
+    "title": "Neuroscience: From Molecules to Mind\u2014Cellular and Systems Neuroscience",
+    "description": "(Same as Molecular, Cell, and Developmental Biology M175A, Neuroscience M101A, and Physiological Science M180A.) Lecture, four hours; discussion, 90 minutes. Requisites: Chemistry 14C or 30A (14C may be taken concurrently), Life Sciences 7C, Physics 1B or 1BH or 5C or 6B. Students must receive grade of C\u2013 or better to proceed to next course in series. Cellular neurophysiology, membrane potential, action potentials, and synaptic transmission. Sensory systems and motor system; how assemblies of neurons process complex information and control movement. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14C",
+      "CHEM 30A",
+      "LIFESCI 7C",
+      "PHYSICS 1B",
+      "PHYSICS 1BH",
+      "PHYSICS 5C",
+      "PHYSICS 6B"
+    ],
+    "cross_listed": [
+      "NEUROSC M101A",
+      "MCD BIO M175A",
+      "PHYSCI M180A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM117A"
+  },
+  {
+    "course_code": "PSYCH M117B",
+    "units": 5,
+    "title": "Neuroscience: From Molecules to Mind\u2014Molecular and Developmental Neuroscience",
+    "description": "(Same as Neuroscience M101B, Molecular, Cell, and Developmental Biology M175B, and Physiological Science M180B.) Lecture, four hours; discussion, 90 minutes. Requisites: course M117A (with grade of C\u2013 or better), Life Sciences 7C. Molecular biology of channels and receptors: focus on voltage dependent channels and neurotransmitter receptors. Molecular biology of supramolecular mechanisms: synaptic transmission, axonal transport, cytoskeleton, and muscle. Classical experiments and modern molecular approaches in developmental neurobiology. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH M117A",
+      "LIFESCI 7C"
+    ],
+    "cross_listed": [
+      "NEUROSC M101B",
+      "MCD BIO M175B",
+      "PHYSCI M180B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM117B"
+  },
+  {
+    "course_code": "PSYCH M117C",
+    "units": 5,
+    "title": "Neuroscience: From Molecules to Mind\u2014Behavioral and Cognitive Neuroscience",
+    "description": "(Same as Neuroscience M101C, Molecular, Cell, and Developmental Biology M175C, and Physiological Science M180C.) Lecture, four hours; discussion, 90 minutes. Requisites: course M117A with grade of C\u2013 or better. Neural mechanisms underlying motivation, learning, and cognition. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH M117A"
+    ],
+    "cross_listed": [
+      "PHYSCI M180C",
+      "NEUROSC M101C",
+      "MCD BIO M175C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM117C"
+  },
+  {
+    "course_code": "PSYCH 118",
+    "units": 4,
+    "title": "Comparative Psychobiology",
+    "description": "Requisite: course 115. Designed for junior/senior majors. Survey of determinants of species-specific behavior, including genetic influences and learning.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH118"
+  },
+  {
+    "course_code": "PSYCH 119A",
+    "units": 4,
+    "title": "Neuropsychopharmacology of Emotion and Cognition",
+    "description": "Lecture, three hours. Requisite: course 115 or M117C. Limited to juniors/seniors. Analysis of basic pharmacologic principles, with emphasis on neurochemical modulation of emotional regulation and cognitive processes in normal and diseased state. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119A"
+  },
+  {
+    "course_code": "PSYCH 119B",
+    "units": 4,
+    "title": "How Brains Learn to Construct Models of Environment",
+    "description": "Lecture, three hours. Requisite: course 115 or M117C. Designed for juniors/seniors. Every day we encounter something new. As result of these experiences, our brain builds cognitive models of our environment. This allows us to respond flexibly and efficiently when we encounter something similar in future. Discussion of types of models our brain builds that afford this flexible behavior, and how different regions of brain contribute in different ways to model building. Discussion of how different psychological disorders can be accounted for by disruptions in this process, providing key neural targets for pharmacological treatments. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119B"
+  },
+  {
+    "course_code": "PSYCH 119C",
+    "units": 4,
+    "title": "Cognitive Neuroscience",
+    "description": "Lecture, three hours. Requisite: course 115 or M117C. Understanding complex mental functions depends on interplay of cognitive psychology and behavioral neuroscience. Designed to provide advanced undergraduate students with current perspectives on how complex processes of mind may be understood using neuroscience techniques. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119C"
+  },
+  {
+    "course_code": "PSYCH 119D",
+    "units": 4,
+    "title": "Learning in Biological and Artificial Neural Networks",
+    "description": "Lecture, three hours. Requisite: course 115 or M117C. Limited to juniors/seniors. Introduction to fundamental principles of brain-inspired computing. Analysis of how biological and artificial neural networks learn to solve problems by fitting models to data. Review of how advances in artificial intelligence help us to better understand the brain and nervous system. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119D"
+  },
+  {
+    "course_code": "PSYCH 119E",
+    "units": 4,
+    "title": "Neurobiology of Fear",
+    "description": "Lecture, three hours. Animals face changing threats in nature, and have evolved the ability to dynamically alter behavior to minimize threat exposure and increase the probability of survival. Threats of different modalities and intensities can provoke distinct defensive behaviors, such as freezing or escape. Neural pathways involved in generating and suppressing these behaviors may differ depending on the type of threat, even when considering the same defensive behavior. For example, freezing caused by a fear conditioned tone and by a live predator are controlled by overlapping, but separate circuits. Introduction to the main types of techniques that are covered in the papers that are discussed. These papers demonstrate how and when distinct neural pathways are mobilized to generate the appropriate defensive behavior. Papers cover recent rodent experiments using state-of-the-art methods with high temporal, genetic, and anatomical specificity to investigate the circuits underlying defensive behaviors. May be repeated once for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119E"
+  },
+  {
+    "course_code": "PSYCH 119F",
+    "units": 4,
+    "title": "Neural Basis of Behavior",
+    "description": "Lecture, three hours. Requisite: course 115. Designed for juniors/seniors. Presentation of current data and theory concerning how neuron circuits produce behavior. Mechanisms of perception, response selection, motor pattern generation, learning, and motivation, with emphasis on operation of these processes in well-defined neural circuits in animals and humans. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119F"
+  },
+  {
+    "course_code": "PSYCH 119I",
+    "units": 4,
+    "title": "Integration of Face and Brain",
+    "description": "Seminar, three hours. Requisite: course 115 or M117C. Faces play major role in social interactions in both humans and nonhuman primates and in other animals as well. Exploration of neuroanatomical, neurophysiological, and neurofunctional underpinnings of face processing (attractiveness, emotional expressions, facial skin, identity recognition, based on empirical studies that use behavioral responses in neuroimaging techniques, in effects of types of brain damage, in physiological responses, and in psychopathological states. Discussion of evolutionary approaches to faces, as well as relationship between specific genetic mutations affecting both brain and facial appearance. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119I"
+  },
+  {
+    "course_code": "PSYCH 119J",
+    "units": 4,
+    "title": "Brain Bugs: Understanding Brain through Its Flaws",
+    "description": "Lecture, three hours. Requisite: course 115 or M117C. Designed for juniors/seniors. Psychology of brain flaws and limitations to understand how brain works by studying what it does well and understanding neuroscience of why brain is poorly suited to perform some tasks such as numerical calculations, memorizing lists and names, and making unbiased decisions. Topics include memory (types of memory, false memories, misinformation and memory, memory capacity) and cognitive biases (framing, anchoring, and temporal discounting). Exploration of underlying neural causes of brain flaws and limitations in context of brain\u2019s associative architecture. Basic neurophysiology, synaptic plasticity, cortical plasticity, neural basis of learning and memory, and some computational neuroscience. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119J"
+  },
+  {
+    "course_code": "PSYCH 119K",
+    "units": 4,
+    "title": "Neurophilosophy",
+    "description": "Lecture, three hours. Requisite: course 115. Philosophy of mind has relied on introspection and thought experiments to explore consciousness, self, and free will. Field of neurophilosophy employs findings and methods of neuroscience to investigate these seemingly impenetrable constructs. Provides students with foundation in neurophilosophy, which includes basic understanding of philosophy of mind, consideration of phenomena including consciousness, volition, and self, and examination of scientific methods available for studying these phenomena. Exploration of student experiences of world and themselves within and demonstrations of how alterations in brain functioning due to injury, psychedelic drugs, and dreaming result in alterations in these phenomena. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119K"
+  },
+  {
+    "course_code": "PSYCH M119L",
+    "units": 4,
+    "title": "Human Neuropsychology",
+    "description": "(Same as Neuroscience M119L.) Lecture, three hours. Recommended requisites: courses 115 (or M117A and M117C), 120A or 120B. Designed for juniors/seniors. Survey of experimental and clinical human neuropsychology; neural basis of higher cognitive functions. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "PSYCH M117A",
+      "PSYCH M117C",
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "cross_listed": [
+      "NEUROSC M119L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM119L"
+  },
+  {
+    "course_code": "PSYCH 119M",
+    "units": 4,
+    "title": "Neural Circuits of Learning and Memory",
+    "description": "Lecture, three hours. Requisite: course 115. Designed for juniors/seniors. Introduction to classical and current literature on mechanisms of learning and memory from individual brain systems to circuits. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119M"
+  },
+  {
+    "course_code": "PSYCH M119N",
+    "units": 4,
+    "title": "Visual System",
+    "description": "(Same as Neuroscience M119N.) Lecture, three hours. Requisite: course 115 or Neuroscience M101A or Physiological Science 111A. Ability to image and analyze visual world is truly remarkable feat. Coverage of anatomy and physiology of visual processing from retina to visual cortex through lectures, extensive reading, and discussions. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115",
+      "NEUROSC M101A",
+      "PHYSCI 111A"
+    ],
+    "cross_listed": [
+      "NEUROSC M119N"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM119N"
+  },
+  {
+    "course_code": "PSYCH M119O",
+    "units": 4,
+    "title": "Psychology of Aging",
+    "description": "(Same as Gerontology M119O.) Requisite: course 115. Designed for juniors/seniors. Aging refers to developmental changes occurring at end stages of life. Some alterations that occur represent improvement, others are detrimental. Examination of impact of aging process on mental phenomena and exploration of ways in which positive changes can be maximally utilized and impact of detrimental alterations minimized. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "cross_listed": [
+      "GRNTLGY M119O"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM119O"
+  },
+  {
+    "course_code": "PSYCH 119P",
+    "units": 4,
+    "title": "Emerging Topics in Neuroscience",
+    "description": "Lecture, two hours; discussion, one hour. Requisite: course 115. Emerging advanced lecture topics in neuroscience given by visiting speakers, with additional lectures by instructor on relevant background material. Reading of published scientific articles. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119P"
+  },
+  {
+    "course_code": "PSYCH 119Q",
+    "units": 4,
+    "title": "Psychobiology of Sleep and Dreams",
+    "description": "Lecture, three hours. Requisite: course 115. Designed for juniors/seniors. Study of measurement of sleep, comparison of sleep in mammal species and sleep in sub-mammalian species, circadian rhythms and circadian control of sleep, development and aging of sleep, brain anatomical and neurochemical control of sleep, effects of sleep deprivation, sleep in psychiatric disorders, human sleep disorders, and properties of dreams. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119Q"
+  },
+  {
+    "course_code": "PSYCH 119U",
+    "units": 4,
+    "title": "Neural Correlates of Psychotic Disorders",
+    "description": "Lecture, three hours. Requisite: course 115. Designed for juniors/seniors. Exploration of genetic, cellular, structural, and functional abnormalities associated with psychotic states, including those seen in schizophrenia spectrum disorders, bipolar disorder, and drug-induced psychosis. Focus on common and unique neural findings associated with these abnormal states. Study includes review of clinical aspects of disorders covered. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119U"
+  },
+  {
+    "course_code": "PSYCH 119V",
+    "units": 4,
+    "title": "Brain and Art",
+    "description": "Lecture, three hours. Requisite: course 115. Multiple forms of art express uniqueness of human brain and mind. Discussion of neural underpinnings of art in artist and viewer and links to evolutionary, biological, aesthetic, cognitive, and social roots of art. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119V"
+  },
+  {
+    "course_code": "PSYCH M119X",
+    "units": 4,
+    "title": "Biology and Behavioral Neuroscience of Aging",
+    "description": "(Same as Gerontology M119X.) Lecture, three hours. Designed for juniors/seniors. Biologic mechanisms of aging process and its terminal phase, death, have been increasingly studied in recent years. Establishment of what is known experimentally about biology and behavioral neuroscience of aging and evaluation of theories developed to account for this knowledge. P/NP or letter grading.",
+    "cross_listed": [
+      "GRNTLGY M119X"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM119X"
+  },
+  {
+    "course_code": "PSYCH 119Y",
+    "units": 4,
+    "title": "Psychobiology of Sexual Behavior",
+    "description": "Lecture, three hours. Requisite: course 115. Broad overview of scientific study of sexual behavior, with emphases on evolutionary, biological, psychological, and social considerations. Topics include historical antecedents of sex research, evolution of sex, influence of sex hormones on brain and behavior, sexual development, and roles of genes and hormones on sexual orientation. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH119Y"
+  },
+  {
+    "course_code": "PSYCH 120A",
+    "units": 4,
+    "title": "Cognitive Psychology",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Designed for juniors/seniors. Survey of cognitive psychology: how people acquire, represent, transform, and use verbal and nonverbal information. Perception, attention, imagery, memory, representation of knowledge, language, action, decision making, thinking. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH120A"
+  },
+  {
+    "course_code": "PSYCH 120B",
+    "units": 4,
+    "title": "Sensation and Perception",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Designed for juniors/seniors. Acquisition of information about physical world through basic sensory mechanisms and perceptual processes. Perception of objects, surfaces, space, motion, and events. Connections between information, computations, and biological mechanisms in vision, audition, and other systems. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH120B"
+  },
+  {
+    "course_code": "PSYCH 121",
+    "units": 4,
+    "title": "Laboratory in Cognitive Psychology",
+    "description": "Laboratory, four hours. Requisites: courses 10, 100A, 100B, 120A or 120B. Designed for Psychology and Cognitive Science majors. Laboratory experience with methods and phenomena from research on human perception, memory, and cognition. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH121"
+  },
+  {
+    "course_code": "PSYCH 124A",
+    "units": 4,
+    "title": "Language as Cognitive Science",
+    "description": "Lecture, three hours. Requisites: courses 100A, 100B, one programming course. Designed for junior/senior Cognitive Science majors. What mental mechanisms allow humans to transfer thoughts across minds through language? Through discussions and experiments, evaluation of behavioral, modeling, and neuroscientific data elucidating component processes of language system and its place within architecture of mind. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124A"
+  },
+  {
+    "course_code": "PSYCH 124B",
+    "units": 4,
+    "title": "Fundamentals of User Experience",
+    "description": "Lecture, four hours. Requisite: course 120A or 120B. Designed for juniors/seniors. Thorough introduction to core principles and methods in field of user experience research and design. This relatively new discipline has evolved as psychologists and designers have begun to place greater focus on understanding and anticipating needs of humans using their products. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124B"
+  },
+  {
+    "course_code": "PSYCH 124C",
+    "units": 4,
+    "title": "Human Memory",
+    "description": "Lecture, two hours; discussion, one hour. Requisite: course 120A or 120B. Designed for juniors/seniors. Analysis of recent research on basic processes and structural components that comprise the human memory system. Discussion topics include practical implications of such research for instruction, marketing, and witness testimony. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124C"
+  },
+  {
+    "course_code": "PSYCH 124D",
+    "units": 4,
+    "title": "Consciousness: Current Debates",
+    "description": "Seminar, three hours. Requisites: courses 100B, 115. Designed for juniors/seniors. Review of current issues in research on cognitive neuroscience of consciousness, with focus on modern theories of conscious perception, especially in visual modality so as to reflect its dominance in consciousness research. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 100B",
+      "PSYCH 115"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124D"
+  },
+  {
+    "course_code": "PSYCH 124E",
+    "units": 4,
+    "title": "Decision Psychology and Neuroscience",
+    "description": "Lecture, three hours. Requisite: course 120A or 120B. Designed for juniors/seniors. Analysis of behavioral and neuroscience studies of preference-based decision making, and related topics. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124E"
+  },
+  {
+    "course_code": "PSYCH 124F",
+    "units": 4,
+    "title": "Thinking",
+    "description": "Lecture, three hours. Requisite: course 120A or 120B. Analysis of experimental studies of human categorization, reasonings, decision making, problem solving, creativity, and related topics. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124F"
+  },
+  {
+    "course_code": "PSYCH 124G",
+    "units": 4,
+    "title": "Cognition and Successful Aging",
+    "description": "Lecture, three hours. Requisite: course 120A or 120B. Discussion of cognitive, social, and emotional changes that happen with age, how people live and learn, focus on what is important, achieve balance, and get better with age. Topics include happiness, memory, brain training, use of emerging technology, wisdom, humor, habits, retirement, and what constitutes successful aging. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124G"
+  },
+  {
+    "course_code": "PSYCH 124J",
+    "units": 4,
+    "title": "Perception, Learning, and Learning Technology",
+    "description": "Seminar, three hours. Requisite: course 120A or 120B. Aspects of perception and cognition as they relate to learning and potential for learning technology. Basic knowledge about visual information processing, perceptual learning, knowledge representation, pattern recognition, attention, memory, and expertise, as well as research on learning, technology, and applications of perceptual and cognitive concepts in specific domains, with special focus on teaching and learning in mathematics. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124J"
+  },
+  {
+    "course_code": "PSYCH 124K",
+    "units": 4,
+    "title": "Ethical, Legal, and Societal Implications of Cognitive Neuroscience",
+    "description": "Lecture, three hours. Requisite: course 120A or 120B. Designed for juniors/seniors. Critical examination of current and potential use of neuroimaging data in legal system as means to assess memories, truthfulness, culpability, and probability of future criminal behavior. Consideration of personal and societal consequences of use of cognitively enhancing drugs, memory dampening techniques, brain stimulation, and neural prostheses. Students debate range of current topics. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 120A",
+      "PSYCH 120B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH124K"
+  },
+  {
+    "course_code": "PSYCH 126",
+    "units": 4,
+    "title": "Clinical Psychology Laboratory",
+    "description": "Laboratory, four hours. Requisites: courses 10, 100A, 100B, and 127A or 127B or 127C. Designed for departmental majors. Methods, designs, and issues in conduct of clinical psychology research. Students develop and conduct research. Content varies by instructor, with concentration on one of following: schizophrenia, mood disorders, anxiety disorders, childhood disorders, psychophysiological methods, observational methods with couples and families. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 127A",
+      "PSYCH 127B",
+      "PSYCH 127C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH126"
+  },
+  {
+    "course_code": "PSYCH 127A",
+    "units": 4,
+    "title": "Clinical Psychological Science",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127B or 127C. Study of psychological disorders (e.g., depression, anxiety, substance use disorders, schizophrenia) across lifespan, including role of biological, behavioral, social, cognitive, and cultural factors, diagnosis and treatment approaches. Discussion of Stigma and practices that support inclusiveness. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "credit_exclusions": [
+      "PSYCH 127B",
+      "PSYCH 127C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH127A"
+  },
+  {
+    "course_code": "PSYCH 127B",
+    "units": 4,
+    "title": "Clinical Psychological Science: Biological Bases",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127A or 127C. Study of Biological processes involved in etiology, presentation, and course of psychiatric disorders, and biological targets or mechanisms of treatment. Emphasis on clinical neuroscience and behavioral genetics as scientific modalities to understand mood disorders, substance use disorders, psychosis, and others. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "credit_exclusions": [
+      "PSYCH 127A",
+      "PSYCH 127C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH127B"
+  },
+  {
+    "course_code": "PSYCH 127C",
+    "units": 4,
+    "title": "Clinical Psychological Science: Developmental Perspectives",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 10. Not open for credit to students with credit for course 127A or 127B. Study of abnormal child development from infancy through adolescence and early adulthood. Clinical disorders include behavioral disorders, depression/anxiety, alcohol/substance disorders, eating disorders, and autism spectrum disorder. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "credit_exclusions": [
+      "PSYCH 127A",
+      "PSYCH 127B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH127C"
+  },
+  {
+    "course_code": "PSYCH 129C",
+    "units": 4,
+    "title": "Culture and Mental Health",
+    "description": "Lecture, two hours; discussion, one hour. Requisites: courses 10, 100A. Introduction to study of culture and human behavior in general, and culture and mental health in particular. Emphasis on cultural groups that comprise major U.S. ethnic groups (i.e., African Americans, Latinos/Chicanos, Asian Americans, and American Indians). P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH129C"
+  },
+  {
+    "course_code": "PSYCH 129E",
+    "units": 4,
+    "title": "Human Sexuality",
+    "description": "Lecture, three hours. Designed for senior Psychology majors. Overview of psychology of human sexuality. Psychological research, assessment, and therapy described in a format which highlights their significance for understanding human sexual functioning. Psychological mechanisms underlying expression of human sexuality. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH129E"
+  },
+  {
+    "course_code": "PSYCH 129F",
+    "units": 4,
+    "title": "Clinical Psychology of Childhood and Adolescence",
+    "description": "Lecture, two hours; discussion, one hour. Requisite: course 127A or 127B or 127C. Survey of child and adolescent psychopathology and psychotherapy from a developmental perspective. Coverage includes such conditions as anxiety disorders, depression, conduct and attention problems, eating disorders, and autism, with information on prevalence, causes, common treatments and their effects. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 127A",
+      "PSYCH 127B",
+      "PSYCH 127C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH129F"
+  },
+  {
+    "course_code": "PSYCH 130",
+    "units": 4,
+    "title": "Developmental Psychology",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Designed for juniors/seniors. Elaboration of developmental aspects of physical, mental, social, and emotional growth from birth to adolescence. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH130"
+  },
+  {
+    "course_code": "PSYCH 131",
+    "units": 4,
+    "title": "Research in Developmental Psychology",
+    "description": "Discussion, one hour; laboratory, three hours. Requisites: courses 10, 100A, 100B, and 130 or one course from 133A through 133I. Designed for Psychology and Cognitive Science majors. Forms of scientific writing; ethics of research, especially with minors; special advantages and problems of asking developmental research questions; relevant methodologies for experimental and observational work; data analyses and data presentation options. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 130",
+      "PSYCH 133A",
+      "PSYCH 133I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH131"
+  },
+  {
+    "course_code": "PSYCH 132A",
+    "units": 4,
+    "title": "Learning Problems, Schooling Problems: Policy and Practice",
+    "description": "Lecture, three hours. Designed for juniors/seniors. Exploration of different orientations to persons with learning problems, emphasizing assessment and intervention approaches and psychological impact of such approaches. Topics include interaction of learner and environment, sociopolitical nature of classroom, psychological impact of schooling, grades, and evaluations, process versus goal focus in learning. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH132A"
+  },
+  {
+    "course_code": "PSYCH 132B",
+    "units": 4,
+    "title": "Mental Health in Schools: Policy and Practice",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Policies, models, and mechanisms for mental health in schools. Psychopathology placed into broader perspective of normal development and psychosocial problems to explore range of theoretical, practical, and ethical issues. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH132B"
+  },
+  {
+    "course_code": "PSYCH 133A",
+    "units": 4,
+    "title": "Adolescent Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Examination of cognitive, social, physical, and physiological development of the adolescent. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133A"
+  },
+  {
+    "course_code": "PSYCH 133B",
+    "units": 4,
+    "title": "Cognitive Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Major theories, approaches, and issues in study of cognitive development. Readings include original research on important topics such as development of perception, language, thinking, and problem solving, and acquisition of concepts and domain-specific language. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133B"
+  },
+  {
+    "course_code": "PSYCH 133C",
+    "units": 4,
+    "title": "Language Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Application of principles of cognitive development, learning, and perception to study of language development. Topics include first and second language acquisition (sounds, meanings, grammatical structures), learning mechanisms, communication skills, and relation between language and thought in children. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133C"
+  },
+  {
+    "course_code": "PSYCH 133D",
+    "units": 4,
+    "title": "Social and Personality Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Theory and research on social and personality development during childhood. Topics include parent/child attachment, temperament, self-control, aggression, sex-typing, self-concept, moral reasoning and behavior, social status and social skills, and peer group relations. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133D"
+  },
+  {
+    "course_code": "PSYCH 133E",
+    "units": 4,
+    "title": "Perceptual Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Topics include origins and development of human perceptual abilities, origins of knowledge about functionally important aspects of the environment, ecological and computational issues in perception, research and theory about initial perceptual capacities, and some sensory foundations. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133E"
+  },
+  {
+    "course_code": "PSYCH 133F",
+    "units": 4,
+    "title": "Psychology and Education",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Application of principles of cognitive development, learning, and perception to educational problems. Topics include general instructional issues, psychology of reading and mathematics, exceptional children, early childhood education, and education of the disadvantaged. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133F"
+  },
+  {
+    "course_code": "PSYCH 133G",
+    "units": 4,
+    "title": "Culture and Human Development",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Role of culture in human development through psychology, anthropology, and autobiography. Students relate material from lectures and readings, through empirical research projects, to diverse cultural backgrounds in class, at UCLA, and in the broader community. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133G"
+  },
+  {
+    "course_code": "PSYCH 133I",
+    "units": 4,
+    "title": "Applied Developmental Psychology",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Application of developmental psychology to issues pertaining to improving well-being of children and their families. Topics include quality of child care, patterns and ranges of normal child behaviors, developmental disabilities, safety, legal, and public policy issues, child-rearing practices. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH133I"
+  },
+  {
+    "course_code": "PSYCH 134A",
+    "units": 4,
+    "title": "Applied Developmental Psychology: Infant/Toddler Care and Education",
+    "description": "Lecture, three hours. Designed for Applied Developmental Psychology minors. Coverage of children zero to three years old. Topics include physical, cognitive, social, and emotional development of children, developmentally appropriate practices, child care quality, role of educator/caregiver, and other related issues. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134A"
+  },
+  {
+    "course_code": "PSYCH 134B",
+    "units": 4,
+    "title": "Applied Developmental Psychology: Preschool/School-Age Care and Education",
+    "description": "Lecture, three hours. Designed for Applied Developmental Psychology minors. Coverage of children three to eight years old. Topics include physical, cognitive, social, and emotional development of children, developmentally appropriate practices, child care quality, role of educator/caregiver, and other related issues. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134B"
+  },
+  {
+    "course_code": "PSYCH 134C",
+    "units": 4,
+    "title": "Advanced Applied Developmental Psychology",
+    "description": "Seminar, one hour; fieldwork, eight hours. Requisites: courses 134A, 134B, 134D, 134E. Designed for Applied Developmental Psychology minors. Continuing fieldwork in advanced applications of developmental psychology to support and illustrate, in applied setting, theories and research findings presented in lecture. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 134A",
+      "PSYCH 134B",
+      "PSYCH 134D",
+      "PSYCH 134E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134C"
+  },
+  {
+    "course_code": "PSYCH 134D",
+    "units": 2,
+    "title": "Fieldwork in Applied Developmental Psychology",
+    "description": "Fieldwork, 86 hours per term. Enforced corequisite: course 134A. Designed for Applied Developmental Psychology minors. Fieldwork in applications of developmental psychology to support and illustrate, in applied setting, theories and research findings presented in lecture. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 134A"
+    ],
+    "corequisites": [
+      "PSYCH 134A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134D"
+  },
+  {
+    "course_code": "PSYCH 134E",
+    "units": 2,
+    "title": "Advanced Fieldwork in Applied Developmental Psychology",
+    "description": "Fieldwork, 86 hours per term. Enforced corequisite: course 134B. Designed for Applied Developmental Psychology minors. Fieldwork in advanced applications of developmental psychology to support and illustrate, in applied setting, theories and research findings presented in lecture. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 134B"
+    ],
+    "corequisites": [
+      "PSYCH 134B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134E"
+  },
+  {
+    "course_code": "PSYCH 134F",
+    "units": 4,
+    "title": "Infant Care and Development",
+    "description": "Lecture, three hours. Requisites: course 10, one course from 130 or 133B through 133I, one statistics course. In-depth study of research methods, current research findings, and theories used to understand infant development from conception through second year of life, including cross-cultural application of this knowledge to various populations. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 130",
+      "PSYCH 133B",
+      "PSYCH 133I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134F"
+  },
+  {
+    "course_code": "PSYCH 134G",
+    "units": 4,
+    "title": "Early Childhood Curriculum",
+    "description": "Lecture, three hours. Requisites: course 10, one course from 130 or 133B through 133I, one statistics course. Examination of methods, materials, and philosophies that enhance development of children in context of childcare settings. Topics include issues of multiculturalism, antibias curriculum, and special needs adaptations. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 130",
+      "PSYCH 133B",
+      "PSYCH 133I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134G"
+  },
+  {
+    "course_code": "PSYCH 134I",
+    "units": 4,
+    "title": "Child, Family, and Community",
+    "description": "Lecture, three hours. Requisites: course 10, one course from 130 or 133B through 133I, one statistics course. Exploration of role of early childhood educators within context of diverse racial, ethnic, economic, and cultural backgrounds and impact of these dynamics on children\u2019s development. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 130",
+      "PSYCH 133B",
+      "PSYCH 133I"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134I"
+  },
+  {
+    "course_code": "PSYCH 134J",
+    "units": 4,
+    "title": "Dynamic Perspectives on Parenting",
+    "description": "Lecture, three hours. Overview of key tasks of parenting and of changes in parent-child relationship from birth through young adulthood. Overview of theories, discussion of transition to parenthood, and examination of parenting across developmental stages. Examination of how parenting and parent-child relationship are affected by family dynamics and contextual factors. Study of effective child socialization techniques and their theoretical and empirical foundations to meet children\u2019s developmental needs; build positive and mutually respectful parent-child relationships; and provide positive guidance to promote self-regulation, competence, and socially responsible behavior. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134J"
+  },
+  {
+    "course_code": "PSYCH 134K",
+    "units": 4,
+    "title": "Effects of Early Adversity and Trauma",
+    "description": "Lecture, three hours. Examination of extensive evidence of disruptive impact of early adversity. Study offers insights into causal mechanisms that link early adversity to later impairments in learning, behavior, and both physical and psychological well-being. Review of research on common childhood stressors, individual and contextual factors that put children at risk for developmental deficits, and protective factors that promote successful coping and healthy adjustment. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH134K"
+  },
+  {
+    "course_code": "PSYCH 135",
+    "units": 4,
+    "title": "Social Psychology",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 10, 100A. Designed for juniors/seniors. Interrelationships between the individual and his social environment. Social influences on motivation, perception, and behavior. Development and change of attitudes and opinions. Psychological analysis of small groups, social stratification, and mass phenomena. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH135"
+  },
+  {
+    "course_code": "PSYCH 136A",
+    "units": 4,
+    "title": "Social Psychology Laboratory",
+    "description": "Lecture, one hour; laboratory, four hours. Requisites: courses 10, 100A, 100B, 135. Designed for Psychology majors. Introduction to research designs and methods used to test social psychological hypothesis, including experiments, observation, content analysis, and/or questionnaires. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH136A"
+  },
+  {
+    "course_code": "PSYCH 136B",
+    "units": 4,
+    "title": "Nonexperimental Methods in Social Psychology",
+    "description": "Lecture, two hours; laboratory, two hours. Requisites: courses 10, 100A, 100B, 135. Designed for Psychology majors. Research experience with nonexperimental methods for study of social attitudes or behavior, including fieldwork with survey research, naturalistic observation, or questionnaires. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 135"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH136B"
+  },
+  {
+    "course_code": "PSYCH M136C",
+    "units": 4,
+    "title": "Experiments in Racial and Ethnic Politics",
+    "description": "(Same as Political Science M183.) Lecture, three hours; laboratory, one hour. Research practicum consisting of designing, analyzing, and reporting effective research results. Topics include studying people\u2019s political attitudes, beliefs, and behaviors through carefully-designed experiments. P/NP or letter grading.",
+    "cross_listed": [
+      "POL SCI M183"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM136C"
+  },
+  {
+    "course_code": "PSYCH 137A",
+    "units": 4,
+    "title": "Neuroscience of Social Perception",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Limited to juniors/seniors. Integration of cognitive neuroscience, social psychology, and sensory perception research to explore how social information is perceived and how social factors shape perception of world around us. Emphasis on neural mechanisms underlying these phenomena. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137A"
+  },
+  {
+    "course_code": "PSYCH M137B",
+    "units": 4,
+    "title": "Nonverbal Communication and Body Language",
+    "description": "(Same as Communication M113.) Lecture, three hours. Examination of how various forms of nonverbal communication convey meaningful information to perceivers, with focus on both production and perception of multiple communication formats (e.g., affect expression of face and body, gesture, and kinematics), with strong emphasis on body language. Readings from variety of related fields. P/NP or letter grading.",
+    "cross_listed": [
+      "COMM M113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM137B"
+  },
+  {
+    "course_code": "PSYCH 137C",
+    "units": 4,
+    "title": "Intimate Relationships",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Limited to juniors/seniors. Introduction to how social scientists think about, study, and treat intimate relationships, with emphasis on understanding how relationships change over time. Topics include attraction, relationship formation, conflict resolution, social support, sex, role of individual differences, and external circumstances. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137C"
+  },
+  {
+    "course_code": "PSYCH 137D",
+    "units": 4,
+    "title": "Psychology of Diversity",
+    "description": "Lecture, three hours. Requisites: course 10. Designed for juniors/seniors. Examination of how culture, socioeconomic class, ethnicity, gender, and other group differences are created, perceived, and maintained. Emphasis on how scientific evidence informs approaches to contemporary problems including management of diverse workforce, immigrant integration, racial tensions, and health/educational disparities. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137D"
+  },
+  {
+    "course_code": "PSYCH M137E",
+    "units": 4,
+    "title": "Work Behavior of Women and Men",
+    "description": "(Same as Gender Studies M137E.) Lecture, two and one half hours. Requisite: course 10 or Gender Studies 10. Designed for seniors. Examination of work behavior of women and men. Topics include antecedents of career choice, job findings, leadership, performance evaluation, discrimination and evaluation bias, job satisfaction, and interdependence of work and family roles. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "GENDER 10"
+    ],
+    "cross_listed": [
+      "GENDER M137E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM137E"
+  },
+  {
+    "course_code": "PSYCH 137F",
+    "units": 4,
+    "title": "Introduction to Cultural Psychology",
+    "description": "Lecture, three hours. Examination of sociocultural sources of diversity in psychological self, emotion, motivation, development, and relationships. Broad survey of how ideas and practices associated with various regions of world, social class, race/ethnicity, gender, and religion construct, maintain, and change psychological experiences and tendencies. Focus on theory and research in field of cultural psychology. Discussions on how material covered relates to everyday life and real-world social issues. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137F"
+  },
+  {
+    "course_code": "PSYCH 137G",
+    "units": 4,
+    "title": "Social Cognitive Neuroscience",
+    "description": "Lecture, three hours. Principles of social cognitive neuroscience (SCN) and survey of broad array of topics in field. SCN is fundamental merging of social science questions and neuroscience methods, with particular emphasis on functional magnetic resonance imaging (fMRI). P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137G"
+  },
+  {
+    "course_code": "PSYCH 137I",
+    "units": 4,
+    "title": "Social Influence",
+    "description": "Lecture, three hours. Requisite: course 10. Study of theory and research that addresses influence and persuasion from social psychological perspective. Particular attention given to reviewing theory and empirical research on conformity, compliance, and obedience. Covers attitudes and their measurement, factors that make persuasive messages effective in changing attitudes, social influence online, cross-cultural influence, and resisting persuasion and influence attempts. Application of findings from social influence literature to understanding influence processes in various social contexts. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137I"
+  },
+  {
+    "course_code": "PSYCH 137J",
+    "units": 4,
+    "title": "Self and Identity",
+    "description": "Seminar, three hours. Requisite: course 10. Designed for juniors/seniors. Examination of theory and research that addresses self from social psychological perspective. Topics focus on self-knowledge, how self is represented in memory, illusions about self, self-esteem, implicit (subconscious) self, self-regulation, social comparison, self-relevant emotions, and influence of culture on self. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137J"
+  },
+  {
+    "course_code": "PSYCH 137K",
+    "units": 4,
+    "title": "Psychology of Emotion",
+    "description": "Lecture, three hours. Designed for junior/senior psychology majors. Broad overview of science of human emotion. Covers topics such as history of emotion research, current dominant models of emotion, purpose of facial expressions, experience of emotions in our closest social relationships, how we regulate our emotions, whether emotions can make us sick, and what it means to be happy. Exploration of range of perspectives in psychology, ranging from social, cultural, developmental, health, and clinical psychology. Consideration also of cognitive and behavioral neuroscience. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137K"
+  },
+  {
+    "course_code": "PSYCH M137M",
+    "units": 4,
+    "title": "Social Cognition",
+    "description": "(Same as Communication M123.) Lecture, three hours. Survey of research from field of social cognition, with emphasis on understanding cognitive processes involved in interpersonal and intergroup communication. Topics include attention, interpretation, evaluation, judgment, attribution, and memory processes. Consideration of both controlled and automatic processes. Discussion of roles of motives, goals, and affective variables. P/NP or letter grading.",
+    "cross_listed": [
+      "COMM M123"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM137M"
+  },
+  {
+    "course_code": "PSYCH 137N",
+    "units": 4,
+    "title": "Conscious Experience: Social Cognitive Neuroscience Approach",
+    "description": "Lecture, three hours. Conscious experience is arguably the most remarkable thing in the universe, and yet it is largely ignored because it is the background precondition for everything else in our lives and because it is difficult to study scientifically. Examination of what is known and, just as importantly, what is unknown about conscious experience. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH137N"
+  },
+  {
+    "course_code": "PSYCH M138",
+    "units": 4,
+    "title": "Electoral Politics: Political Psychology",
+    "description": "(Same as Political Science M141A.) Lecture, three or four hours; discussion, one hour (when scheduled). Requisite: course 10. Designed for juniors/seniors. Examination of political behavior, political socialization, personality and politics, racial conflict, and psychological analysis of public opinion on these issues.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "cross_listed": [
+      "POL SCI M141A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM138"
+  },
+  {
+    "course_code": "PSYCH M139",
+    "units": 4,
+    "title": "Perspectives on Autism and Neurodiversity",
+    "description": "(Same as Disability Studies M139.) Seminar, three and one half hours. Genealogy of autism as diagnostic category and cultural phenomenon from its historical roots as new, rare, and obscure condition in early 1940s to its current contested status as minority identity and/or global epidemic. Examination of material sourced from various fields and disciplines invested in autism, including psychology, neuroscience, arts and humanities, popular media, anthropology, activism, and critical autism studies. Students encounter and analyze multiple perspectives on autism and put them in conversation with one another. Attention paid to way people on spectrum define, explain, and represent their own experiences of autism and discussion of what ramifications of these multiple framings are in context of autism intervention strategy and disability policy today. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "DIS STD M139"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM139"
+  },
+  {
+    "course_code": "PSYCH M140",
+    "units": 4,
+    "title": "Introduction to Study of Aging",
+    "description": "(Same as Social Welfare M140.) Lecture, three hours. Designed for juniors/seniors. Perspectives on major features of human aging\u2014biological, social, psychological, and humanistic. Introduction to information on range of influences on aging to prepare students for subsequent specialization. P/NP or letter grading.",
+    "cross_listed": [
+      "SOC WLF M140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM140"
+  },
+  {
+    "course_code": "PSYCH 142H",
+    "units": 4,
+    "title": "Advanced Statistical Methods in Psychology (Honors)",
+    "description": "Lecture, three hours; laboratory, two hours. Requisites: courses 100A, 100B. Survey of statistical techniques commonly used in psychology, education, and behavioral and social sciences: correlational techniques, analysis variance, and multiple regression. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH142H"
+  },
+  {
+    "course_code": "PSYCH M144",
+    "units": 4,
+    "title": "Measurement and Its Applications",
+    "description": "(Same as Statistics M154.) Lecture, three hours. Requisite: one course from 100A, Statistics 10, 12, or 13. Selected theories for quantification of psychological, educational, social, and behavioral science data. Classical test, factor analysis, generalizability, item response, optimal scaling, ordinal measurement, computer-adaptive, and related theories. Construction of tests and measures and their reliability, validity, and bias. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 100A",
+      "STATS 10",
+      "STATS 12",
+      "STATS 13"
+    ],
+    "cross_listed": [
+      "STATS M154"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM144"
+  },
+  {
+    "course_code": "PSYCH M147A",
+    "units": 4,
+    "title": "Psychology of Lesbian Experience",
+    "description": "(Same as Gender Studies M147A and Lesbian, Gay, Bisexual, Transgender, and Queer Studies M147A.) Lecture, two hours; discussion, one hour. Requisite: course 10 or Gender Studies 10 or Lesbian, Gay, Bisexual, Transgender, and Queer Studies M114. Designed for juniors/seniors. Review of research and theory in gender studies and psychology to examine various aspects of lesbian experience, impact of heterosexism/stigma, gender role socialization, minority status of women and lesbians, identity development within a multicultural society, changes in psychological theories about lesbians in sociohistorical context. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "GENDER 10",
+      "LGBTQS M114"
+    ],
+    "cross_listed": [
+      "GENDER M147A",
+      "LGBTQS M147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM147A"
+  },
+  {
+    "course_code": "PSYCH M149",
+    "units": 4,
+    "title": "Language Development and Socialization",
+    "description": "(Same as Anthropology M152P.) Lecture, three hours; discussion, one hour (when scheduled). Exploration of processes through which children learn structures and practices of language and become competent participants in linguistic and social worlds around them. Examination of language use and socialization over childhood, across communities of practice, and across different ethnic and socioeconomic groups. Bridges work from anthropology, psychology, linguistics, and cognitive science. Topics include cross-cultural perspectives on child development and wide range of methodological approaches. Examination of ways in which language development and socialization interface with culture, modality, inequality, education, and cognition. P/NP or letter grading.",
+    "cross_listed": [
+      "ANTHRO M152P"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM149"
+  },
+  {
+    "course_code": "PSYCH 150",
+    "units": 4,
+    "title": "Introduction to Health Psychology",
+    "description": "Lecture, three hours. Requisite: course 10. Areas of health, illness, treatment, and delivery of treatment that can be elucidated by understanding of psychological concepts and research, psychological perspective on these problems, and how psychological perspective might be enlarged and extended in medical area. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH150"
+  },
+  {
+    "course_code": "PSYCH 151",
+    "units": 4,
+    "title": "Research Methods in Health Psychology",
+    "description": "Laboratory, four hours. Enforced requisites: courses 10, 100A, 100B, 150. Research methods used in health psychology, including experimental, quasi-experimental, and nonexperimental methods. Examples and projects from health psychology. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PSYCH 150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH151"
+  },
+  {
+    "course_code": "PSYCH 152",
+    "units": 4,
+    "title": "Mind-Body Interactions and Health",
+    "description": "Lecture, three hours. Designed for junior/senior Psychology and Psychobiology majors. Examination of bidirectional interactions between mind and body and how these interactions influence physical health. Topics include impact of stress, emotions, personality, and social world on biological systems and health. Discussion of mind-body interventions designed to reduce stress and improve health, including scientific research on yoga and meditation. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH152"
+  },
+  {
+    "course_code": "PSYCH 161",
+    "units": 4,
+    "title": "Behavior and Brain Development",
+    "description": "Lecture, three hours. Requisites: courses 10, 100A. Limited to juniors/seniors. Exploration of relationship between brain development and behavior. Examination of how cognitive neuroscience can inform study of development and how developmental approach can advance progress in cognitive and developmental sciences. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH161"
+  },
+  {
+    "course_code": "PSYCH 162",
+    "units": 4,
+    "title": "Psychology of Addiction",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Survey of topics covering psychological and neurobiological theories of addiction, pharmacological effects of drugs and abuse, etiology, assessment, diagnosis, and treatment. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH162"
+  },
+  {
+    "course_code": "PSYCH 164",
+    "units": 4,
+    "title": "Puberty and Sleep",
+    "description": "Lecture, three hours. Requisite: course 10. Limited to juniors/seniors. Exploration of how normative biological and hormonal changes during adolescence influence adolescent behavior and well-being. Focus specifically on puberty and sleep, which both lead to consequential effects on behavior, health, and brain development. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH164"
+  },
+  {
+    "course_code": "PSYCH M165",
+    "units": 4,
+    "title": "Psychology of Gender",
+    "description": "(Same as Gender Studies M165.) Lecture, three hours. Consideration of psychological literature relevant to understanding contemporary sex differences. Topics include sex- role development and role conflict, physiological and personality differences between men and women, sex differences in intellectual abilities and achievement, and impact of gender on social interaction. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM165"
+  },
+  {
+    "course_code": "PSYCH M166",
+    "units": 4,
+    "title": "Neurobiology of Bias and Discrimination",
+    "description": "(Same as Neuroscience M187 and Physiological Science M106.) Lecture, four hours. Limited to junior/senior neuroscience, physiological science, and psychology students. Exploration of aspects of mammalian brain function that generate preference, bias, and discrimination. Consideration of research at multiple levels of analysis from genetics to neural circuits to behavior. Discussion of societal implications of these research findings, including their relevance to public policies and criminal justice system. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "PHYSCI M106",
+      "NEUROSC M187"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM166"
+  },
+  {
+    "course_code": "PSYCH 167",
+    "units": 4,
+    "title": "Digital Media and Human Development",
+    "description": "Lecture, three hours. Designed for junior/senior majors. Examination of social science research on media and technology during development to understand positive and negative roles of technology and media in children\u2019s lives. Topics include social media, video games, brain development, and learning with technological tools from age 2 through 18 (and through emerging adulthood). May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH167"
+  },
+  {
+    "course_code": "PSYCH 168",
+    "units": 4,
+    "title": "Organizational Psychology",
+    "description": "Lecture, three hours. Introduction to variety of topics within field of organizational psychology, examining organizational behavior from variety of perspectives. Focus on individuals: what motivates them, how do they learn best, how can they manage their careers in this rapidly changing organizational landscape, and how can they develop leadership skills. Focus on groups, entire organizations, or relationships between organizations and external environment: what makes some groups work effectively and some not, how can organizations be sensitive to diversity and inclusion in workplace, what trends and forces have impact on organizations today, and what are best ways to bring about change in organizations. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH168"
+  },
+  {
+    "course_code": "PSYCH M172",
+    "units": 4,
+    "title": "Afro-American Woman in U.S.",
+    "description": "(Same as African American Studies M172 and Gender Studies M172.) Lecture, two and one half hours. Designed for juniors/seniors. Impact of social, psychological, political, and economic forces which impact on interpersonal relationships of Afro-American women as members of large society and as members of their biological and ethnic group. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER M172",
+      "GENDER M172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM172"
+  },
+  {
+    "course_code": "PSYCH M174",
+    "units": 4,
+    "title": "Health Disparities",
+    "description": "(Same as Life Sciences M174.) Lecture, three hours. Examination of health disparities and ways in which societal responses to race and ethnicity in combination with variety of other factors create differential quality and access to healthcare resulting in poor health outcomes in racial/ethnic minorities. Basic foundation for critical thinking about assumptions that shape life sciences, medical research, clinical practice, and social and behavioral sciences as they relate to racial and ethnic minority populations and to teach students to integrate concepts of culture and health disparities into other social, biological, political, psychological, genetic, and clinical health interests. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "LIFESCI M174"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM174"
+  },
+  {
+    "course_code": "PSYCH 175",
+    "units": 4,
+    "title": "Community Psychology",
+    "description": "Designed for junior/senior Psychology majors. Application of psychological principles to understanding and solution of community problems. Topics include community development, community mental health problems, drugs, racism, and rehabilitation of prisoners.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH175"
+  },
+  {
+    "course_code": "PSYCH M176SL",
+    "units": 4,
+    "title": "Addressing Social Determinants in Racial/Ethnic Minority Communities to Reduce and Prevent Health Disparities",
+    "description": "(Same as Community Engagement and Social Change M175SL.) Seminar, two hours; fieldwork, 10 hours. Examination of how addressing social determinants in racial/ethnic minority communities can reduce or eliminate physical and mental health disparities. Currently in racial and ethnic minority communities, health status of individuals can be function of built environment, exposure to pollutants and toxins, scarcity of supermarkets or stores with fresh produce and nutritional food, noise levels, and variety of other stressors and unhealthy conditions. Health interventions are often focused on individual-level change or increases in access to healthcare with little in way of changing risk environments. Designed to identify and provide opportunities to understand how to address social determinants related to negative health outcomes in racial/ethnic minority neighborhoods and communities and to experience how to use social determinants literature in service of collaborative activities with community organizations. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "CESC M175SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHM176SL"
+  },
+  {
+    "course_code": "PSYCH 177",
+    "units": 4,
+    "title": "Counseling Relationships",
+    "description": "Lecture, two hours; discussion, two hours. Requisites: courses 10, 100A, and 127A or 127B or 127C. Designed for junior/senior Psychology majors. Conceptual and empirical foundations of psychological counseling; comparison of alternative models of counseling processes. Emphasis on counseling approaches in community mental health areas such as drug abuse, suicide prevention, and crisis intervention. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 127A",
+      "PSYCH 127B",
+      "PSYCH 127C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH177"
+  },
+  {
+    "course_code": "PSYCH 178",
+    "units": 4,
+    "title": "Human Motivation",
+    "description": "Lecture, three hours. Designed for juniors/seniors. Examination of theories of human motivation, experimental findings supporting the theories, and history of study of motivation. Topics include sociobiology, conflict, aspiration level, achievement strivings, and causal attributions.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH178"
+  },
+  {
+    "course_code": "PSYCH 182A",
+    "units": 1,
+    "title": "Principles of Research in Relationship Science",
+    "description": "Seminar, one hour. Introduction to research foundation of relationship science (e.g., leading theories, common measures and research designs, key statistics). Students learn important professional skills in conducting research and in applying to graduate school. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH182A"
+  },
+  {
+    "course_code": "PSYCH 182B",
+    "units": 1,
+    "title": "Principles of Research in Relationship Science",
+    "description": "Seminar, one hour. Introduction to research foundation of relationship science (e.g., leading theories, common measures and research designs, key statistics). Students learn important professional skills in conducting research and in applying to graduate school. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH182B"
+  },
+  {
+    "course_code": "PSYCH 182C",
+    "units": 1,
+    "title": "Principles of Research in Relationship Science",
+    "description": "Seminar, one hour. Introduction to research foundation of relationship science (e.g., leading theories, common measures and research designs, key statistics). Students learn important professional skills in conducting research and in applying to graduate school. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH182C"
+  },
+  {
+    "course_code": "PSYCH 184A",
+    "units": 2,
+    "title": "Psychology Research Opportunity Program Seminar",
+    "description": "Seminar, 90 minutes. Designed to bring together Psychology Research Opportunity Program (PROPS) students undertaking supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH184A"
+  },
+  {
+    "course_code": "PSYCH 184B",
+    "units": 2,
+    "title": "Psychology Research Opportunity Program Seminar",
+    "description": "Seminar, 90 minutes. Designed to bring together Psychology Research Opportunity Program (PROPS) students undertaking supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH184B"
+  },
+  {
+    "course_code": "PSYCH 185",
+    "units": 3,
+    "title": "Research Practicum in Psychology",
+    "description": "Laboratory, seven hours. Corequisite: course C194D. Limited to juniors/seniors. Practical applications of psychology through research under guidance of faculty mentor. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH C194D"
+    ],
+    "corequisites": [
+      "PSYCH C194D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH185"
+  },
+  {
+    "course_code": "PSYCH 186A",
+    "units": 4,
+    "title": "Cognitive Science Laboratory: Introduction to Theory and Simulation",
+    "description": "Laboratory, four hours. Requisites: courses 10, 85, 100A, 100B, Program in Computing 10A, 10B. Designed for junior/senior departmental majors. Models of cognition within framework of explanation at multiple levels of abstraction. Examples of elementary models in multiple psychological domains (e.g., visual perception, categorization, learning, reasoning, and problem solving). Types of models include neural networks and symbolic models. Lectures and discussions interwoven with computer simulations written in MATLAB. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 85",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "PIC 10A",
+      "PIC 10B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH186A"
+  },
+  {
+    "course_code": "PSYCH 186B",
+    "units": 4,
+    "title": "Cognitive Science Laboratory: Neural Networks",
+    "description": "Laboratory, four hours. Requisites: courses 10, 85, 100A, 100B, Mathematics 31A, 31B, Program in Computing 10A, 10B. Designed for junior/senior departmental majors. Laboratory experience in neural network modeling of perception and cognition. Specific topics include essential neurophysiology, basic architectures, learning, and programming techniques. Principles illustrated and discussed in context of models of specific perceptual and cognitive processes. Simulations written in Pascal. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 85",
+      "PSYCH 100A",
+      "PSYCH 100B",
+      "MATH 31A",
+      "MATH 31B",
+      "PIC 10A",
+      "PIC 10B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH186B"
+  },
+  {
+    "course_code": "PSYCH 186C",
+    "units": 4,
+    "title": "Cognitive Science Laboratory: Psychophysical Theories and Methods",
+    "description": "Lecture, two hours; laboratory, two hours. Requisites: courses 10, 85, 100A, 100B. Designed for junior/senior departmental majors. Lectures and laboratory work that examine perceptual measurement procedures (psychophysical methods) and cognitive processing and decision models on which procedures are based, with particular emphasis on signal detection theory and its applications. Letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 85",
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH186C"
+  },
+  {
+    "course_code": "PSYCH 186D",
+    "units": 4,
+    "title": "Laboratory in Functional Neuroimaging",
+    "description": "Laboratory, four hours. Enforced requisites: courses 10, 100A, 100B. Limited to departmental majors. Introduction to study of brain with functional resonance imaging (fMRI). All major aspects to be discussed, from physical basis of MR signal to data analysis. Letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH186D"
+  },
+  {
+    "course_code": "PSYCH 186E",
+    "units": 4,
+    "title": "Introduction to Learning Theories",
+    "description": "Laboratory, four hours. Requisites: courses 10, 100A, 100B. Introduction to major learning theories including behaviorism, information processing, and Piagetian constructivism. Analysis of strengths and weaknesses of the theories, and study of their practical implications on teaching practices. For example, how instruction would be designed in a behaviorist perspective; and how that would differ from taking a constructivist approach. Study of how taking a specific theoretical perspective influences what one sees as a researcher or what one does as a teacher. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "PSYCH 10",
+      "PSYCH 100A",
+      "PSYCH 100B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH186E"
+  },
+  {
+    "course_code": "PSYCH 188A",
+    "units": 4,
+    "title": "Special Seminars: Psychology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Departmentally sponsored experimental or temporary seminars on selected topics in psychology, such as those taught by visiting faculty members. Reading, discussion, and development of culminating project. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH188A"
+  },
+  {
+    "course_code": "PSYCH 188B",
+    "units": 4,
+    "title": "Special Courses in Psychology",
+    "description": "Lecture, three hours. Designed for junior/senior majors. Departmentally sponsored experimental or temporary courses on topics of psychological interest, such as those taught by visiting faculty members. Consult Schedule of Classes for topics and instructors. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH188B"
+  },
+  {
+    "course_code": "PSYCH 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH188SA"
+  },
+  {
+    "course_code": "PSYCH 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PSYCH 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH188SB"
+  },
+  {
+    "course_code": "PSYCH 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PSYCH 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH188SC"
+  },
+  {
+    "course_code": "PSYCH 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH189"
+  },
+  {
+    "course_code": "PSYCH 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH189HC"
+  },
+  {
+    "course_code": "PSYCH 190",
+    "units": 1,
+    "title": "Research Colloquia in Psychology",
+    "description": "Seminar, one hour. Designed to bring together students undertaking supervised tutorial research in seminar setting with one or more faculty members to discuss their own work or related work in discipline. Led by one supervising faculty member. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH190"
+  },
+  {
+    "course_code": "PSYCH 191",
+    "units": 1,
+    "title": "Variable Topics Research Seminars: Psychology",
+    "description": "Seminar, one hour. Limited to juniors/seniors. Research seminar on selected topics in psychology. Reading, discussion, and development of culminating project. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH191"
+  },
+  {
+    "course_code": "PSYCH 191AH",
+    "units": 2,
+    "title": "Departmental Honors Research Seminars",
+    "description": "Seminar, two hours. Enforced corequisite: course 198. Course 191AH is requisite to 191BH, which is requisite to 191CH. Limited to psychology honors program students. Opportunity for development and analysis of creative ideas through individual research projects with faculty sponsor and discussion of student and faculty research presentations. Information and applications may be obtained from Undergraduate Advising Office, 1531 Franz Hall. Letter grading.",
+    "prerequisites": [
+      "PSYCH 198"
+    ],
+    "corequisites": [
+      "PSYCH 198"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH191AH"
+  },
+  {
+    "course_code": "PSYCH 191BH",
+    "units": 2,
+    "title": "Departmental Honors Research Seminars",
+    "description": "Seminar, two hours. Requisite: course 191AH. Enforced corequisite: course 198. Limited to psychology honors program students. Opportunity for development and analysis of creative ideas through individual research projects with faculty sponsor and discussion of student and faculty research presentations. Information and applications may be obtained from Undergraduate Advising Office, 1531 Franz Hall. Letter grading.",
+    "prerequisites": [
+      "PSYCH 191AH"
+    ],
+    "corequisites": [
+      "PSYCH 198"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH191BH"
+  },
+  {
+    "course_code": "PSYCH 191CH",
+    "units": 2,
+    "title": "Departmental Honors Research Seminars",
+    "description": "Seminar, two hours. Requisite: course 191BH. Enforced corequisite: course 198. Limited to psychology honors program students. Opportunity for development and analysis of creative ideas through individual research projects with faculty sponsor and discussion of student and faculty research presentations. Information and applications may be obtained from Undergraduate Advising Office, 1531 Franz Hall. If approved in advance by Undergraduate Office, courses 191CH and 198 may be applied toward elective course requirement for any Psychology Department major. Letter grading.",
+    "prerequisites": [
+      "PSYCH 191BH"
+    ],
+    "corequisites": [
+      "PSYCH 198"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH191CH"
+  },
+  {
+    "course_code": "PSYCH 192",
+    "units": 4,
+    "title": "Educational Practices in Psychology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in courses related to psychology. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. Only 12 units from any combination of courses 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH192"
+  },
+  {
+    "course_code": "PSYCH 193",
+    "units": 1,
+    "title": "Journal Club Seminars: Psychology",
+    "description": "Seminar, one hour. Limited to undergraduate students. Discussion of readings selected from current literature of particular field or attendance at and write-ups of speakers series. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH193"
+  },
+  {
+    "course_code": "PSYCH 194A",
+    "units": 2,
+    "title": "Internship Seminars: Psychology",
+    "description": "Seminar, two hours. Corequisite: course 195A. Forum to discuss internship experiences and learn about career development. Students are exposed to professional literature in clinical science and related fields. May be repeated three times for credit. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 195A"
+    ],
+    "corequisites": [
+      "PSYCH 195A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH194A"
+  },
+  {
+    "course_code": "PSYCH 194B",
+    "units": 1,
+    "title": "Research Group Seminars: Psychology",
+    "description": "Seminar, one hour. Corequisite: course 196A (3-unit option). Limited to juniors/seniors who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 196A"
+    ],
+    "corequisites": [
+      "PSYCH 196A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH194B"
+  },
+  {
+    "course_code": "PSYCH 194C",
+    "units": 1,
+    "title": "Research Group Seminars: Cognitive Science",
+    "description": "Seminar, one hour. Corequisite: course 196B (3-unit option). Limited to junior/senior Cognitive Science majors who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May be applied toward course requirements for Cognitive Science major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 196B"
+    ],
+    "corequisites": [
+      "PSYCH 196B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH194C"
+  },
+  {
+    "course_code": "PSYCH C194D",
+    "units": 1,
+    "title": "Research Group Seminars: Practicum",
+    "description": "Seminar, one hour. Corequisite: course 185. Designed for undergraduate students who are part of research group that meets with graduate students. Discussion of research methods and current literature in field or of research of faculty members or students. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. Concurrently scheduled with course C296B. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 185"
+    ],
+    "corequisites": [
+      "PSYCH 185"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCHC194D"
+  },
+  {
+    "course_code": "PSYCH 195A",
+    "units": 2,
+    "title": "Community Internships in Psychology",
+    "description": "Tutorial (approved community setting), six hours. Corequisite: course 194A. Limited to juniors/seniors. Internship in applications of psychology in supervised setting in community agency or business. Students meet on regular basis with sponsor and provide periodic reports of their experience. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract with supervising placement sponsor required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 194A"
+    ],
+    "corequisites": [
+      "PSYCH 194A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH195A"
+  },
+  {
+    "course_code": "PSYCH 195B",
+    "units": 4,
+    "title": "Corporate Internships in Cognitive Science",
+    "description": "Tutorial, eight hours. Limited to junior/senior Cognitive Science majors. Practical applications of cognitive science through internship experience in supervised setting. Students meet on regular basis with supervisor and provide periodic reports of their experience. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May be applied toward course requirements for Cognitive Science major. Individual contract with supervisor required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH195B"
+  },
+  {
+    "course_code": "PSYCH 196A",
+    "units": 3,
+    "title": "Research Apprenticeship in Psychology",
+    "description": "Tutorial, eight hours. Corequisite: course 194B. Limited to juniors/seniors. Practical applications of psychology through research under guidance of faculty mentor. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May not be applied toward course requirements for any Psychology Department major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 194B"
+    ],
+    "corequisites": [
+      "PSYCH 194B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH196A"
+  },
+  {
+    "course_code": "PSYCH 196B",
+    "units": 3,
+    "title": "Research Apprenticeship in Cognitive Science",
+    "description": "Tutorial, eight hours. Corequisite: course 194C. Limited to junior/senior Cognitive Science majors. Practical applications of cognitive science through research under guidance of faculty mentor. Only 12 units from any combination of courses 185, 192, 194, 195, and 196 may be applied toward undergraduate degree. May be applied toward course requirements for Cognitive Science major. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "prerequisites": [
+      "PSYCH 194C"
+    ],
+    "corequisites": [
+      "PSYCH 194C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH196B"
+  },
+  {
+    "course_code": "PSYCH 198",
+    "units": 2,
+    "title": "Honors Research in Psychology",
+    "description": "Tutorial, two hours. Enforced corequisite: course 191AH or 191BH or 191CH. Limited to juniors/seniors and psychology honors program students. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. Letter grading.",
+    "prerequisites": [
+      "PSYCH 191AH",
+      "PSYCH 191BH",
+      "PSYCH 191CH"
+    ],
+    "corequisites": [
+      "PSYCH 191AH",
+      "PSYCH 191BH",
+      "PSYCH 191CH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH198"
+  },
+  {
+    "course_code": "PSYCH 199A",
+    "units": 4,
+    "title": "Senior Project in Psychology",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research under guidance of psychology faculty mentor. Culminating paper required. Only one 4-unit 199 course may be taken per term. May be repeated for credit. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH199A"
+  },
+  {
+    "course_code": "PSYCH 199B",
+    "units": 4,
+    "title": "Senior Project in Psychology",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research under guidance of psychology faculty mentor. Culminating paper required. Only one 4-unit 199 course may be taken per term. May be taken only once for letter grade. Individual contract required. Information and contracts may be obtained from Undergraduate Advising Office, 1531 Franz Hall. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PSYCH199B"
+  }
+]

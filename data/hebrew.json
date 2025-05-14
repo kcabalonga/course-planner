@@ -1,0 +1,350 @@
+[
+  {
+    "course_code": "HEBREW 1A",
+    "units": 5,
+    "title": "Elementary Hebrew",
+    "description": "Lecture, four hours; laboratory, one hour. Enforced preparation: Hebrew placement test. Course 1A is enforced requisite to 1B, which is enforced requisite to 1C. Not open to native speakers. Introduction to modern Hebrew, including listening, speaking, reading, and writing. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW1A"
+  },
+  {
+    "course_code": "HEBREW 1B",
+    "units": 5,
+    "title": "Elementary Hebrew",
+    "description": "Lecture, four hours; laboratory, one hour. Enforced requisite: course 1A or Hebrew placement test. Not open to native speakers. Introduction to modern Hebrew, including listening, speaking, reading, and writing. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "HEBREW 1A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW1B"
+  },
+  {
+    "course_code": "HEBREW 1C",
+    "units": 5,
+    "title": "Elementary Hebrew",
+    "description": "Lecture, four hours; laboratory, one hour. Enforced requisite: course 1B or Hebrew placement test. Not open to native speakers. Introduction to modern Hebrew, including listening, speaking, reading, and writing. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "HEBREW 1B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW1C"
+  },
+  {
+    "course_code": "HEBREW 8",
+    "units": 12,
+    "title": "Elementary Hebrew: Intensive",
+    "description": "Lecture, 10 hours; discussion, 10 hours. Intensive course equivalent to courses 1A, 1B, and 1C. Introduction to modern Hebrew, including listening, speaking, reading, and writing. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW8"
+  },
+  {
+    "course_code": "HEBREW 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW19"
+  },
+  {
+    "course_code": "HEBREW 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW89"
+  },
+  {
+    "course_code": "HEBREW 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW89HC"
+  },
+  {
+    "course_code": "HEBREW 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW99"
+  },
+  {
+    "course_code": "HEBREW 102A",
+    "units": 5,
+    "title": "Intermediate Hebrew",
+    "description": "Lecture, five hours. Enforced requisite: course 1C or Hebrew placement test. Course 102A is enforced requisite to 102B, which is enforced requisite to 102C. Not open to native speakers. Amplification of grammar; reading of texts from modern literature. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW102A"
+  },
+  {
+    "course_code": "HEBREW 102B",
+    "units": 5,
+    "title": "Intermediate Hebrew",
+    "description": "Lecture, five hours. Enforced requisite: course 102A or Hebrew placement test. Not open to native speakers. Amplification of grammar; reading of texts from modern literature. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW102B"
+  },
+  {
+    "course_code": "HEBREW 102C",
+    "units": 5,
+    "title": "Intermediate Hebrew",
+    "description": "Lecture, five hours. Enforced requisite: course 102B or Hebrew placement test. Not open to native speakers. Amplification of grammar; reading of texts from modern literature. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW102C"
+  },
+  {
+    "course_code": "HEBREW 103A",
+    "units": 4,
+    "title": "Advanced Hebrew",
+    "description": "Lecture, five hours. Enforced requisites: courses 102A, 102B, and 102C, or Hebrew placement test. Students with prior knowledge of Hebrew who did not take courses 102A, 102B, and 102C should contact instructor to determine appropriate enrollment level. Not open to native speakers. Designed for students with intermediate speaking fluency and reading abilities in Hebrew. Introduction to modern Hebrew literary texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW103A"
+  },
+  {
+    "course_code": "HEBREW 103B",
+    "units": 4,
+    "title": "Advanced Hebrew",
+    "description": "Lecture, five hours. Enforced requisites: courses 102A, 102B, and 102C, or Hebrew placement test. Students with prior knowledge of Hebrew who did not take courses 102A, 102B, and 102C should contact instructor to determine appropriate enrollment level. Not open to native speakers. Designed for students with intermediate speaking fluency and reading abilities in Hebrew. Introduction to modern Hebrew literary texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW103B"
+  },
+  {
+    "course_code": "HEBREW 103C",
+    "units": 4,
+    "title": "Advanced Hebrew",
+    "description": "Lecture, five hours. Enforced requisites: courses 102A, 102B, and 102C, or Hebrew placement test. Students with prior knowledge of Hebrew who did not take courses 102A, 102B, and 102C should contact instructor to determine appropriate enrollment level. Not open to native speakers. Designed for students with intermediate speaking fluency and reading abilities in Hebrew. Introduction to modern Hebrew literary texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW103C"
+  },
+  {
+    "course_code": "HEBREW 110A",
+    "units": 4,
+    "title": "Introduction to Biblical Hebrew: Phonology, Morphology, and Structure of Biblical Hebrew",
+    "description": "Lecture, three hours. Phonology, morphology, and structure of biblical Hebrew. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW110A"
+  },
+  {
+    "course_code": "HEBREW 110B",
+    "units": 4,
+    "title": "Introduction to Biblical Hebrew: Readings of Biblical Prose Texts",
+    "description": "Lecture, three hours. Requisite: course 110A. Continuation of course 110A. Readings of biblical prose texts. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW110B"
+  },
+  {
+    "course_code": "HEBREW 110C",
+    "units": 4,
+    "title": "Readings in Biblical Hebrew",
+    "description": "Lecture, three hours. Requisites: courses 110A, 110B. Continuation of course 110B. Reading of prose texts from Hebrew Bible, particularly from Former Prophets (Joshua-Kings). Introduction to certain aspects of historical grammar of biblical Hebrew. Reading and translation of variety of texts from different historical periods of Hebrew language, including texts from Archaic, Standard, and Late periods. Increased understanding of Hebrew verbal system, including different verbal patterns, their morphology, and syntactic function in biblical Hebrew prose. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 110A",
+      "HEBREW 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW110C"
+  },
+  {
+    "course_code": "HEBREW 111A",
+    "units": 4,
+    "title": "Israeli Society through Hebrew Song and Video",
+    "description": "Lecture, three hours; laboratory, one hour. Requisite: course 1C. Use of contemporary Israeli song and video to explore Israeli collective imagination and various Israeli sociocultural issues to familiarize students with different aspects of Israeli daily life and popular culture, while teaching them multiple speech acts in both formal and informal contexts and enriching their Hebrew vocabulary and its retention. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW111A"
+  },
+  {
+    "course_code": "HEBREW 111B",
+    "units": 3,
+    "title": "Conversational Hebrew",
+    "description": "Lecture, two hours; laboratory, one hour. Requisite: course 111A. Vocabulary used in daily life, different speech acts in both formal and informal contexts, and various Israeli sociocultural issues using different kinds of media, such as video, Internet, and newspapers. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 111A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW111B"
+  },
+  {
+    "course_code": "HEBREW 111C",
+    "units": 3,
+    "title": "Conversational Hebrew",
+    "description": "Lecture, two hours; laboratory, one hour. Requisite: course 111B. Vocabulary used in daily life, different speech acts in both formal and informal contexts, and various Israeli sociocultural issues using different kinds of media, such as video, Internet, and newspapers. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 111B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW111C"
+  },
+  {
+    "course_code": "HEBREW 112",
+    "units": 2,
+    "title": "Readings in Modern Scholarly Hebrew",
+    "description": "Seminar, two hours. Requisite: course 102C. In-depth reading and discussion of selected scholarly articles in modern Hebrew for various disciplines: Bible study, Jewish history and folklore, sociology, and literary criticism. Development of student proficiency in vocabulary, terminology, and ideas in these fields while enhancing comprehension of complex syntactical structures in Hebrew. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW112"
+  },
+  {
+    "course_code": "HEBREW M113",
+    "units": 5,
+    "title": "Contemporary Israeli Short Stories/Novellas and Films in English",
+    "description": "(Same as Jewish Studies M113.) Lecture, three hours; laboratory, two hours. Exploration of Israeli short stories/novellas and films (translated into English) written since mid-1980s that use, each to varying degree, postmodernist techniques to undermine predominance of modernist-Zionist narrative. Recycling and reexamination of Israeli condition and Zionist condition and skepticism about legitimacy of meta-narratives to redefine blurred outline of Israeli identity and subvert its underpinning formative myths. They simultaneously display loss of faith in representative dimension of language, including ability of texts to penetrate to its hidden meaning. Using periphery discourses, these texts strive to change modernist aesthetic and power paradigm. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "JEWISH M113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREWM113"
+  },
+  {
+    "course_code": "HEBREW 120",
+    "units": 4,
+    "title": "Biblical Texts",
+    "description": "Lecture, three hours. Requisites: courses 102A, 102B, 102C. Translation and analysis of biblical texts, with attention to aspects of grammar, style, and interpretation.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW120"
+  },
+  {
+    "course_code": "HEBREW 125",
+    "units": 4,
+    "title": "Hebrew Bible with Medieval Commentaries",
+    "description": "Lecture, three hours. Requisite: course 103C. Hebrew Bible with the commentaries of Rashi, Ibn Ezra, and/or Nahmanides. May be repeated for maximum of 16 units. Letter grading.",
+    "prerequisites": [
+      "HEBREW 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW125"
+  },
+  {
+    "course_code": "HEBREW 130",
+    "units": 4,
+    "title": "Rabbinic Texts",
+    "description": "Lecture, three hours. Requisites: courses 103A, 103B, 103C. Readings in Mishnah, Talmud, and/or Midrash. May be repeated for credit.",
+    "prerequisites": [
+      "HEBREW 103A",
+      "HEBREW 103B",
+      "HEBREW 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW130"
+  },
+  {
+    "course_code": "HEBREW 135",
+    "units": 4,
+    "title": "Medieval Hebrew Texts",
+    "description": "Lecture, three hours. Requisites: courses 103A, 103B, 103C. Readings in medieval Hebrew prose and poetry. May be repeated for maximum of 16 units. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 103A",
+      "HEBREW 103B",
+      "HEBREW 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW135"
+  },
+  {
+    "course_code": "HEBREW C140",
+    "units": 4,
+    "title": "Modern Hebrew Poetry and Prose",
+    "description": "Lecture, three hours. Requisites: courses 103A, 103B, and 103C, or equivalent knowledge of Hebrew. Study of major Hebrew writers of past 100 years. May be repeated for credit. Concurrently scheduled with course C240. Letter grading.",
+    "prerequisites": [
+      "HEBREW 103A",
+      "HEBREW 103B",
+      "HEBREW 103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREWC140"
+  },
+  {
+    "course_code": "HEBREW 170",
+    "units": 4,
+    "title": "Dead Sea Scrolls",
+    "description": "Lecture, three hours. Requisite: course 110C. Readings in Hebrew scrolls from Dead Sea, with focus on grammar, paleography, and biblical interpretation in Dead Sea Scrolls. May be repeated for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 110C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW170"
+  },
+  {
+    "course_code": "HEBREW 180A",
+    "units": 4,
+    "title": "Survey of Hebrew Grammar",
+    "description": "Lecture, three hours. Requisites: courses 102A, 102B, 102C. Descriptive and comparative study of Hebrew grammar: phonology and morphology. Topics include development of Hebrew language from biblical times to present day, its relation to Arabic and other Semitic languages, methods of language expansion in Israeli Hebrew, traditional pronunciation of Hebrew by various Jewish communities, Hebrew contribution to other Jewish languages (Yiddish, Ladino, Judeo-Arabic). P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW180A"
+  },
+  {
+    "course_code": "HEBREW 180B",
+    "units": 4,
+    "title": "Survey of Hebrew Grammar",
+    "description": "Lecture, three hours. Requisites: courses 102A, 102B, 102C. Descriptive and comparative study of Hebrew grammar: phonology and morphology. Topics include development of Hebrew language from biblical times to present day, its relation to Arabic and other Semitic languages, methods of language expansion in Israeli Hebrew, traditional pronunciation of Hebrew by various Jewish communities, Hebrew contribution to other Jewish languages (Yiddish, Ladino, Judeo-Arabic). P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102A",
+      "HEBREW 102B",
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW180B"
+  },
+  {
+    "course_code": "HEBREW 188FL",
+    "units": 2,
+    "title": "Special Studies: Readings in Hebrew",
+    "description": "Seminar, two hours. Requisite: course 102C. Students must be concurrently enrolled in an affiliated main course. Primary readings and advanced training in Hebrew. Additional work in Hebrew to enrich and augment work assigned in main course, including reading, writing, and other exercises in Hebrew. P/NP or letter grading.",
+    "prerequisites": [
+      "HEBREW 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW188FL"
+  },
+  {
+    "course_code": "HEBREW 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW189"
+  },
+  {
+    "course_code": "HEBREW 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW189HC"
+  },
+  {
+    "course_code": "HEBREW 197",
+    "units": 2,
+    "title": "Individual Studies in Hebrew",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW197"
+  },
+  {
+    "course_code": "HEBREW 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Hebrew",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/HEBREW199"
+  }
+]

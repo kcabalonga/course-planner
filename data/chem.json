@@ -1,0 +1,1456 @@
+[
+  {
+    "course_code": "CHEM 3",
+    "units": 5,
+    "title": "Material World",
+    "description": "Lecture, three hours; laboratory, two hours. Focus on most important advances made by humans in developing new molecules and materials, and how these discoveries affect our everyday life. These include development of paints, polymers, metals, fuels, drugs, energetic materials, radioactive substances, poisons, and many more. Connections are made between interplay of science, history, arts, and socio-economic factors driving technological development. Laboratory sections focus on small-scale experiments relevant to everyday life and complimentary to lecture topics. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM3"
+  },
+  {
+    "course_code": "CHEM 4A",
+    "units": 2,
+    "title": "Chemistry and Your Health",
+    "description": "Lecture, two hours. Recent health trends and how they are portrayed in pop culture and media. Examination of scientific explanations behind current health crazes and determination if there is validity to these claims. Discussion of chemical principles, such as basic arrow pushing mechanisms, radical oxidations, etc. Investigation of variety of topics including vitamins, health and beauty supplements, sugar alternatives, detox/cleanses, and traditional medicines. Relevant for students who have taken organic chemistry classes and those who are interested in learning basic organic chemistry concepts. No college-level chemistry is required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM4A"
+  },
+  {
+    "course_code": "CHEM 4B",
+    "units": 4,
+    "title": "What's Cooking Chemistry in the Kitchen",
+    "description": "Lecture, three hours. What is difference between baking soda and baking powder? Why do some recipes call for butter, margarine, or shortening? Answers to these questions and more through dive into chemistry happening every day in your kitchen. Study of macromolecules that make up food (carbohydrates, proteins, and lipids), their chemical properties (hydrophobicity, pH, melting point, degree of saturation), and how to use these properties to control texture and taste in food. Chemical concepts are learned in fun, intuitive way, while use of scientific method in improving food preparations is also learned. Opportunities to participate in scientific process through weekly at home experiments in kitchen, and creative research project. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM4B"
+  },
+  {
+    "course_code": "CHEM 7",
+    "units": 2,
+    "title": "Nanoscience and Nanotechnology Laboratory",
+    "description": "Seminar, discussion, and laboratory, 32 hours. Limited to high school students. Key concepts of nanoscience and nanotechnology, including various approaches to nanofabrication (bottom-up and top-down). Fabrication of nanostructures and devices, collection of scientific data using those devices, analysis of data, and presentations of student results. Offered in summer only. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM7"
+  },
+  {
+    "course_code": "CHEM 8",
+    "units": 2,
+    "title": "Applications of Nanoscience",
+    "description": "Seminar, discussion, laboratory, and field trip, 30 to 60 hours. Limited to high school students. Introduction of advanced concepts of nanoscience and nanotechnology, with emphasis on applications of nanoscience and nanotechnology in other research fields and industries. Laboratories introduce students to research methods, experiment development, scientific writing, and presentation skills. Students devise and execute their own exploratory nanoscience experiments, and present them to technical audience. Offered only as part of Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM8"
+  },
+  {
+    "course_code": "CHEM 14A",
+    "units": 4,
+    "title": "General Chemistry for Life Scientists I",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Life Sciences 30A or Mathematics 3A or 31A or score of 48 or better on Mathematics Diagnostic Test. Not open to students with credit for course 20A. Introduction to physical and general chemistry principles; atomic structure based on quantum mechanics; atomic properties; trends in periodic table; chemical bonding (Lewis structures, VSEPR theory, hybridization, and molecular orbital theory); coordination compounds; properties of inorganic and organic acids, bases, buffers. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "corequisites": [
+      "LIFESCI 30A",
+      "MATH 3A",
+      "MATH 31A",
+      "MATH 48"
+    ],
+    "credit_exclusions": [
+      "CHEM 20A"
+    ],
+    "equivalent_courses": [
+      "CHEM 14AE"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14A"
+  },
+  {
+    "course_code": "CHEM 14AE",
+    "units": 4,
+    "title": "General Chemistry for Life Scientists I\u2014Enhanced",
+    "description": "Lecture, three hours; discussion, two hours. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Life Sciences 30A or Mathematics 3A or 31A or score of 48 or better on Mathematics Diagnostic Test. Not open to students with credit for course 14A or 20A. Study of foundations of chemistry. Discussion of foundations of quantum mechanics and how these principles can be used to understand atomic and molecular structure and properties; how molecules interact; and properties of inorganic, organic, and biological acids, bases, and salts. Biological, environmental, and socially-relevant examples are used to illustrate central role that chemistry plays in our world. Emphasis on developing problem-solving skills and collaborative interaction and learning. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "corequisites": [
+      "LIFESCI 30A",
+      "MATH 3A",
+      "MATH 31A",
+      "MATH 48"
+    ],
+    "credit_exclusions": [
+      "CHEM 20A"
+    ],
+    "equivalent_courses": [
+      "CHEM 14A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14AE"
+  },
+  {
+    "course_code": "CHEM 14B",
+    "units": 4,
+    "title": "General Chemistry for Life Scientists II",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: one course from 14A, 14AE, 20A, or 20AH with grade of C\u2013 or better. Enforced requisite or corequisite: Life Sciences 30B or Mathematics 3B or 31B with grade of C\u2013 or better. Not open to students with credit for course 14BE, 20B, or 20BH. Chemical equilibria in gases and liquids, acid-base equilibrium; phase changes; thermochemistry; first, second, and third laws of thermodynamics; free energy changes; electrochemistry and its role as energy source; chemical kinetics, including catalysis, and reaction mechanisms. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 14AE",
+      "CHEM 20A",
+      "CHEM 20AH",
+      "LIFESCI 30B",
+      "MATH 3B",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "LIFESCI 30B",
+      "MATH 3B",
+      "MATH 31B"
+    ],
+    "credit_exclusions": [
+      "CHEM 20B",
+      "CHEM 20BH"
+    ],
+    "equivalent_courses": [
+      "CHEM 14BE"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14B"
+  },
+  {
+    "course_code": "CHEM 14BE",
+    "units": 4,
+    "title": "General Chemistry for Life Scientists II\u2014Enhanced",
+    "description": "Lecture, three hours; discussion, two hours. Enforced requisite: one course from 14A, 14AE, 20A, or 20AH with grade of C\u2013 or better. Enforced requisite or corequisite: Life Sciences 30B or Mathematics 3B or 31B with grade of C\u2013 or better. Not open to students with credit for course 14B, 20B, or 20BH. Introduction to concepts in thermodynamics and kinetics that are critical for understanding of molecular basis of life. Chemical equilibria in gases and liquids, acid-base equilibrium; phase changes; thermochemistry; first, second, and third laws of thermodynamics; free energy changes; electrochemistry; chemical kinetics, including catalysis, and reaction mechanisms. Emphasis on developing problem-solving skills and collaborative interaction and learning. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 14AE",
+      "CHEM 20A",
+      "CHEM 20AH",
+      "LIFESCI 30B",
+      "MATH 3B",
+      "MATH 31B"
+    ],
+    "corequisites": [
+      "LIFESCI 30B",
+      "MATH 3B",
+      "MATH 31B"
+    ],
+    "credit_exclusions": [
+      "CHEM 20B",
+      "CHEM 20BH"
+    ],
+    "equivalent_courses": [
+      "CHEM 14B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14BE"
+  },
+  {
+    "course_code": "CHEM 14BL",
+    "units": 3,
+    "title": "General and Organic Chemistry Laboratory I",
+    "description": "Lecture, one hour; laboratory, three hours. Enforced requisite: course 14A or 20A or 20AH with grade of C\u2013 or better. Enforced corequisite: course 14B. Not open to students with credit for course 20L. Introduction to volumetric, spectrophotometric, and potentiometric analysis. Use and preparation of buffers and pH meters. Synthesis and kinetics techniques using compounds of interest to students in life sciences. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 20A",
+      "CHEM 20AH"
+    ],
+    "corequisites": [
+      "CHEM 14B"
+    ],
+    "credit_exclusions": [
+      "CHEM 20L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14BL"
+  },
+  {
+    "course_code": "CHEM 14C",
+    "units": 4,
+    "title": "Structure of Organic Molecules",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 14B with grade of C\u2013 or better. Not open to students with credit for course 30A. Continuing studies in structure of organic molecules, with emphasis on biological applications. Resonance, stereochemistry, conjugation, and aromaticity; spectroscopy (NMR, IR, and mass spectrometry); introduction to effects of structure on physical and chemical properties; survey of biomolecular structure. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14B"
+    ],
+    "credit_exclusions": [
+      "CHEM 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14C"
+  },
+  {
+    "course_code": "CHEM 14CL",
+    "units": 4,
+    "title": "General and Organic Chemistry Laboratory II",
+    "description": "Lecture, one hour; laboratory, six hours. Enforced requisites: courses 14B and 14BL, or 20B and 20L, with grades of C\u2013 or better. Enforced corequisite: course 14C. Synthesis and analysis of compounds; purification by extraction, chromatography, recrystallization, and sublimation; characterization by mass spectroscopy, UV, NMR, and IR spectroscopy, optical activity, electrochemistry, pH titration. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14B",
+      "CHEM 14BL",
+      "CHEM 20B",
+      "CHEM 20L"
+    ],
+    "corequisites": [
+      "CHEM 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14CL"
+  },
+  {
+    "course_code": "CHEM 14D",
+    "units": 4,
+    "title": "Organic Reactions and Pharmaceuticals",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 14C with grade of C\u2013 or better. Organic reactions, nucleophilic and electrophilic substitutions and additions; electrophilic aromatic substitutions, carbonyl reactions, catalysis, molecular basis of drug action, and organic chemistry of pharmaceuticals. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM14D"
+  },
+  {
+    "course_code": "CHEM 17",
+    "units": 4,
+    "title": "Chemical Principles",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to chemical principles: numbers, measurements, chemical calculations, gas laws, solutions, acids, bases, and salts, molecular structure, and nomenclature. Collaborative learning and problem solving; introduction to chemistry laboratory practice. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM17"
+  },
+  {
+    "course_code": "CHEM 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM19"
+  },
+  {
+    "course_code": "CHEM 20A",
+    "units": 4,
+    "title": "Chemical Structure",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Recommended preparation: high school physics. Requisite: completion of Chemistry Diagnostic Test. Enforced corequisite: Mathematics 31A. Not open to students with credit for course 14A. First term of general chemistry. Survey of chemical processes, quantum chemistry, atomic and molecular structure and bonding, molecular spectroscopy. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "corequisites": [
+      "MATH 31A"
+    ],
+    "credit_exclusions": [
+      "CHEM 14A"
+    ],
+    "equivalent_courses": [
+      "CHEM 20AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM20A"
+  },
+  {
+    "course_code": "CHEM 20AH",
+    "units": 4,
+    "title": "Chemical Structure (Honors)",
+    "description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background, high school physics, and three and one half years of high school mathematics. Enforced corequisite: Mathematics 31A. Honors course parallel to course 20A. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "corequisites": [
+      "MATH 31A"
+    ],
+    "equivalent_courses": [
+      "CHEM 20A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM20AH"
+  },
+  {
+    "course_code": "CHEM 20B",
+    "units": 4,
+    "title": "Chemical Energetics and Change",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 14A or 14AE or 20A or 20AH, and Mathematics 31A, with grades of C\u2013 or better. Enforced corequisite: Mathematics 31B. Second term of general chemistry. Intermolecular forces and organization, phase behavior, chemical thermodynamics, solutions, equilibria, reaction rates and laws. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 14AE",
+      "CHEM 20A",
+      "CHEM 20AH",
+      "MATH 31A"
+    ],
+    "corequisites": [
+      "MATH 31B"
+    ],
+    "equivalent_courses": [
+      "CHEM 20BH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM20B"
+  },
+  {
+    "course_code": "CHEM 20BH",
+    "units": 4,
+    "title": "Chemical Energetics and Change (Honors)",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 20A and Mathematics 31A with grades of B&plus; or better or 20AH with grade of B or better. Enforced corequisite: Mathematics 31B. Honors course parallel to course 20B. Letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 20A",
+      "MATH 31A"
+    ],
+    "corequisites": [
+      "MATH 31B"
+    ],
+    "equivalent_courses": [
+      "CHEM 20B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM20BH"
+  },
+  {
+    "course_code": "CHEM 20L",
+    "units": 3,
+    "title": "General Chemistry Laboratory",
+    "description": "Lecture, one hour; laboratory, three hours. Enforced requisite: course 14A or 20A with grade of C\u2013 or better. Enforced corequisite: course 14B or 20B. Use of balance, volumetric techniques, volumetric and potentiometric analysis; Beer\u2019s law, applications for environmental analysis and materials science. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Physical Sciences with Lab Credit (Scientific Inquiry)"
+    ],
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 20A"
+    ],
+    "corequisites": [
+      "CHEM 14B",
+      "CHEM 20B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM20L"
+  },
+  {
+    "course_code": "CHEM 30A",
+    "units": 4,
+    "title": "Organic Chemistry I: Structure and Reactivity",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 20B with grade of C\u2013 or better. First term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Covalent bonding, shapes, stereochemistry, and acid/base properties of organic molecules. Properties, synthesis, and reactions of alkanes, cycloalkanes, alkenes, and alkynes. SN2, SN1, elimination, and radical reactions. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 20B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30A"
+  },
+  {
+    "course_code": "CHEM 30AL",
+    "units": 4,
+    "title": "General Chemistry Laboratory II",
+    "description": "Lecture, one hour; laboratory, six hours. Enforced requisites: courses 20B (or 20BH), 20L, and 30A (or 30AH), with grades of C\u2013 or better. Qualitative and quantitative analysis of chemical reactions and compounds, kinetics, separations, and spectroscopy. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 20B",
+      "CHEM 20BH",
+      "CHEM 20L",
+      "CHEM 30A",
+      "CHEM 30AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30AL"
+  },
+  {
+    "course_code": "CHEM 30B",
+    "units": 4,
+    "title": "Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 30A or 30AH, with grade of C\u2013 or better. Second term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Properties, synthesis, and reactions of alcohols, ethers, sulfur compounds, aldehydes, ketones, carboxylic acids, and carboxylic acid derivatives. Organometallic compounds. Organic spectroscopy, including mass spectrometry, infrared spectroscopy, and proton and carbon nuclear magnetic resonance spectroscopy. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30A",
+      "CHEM 30AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30B"
+  },
+  {
+    "course_code": "CHEM 30BL",
+    "units": 3,
+    "title": "Organic Chemistry Laboratory I",
+    "description": "Lecture, one hour; laboratory, four hours. Requisites: courses 30A (or 30AH), 30AL and 30B, with grades of C\u2013 or better. Basic experimental techniques in organic synthesis (performing reactions, monitoring reactions, and conducting purifications) and spectroscopy (IR, NMR, mass spectrometry). Synthesis of known organic molecules on microscale level with focus on societal applications. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30A",
+      "CHEM 30AH",
+      "CHEM 30AL",
+      "CHEM 30B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30BL"
+  },
+  {
+    "course_code": "CHEM 30C",
+    "units": 4,
+    "title": "Organic Chemistry III: Reactivity, Synthesis, and Biomolecules",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 30B with grade of C\u2013 or better. Third term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Chemistry of enolates, enamines, dicarbonyl compounds, and amines. Molecular orbital theory and conjugated pi systems; UV/vis spectroscopy. Aromaticity and reactions of aromatic molecules. Heterocycles, pericyclic reactions, carbohydrates, and lipids. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30C"
+  },
+  {
+    "course_code": "CHEM 30CL",
+    "units": 4,
+    "title": "Organic Chemistry Laboratory II",
+    "description": "Lecture, two hours; laboratory, six hours. Enforced requisites: courses 30B and 30BL, with grades of C\u2013 or better. Enforced corequisite: course 30C. Modern techniques in synthetic organic and analytical organic chemistry. Semi-preparative scale, multistep synthesis of organic and organometallic molecules, including asymmetric catalysts. One- and two-dimensional multinuclear NMR techniques. Written reports and proposals. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30B",
+      "CHEM 30BL"
+    ],
+    "corequisites": [
+      "CHEM 30C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM30CL"
+  },
+  {
+    "course_code": "CHEM 50",
+    "units": 4,
+    "title": "Computational Tools for Materials Modeling and Discovery",
+    "description": "Lecture, three hours. Enforced requisite: course 14A or 20A or 20AH, with grade of C\u2013 or better. Materials are central to many modern technologies, from industrial catalysis, to batteries, computer hard disks, and quantum computers. Computational modeling gains central stage in materials research and discovery, especially with emergence of artificial intelligence techniques and big data initiatives. Introduction to computational tools enabling materials modeling, analysis, predictions, and graphical visualization. Topics such as crystallography, solid state chemistry, and surface science are brought together to enable effective modeling of solid state. Basic concepts related to programming and scripting, and basis of computational chemistry included. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14A",
+      "CHEM 20A",
+      "CHEM 20AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM50"
+  },
+  {
+    "course_code": "CHEM 88A",
+    "units": 2,
+    "title": "Lower-Division Seminar: Serendipity in Science",
+    "description": "Seminar, two hours. Limited to 20 freshmen. Inquiry into unexpected discoveries in science that have had significant impact on society and analysis of circumstances that brought these about, beginning with discovery of helium in sun by Janssen in 1868 (using newly developed field of spectroscopy). Discovery of X rays by R\u00f6ntgen in 1895 and of radioactivity by Becquerel in 1896. Other topics include discoveries important to medicine, such as penicillin by Fleming in 1928 and cis-platin by Rosenberg in 1969. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM88A"
+  },
+  {
+    "course_code": "CHEM 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM89"
+  },
+  {
+    "course_code": "CHEM 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM89HC"
+  },
+  {
+    "course_code": "CHEM 96",
+    "units": 1,
+    "title": "Special Courses in Chemistry",
+    "description": "Tutorial, to be arranged. May be repeated for maximum of 8 units. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM96"
+  },
+  {
+    "course_code": "CHEM 98XA",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+    "description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for life sciences majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM98XA"
+  },
+  {
+    "course_code": "CHEM 98XB",
+    "units": 1,
+    "title": "PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors",
+    "description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for physical sciences and engineering majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM98XB"
+  },
+  {
+    "course_code": "CHEM 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM99"
+  },
+  {
+    "course_code": "CHEM C100",
+    "units": 5,
+    "title": "Genomics and Computational Biology",
+    "description": "Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C200. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC100"
+  },
+  {
+    "course_code": "CHEM 101",
+    "units": 4,
+    "title": "Catalysis in Modern Drug Discovery",
+    "description": "Lecture, three hours. Enforced requisite: course 14D or 30B with a grade of C\u2013 or better. Overview of drug discovery process with focus on transition metal catalysis in synthesis of medicines. Discussion of process by which drugs are discovered, from lead optimization to process development. Introduction to transition metal catalysis, area of critical importance in modern drug development. Study of fundamental concepts of transition metal catalysis and how catalysis has played transformative role in synthesis of modern medicines. Particular attention throughout to discussion of case studies that emphasize broad impact of medicinal chemistry and importance of catalysis in drug discovery. Highlights how organic chemistry can impact world around us, particularly in development of pharmaceuticals. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14D",
+      "CHEM 30B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM101"
+  },
+  {
+    "course_code": "CHEM 103",
+    "units": 4,
+    "title": "Environmental Chemistry",
+    "description": "Lecture, four hours; discussion, one hour. Requisites: courses 30B, 30BL, 110A, 153A (or 153AH), 153L. Chemical aspects of air and water pollution, solid waste disposal, energy resources, and pesticide effects. Chemical reactions in environment and effect of chemical processes on environment. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30B",
+      "CHEM 30BL",
+      "CHEM 110A",
+      "CHEM 153A",
+      "CHEM 153AH",
+      "CHEM 153L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM103"
+  },
+  {
+    "course_code": "CHEM C105",
+    "units": 4,
+    "title": "Introduction to Chemistry of Biology",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 153A with grade of C\u2013 or better. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Concurrently scheduled with course CM205A. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC105"
+  },
+  {
+    "course_code": "CHEM C107",
+    "units": 4,
+    "title": "Organometallic Chemistry",
+    "description": "Lecture/discussion, three hours. Enforced requisite or corequisite: course 172. Survey of synthesis, structure, and reactivity (emphasizing mechanistic approach) of compounds containing carbon bonded to elements selected from main group metals, metalloids, and transition metals, including olefin complexes and metal carbonyls; applications in catalysis and organic synthesis. Concurrently scheduled with course C207. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 172"
+    ],
+    "corequisites": [
+      "CHEM 172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC107"
+  },
+  {
+    "course_code": "CHEM C108",
+    "units": 2,
+    "title": "Mass Spectrometry for Chemists and Biochemists",
+    "description": "Lecture, one hour; laboratory, four hours. Requisite: course 153A. Introduction to principles and practice of organic and inorganic mass spectrometry. Topics include EI, CI, ICPMS, GC/MS, LC/MS, ESI, MALDI, MS/MS protein identification, and proteomics. Concurrently scheduled with course C208. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC108"
+  },
+  {
+    "course_code": "CHEM 110A",
+    "units": 4,
+    "title": "Physical Chemistry: Chemical Thermodynamics",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: course 20B, Mathematics 32A or 3C (for life sciences majors), Physics 1A, 1B, and 1C (may be taken concurrently), or 1AH, 1BH, and 1CH (may be taken concurrently), or 5A, 5B, and 5C (may be taken concurrently), or 6A, 6B, and 6C (may be taken concurrently). Fundamentals of thermodynamics, chemical and phase equilibria, thermodynamics of solutions, electrochemistry. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 20B",
+      "MATH 32A",
+      "MATH 3C",
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 5A",
+      "PHYSICS 5B",
+      "PHYSICS 5C",
+      "PHYSICS 6A",
+      "PHYSICS 6B",
+      "PHYSICS 6C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM110A"
+  },
+  {
+    "course_code": "CHEM 110B",
+    "units": 4,
+    "title": "Topics in Physical Chemistry",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: courses 110A, 113A, Mathematics 32B, all with grades of C\u2013 or better. Kinetic theory of gases, principles of statistical mechanics, statistical thermodynamics, equilibrium structure and free energy,\u00a0 macroscopic chemical kinetics. Interaction of radiation with matter, microwave spectroscopy, infrared and Raman spectroscopy, vibrations in polyatomic molecules, electronic spectroscopy.\u00a0P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 113A",
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM110B"
+  },
+  {
+    "course_code": "CHEM 113A",
+    "units": 4,
+    "title": "Physical Chemistry: Introduction to Quantum Mechanics",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 20B, Mathematics 32A, 32B, 33A, Physics 1A, 1B, and 1C, or 1AH, 1BH, and 1CH, or 5A, 5B, and 5C, or 6A, 6B, and 6C, with grades of C\u2013 or better. Departure from classical mechanics: Schr\u00f6dinger versus Newton equations; model systems: particle-in-box, harmonic oscillator, rigid rotor, and hydrogen atom; approximation methods: perturbation and variational methods; many-electron atoms, spin, and Pauli principle, chemical bonding. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 20B",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A",
+      "PHYSICS 1A",
+      "PHYSICS 1B",
+      "PHYSICS 1C",
+      "PHYSICS 1AH",
+      "PHYSICS 1BH",
+      "PHYSICS 1CH",
+      "PHYSICS 5A",
+      "PHYSICS 5B",
+      "PHYSICS 5C",
+      "PHYSICS 6A",
+      "PHYSICS 6B",
+      "PHYSICS 6C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM113A"
+  },
+  {
+    "course_code": "CHEM C113B",
+    "units": 4,
+    "title": "Quantum Chemistry Methods",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Complete introduction to electronic structure theory methods used by general computational chemistry community, focusing primarily on ab initio methods. Students gain understanding of electronic structure methods and tools to identify which methods are suitable for which types of systems. Methods covered include Hartree Fock, density-functional theory, perturbative methods, and modern high-correlation methods; and highlight algorithms necessary to implement these methods efficiently. Concurrently scheduled with course C213B. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 113A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC113B"
+  },
+  {
+    "course_code": "CHEM 114",
+    "units": 5,
+    "title": "Physical Chemistry Laboratory",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, 113A, all with grades of C\u2013 or better. Enforced corequisite: course 110B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30AL",
+      "CHEM 110A",
+      "CHEM 113A"
+    ],
+    "corequisites": [
+      "CHEM 110B"
+    ],
+    "equivalent_courses": [
+      "CHEM 114H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM114"
+  },
+  {
+    "course_code": "CHEM 114H",
+    "units": 5,
+    "title": "Physical Chemistry Laboratory (Honors)",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of B or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes topics in physical chemistry to be selected in consultation with instructor. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30AL",
+      "CHEM 110A",
+      "CHEM 113A"
+    ],
+    "corequisites": [
+      "CHEM 110B",
+      "CHEM C113B"
+    ],
+    "equivalent_courses": [
+      "CHEM 114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM114H"
+  },
+  {
+    "course_code": "CHEM C115A",
+    "units": 4,
+    "title": "Advanced Quantum Chemistry with Laboratory I",
+    "description": "Lecture, two and one half hours; discussion, one hour; laboratory, 90 minutes. Requisites: courses 110B, 113A, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C\u2013 or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131, and of analytic mechanics equivalent to Physics 105A. Course C115A or Physics 115B with grade of C\u2013 or better is requisite to C115B. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215A. Letter grading.",
+    "prerequisites": [
+      "CHEM 110B",
+      "CHEM 113A",
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC115A"
+  },
+  {
+    "course_code": "CHEM C115B",
+    "units": 4,
+    "title": "Advanced Quantum Chemistry with Laboratory II",
+    "description": "Lecture, two and one half hours; discussion, one hour; laboratory, 90 minutes. Requisites: courses 113A, C115A or Physics 115B, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C\u2013 or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215B. Letter grading.",
+    "prerequisites": [
+      "CHEM 113A",
+      "CHEM C115A",
+      "PHYSICS 115B",
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 32B",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC115B"
+  },
+  {
+    "course_code": "CHEM C115C",
+    "units": 4,
+    "title": "Advanced Quantum Chemistry: Applications",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 113A, C115B. Topics in quantum chemistry selected from molecular structure, collision processes, theory of solids, symmetry and its applications, and theory of electromagnetic radiation. Concurrently scheduled with course C215C. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 113A",
+      "CHEM C115B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC115C"
+  },
+  {
+    "course_code": "CHEM M117",
+    "units": 5,
+    "title": "Structure, Patterns, and Polyhedra",
+    "description": "(Same as Honors Collegium M180.) Lecture, four hours; laboratory, two hours. Exploration of structures and their geometric underpinnings, with examples and applications from architecture (space frames, domes), biology (enzyme complexes, viruses), chemistry (symmetry, molecular cages), design (tiling), engineering (space filling), and physics (crystal structures) to effect working knowledge of symmetry, two-dimensional patterns, and three-dimensional solids. P/NP or letter grading.",
+    "cross_listed": [
+      "HNRS M180"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM117"
+  },
+  {
+    "course_code": "CHEM 118",
+    "units": 4,
+    "title": "Colloidal Dynamics Laboratory",
+    "description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 110A and 110B, with grades of B or better, or equivalent statistical mechanics courses from engineering, mathematics, or physics. One aspect of dispersions of microscale particles in viscous liquids is that such dispersions can be used as visual model systems for studying phases that chemistry undergraduate students typically learn about for nanoscale and molecular systems, yet they do not see. Temperature continuously excites molecules and causes rearrangements, giving dynamic views of macromolecules and particles in many fields, including cell and molecular biology, chemical engineering, chemistry, materials science, and physics. Letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM118"
+  },
+  {
+    "course_code": "CHEM M120",
+    "units": 4,
+    "title": "Soft Matter Laboratory",
+    "description": "(Same as Physics M180G.) Lecture, 90 minutes; laboratory, four hours. Requisites: Physics 110B, 115A. Students gain experience of conducting independent research in experimental biological physics. Construction of modern microscope. Use of microscope to image biological specimens. Students learn optics, diffraction, imaging, microscopy, computational physics, and/or fluorescent labeling. P/NP or letter grading.",
+    "prerequisites": [
+      "PHYSICS 110B",
+      "PHYSICS 115A"
+    ],
+    "cross_listed": [
+      "PHYSICS M180G"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM120"
+  },
+  {
+    "course_code": "CHEM 121",
+    "units": 4,
+    "title": "Special Topics in Physical Chemistry",
+    "description": "Lecture, four hours. Requisite: course 110B. Recommended: course 113A. Topics of considerable research interest presented at level suitable for students who have completed junior-year courses in physical chemistry. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM121"
+  },
+  {
+    "course_code": "CHEM C122",
+    "units": 4,
+    "title": "Mathematical Methods for Chemistry",
+    "description": "Lecture, four hours. Enforced requisites: Mathematics 31A, 31B, 32A, 32B. Review of basic mathematics necessary to study physical chemistry at graduate level, with focus on review of vectors, linear algebra, elementary complex analysis, and solution of ordinary and partial differential equations. Development of problem-solving skills through homework based on these mathematical techniques, with examples from physical chemistry. Concurrently scheduled with course C222. P/NP or letter grading.",
+    "prerequisites": [
+      "MATH 31A",
+      "MATH 31B",
+      "MATH 32A",
+      "MATH 32B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC122"
+  },
+  {
+    "course_code": "CHEM C123A",
+    "units": 4,
+    "title": "Advanced Thermodynamics and Statistical Mechanics with Laboratory I",
+    "description": "Lecture, two and one half hours; discussion, one hour; laboratory, 90 minutes. Requisites: courses 110A, 110B or 156, 113A, Mathematics 33A, with grades of C\u2013 or better. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223A. Letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 110B",
+      "CHEM 156",
+      "CHEM 113A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC123A"
+  },
+  {
+    "course_code": "CHEM C123B",
+    "units": 4,
+    "title": "Advanced Thermodynamics and Statistical Mechanics with Laboratory II",
+    "description": "Lecture, two and one half hours; discussion, one hour; laboratory, 90 minutes. Requisites: courses 110A, 110B or 156, 113A, C123A, Mathematics 33A. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223B. Letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 110B",
+      "CHEM 156",
+      "CHEM 113A",
+      "CHEM C123A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC123B"
+  },
+  {
+    "course_code": "CHEM M124",
+    "units": 4,
+    "title": "Philosophy of Science: Historical",
+    "description": "(Same as Philosophy M124.) Lecture, three to four hours; discussion, one hour (when scheduled). Preparation: one course in philosophy or a physical science. Historical introduction to philosophy of science. Discussion of general topics in context of actual episodes in development of natural sciences. May be repeated for credit with consent of instructor. P/NP or letter grading.",
+    "cross_listed": [
+      "PHILOS M124"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM124"
+  },
+  {
+    "course_code": "CHEM 125",
+    "units": 4,
+    "title": "Introduction to Python Programming and Machine Learning",
+    "description": "Lecture, three hours; computer laboratory, one hour. Requisite: course 14C or 30A, with grade of C\u2013 or better. Introduction to programming in Python and to machine learning and its many applications within chemical sciences. Topics include fundamentals of Python programming, routine numerical procedures such as optimization and linear regression, and overview of machine learning, with special emphasis on neural networks and deep learning, including implementation. Exploration of mainstream applications of machine learning to problems of chemical interest, including molecular simulation, protein structure prediction, and computer-aided drug and material design/discovery. Particular topics to be covered and projects to be completed may be decided in part based on student interest and input. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14C",
+      "CHEM 30A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM125"
+  },
+  {
+    "course_code": "CHEM C126A",
+    "units": 4,
+    "title": "Computational Methods for Chemists",
+    "description": "Lecture, one hour; laboratory, four hours. Requisites: courses 110A, 113A, Mathematics 33A. Covers some basics of scientific coding. Introduction to advanced applications provided through commercially available computational packages. Includes quantum mechanical techniques for chemistry, reactivity, spectroscopy, solid state calculations; statistical mechanical techniques for chemistry and biochemistry; python coding, basic algorithms, machine learning, and numerical techniques. Concurrently scheduled with course C226A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 113A",
+      "MATH 33A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC126A"
+  },
+  {
+    "course_code": "CHEM CM127",
+    "units": 4,
+    "title": "Synthetic Biology for Biofuels",
+    "description": "(Same as Chemical Engineering CM127.) Lecture, four hours; discussion, one hour. Requisite: course 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM227. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A"
+    ],
+    "cross_listed": [
+      "CH ENGR CM127"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMCM127"
+  },
+  {
+    "course_code": "CHEM C132A",
+    "units": 4,
+    "title": "Core Principles in Cell and Molecular Biology",
+    "description": "Lecture, four hours. Requisites: Life Sciences 7A, 7B, 7C, 23L. Students gain broad foundational knowledge and skills for rigorous research in emerging areas of cell and molecular biology. Focus on foundational knowledge of cell and molecular biology research areas including cell cycle, cell signaling, cell metabolism, cell communication, cell states and fates, genomes, and proteomes. Focus on skills development for cell and molecular biology research. Students are equipped with theory of modern experimental approaches, and acquire hands-on skills training in designing experiments and analyzing data using these approaches. Students meet with directors of shared core facilities that specialize in these approaches to facilitate use of these approaches in their research Continuation of in-depth analysis of rigorous experimental design and statistical analyses in cell and molecular biology. Concurrently scheduled with course C232A. P/NP or letter grading.",
+    "prerequisites": [
+      "LIFESCI 7A",
+      "LIFESCI 7B",
+      "LIFESCI 7C",
+      "LIFESCI 23L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC132A"
+  },
+  {
+    "course_code": "CHEM 136",
+    "units": 5,
+    "title": "Organic Structural Methods",
+    "description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 30C and 30CL, with grades of C\u2013 or better. Laboratory course in organic structure determination by chemical and spectroscopic methods; microtechniques. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30C",
+      "CHEM 30CL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM136"
+  },
+  {
+    "course_code": "CHEM C138",
+    "units": 4,
+    "title": "Natural Product Biosynthesis: Chemical Logic and Enzymatic Machinery",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 30A, 30B, 30C, 153A. Covers fundamental chemical logic and enzyme mechanisms involved in biosynthesis of natural products. Discussion of major classes of natural product including polyketides, nonribosomal peptides, terpenes, alkaloids. Emphasis on biosynthetic logic used by nature to form complex molecules. Discussion of several important enzyme families in context of biosynthesis, including assembly-line megasynthases, group transferases, oxidoreductases, etc. Historical account of natural product isolation and characterization, as well as modern account of synthetic biology and genome based efforts that are used in discovery of new natural products. Includes extensive survey of scientific literature in format of presentations and discussions. Concurrently scheduled with course C238. Letter grading.",
+    "prerequisites": [
+      "CHEM 30A",
+      "CHEM 30B",
+      "CHEM 30C",
+      "CHEM 153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC138"
+  },
+  {
+    "course_code": "CHEM C140",
+    "units": 4,
+    "title": "Bionanotechnology",
+    "description": "Lecture, three hours. Requisites: courses 30C, 110A. Basic physical, chemical, and biological principles in bionanotechnology; materials and strategies for top-down and bottom-up fabrication of ordered biologically derived molecules, characterization and detection techniques, and biomimetic materials and applications at nanoscale. Concurrently scheduled with course C240. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30C",
+      "CHEM 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC140"
+  },
+  {
+    "course_code": "CHEM C143A",
+    "units": 4,
+    "title": "Structure and Mechanism in Organic Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 30C and 30CL (may be taken concurrently), 110B, and 113A, with grades of C\u2013 or better. Mechanisms of organic reactions. Acidity and acid catalysis; linear free energy relationships; isotope effects. Molecular orbital theory; photochemistry; pericyclic reactions. May be concurrently scheduled with course C243A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30C",
+      "CHEM 30CL",
+      "CHEM 110B",
+      "CHEM 113A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC143A"
+  },
+  {
+    "course_code": "CHEM C143B",
+    "units": 4,
+    "title": "Mechanism and Structure in Organic Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course C143A with grade of C\u2013 or better. Mechanisms of organic reactions; structure and detection of reactive intermediates. May be concurrently scheduled with course C243B. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM C143A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC143B"
+  },
+  {
+    "course_code": "CHEM 144",
+    "units": 5,
+    "title": "Practical and Theoretical Introductory Organic Synthesis",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30C and 30CL, with grades of C\u2013 or better. Lectures on modern synthetic reactions and processes, with emphasis on stereospecific methods for carbon-carbon bond formation. Laboratory methods of synthetic organic chemistry, including reaction techniques, synthesis of natural products, and molecules of theoretical interest. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30C",
+      "CHEM 30CL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM144"
+  },
+  {
+    "course_code": "CHEM C145",
+    "units": 4,
+    "title": "Theoretical and Computational Organic Chemistry",
+    "description": "Lecture, two hours; discussion, one hour; computer laboratory, one hour. Requisites: courses 30C, 113A. Applications of quantum mechanical concepts and methods to understand and predict organic structures and reactivities. Computational modeling methods, including laboratory experience with force-field and quantum mechanical computer calculations. Concurrently scheduled with course C245. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30C",
+      "CHEM 113A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC145"
+  },
+  {
+    "course_code": "CHEM 147",
+    "units": 2,
+    "title": "Careers in Chemistry and Biochemistry",
+    "description": "Seminar, two hours. Exploration of employment and career opportunities available to students. Different speakers give short presentations to describe their career paths in areas such as industry, government, research and development, education, law, and healthcare, explain how their education in chemistry and biochemistry helped them become successful, and what actual chemistry was used in their particular professions. Students learn and understand real-life applications of chemical concepts found in their coursework. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM147"
+  },
+  {
+    "course_code": "CHEM C150",
+    "units": 4,
+    "title": "Research Integrity and Methods in Cellular Biology, Molecular Biology, and Biochemistry Research",
+    "description": "Lecture, two hours; discussion, two hours. Enforced requisites: courses 153A, 153L, with grades of C\u2013 or better. Data analysis and management, statistical methods, use of antibody and kit reagents, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. Concurrently scheduled with course C250. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC150"
+  },
+  {
+    "course_code": "CHEM 151",
+    "units": 4,
+    "title": "Machine Learning for Chemistry",
+    "description": "(Formerly numbered 51.) Lecture, three hours. Requisites: course 20B or 20BH, Mathematics 33A or 33AH. Introduction to machine learning and its many applications within chemical sciences. Topics include widely-used approaches for modeling large and complex data sets, including neural networks and deep learning, supervised and unsupervised learning, and dimensionality reduction. Exploration of mainstream applications of machine learning to problems of chemical interest, including molecular simulation and computer-aided drug and material design/discovery. Succinct introduction to linear algebra and programming in Python. Particular topics to be covered and projects to be completed may be decided in part based on student interest and input. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 20B",
+      "CHEM 20BH",
+      "MATH 33A",
+      "MATH 33AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM151"
+  },
+  {
+    "course_code": "CHEM 153A",
+    "units": 4,
+    "title": "Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 14D or 30B, with grade of C\u2013 or better. Recommended: Life Sciences 2, 3, and 23L, or 7A. Structure of proteins, carbohydrates, and lipids; enzyme catalysis and principles of metabolism, including glycolysis, citric acid cycle, and oxidative phosphorylation. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14D",
+      "CHEM 30B"
+    ],
+    "equivalent_courses": [
+      "CHEM 153AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153A"
+  },
+  {
+    "course_code": "CHEM 153AH",
+    "units": 4,
+    "title": "Biochemistry: Introduction to Structure, Enzymes, and Metabolism (Honors)",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 14D or 30B, with grade of C\u2013 or better. Recommended: Life Sciences 2, 3, 23L. Honors course parallel to course 153A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14D",
+      "CHEM 30B"
+    ],
+    "equivalent_courses": [
+      "CHEM 153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153AH"
+  },
+  {
+    "course_code": "CHEM 153B",
+    "units": 4,
+    "title": "Biochemistry: DNA, RNA, and Protein Synthesis",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Recommended: Life Sciences 2, 3, and 23L, or 7A and 7B. Nucleotide metabolism; DNA replication; DNA repair; transcription machinery; regulation of transcription; RNA structure and processing; protein synthesis and processing. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH"
+    ],
+    "equivalent_courses": [
+      "CHEM 153BH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153B"
+  },
+  {
+    "course_code": "CHEM 153BH",
+    "units": 4,
+    "title": "Biochemistry: DNA, RNA, and Protein Sythesis (Honors)",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Enforced requisites: course 153A or 153AH, Life Sciences 2, 3, 23L. Honors course parallel to course 153B. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH",
+      "LIFESCI 2",
+      "LIFESCI 3",
+      "LIFESCI 23L"
+    ],
+    "equivalent_courses": [
+      "CHEM 153B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153BH"
+  },
+  {
+    "course_code": "CHEM 153C",
+    "units": 4,
+    "title": "Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation",
+    "description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Metabolism of carbohydrates, fatty acids, amino acids, and lipids; photosynthetic metabolism and assimilation of inorganic nutrients; regulation of these processes. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH"
+    ],
+    "equivalent_courses": [
+      "CHEM 153CH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153C"
+  },
+  {
+    "course_code": "CHEM 153CH",
+    "units": 4,
+    "title": "Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation (Honors)",
+    "description": "Lecture, three hours; discussion, two hours. Requisite: course 153A or 153AH. Honors course parallel to course 153C. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH"
+    ],
+    "equivalent_courses": [
+      "CHEM 153C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153CH"
+  },
+  {
+    "course_code": "CHEM 153D",
+    "units": 4,
+    "title": "Introduction to Protein Structural Biology",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 153A, Life Sciences 3 or 7A. Proteins are diverse set of macromolecules that perform critical functions within cells, ranging from enzymes that catalyze metabolic reactions to proteins that enable pathogens to cause disease. Introduction to field of protein structural biology, that seeks to understand molecular basis of protein function through visualizing atomic structures and by investigating how alterations in protein structure affects function. Students gain fundamental understanding of protein structure and its relationship to function and learn how experimental and computational methods are used to determine three-dimensional structures of proteins. Hands-on training in computer graphics programs and online tools used to visualize and analyze protein structures. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "LIFESCI 3",
+      "LIFESCI 7A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153D"
+  },
+  {
+    "course_code": "CHEM 153L",
+    "units": 4,
+    "title": "Biochemical Methods I",
+    "description": "Lecture, two hours; laboratory, four hours. Requisites: courses 14BL or 20L and 30AL, and 153A or 153AH (may be taken concurrently), with grades of C\u2013 or better. Integrated term-long project involving biofuel production in bacteria. Purification of key enzyme for alcohol production from bacteria via affinity chromatography. Assessment of protein amount, purity, and activity of enzyme. Techniques include protein determination by Bradford assay, polyacrylamide gel electrophoresis, immunoblotting, and enzyme activity assays to determine enzyme activity (Km, Vmax, inhibitor studies). P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14BL",
+      "CHEM 20L",
+      "CHEM 30AL",
+      "CHEM 153A",
+      "CHEM 153AH"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM153L"
+  },
+  {
+    "course_code": "CHEM 154",
+    "units": 5,
+    "title": "Biochemical Methods II",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 153A or 153AH, 153B or 153BH, and 153L, with grades of C\u2013 or better. Recommended: course 156. Two to three major laboratory projects using biochemical laboratory techniques to investigate contemporary problems in biochemistry. Topics include transcription activation, molecular basis of DNA-protein interactions, biochemical basis of platelet activation, and initiation of blood clotting cascade. Experiments entail characterizing function of proteins, nucleic acids, and lipids involved in these processes. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH",
+      "CHEM 153B",
+      "CHEM 153BH",
+      "CHEM 153L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM154"
+  },
+  {
+    "course_code": "CHEM C155",
+    "units": 1,
+    "title": "Mitochondria in Medicine, Biology, and Chemistry",
+    "description": "Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. Concurrently scheduled with course CM255. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC155"
+  },
+  {
+    "course_code": "CHEM 156",
+    "units": 4,
+    "title": "Physical Biochemistry",
+    "description": "Lecture, four hours; discussion, one hour. Requisites: courses 110A, 153A. Biochemical kinetics; solution thermodynamics of biochemical systems; multiple equilibria; hydrodynamics; energy levels, spectroscopy, and bonding; topics from structural, statistical, and electrochemical methods of biochemistry. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 153A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM156"
+  },
+  {
+    "course_code": "CHEM M157",
+    "units": 4,
+    "title": "Food: Molecules, Microbes, Environment",
+    "description": "(Same as Food Studies M157.) Lecture, three hours; discussion, one hour. Requisite: course 153A. Recommended requisites: Life Sciences 7A, 7B. Study of science of food. Study of food units physical, biological, environmental, social, and behavioral sciences. Use of scientific concepts to explain properties of food. Covers range of topics that focus on science of cooking, critical role of microbes in transformation of foods, genetic and environmental concerns related to acquisition of food, and impact of different dietary systems on metabolism and physiology. Comprises four major interrelated topics: molecules of food and their sources, science of cooking, acquisition of food, eating. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A"
+    ],
+    "cross_listed": [
+      "FOOD ST M157"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM157"
+  },
+  {
+    "course_code": "CHEM C159",
+    "units": 4,
+    "title": "Mechanisms of Gene Regulation",
+    "description": "Lecture, four hours. Requisite: course 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. Concurrently scheduled with course CM259. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC159"
+  },
+  {
+    "course_code": "CHEM C164",
+    "units": 2,
+    "title": "Free Radicals in Biology and Medicine",
+    "description": "Lecture, three hours. Enforced requisites: courses 153A and either 153B or 153C, with grades of C\u2013 or better. Biochemcial reactivity of dioxygen, its role in mitochondrial metabolism, neurodegenerative diseases, apoptosis, and aging. Discussion of radical reactions, how they are harnessed to achieve enzyme catalysis, and how free radicals contribute to or regulate essential biological processes. These same reactions run amok under certain types of stress and can contribute to wide variety of diseases, including neurodegenerative diseases (e.g., Huntington\u2019s, Parkinson\u2019s, and Alzheimer\u2019s diseases), mitochondrial diseases, atherosclerosis, and aging. Concurrently scheduled with course C264. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153B",
+      "CHEM 153C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC164"
+  },
+  {
+    "course_code": "CHEM C165",
+    "units": 4,
+    "title": "Metabolic Control by Protein Modification",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, 153C. Biochemical basis of controlling metabolic pathways by posttranslational modification of proteins, including phosphorylation and methylation reactions. Concurrently scheduled with course C265. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153B",
+      "CHEM 153C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC165"
+  },
+  {
+    "course_code": "CHEM 166",
+    "units": 4,
+    "title": "RNA Structure, Recognition, and Function",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, Life Sciences 3 and 23L, or 7A. Recent years have seen explosion in biochemical characterization of diverse structures and functions of RNA molecules in metabolism of living systems. RNA has been shown to act both as catalyst in living systems and as potent modulator of gene expression control at every level of gene expression pathways (transcription, RNA processing, translation, degradation). RNA molecules now being used as therapeutic agents in gene therapy approaches. Coverage of these various aspects and in-depth analysis of RNA structure and function, using primary research literature and analysis of molecular structures of RNA and RNA-protein complexes. Letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153B",
+      "LIFESCI 3",
+      "LIFESCI 23L",
+      "LIFESCI 7A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM166"
+  },
+  {
+    "course_code": "CHEM CM170",
+    "units": 2,
+    "title": "Biochemistry and Molecular Biology of Photosynthetic Apparatus",
+    "description": "(Same as Molecular, Cell, and Developmental Biology M170.) Lecture, two to three hours; discussion, zero to two hours. Requisites: courses 153A and 153B, or Life Sciences 3 and 23L, and course 153L. Recommended: courses 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. Concurrently scheduled with course C270. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153B",
+      "LIFESCI 3",
+      "LIFESCI 23L",
+      "CHEM 153L"
+    ],
+    "cross_listed": [
+      "MCD BIO M170"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMCM170"
+  },
+  {
+    "course_code": "CHEM 171",
+    "units": 4,
+    "title": "Intermediate Inorganic Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 30B with grade of C\u2013 or better. Chemical bonding; structure and bonding in solid state; main group, transition metal, lanthanide and actinide compounds and reactions; catalysis, spectroscopy, special topics. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM171"
+  },
+  {
+    "course_code": "CHEM C172",
+    "units": 4,
+    "title": "Advanced Inorganic Chemistry",
+    "description": "(Formerly numbered 172.) Lecture, three hours; discussion, one hour. Requisite: course 171 with grade of C\u2013 or better. Systematic approach to modern inorganic chemistry, structure and bonding of inorganic molecules and solids, structure/reactivity relationships, vibrational spectra of complexes, electronic structure and ligand-field theory, mechanisms of inorganic reactions, bonding and spectroscopy of organometallic compounds, transition metals in catalysis and biology. Concurrently scheduled with course C272. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC172"
+  },
+  {
+    "course_code": "CHEM C173",
+    "units": 4,
+    "title": "Electrochemical Systems",
+    "description": "Lecture, three hours; discussion, two hours. Requisites: course 110A, Mathematics 33B. Introduction to principles of electrochemical systems commonly applied in research of inorganic chemistry, materials sciences, and nanotechnology. With examples in recent literature and discussions of experimental practice, focus on qualitative and quantitative evaluation of information obtained from electrochemical characterization methods. Understanding of course contents helps appreciate research and technologies in catalysis, energy storage and conversion, and advanced environmental technologies. Concurrently scheduled with course C273. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "MATH 33B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC173"
+  },
+  {
+    "course_code": "CHEM C174",
+    "units": 5,
+    "title": "Inorganic and Metalorganic Laboratory Methods",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 171, with grades of C\u2013 or better. Synthesis of inorganic compounds, including air-sensitive materials; Schlenck techniques; chromatographic and ion exchange methods; spectroscopic characterization and literature applications. Concurrently scheduled with course C274. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30CL",
+      "CHEM 171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC174"
+  },
+  {
+    "course_code": "CHEM C175",
+    "units": 4,
+    "title": "Inorganic Reaction Mechanisms",
+    "description": "Lecture, three hours. Requisites: courses 110A, 110B, 113A, and 172, with grades of C\u2013 or better. Survey of inorganic reactions; mechanistic principles; electronic structure of metal ions; transition-metal coordination chemistry; inner- and outer-sphere and chelate complexes; substitution, isomerization, and racemization reactions; stereochemistry; oxidation/reduction, free/radical, polymerization, and photochemical reactions of inorganic species. May be concurrently scheduled with course C275. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 110A",
+      "CHEM 110B",
+      "CHEM 113A",
+      "CHEM 172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC175"
+  },
+  {
+    "course_code": "CHEM C176",
+    "units": 4,
+    "title": "Group Theory and Applications to Inorganic Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 113A and 172, with grades of C\u2013 or better. Group theoretical methods; molecular orbital theory; ligand-field theory; electronic spectroscopy; vibrational spectroscopy. May be concurrently scheduled with course C276A. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 113A",
+      "CHEM 172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC176"
+  },
+  {
+    "course_code": "CHEM C179",
+    "units": 4,
+    "title": "Biological Inorganic Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A (or 153AH), 171. Role of metal ions in biology. Topics include interactions of metal ions and metallocofactors with proteins, nucleic acids, and other biological molecules; mechanisms of metal ion transport and storage; metallocofactor biosynthesis; hydrolytic chemistry; biological electron transfer; metalloenzymes; metals in medicine. Concurrently scheduled with course C279. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 153A",
+      "CHEM 153AH",
+      "CHEM 171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC179"
+  },
+  {
+    "course_code": "CHEM C180",
+    "units": 4,
+    "title": "Solid-State Chemistry",
+    "description": "Lecture, three hours. Requisite: course 172 with grade of C\u2013 or better. Survey of new materials and methods for their preparation and characterization, with emphasis on band theory and its relationship to chemical, optical, transport, and magnetic properties, leading to deeper understanding of these materials. Concurrently scheduled with course C280. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 172"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC180"
+  },
+  {
+    "course_code": "CHEM C181",
+    "units": 4,
+    "title": "Polymer Chemistry",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 30B, 110A. Synthesis of organic and inorganic macromolecules, thermodynamic and statistical mechanical descriptions of unique properties of polymers, polymer characterization methods, and special topics such as conductive and biomedical polymers and polymeric reagents in synthesis. Concurrently scheduled with course C281. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30B",
+      "CHEM 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMC181"
+  },
+  {
+    "course_code": "CHEM 184",
+    "units": 5,
+    "title": "Chemical Instrumentation",
+    "description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 110A, with grades of C\u2013 or better. Theory and practice of instrumental techniques of chemical and structural analysis, including atomic absorption spectroscopy, gas chromatography, mass spectrometry, nuclear magnetic resonance, polarography, X-ray fluorescence, and other modern methods. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 30CL",
+      "CHEM 110A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM184"
+  },
+  {
+    "course_code": "CHEM 185",
+    "units": 5,
+    "title": "Materials Chemistry Laboratory",
+    "description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 30AL, 110A, 113A, 171. Materials synthesis and physical properties of complex materials. Combines synthetic skills with fundamental physical understanding and characterization in approximately equal proportions to relate materials synthesis to materials function. Letter grading.",
+    "prerequisites": [
+      "CHEM 30AL",
+      "CHEM 110A",
+      "CHEM 113A",
+      "CHEM 171"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM185"
+  },
+  {
+    "course_code": "CHEM M186",
+    "units": 4,
+    "title": "Stochastic Processes in Biochemical Systems",
+    "description": "(Same as Computational and Systems Biology M175.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 1",
+      "LIFESCI 2",
+      "LIFESCI 3",
+      "LIFESCI 4",
+      "LIFESCI 7A",
+      "LIFESCI 7B",
+      "LIFESCI 7C",
+      "MATH 33B",
+      "EC ENGR 131A",
+      "MATH 170A",
+      "STATS 100A"
+    ],
+    "cross_listed": [
+      "C&S BIO M175"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM186"
+  },
+  {
+    "course_code": "CHEM 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM188SA"
+  },
+  {
+    "course_code": "CHEM 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "CHEM 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM188SB"
+  },
+  {
+    "course_code": "CHEM 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "CHEM 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM188SC"
+  },
+  {
+    "course_code": "CHEM 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM189"
+  },
+  {
+    "course_code": "CHEM 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM189HC"
+  },
+  {
+    "course_code": "CHEM 192A",
+    "units": 4,
+    "title": "Undergraduate Practicum in Chemistry and Biochemistry",
+    "description": "Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14BL",
+      "CHEM 14CL",
+      "CHEM 20L",
+      "CHEM 30AL",
+      "SCI EDU 100SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM192A"
+  },
+  {
+    "course_code": "CHEM 192B",
+    "units": 4,
+    "title": "Undergraduate Practicum in Chemistry and Biochemistry",
+    "description": "Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 14BL",
+      "CHEM 14CL",
+      "CHEM 20L",
+      "CHEM 30AL",
+      "Science Education 100SL"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM192B"
+  },
+  {
+    "course_code": "CHEM 192C",
+    "units": 4,
+    "title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+    "description": "Seminar, one hour; assigned setting, six hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM192C"
+  },
+  {
+    "course_code": "CHEM 192D",
+    "units": 2,
+    "title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+    "description": "Seminar, one hour; assigned setting, five hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM192D"
+  },
+  {
+    "course_code": "CHEM M192E",
+    "units": 1,
+    "title": "Introduction to Collaborative Learning Theory and Practice",
+    "description": "(Same as Atmospheric and Oceanic Sciences M192A, Computer Science M192A, Life Sciences M192A, Mathematics M192A, and Physics M192S.) Seminar, one hour. Training seminar for undergraduate students who are selected for learning assistant (LA) program. Exploration of current topics in pedagogy and education research focused on methods of learning and their practical application in small-group settings. Students practice communication skills with frequent assessment of and feedback on progress. Letter grading.",
+    "cross_listed": [
+      "A&O SCI M192A",
+      "MATH M192A",
+      "COM SCI M192A",
+      "PHYSICS M192S",
+      "LIFESCI M192A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEMM192E"
+  },
+  {
+    "course_code": "CHEM 192F",
+    "units": 2,
+    "title": "Methods and Application of Collaborative Learning Theory and Practice",
+    "description": "Seminar, one hour; clinic, one to eight hours. Requisite: course 192E or Life Sciences 192A or Physics 192S with grade of C\u2013 or better. With instructor guidance, students apply pedagogical principles based on current education research, assist with development of innovative instructional materials, and receive frequent feedback on their progress. May be repeated for four times for credit. Letter grading.",
+    "prerequisites": [
+      "CHEM 192E",
+      "LIFESCI 192A",
+      "PHYSICS 192S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM192F"
+  },
+  {
+    "course_code": "CHEM 193A",
+    "units": 2,
+    "title": "Journal Club Seminars: UC LEADS and MARC",
+    "description": "Seminar, three hours. Designed for juniors/seniors in undergraduate research training programs such as UC LEADS and MARC or those who have strong commitment to pursue graduate studies in natural sciences, engineering, or mathematics. Weekly reading and oral presentations of research or research papers selected from current literature. May be repeated for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM193A"
+  },
+  {
+    "course_code": "CHEM 193B",
+    "units": 2,
+    "title": "Journal Club Seminars: Chemistry and Biochemistry",
+    "description": "Seminar, three hours. Limited to undergraduate students. Discussion of readings selected from current literature in particular field. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM193B"
+  },
+  {
+    "course_code": "CHEM 194",
+    "units": 1,
+    "title": "Research Group Seminars: Chemistry and Biochemistry",
+    "description": "Seminar, three hours. Designed for undergraduate students who are part of research group. Advanced study and analysis of current topics in physical, organic, or inorganic chemistry or biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM194"
+  },
+  {
+    "course_code": "CHEM 196A",
+    "units": 2,
+    "title": "Research Apprenticeship in Chemistry and Biochemistry",
+    "description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be repeated for maximum of 8 units. Individual contract required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM196A"
+  },
+  {
+    "course_code": "CHEM 196B",
+    "units": 2,
+    "title": "Research Apprenticeship in Chemistry and Biochemistry",
+    "description": "Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be taken for maximum of 4 units. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 196A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM196B"
+  },
+  {
+    "course_code": "CHEM 199",
+    "units": 2,
+    "title": "Directed Research in Chemistry and Biochemistry",
+    "description": "Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report required. May be repeated for maximum of 12 units. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "CHEM 196A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CHEM199"
+  }
+]

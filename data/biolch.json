@@ -1,0 +1,43 @@
+[
+  {
+    "course_code": "BIOL CH 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOLCH19"
+  },
+  {
+    "course_code": "BIOL CH 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOLCH99"
+  },
+  {
+    "course_code": "BIOL CH M140",
+    "units": 5,
+    "title": "Cancer Cell Biology",
+    "description": "(Same as Molecular, Cell, and Developmental Biology M140.) Lecture, three hours; discussion, one hour. Requisite: Molecular, Cell, and Developmental Biology 165A. Cancer causes and genetics. Effects of cell transformation on cell growth and metabolism. Altered cell cycle, metabolism, and differentiation pathways in cancer cells. Tumor microenvironment contributions to cancer malignancy, including angiogenesis, metastasis, and immune system evasion. Letter grading.",
+    "prerequisites": [
+      "MCD BIO 165A"
+    ],
+    "cross_listed": [
+      "MCD BIO M140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOLCHM140"
+  },
+  {
+    "course_code": "BIOL CH 194",
+    "units": 2,
+    "title": "Research Group Seminars: Biological Chemistry",
+    "description": "Seminar, two hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOLCH194"
+  },
+  {
+    "course_code": "BIOL CH 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Biological Chemistry",
+    "description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for maximum of 16 units. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/BIOLCH199"
+  }
+]

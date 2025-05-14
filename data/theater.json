@@ -1,0 +1,1946 @@
+[
+  {
+    "course_code": "THEATER 1A",
+    "units": 1,
+    "title": "Introduction to Dance for Music Theater",
+    "description": "Studio, four hours. Designed for Theater majors. Introduction to basic music theater dance technique. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER1A"
+  },
+  {
+    "course_code": "THEATER 1B",
+    "units": 1,
+    "title": "Introduction to Dance for Music Theater",
+    "description": "Studio, four hours. Designed for Theater majors. Introduction to basic music theater dance technique. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER1B"
+  },
+  {
+    "course_code": "THEATER 1C",
+    "units": 1,
+    "title": "Introduction to Dance for Music Theater",
+    "description": "Studio, four hours. Designed for Theater majors. Introduction to basic music theater dance technique. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER1C"
+  },
+  {
+    "course_code": "THEATER 2A",
+    "units": 1,
+    "title": "Tai Chi",
+    "description": "Studio, two to four hours. Emphasizes proper form, etiquette as coextensive with training, and other values that sustain physical practice over lifetime. Actors increase focus, enhance discipline, cultivate internal energy, and relax mind and body. Demonstration of how each tai chi movement works in self-defense situation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER2A"
+  },
+  {
+    "course_code": "THEATER 2B",
+    "units": 1,
+    "title": "Tai Chi II",
+    "description": "Studio, two to four hours. Requisite: course 2A. Designed for Theater majors. Reviews, refines, and advances work of course 2A, introducing new forms, and delving more deeply into practice of Yang-style tai chi. Courses in performance practice continuum emphasize proper form, etiquette, and other values that sustain practice over lifetime. May be repeated once for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 2A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER2B"
+  },
+  {
+    "course_code": "THEATER 3",
+    "units": 1,
+    "title": "Aikido",
+    "description": "Studio, two to four hours. Designed for Theater majors. Introduction to basic stance, falls, throws, and pins of 20th-century martial art, Aikido. Courses in performance practice continuum emphasize proper form and etiquette. May be repeated twice for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER3"
+  },
+  {
+    "course_code": "THEATER 10",
+    "units": 5,
+    "title": "Introduction to Theater",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Exploration of theater in production, with emphasis on collaborative role of theater artists and active role of audience. Understanding of and access to live theatrical event and enhanced appreciation of value of theater to society; development of critical skills through consideration of representative examples of theatrical production from Europe, America, Asia, and Africa. P/NP or Letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER10"
+  },
+  {
+    "course_code": "THEATER 11",
+    "units": 5,
+    "title": "Approaches to Interpretation of Theater and Performance: Global Perspective",
+    "description": "Seminar, four hours. Introduction to basic methods of interpretation in theater and performance throughout world. Topics illustrated by faculty members and guest speakers, visits to off-campus theaters, and reading from contemporary plays. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER11"
+  },
+  {
+    "course_code": "THEATER 12",
+    "units": 4,
+    "title": "Introduction to Performance",
+    "description": "Lecture, two hours; studio, four hours. Investigation of phenomenon of performance and role of performer in theatrical events, including interpretation of drama through performance. Examination of various forms of theatrical performance and styles of expression, and development of acting, voice, and movement skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER12"
+  },
+  {
+    "course_code": "THEATER 13",
+    "units": 5,
+    "title": "Play Reading and Analysis",
+    "description": "Lecture, three hours. Provides base for subsequent study in theater. Development of techniques of play reading and habits of scholarship useful to further study in each of theater\u2019s subdisciplines, including acting, directing, design, playwriting, and critical study. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER13"
+  },
+  {
+    "course_code": "THEATER 14A",
+    "units": 5,
+    "title": "Introduction to Design",
+    "description": "Lecture, three hours; studio, six hours. Exploration of visual interpretation of drama. Study of styles and techniques of design, collaborative role of designer, principles of design for scenery, lighting, costumes, and sound. Both technical and aesthetic groundwork for further study. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER14A"
+  },
+  {
+    "course_code": "THEATER 14B",
+    "units": 5,
+    "title": "Introduction to Design",
+    "description": "Lecture, three hours; studio, six hours. Exploration of visual interpretation of drama. Study of styles and techniques of design, collaborative role of designer, principles of design for scenery, lighting, costumes, and sound. Both technical and aesthetic groundwork for further study. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER14B"
+  },
+  {
+    "course_code": "THEATER 14C",
+    "units": 5,
+    "title": "Introduction to Design",
+    "description": "Lecture, three hours; studio, six hours. Exploration of visual interpretation of drama. Study of styles and techniques of design, collaborative role of designer, principles of design for scenery, lighting, costumes, and sound. Both technical and aesthetic groundwork for further study. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER14C"
+  },
+  {
+    "course_code": "THEATER 15",
+    "units": 4,
+    "title": "Introduction to Directing",
+    "description": "Lecture, two hours; studio, four hours. Investigation of role of director in theatrical production and theories of play direction, with emphasis on analysis and interpretation of dramatic work and its realization in production. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER15"
+  },
+  {
+    "course_code": "THEATER 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER19"
+  },
+  {
+    "course_code": "THEATER 20",
+    "units": 4,
+    "title": "Acting Fundamentals",
+    "description": "Studio, four hours. Introduction to interpretation of drama through art of actor. Development of individual insights, skills, and disciplines in presentation of dramatic material to audiences. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER20"
+  },
+  {
+    "course_code": "THEATER 21",
+    "units": 2,
+    "title": "Acting for Camera",
+    "description": "Lecture, three hours. Development and practice in acting techniques. Preparation and taping of scenes for analysis. May be repeated twice for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER21"
+  },
+  {
+    "course_code": "THEATER 23A",
+    "units": 2,
+    "title": "Introduction to Musical Literacy for Singing Actors",
+    "description": "(Formerly numbered 23.) Studio, three hours. Reading and translating musical notation in treble clef; defining common musical terminologies; basic rhythm-reading and diatonic sight-singing in all major keys. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER23A"
+  },
+  {
+    "course_code": "THEATER 23B",
+    "units": 1,
+    "title": "Advanced Musical Literacy for Singing Actors",
+    "description": "Studio, three hours. Requisite: course 23A. More advanced sight-singing, incorporating minor keys, chromatic scales, internal key changes, and bass clef; exploration of song form, musical theater score formats, and harmonic/contrapuntal singing. Letter grading.",
+    "prerequisites": [
+      "THEATER 23A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER23B"
+  },
+  {
+    "course_code": "THEATER 24",
+    "units": 4,
+    "title": "Acting Foundations: Voice",
+    "description": "(Formerly numbered 24A.) Studio/lecture/discussion, six hours. Study of basic vocal technique for actor, with emphasis on resonance, range, and power. Physiological foundations for subsequent training and theoretical foundations to enlarge the actor\u2019s sense of a vocal practice. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER24"
+  },
+  {
+    "course_code": "THEATER 24C",
+    "units": 1,
+    "title": "Voice and Speech I",
+    "description": "Studio, three to four hours. Development of voice and speech techniques for stage. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER24C"
+  },
+  {
+    "course_code": "THEATER 25",
+    "units": 4,
+    "title": "Acting Foundations: Movement",
+    "description": "Studio/lecture/discussion, six hours. Broad investigation of movement in performance, with emphasis on ensemble performance and the actor\u2019s craft. Physiological foundations for subsequent training and theoretical foundations to enlarge the actor\u2019s sense of a physical practice. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER25"
+  },
+  {
+    "course_code": "THEATER 26",
+    "units": 2,
+    "title": "Alexander Techniques",
+    "description": "Studio, three hours. Study and practice in Alexander techniques as method of developing balance, poise, and coordination of body and mind. Exploration of use of rhythm to expand movement potential of actors and relevant use of visual arts and animal studies to character development and to expansion of movement potential. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER26"
+  },
+  {
+    "course_code": "THEATER 27",
+    "units": 4,
+    "title": "From Vaudeville to Standup Comedy",
+    "description": "Studio, three to four hours. Exploration of many aspects of comedy using American vaudeville traditions, acts, and performers as historical base to experience importance of rhythm, timing, delivery, speech, and body language in all styles of comedy, to find value of improvisation/imagination as well as innovative writing skills in all comic forms, to discover how comedy draws from so many art forms, including music/songs, dance, storytelling, clowning, magic, design, and tumbling/stunts, and to build overall confidence/ease in comic performance skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER27"
+  },
+  {
+    "course_code": "THEATER 28A",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, three to six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28A"
+  },
+  {
+    "course_code": "THEATER 28B",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, three to six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28B"
+  },
+  {
+    "course_code": "THEATER 28C",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, three to six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28C"
+  },
+  {
+    "course_code": "THEATER 28D",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, three to six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28D"
+  },
+  {
+    "course_code": "THEATER 28E",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28E"
+  },
+  {
+    "course_code": "THEATER 28F",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop I",
+    "description": "Studio, six hours. Study of beginning acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER28F"
+  },
+  {
+    "course_code": "THEATER 30",
+    "units": 4,
+    "title": "Dramatic Writing",
+    "description": "Studio, three hours. Intended for Theater minors and other nonmajors. Exploration and development of creative writing skills for one or more of various forms of entertainment media. May be repeated once. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER30"
+  },
+  {
+    "course_code": "THEATER 34A",
+    "units": 1,
+    "title": "Ballet II",
+    "description": "Studio, five hours. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER34A"
+  },
+  {
+    "course_code": "THEATER 34B",
+    "units": 1,
+    "title": "Ballet II",
+    "description": "Studio, five hours. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER34B"
+  },
+  {
+    "course_code": "THEATER 34C",
+    "units": 1,
+    "title": "Ballet II",
+    "description": "Studio, five hours. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER34C"
+  },
+  {
+    "course_code": "THEATER 35A",
+    "units": 1,
+    "title": "Group Singing Techniques",
+    "description": "Studio, three hours. Requisites: courses 23A, 23B. Introduction to singing techniques, with emphasis on bel canto training. Exploration of how singing voice works and how to achieve optimal vocal sound and musicality while preserving vocal health. Letter grading.",
+    "prerequisites": [
+      "THEATER 23A",
+      "THEATER 23B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER35A"
+  },
+  {
+    "course_code": "THEATER 35B",
+    "units": 1,
+    "title": "Advanced Group Singing Techniques",
+    "description": "Studio, three hours. Requisite: course 35A. Advanced singing techniques, focusing on strategies for producing consistently dynamic, efficient, and musical vocal sound, and how to build stamina and range while preserving vocal health. Letter grading.",
+    "prerequisites": [
+      "THEATER 35A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER35B"
+  },
+  {
+    "course_code": "THEATER 50",
+    "units": 1,
+    "title": "Theater Production",
+    "description": "Laboratory, three to six hours. Laboratory experience in various aspects of theater production, including stage management or member of production crew. May be repeated for maximum of 8 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER50"
+  },
+  {
+    "course_code": "THEATER 72",
+    "units": 1,
+    "title": "Production Practice in Theater, Film, Video, and Digital Media",
+    "description": "Studio, three hours. Exploration and laboratory experience in one or more of various aspects of production and postproduction practice for entertainment media, including theater, film, video, and digital media. May be taken for maximum of 8 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER72"
+  },
+  {
+    "course_code": "THEATER 76",
+    "units": 4,
+    "title": "Introduction to Production Practice in Theater with Emerging Technologies",
+    "description": "Studio and laboratory, four to six hours. Introductory studio with focus on collaborative creative and technical development of all aspects of theatrical production incorporating emerging and/or advanced technologies, often culminating in rehearsal and/to public presentation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER76"
+  },
+  {
+    "course_code": "THEATER 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER89"
+  },
+  {
+    "course_code": "THEATER 95",
+    "units": 2,
+    "title": "Introduction to Community or Corporate Internships in Theater, Film, and Television",
+    "description": "Tutorial, six to 12 hours. Limited to freshmen/sophomores. Internship at various theaters, studios, or entertainment organizations accentuating creative contributions, organization, and work of professionals in various specialties. Students meet on regular basis with faculty member and provide periodic reports of experience. May be taken for maximum of 4 units. Individual contract with supervising faculty member required. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER95"
+  },
+  {
+    "course_code": "THEATER 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER99"
+  },
+  {
+    "course_code": "THEATER 101A",
+    "units": 5,
+    "title": "Global Histories of Theater and Performance I",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to histories of theater and performance from across world, with emphasis on ancient world through 18th century. Introduction to global aesthetic theories and historiographical research methods. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER101A"
+  },
+  {
+    "course_code": "THEATER 101B",
+    "units": 5,
+    "title": "Global Histories of Theater and Performance II",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to histories and historiographies of theater and performance from across world, with emphasis from 18th century through 21st century. Introduction to representational modalities from melodrama to performance art and theoretical approaches from Marxism to poststructuralism. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER101B"
+  },
+  {
+    "course_code": "THEATER 102A",
+    "units": 5,
+    "title": "Theater of Japan",
+    "description": "Lecture, three hours. Overview of Japanese theater and performance from early theatrical activity to present, with emphases on enduring forms and genres, patterns of reception, and transnational influences. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER102A"
+  },
+  {
+    "course_code": "THEATER 102B",
+    "units": 5,
+    "title": "K-Pop: Race, Gender, and Sexuality in Globalizing Asian Media",
+    "description": "Lecture, two hours; discussion, two hours. Exploration of K-pop through critical lens of gender queerness, racial plagiarism and passing, cultural appropriation, affective labor, body technology, transmedia, and globality. Study acknowledges that history of globalization and evolution of media ecosystem cannot be studied without considering uneven power dynamics marked by racial and gender hierarchy and digital accessibility. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER102B"
+  },
+  {
+    "course_code": "THEATER 102C",
+    "units": 4,
+    "title": "Cross-Cultural Currents in Theater",
+    "description": "Lecture, three hours. Exploration of interculturalism in theater, with focus on 20th-century alternatives to naturalism. Analysis of historical materials and dramatic texts to investigate cultural, aesthetic, ethical, and social implications of borrowing from other cultures. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER102C"
+  },
+  {
+    "course_code": "THEATER 102D",
+    "units": 5,
+    "title": "Trans Theater and Performance",
+    "description": "Lecture, three hours. Consideration of what it means to construct a history of trans theater; how terms trans and theater are defined, and if it is desired to and to what ends; and if there is such a thing as trans (dramatic) form. Historical and literary exploration of theater and performance made by trans, nonbinary, two-spirit, and intersex people in the U.S. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER102D"
+  },
+  {
+    "course_code": "THEATER M103A",
+    "units": 4,
+    "title": "African American Theater History: Slavery to Mid-1800s",
+    "description": "(Same as African American Studies M103A.) Lecture, three hours. Designed for juniors/seniors. Exploration of extant materials on history and literature of theater as developed and performed by African American artists in America from slavery to mid-1800s. Letter grading.",
+    "cross_listed": [
+      "AF AMER M103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103A"
+  },
+  {
+    "course_code": "THEATER M103B",
+    "units": 4,
+    "title": "African American Theater History: Minstrel Stage to Rise of American Musical",
+    "description": "(Same as African American Studies M103B.) Lecture, three hours. Designed for juniors/seniors. Exploration of extant materials on history and literature of theater as developed and performed by African American artists in America from minstrel stage to rise of American musical. Letter grading.",
+    "cross_listed": [
+      "AF AMER M103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103B"
+  },
+  {
+    "course_code": "THEATER M103C",
+    "units": 5,
+    "title": "Origins and Evolution of Chicano Theater",
+    "description": "(Same as Chicana/o and Central American Studies M103C.) Lecture, three hours. Designed for juniors/seniors. Exploration of development of Chicano theater from its beginning in legends and rituals of ancient Mexico to work of Luis Valdez (late 1960s). P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M103C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103C"
+  },
+  {
+    "course_code": "THEATER M103D",
+    "units": 5,
+    "title": "Contemporary Chicano Theater: Beginning of Chicano Theater Movement",
+    "description": "(Same as Chicana/o and Central American Studies M103D.) Lecture, three hours. Analysis and discussion of historical and political events from 1965 to 1980, as well as theatrical traditions that led to emergence of Chicano theater. Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "CCAS M103D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103D"
+  },
+  {
+    "course_code": "THEATER M103E",
+    "units": 4,
+    "title": "Modern African American Drama: Harlem Renaissance to Black Arts Movement",
+    "description": "(Same as African American Studies M103E.) Lecture, three hours. Survey and examination of African American plays from 1920s until birth of modern civil rights era. Examination of sociohistorical context out of which plays were created and critical essays that illustrate development of African American playwrights and their significant involvement in creation of diversified American theatrical tradition. Letter grading.",
+    "cross_listed": [
+      "AF AMER M103E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103E"
+  },
+  {
+    "course_code": "THEATER 103F",
+    "units": 5,
+    "title": "Native American Theater",
+    "description": "Lecture, three hours. Study of American Indian theater as evolving art form. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER103F"
+  },
+  {
+    "course_code": "THEATER M103G",
+    "units": 5,
+    "title": "Contemporary Chicano Theater: Chicano Theater since 1980",
+    "description": "(Same as Chicana/o and Central American Studies M103G.) Lecture, three hours. Analysis and discussion of Chicano theater since 1980, including discussion of Chicana playwrights, magic realism, Chicano comedy, and Chicano performance art. Letter grading.",
+    "cross_listed": [
+      "CCAS M103G",
+      "Chicano Theater since 1980"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103G"
+  },
+  {
+    "course_code": "THEATER 103I",
+    "units": 4,
+    "title": "Israel and Palestine: Communities, Conflicts, Cultures, and Arts in Middle East",
+    "description": "Lecture, three hours. No background on or prior interest in history or region or arts required. Land variously known by names of Zion, Holy Land, Palestine, and Israel is not just one place. It is a realm of imagination, envisioned and re-envisioned throughout history. It is at once real and surreal, sturdy and fragile, all-enduring and ephemeral. Examination of selected works of literature, performance, visual arts, film, and media by Israeli and Palestinian artists, as well as Western artists with interest in region. Looking beyond headlines and facile cultural clich\u00e9s for deeper insights arts can offer into cultural conflict and community at large, to emerge with surprising conclusions. Letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER103I"
+  },
+  {
+    "course_code": "THEATER M103J",
+    "units": 4,
+    "title": "Contemporary Black Theater: Modern Civil Rights Era to Black Lives Matter and Beyond",
+    "description": "(Same as African American Studies M103J.) Lecture, three hours. Examination of Black theater from Black Arts Movement of 1960s until today. Exploration of social and historical implications of work, and aesthetic experimentation of contemporary African American playwrights and movements. Letter grading.",
+    "cross_listed": [
+      "AF AMER M103J"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM103J"
+  },
+  {
+    "course_code": "THEATER 104D",
+    "units": 5,
+    "title": "New Playwrights, New Playwriting",
+    "description": "Seminar, three hours. Required for students in playwriting sequence. How to approach diverse range of new plays currently changing landscape of theater. Contemporary look at plays written in last 15 years and how they reflect society. Reading of plays to build skills of manuscript analysis; development of working vocabulary of dramaturgical concepts; exploration of different styles of acting, directing, and design that playwrights of today draw from. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER104D"
+  },
+  {
+    "course_code": "THEATER C104E",
+    "units": 4,
+    "title": "History of Design D\u00e9cor Part I: Architecture and D\u00e9cor\u2014Antiquity to Early Neoclassical",
+    "description": "Lecture, four hours. Requisites: courses 14A, 14B, 14C. Study of pre-Renaissance architectural and interior d\u00e9cor as manifestation of cultural, social, economic, and political influences to provide historical framework for design of scenery, costumes, and lighting for theater, film, and television. May be repeated once for credit. Concurrently scheduled with course C404E. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC104E"
+  },
+  {
+    "course_code": "THEATER C104F",
+    "units": 4,
+    "title": "History of Design D\u00e9cor Part II: Architecture and D\u00e9cor\u2014Industrial Revolution to 21st Century",
+    "description": "Lecture, four hours. Requisites: courses 14A, 14B, 14C. Study of post-Renaissance architectural and interior d\u00e9cor as manifestation of cultural, social, economic, and political influences to provide historical framework for design of scenery, costumes, and lighting for theater, film, and television. May be repeated once for credit. Concurrently scheduled with course C404F. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC104F"
+  },
+  {
+    "course_code": "THEATER C104G",
+    "units": 4,
+    "title": "History of Design for Performance Production Part I: Historic Costume from Prehistoric to Neoclassical",
+    "description": "Lecture, four hours. Requisites: courses 14A, 14B, 14C. Study of historic costume as manifestation of cultural, social, economic, and political influences to provide historical framework for design of costumes for theater, film, and television. Survey of history of Western costume and civilian attire. May be repeated once for credit. Concurrently scheduled with course C404G. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC104G"
+  },
+  {
+    "course_code": "THEATER C104I",
+    "units": 4,
+    "title": "History of Design for Performance Production Part II: Historic Costume from Neoclassical to 21st Century",
+    "description": "Lecture, four hours. Requisites: courses 14A, 14B, 14C. Study of historic costume as manifestation of cultural, social, economic, and political influences to provide historical framework for design of costumes for theater, film, and television. Survey of history of Western costume and civilian attire with global emphasis. May be repeated once for credit. Concurrently scheduled with course C404I. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC104I"
+  },
+  {
+    "course_code": "THEATER C104J",
+    "units": 4,
+    "title": "History of Design for Performance Production: Selected Topics of D\u00e9cor and Costume Design History",
+    "description": "Lecture, four hours. Requisites: courses 14A, 14B, 14C. Historic survey and in-depth exploration of selected periods and subcategories of d\u00e9cor and costume. Visual representation, with emphasis on influences of global diverse cultures. May be repeated three times for credit. Concurrently scheduled with course C404J. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC104J"
+  },
+  {
+    "course_code": "THEATER 105",
+    "units": 5,
+    "title": "Main Currents in Theater",
+    "description": "Lecture, three hours. Critical examination of leading theories of theater from 1887 to present. Study and discussion of modern styles of production. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER105"
+  },
+  {
+    "course_code": "THEATER 106",
+    "units": 5,
+    "title": "History of American Theater and Drama",
+    "description": "Lecture, four hours; discussion, one hour (when scheduled). Survey of key works of American dramatic literature and landmarks of American theater history. P/NP or Letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER106"
+  },
+  {
+    "course_code": "THEATER 107",
+    "units": 5,
+    "title": "Drama of Diversity",
+    "description": "Lecture, three hours; discussion, one hour (when scheduled). Investigation of diversity in American society as manifested in dramatic works and theatrical presentations. P/NP or Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER107"
+  },
+  {
+    "course_code": "THEATER 108",
+    "units": 5,
+    "title": "Undergraduate Seminar: History and Criticism",
+    "description": "Seminar, four hours. Limited to 15 students. Selected topics in history and criticism of theater and performance. Study of how experimental theaters originate, how they imagine their form of performance, their audience, and their goals. Concentration on theaters that regarded themselves, in some way, as experimental. Examples primarily from theaters within U.S. from 1960s to present, although examples from other countries, specifically Poland, also considered. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER108"
+  },
+  {
+    "course_code": "THEATER M109",
+    "units": 4,
+    "title": "Art and Performance: Interdisciplinary Approach to Collections of Getty Center",
+    "description": "(Same as Honors Collegium M120.) Lecture, four hours; discussion, one hour. Drawing from objects in five major collections at Getty Museum, focus on five parallel historical periods in which political, social, and aesthetic philosophy of age is examined in musical and dramatic performance. Letter grading.",
+    "cross_listed": [
+      "HNRS M120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM109"
+  },
+  {
+    "course_code": "THEATER 110",
+    "units": 5,
+    "title": "History of American Musical Theater",
+    "description": "Lecture, three hours; discussion, one hour. Survey of history of American musical: its composers, writers, and performers from musical\u2019s emergence in immigrant cultures to Broadway and Off-Broadway. With its roots in British music halls and comic opera, Viennese operetta and African American jazz, American musical theater emerged as vivid and popular art form with its own culture and identity. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER110"
+  },
+  {
+    "course_code": "THEATER 111",
+    "units": 5,
+    "title": "Creating Theatrical Season",
+    "description": "Seminar, three hours. Limited to sophomore/junior/senior Theater majors and minors. Students research and analyze contemporary issues facing theater and entertainment industries, and then address them through researching and proposing Theater Department's next annual production calendar. Introduction to process of searching for and vetting new and classic scripts and addressing current trends and issues through concrete planning and programming. Topics and discussions related to current issues vary by term. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER111"
+  },
+  {
+    "course_code": "THEATER C112A",
+    "units": 4,
+    "title": "Emerging Technologies and Their Uses in Live Performance",
+    "description": "(Formerly numbered C112.) Seminar, four hours. Survey of major emerging and contemporary technologies and their potential uses in and impact on live performance, from augmented and virtual reality to electronic textiles, Internet of Things, and Modern approaches to artificial intelligence. Offers solid basis for engaging in future collaborations with technologists, for self-study of new technologies, and, for those already more familiar with digital technologies, theoretical background for engaging with social context of these technologies. Concurrently scheduled with course C212A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC112A"
+  },
+  {
+    "course_code": "THEATER C112B",
+    "units": 4,
+    "title": "Artificial Intelligence in Live Performance",
+    "description": "Seminar, four hours. Survey of artificial intelligence (AI) technologies and their impacts on live performance.\u00a0Introduction of large language models, media synthesis, computer vision, and ethical, legal, and policy issues. Exploration of how contemporary AI works, risks and benefits, and its evolving relationship to creative practice.\u00a0Concurrently scheduled with course C212B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC112B"
+  },
+  {
+    "course_code": "THEATER 113",
+    "units": 5,
+    "title": "Special Topics in Theater and Performance Studies",
+    "description": "Lecture, three or four hours. Consult Schedule of Classes for author, period, genre, or subject to be studied in specific term. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER113"
+  },
+  {
+    "course_code": "THEATER M114",
+    "units": 4,
+    "title": "Variable Topics in Performance and Disability Studies",
+    "description": "(Same as Disability Studies M114.) Seminar, four hours. Analysis and critique of depiction of disability in theater. Topics may include introduction to disability studies; race, gender, and disability; representation of disability in theater; and more. May be repeated for credit with topic or instructor change. P/NP or letter grading.",
+    "cross_listed": [
+      "DIS STD M114"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM114"
+  },
+  {
+    "course_code": "THEATER 115A",
+    "units": 4,
+    "title": "Physical Systems of Acting: Foundations",
+    "description": "Studio, six hours. Requisites: courses 24A, 24B, 25. Introduction to physical approaches of actor training, with emphasis on development of ensemble skills, physical presence, and capacity to respond in moment to physical, special, textual, and subtextual stimuli. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER115A"
+  },
+  {
+    "course_code": "THEATER 115B",
+    "units": 4,
+    "title": "Physical Systems of Acting: Practice",
+    "description": "Studio, six hours. Requisites: courses 24A, 24B, 25. Performance of original studies in physical theater and/or material from physical theater repertory. Course activities, materials, and discussions based on contemporary physical theater practices. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER115B"
+  },
+  {
+    "course_code": "THEATER 116A",
+    "units": 4,
+    "title": "Psychological Systems of Acting: Foundations",
+    "description": "Studio, six hours. Requisites: courses 24A, 24B, 25. Development of acting skills through sense memory, personalization, action, and objective exercises. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER116A"
+  },
+  {
+    "course_code": "THEATER 116B",
+    "units": 4,
+    "title": "Psychological Systems of Acting: Practice",
+    "description": "Studio, six hours. Requisites: courses 24A, 24B, 25, and 116A, or 28A, 28B, 28C, and 116A. Examination of characterization exercises and their application to contemporary scenes. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 25",
+      "THEATER 116A",
+      "THEATER 28A",
+      "THEATER 28B",
+      "THEATER 28C",
+      "THEATER 116A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER116B"
+  },
+  {
+    "course_code": "THEATER 117",
+    "units": 2,
+    "title": "Topics in Physical Performance",
+    "description": "Studio, three to four hours. Exploration of specific physical performance techniques, drawn from range of practices. Topics may include specific types of partnering, combat, martial arts, vintage dance, etc. May be repeated twice for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER117"
+  },
+  {
+    "course_code": "THEATER 118A",
+    "units": 4,
+    "title": "Teaching Artist Fundamentals",
+    "description": "Lecture, four hours. Introduction to teaching artist techniques and the creation of storytelling projects through K-12 engaged pedagogy. Exploration of approaches to the interrelationships of arts to traditional learning disciplines by the facilitation of creative activities and lesson plan construction. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER118A"
+  },
+  {
+    "course_code": "THEATER 118B",
+    "units": 4,
+    "title": "ArtsBridge Ensemble: Theatre for Young Audiences",
+    "description": "Lecture, four hours; laboratory, to be arranged. Ensemble creates a theatrical experience for youth audiences. Exploration of physical theater systems and approaches to storytelling reflective of childhood stages of development. Practices culminate in a presentation of the material to Los Angeles Unified School District schools. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER118B"
+  },
+  {
+    "course_code": "THEATER 118C",
+    "units": 4,
+    "title": "Applied Theatre: Arts in Action",
+    "description": "Laboratory, four hours. Investigation of applied theatre and methods through which the arts are used to address social issues. Emphasis is placed on culturally sustaining practices and communal activities supporting people to speak toward their experiences through the transformative process of theatre-based techniques. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER118C"
+  },
+  {
+    "course_code": "THEATER 118D",
+    "units": 4,
+    "title": "ArtsBridge Teaching Practicum",
+    "description": "Lecture, four hours. Requisite: course 118A. Teaching artist residency in K-12 Los Angeles Unified School District (LAUSD) classrooms. Weekly meetings to develop teaching materials that integrate the performing arts into standard curriculum. The LAUSD placement culminates in a final creative project presented by the host classroom. May be repeated once for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 118A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER118D"
+  },
+  {
+    "course_code": "THEATER 119A",
+    "units": 4,
+    "title": "Puppetry Fundamentals",
+    "description": "(Formerly numbered 119.) Lecture, 90 minutes; studio, two and one half hours. Introduction to fundamental techniques used for construction and performance of various styles of puppetry ranging from hand-rod, large and small scale, to shadow play. Emphasis on learning about Los Angeles puppetry community and professional components of the industry and deepening an appreciation of the diversity of global puppetry traditions. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER119A"
+  },
+  {
+    "course_code": "THEATER 120A",
+    "units": 5,
+    "title": "Acting and Performance in Film",
+    "description": "Lecture, six hours. Exploration of acting and performance in film. Through screenings of performance-driven films, class discussion, and acting exercises, examination of methods, styles, and performances of some of world\u2019s most highly regarded actors and their work. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER120A"
+  },
+  {
+    "course_code": "THEATER 120B",
+    "units": 5,
+    "title": "Acting and Performance in Film",
+    "description": "Lecture, six hours. Exploration of acting and performance in film. Through screenings of performance-driven films, class discussion, and acting exercises, examination of methods, styles, and performances of some of world\u2019s most highly regarded actors and their work. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER120B"
+  },
+  {
+    "course_code": "THEATER 120C",
+    "units": 5,
+    "title": "Acting and Performance in Film",
+    "description": "Lecture, six hours. Exploration of acting and performance in film. Through screenings of performance-driven films, class discussion, and acting exercises, examination of methods, styles, and performances of some of world\u2019s most highly regarded actors and their work. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER120C"
+  },
+  {
+    "course_code": "THEATER 121",
+    "units": 2,
+    "title": "Acting Workshop",
+    "description": "Studio, to be arranged. Requisite: course 20. Courses 160, 163A, 163B, and 163C may be taken concurrently. Workshop that provides students with opportunity to rehearse, perform, and criticize scenes. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER121"
+  },
+  {
+    "course_code": "THEATER C122",
+    "units": 2,
+    "title": "Character Development through Makeup and Hair Design",
+    "description": "Studio, four hours. Examination of importance of makeup and hair design in film. History and overview of hair and makeup in fashion and motion pictures. Collaboration of makeup artists and hairstylists with costume designer, actors, production designer, and director to conceptualize people in script. Exploration of makeup artist and hairstylist roles in current film, television, and theater productions and skills needed to design makeup and hair for film and television productions. Concurrently scheduled with course C222. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC122"
+  },
+  {
+    "course_code": "THEATER 123",
+    "units": 4,
+    "title": "Intermediate Acting for Stage",
+    "description": "Lecture/studio, four hours. Requisite: course 20. Study and practice of art of acting through perfecting of techniques and application of those techniques to acting problems. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER123"
+  },
+  {
+    "course_code": "THEATER 124A",
+    "units": 2,
+    "title": "Intermediate Voice and Speech: Vocal Energy in Classical Text",
+    "description": "Studio, three to four hours. Requisites: courses 24A and 24B, or 28A and 28B. Creation of warm-up and building of vocal energy through understanding ideas, thoughts, and beats. Examination of diaphragmatic connection and breath control to work on classical text and verse, including Shakespearean sonnet. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 28A",
+      "THEATER 28B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124A"
+  },
+  {
+    "course_code": "THEATER 124B",
+    "units": 2,
+    "title": "Intermediate Voice and Speech II: Creating Complete Warm-Up for Theatrical Productions",
+    "description": "Studio, three to four hours. Requisites: courses 24A, 24B, and 124A, or 28A, 28B, and 124A. Working with contemporary texts to learn all simple vowels (lip, tongue, open, neutral) and to communicate sound consistently forward and connected through whole body. Creation of complete warm-up for theatrical production using these methods. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 124A",
+      "THEATER 28A",
+      "THEATER 28B",
+      "THEATER 124A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124B"
+  },
+  {
+    "course_code": "THEATER 124C",
+    "units": 2,
+    "title": "Dialects",
+    "description": "Studio, three to four hours. Requisite: course 124B. Development of techniques in approaching dialects in performance. Letter grading.",
+    "prerequisites": [
+      "THEATER 124B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124C"
+  },
+  {
+    "course_code": "THEATER 124D",
+    "units": 1,
+    "title": "Acting for Microphone",
+    "description": "Studio, one to three hours. Requisite: course 124B. Introduction to voiceover techniques for television and radio commercials, animation, video games, audio books, Automatic Dialogue Replacement (ADR)/looping, narration, e-learning, and interactive voice response (IVR). Letter grading.",
+    "prerequisites": [
+      "THEATER 124B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124D"
+  },
+  {
+    "course_code": "THEATER 124E",
+    "units": 1,
+    "title": "Voice and Speech III",
+    "description": "Studio, three to four hours. Development of voice and speech techniques for stage. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124E"
+  },
+  {
+    "course_code": "THEATER 124F",
+    "units": 1,
+    "title": "Voice and Speech III",
+    "description": "Studio, three to four hours. Development of voice and speech techniques for stage. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER124F"
+  },
+  {
+    "course_code": "THEATER 125A",
+    "units": 2,
+    "title": "Alexander Technique",
+    "description": "Studio, three to four hours. Requisite: course 25 or 28C. Study and practice in Alexander technique as method of developing balance, poise, and coordination of body and mind. Exploration of use of rhythm to expand movement potential of actors and use of visual arts and animal studies for character development. Letter grading.",
+    "prerequisites": [
+      "THEATER 25",
+      "THEATER 28C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125A"
+  },
+  {
+    "course_code": "THEATER 125B",
+    "units": 2,
+    "title": "Physical Awareness and Combat for Theater, Film, and Television",
+    "description": "Studio, three to four hours. Requisite: course 25 or 28C. Combat training for actors in theater, film, and television. Concentration on warm-up, relaxation, control, stunts, gymnastics, martial arts, and use of weapons. Letter grading.",
+    "prerequisites": [
+      "THEATER 25",
+      "THEATER 28C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125B"
+  },
+  {
+    "course_code": "THEATER 125C",
+    "units": 2,
+    "title": "Physical Awareness and Combat for Theater, Film, and Television II",
+    "description": "Studio, three to four hours. Requisite: course 125B. Combat training for actors in theater, film, and television. Concentration on warm-up, relaxation, control, stunts, gymnastics, martial arts, and use of weapons. Letter grading.",
+    "prerequisites": [
+      "THEATER 125B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125C"
+  },
+  {
+    "course_code": "THEATER 125D",
+    "units": 2,
+    "title": "Movement and Combat III",
+    "description": "Studio, three to four hours. Physical awareness for actors, concentrating on warming up body, relaxation, control, stunts, gymnastics, martial arts, and use of weapons. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125D"
+  },
+  {
+    "course_code": "THEATER 125E",
+    "units": 1,
+    "title": "Movement and Combat III",
+    "description": "Studio, three to four hours. Physical awareness for actors, concentrating on warming up body, relaxation, control, stunts, gymnastics, martial arts, and use of weapons. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125E"
+  },
+  {
+    "course_code": "THEATER 125F",
+    "units": 2,
+    "title": "Movement and Combat III",
+    "description": "Studio, three to four hours. Physical awareness for actors, concentrating on warming up body, relaxation, control, stunts, gymnastics, martial arts, and use of weapons. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER125F"
+  },
+  {
+    "course_code": "THEATER 126A",
+    "units": 4,
+    "title": "Acting Shakespeare",
+    "description": "Studio, six hours. Requisites: courses 24A, 24B, 25, and 116A, or 28A, 28B, 28C, and 116B, all with grades of C or better. Study of characterization, verse, scansion, and rhetoric; personalization within heightened reality. Letter grading.",
+    "prerequisites": [
+      "THEATER 24A",
+      "THEATER 24B",
+      "THEATER 25",
+      "THEATER 116A",
+      "THEATER 28A",
+      "THEATER 28B",
+      "THEATER 28C",
+      "THEATER 116B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER126A"
+  },
+  {
+    "course_code": "THEATER 126B",
+    "units": 4,
+    "title": "Acting Classical Texts",
+    "description": "Studio, six hours. Requisite: course 126A. Advanced study of characterization, approach to verse, scansion, use of embodiment in classic texts. Personalization within heightened reality. Letter grading.",
+    "prerequisites": [
+      "THEATER 126A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER126B"
+  },
+  {
+    "course_code": "THEATER 126C",
+    "units": 4,
+    "title": "Acting III",
+    "description": "Studio, six hours. Study of characterization, including introduction to Shakespeare. Approach to verse, scansion, use of embolies in classic texts. Personalization within heightened reality. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER126C"
+  },
+  {
+    "course_code": "THEATER 127",
+    "units": 4,
+    "title": "Performance for Virtual Environments",
+    "description": "Lecture, two hours; discussion, one hour; laboratory, two hours. Exploration of performance in virtual environments through hands-on experimentation and scene work using two or more prominent technologies, supported by history of each technology and its use in arts, key technological concepts, and basic production processes. Consideration of uses in large scale professional production as well as low-budget and do-it-yourself approaches. Platforms studied are selected for their importance to field, timeliness, and relationship to department season. Students engage with platforms as actors, working with instructor- and self- and selected scenes. Students explore character development, different relationships to audience and camera, and engagement/synchronization with virtual setting. Students identify techniques collaboratively in concert with study of experiences of other actors, directors, and other creators with platforms. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER127"
+  },
+  {
+    "course_code": "THEATER 128A",
+    "units": 2,
+    "title": "Acting, Voice, and Movement Workshop II",
+    "description": "Studio, four to six hours. Study of advanced acting technique, scene study, and development of voice and movement skills. May be repeated for maximum of 12 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER128A"
+  },
+  {
+    "course_code": "THEATER CM129",
+    "units": 2,
+    "title": "Contemporary Topics in Theater, Film, and Television",
+    "description": "(Same as Film and Television CM129.) Lecture, two hours; screenings, two hours. Limited to junior/senior and graduate theater/film and television students. Examination of creative process in theater, film, and television, with consideration of writing, direction, production, and performance. Overview of individual contributions in collaborative effort; examination of distinctiveness and interrelations among these arts. Individual units include participation of leading members of theater, film, and television professions. May be repeated twice for credit. Concurrently scheduled with course CM229. P/NP or letter grading.",
+    "cross_listed": [
+      "FILM TV CM129"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERCM129"
+  },
+  {
+    "course_code": "THEATER 130",
+    "units": 5,
+    "title": "Fundamentals of Playwriting",
+    "description": "Studio, three hours. Designed for departmental majors and minors. Exploration of writing for live performance. Students develop and workshop short plays. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER130"
+  },
+  {
+    "course_code": "THEATER 131A",
+    "units": 5,
+    "title": "Intermediate Playwriting: Full-Length Play Part I",
+    "description": "Studio, three hours. Requisite: course 130A. Introduction to process of conceiving, researching, and developing full-length plays. Students begin drafting full-length plays. May be repeated twice for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 130A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER131A"
+  },
+  {
+    "course_code": "THEATER 131B",
+    "units": 5,
+    "title": "Intermediate Playwriting: Full-Length Play Part II",
+    "description": "Studio, three hours. Requisite: course 131A. Continuation of writing of full-length plays begun in course 131A. May be repeated twice for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER131B"
+  },
+  {
+    "course_code": "THEATER 131C",
+    "units": 5,
+    "title": "Playwriting: Full-Length Play Capstone",
+    "description": "Studio, three hours. Requisite: course 131A. Limited to juniors/seniors. Same as course 131B, but taken for capstone credit. Completion of writing of full-length plays begun in course 131A, with rehearsed readings of student capstone plays. Letter grading.",
+    "prerequisites": [
+      "THEATER 131A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER131C"
+  },
+  {
+    "course_code": "THEATER 132",
+    "units": 4,
+    "title": "Manuscript Evaluation for Theater",
+    "description": "Lecture, three hours. Requisite: course 130A. Principles and practices in evaluation of manuscripts for theater. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER 130A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER132"
+  },
+  {
+    "course_code": "THEATER C133A",
+    "units": 4,
+    "title": "Script Development Workshop",
+    "description": "Lecture, three hours; studio, four to 24 hours. Guided process of script development, with emphasis on communication, artistic growth, and professional process. May be taken for maximum of 8 units. Concurrently scheduled with course C433A. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC133A"
+  },
+  {
+    "course_code": "THEATER C133C",
+    "units": 4,
+    "title": "Script Development Workshop",
+    "description": "Lecture, three hours; studio, four to 24 hours. Guided process of script development, with emphasis on communication, artistic growth, and professional process. May be taken for maximum of 8 units. Concurrently scheduled with courses C433C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC133C"
+  },
+  {
+    "course_code": "THEATER 134A",
+    "units": 1,
+    "title": "Dance for Musical Theater II",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134A"
+  },
+  {
+    "course_code": "THEATER 134B",
+    "units": 1,
+    "title": "Dance for Musical Theater II",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134B"
+  },
+  {
+    "course_code": "THEATER 134C",
+    "units": 1,
+    "title": "Dance for Musical Theater II",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134C"
+  },
+  {
+    "course_code": "THEATER 134D",
+    "units": 1,
+    "title": "Dance for Musical Theater III",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134D"
+  },
+  {
+    "course_code": "THEATER 134E",
+    "units": 1,
+    "title": "Dance for Musical Theater III",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134E"
+  },
+  {
+    "course_code": "THEATER 134F",
+    "units": 1,
+    "title": "Dance for Musical Theater III",
+    "description": "Studio, five hours. Designed for Theater majors. Development of dance and movement techniques for musical theater. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134F"
+  },
+  {
+    "course_code": "THEATER 134G",
+    "units": 1,
+    "title": "Dance for Musical Theater: Ballet",
+    "description": "Studio, three to four hours. Designed for Theater majors. Intermediate level course. Development of skills and furthering of concepts of ballet technique. Emphasis on development of proper placement, building strength and flexibility, higher level of techniques, and awareness of musicality and artistic expression. May be repeated five times for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER134G"
+  },
+  {
+    "course_code": "THEATER 135A",
+    "units": 2,
+    "title": "Musical Theater Vocal Styles: Gospel",
+    "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing gospel and rhythm and blues music, with solo and group improvisation as foundation. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135A"
+  },
+  {
+    "course_code": "THEATER 135B",
+    "units": 2,
+    "title": "Musical Theater: Creating and Playing Subtext on Standard Ballad",
+    "description": "Studio, three hours. Designed for Theater majors. Acting (creating personalized subtext) applied to performance of ballad. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135B"
+  },
+  {
+    "course_code": "THEATER 135C",
+    "units": 2,
+    "title": "Musical Theater Vocal Styles: Legitimate/Operetta",
+    "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing legitimate/operetta music, with emphasis on vocal and body strengthening exercises and solo song coaching. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135C"
+  },
+  {
+    "course_code": "THEATER 135D",
+    "units": 2,
+    "title": "Musical Theater Vocal Styles: Rock",
+    "description": "Studio, three hours. Designed for Theater majors. Part of five-course series of musical theater performance techniques in which students explore and master variety of vocal styles and/or acting approaches necessary to be competitive in field of professional musical theater. Exploration of strategies and techniques for singing rock music, with emphasis on vocal and body strengthening exercises and solo song coaching. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135D"
+  },
+  {
+    "course_code": "THEATER 135E",
+    "units": 2,
+    "title": "Musical Theater: Creating and Playing Character from Musical Text",
+    "description": "Studio, two to three hours. Designed for Theater majors. Exploration of text and lyrics of musical theater piece, song cycle, or specific composer\u2019s work from actors\u2019 point of view. Students develop skills in research, character observation, and improvisation. Emphasis on creating and sustaining character through singing. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135E"
+  },
+  {
+    "course_code": "THEATER 135F",
+    "units": 1,
+    "title": "Singing: Individual Instruction",
+    "description": "Studio, one hour. Requisite: course 35B. Designed to advance proper vocal technique, focusing on breath support, vowel shape, range expression, and overall mastery of vocal instrument. May be repeated four times for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 35B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135F"
+  },
+  {
+    "course_code": "THEATER 135G",
+    "units": 2,
+    "title": "Musical Theater Duets: Singing in Relationship",
+    "description": "Studio, three hours. Designed for Theater majors. Study and practice of musical theater duets with emphasis on establishing, exploring, and maintaining relationship and intention while singing. Development of vocal technique and the ability to hold melody and harmony lines while singing in relationship. Research of duet history using song selections covering history of musical theater from early 20th century through contemporary, incorporating and advancing diversity, equity, and inclusion values while not being restricted to original casting models in practice. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER135G"
+  },
+  {
+    "course_code": "THEATER 136",
+    "units": 4,
+    "title": "Advanced Acting for Stage",
+    "description": "Studio, four hours. Requisite: course 123. Study and practice of art of acting through progression to more advanced acting problems. May be repeated twice for credit. Consecutive enrollment with same instructor not permitted. Total units for courses 136, 137A, 137B, and 137C may not exceed 12 units. Letter grading.",
+    "prerequisites": [
+      "THEATER 123"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER136"
+  },
+  {
+    "course_code": "THEATER 137",
+    "units": 4,
+    "title": "Acting for the Camera",
+    "description": "Lecture/studio, four to six hours. Requisite: course 116B. Designed to aid the actor in the transition from stage to film work. Examination of film production and its physical characteristics and the acting style needed for work in film and television. Students may perform in simulated studio setting on camera. May be repeated once for credit with instructor change. Letter grading.",
+    "prerequisites": [
+      "THEATER 116B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER137"
+  },
+  {
+    "course_code": "THEATER 138",
+    "units": 4,
+    "title": "Special Problems in Performance Techniques",
+    "description": "Studio, four hours. Study of complex problems in voice, movement, and acting. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER138"
+  },
+  {
+    "course_code": "THEATER 139",
+    "units": 5,
+    "title": "Play Reading and Analysis",
+    "description": "Lecture, three hours. Investigation of dramatic texts, with focus on play structure, plot, character, dialog, ideas, and various other elements essential to effective theatrical interpretation and realization. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER139"
+  },
+  {
+    "course_code": "THEATER C141D",
+    "units": 4,
+    "title": "Projection Design and Media I",
+    "description": "Lecture, two hours; laboratory, two hours. Study and practice of projection and media techniques. Emphasis on analysis, design, and execution of theatrical projection and photographic technique for stage. May be repeated once for credit. Concurrently scheduled with course C441D. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC141D"
+  },
+  {
+    "course_code": "THEATER C141E",
+    "units": 4,
+    "title": "Projection Design and Media II",
+    "description": "Lecture/laboratory, four hours. Continuation of course C141D. Advanced study and practice in projection and media techniques, with emphasis on analysis, design, and execution of theatrical projection and photographic technique for stage. May be repeated once for credit. Concurrently scheduled with course C441E. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC141E"
+  },
+  {
+    "course_code": "THEATER C146A",
+    "units": 4,
+    "title": "Art and Process of Entertainment Design",
+    "description": "Lecture, three hours. Conceptualization, design, and prototyping of interactive theatrical events. Exploration of original forms of media-rich entertainment experience through lectures, presentations, and seminar participation. Students form collaborative teams to conceive and propose interactive entertainment events. Concurrently scheduled with course C446A. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC146A"
+  },
+  {
+    "course_code": "THEATER C146B",
+    "units": 4,
+    "title": "Art and Process of Entertainment Design",
+    "description": "Lecture, three hours. Conceptualization, design, and prototyping of interactive theatrical events. Prototype development; two to five proposals to be more completely defined and developed. Students form collaborative teams for further conceptual development of their project proposals. May be repeated once for credit. Concurrently scheduled with course C446B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC146B"
+  },
+  {
+    "course_code": "THEATER 147A",
+    "units": 4,
+    "title": "Drafting",
+    "description": "Studio, four hours. Development of visual communication skills through drafting. Exploration of drafting for scenic and lighting designs. May be repeated once for credit. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER147A"
+  },
+  {
+    "course_code": "THEATER 148",
+    "units": 4,
+    "title": "Special Courses in Design and Technical Theater",
+    "description": "Lecture, three hours. Group study of selected subjects in design and technical theater. May be repeated twice for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER148"
+  },
+  {
+    "course_code": "THEATER 149",
+    "units": 5,
+    "title": "Introduction to Design",
+    "description": "Lecture, three hours. Exploration of interpretation of drama through design, including study of styles and techniques of design, collaborative role of designer, principles of design for scenery, lighting, costumes, and sound. Both technical and aesthetic groundwork for further study. Investigation of techniques for realization of designs in production. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER149"
+  },
+  {
+    "course_code": "THEATER 150",
+    "units": 1,
+    "title": "Theater Production and Performance",
+    "description": "Laboratory, three to six hours. Laboratory experience in various aspects of theater production, including performance in project or production, stage management, member of crew, or assignment as designer or assistant on production. May be repeated for maximum of 8 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER150"
+  },
+  {
+    "course_code": "THEATER C151A",
+    "units": 4,
+    "title": "Scenic Design",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Imagination as impetus for design, text analysis, metaphor, and conceptualization. Investigation of design research process, composition, and style leading to visual presentation of design. May be repeated once for credit. Concurrently scheduled with course C451A. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC151A"
+  },
+  {
+    "course_code": "THEATER C151B",
+    "units": 4,
+    "title": "Scenic Design for Theater",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Study of scenic design for proscenium, thrust, and arena configurations, multiset productions, and music theater. May be repeated once for credit. Concurrently scheduled with course C451B. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC151B"
+  },
+  {
+    "course_code": "THEATER C151C",
+    "units": 4,
+    "title": "Production Design for Film, Television, and Video",
+    "description": "Lecture/studio, four hours. Study of role of art director, scenic design for single-camera and multicamera production, and set decoration. May be repeated once for credit. Concurrently scheduled with course C451C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC151C"
+  },
+  {
+    "course_code": "THEATER C152A",
+    "units": 4,
+    "title": "Lighting Design",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Study of lighting, with emphasis on imagination, text analysis, metaphor, and conceptualization. Investigation of composition and control of light and color in relation to actor. May be repeated once for credit. Concurrently scheduled with course C452A. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC152A"
+  },
+  {
+    "course_code": "THEATER C152B",
+    "units": 4,
+    "title": "Lighting Design for Theater",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Study of lighting design for proscenium, thrust, and arena configurations, music theater, and concert lighting. May be repeated once for credit. Concurrently scheduled with course C452B. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC152B"
+  },
+  {
+    "course_code": "THEATER C152C",
+    "units": 4,
+    "title": "Lighting Design for Television",
+    "description": "Lecture/studio, four hours. Study of current professional lighting design practices in television for single- and multiple-camera production. Concurrently scheduled with course C452C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC152C"
+  },
+  {
+    "course_code": "THEATER C152D",
+    "units": 4,
+    "title": "Lighting Design for Performances and Special Events",
+    "description": "Lecture, four hours. Requisites: courses C152A, C152B, C152C. Advanced topics in lighting design, including live performances for concerts, exhibitions, and live events. Concurrently scheduled with course C452D. Letter grading.",
+    "prerequisites": [
+      "THEATER C152A",
+      "THEATER C152B",
+      "THEATER C152C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC152D"
+  },
+  {
+    "course_code": "THEATER C152E",
+    "units": 4,
+    "title": "Lighting Design For Dance",
+    "description": "Lecture, four hours. Requisite: course C152A, C152B, or C152C. Advanced topics in lighting design, concentrating on live dance performance in all styles. Concurrently scheduled with course C452E. Letter grading.",
+    "prerequisites": [
+      "THEATER C152A",
+      "THEATER C152B",
+      "THEATER C152C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC152E"
+  },
+  {
+    "course_code": "THEATER C153A",
+    "units": 4,
+    "title": "Costume Design",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C; for transfer students: course 149. Imagination as impetus for design, text analysis, metaphor, and conceptualization. Investigation of design research process, composition, and style leading to visual presentation of design. May be repeated twice for credit. Concurrently scheduled with course C453A. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153A"
+  },
+  {
+    "course_code": "THEATER C153B",
+    "units": 4,
+    "title": "Costume Design for Theater",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C; for transfer students: course 149. Study of costume design for proscenium, thrust, and arena configurations, multiset productions, and music theater. May be repeated twice for credit. Concurrently scheduled with course C453B. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153B"
+  },
+  {
+    "course_code": "THEATER C153C",
+    "units": 4,
+    "title": "Costume Design for Film and Television",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C; for transfer students: course 149. Study of current professional costume design and wardrobe practices in film and television, including effect of differing media on design choices. May be repeated twice for credit. Concurrently scheduled with course C453C. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153C"
+  },
+  {
+    "course_code": "THEATER C153D",
+    "units": 4,
+    "title": "Projects in Costume Design Management",
+    "description": "Lecture, three hours. Examination of professional duties of costume designers, set costumers, and supervisors, especially management of production logistics, including but not limited to costume breakdowns, creating budgets, adhering to and overseeing them, as well as set costumer training for film and television, practicing on-set protocol, breakdown of daily responsibilities, and assembling set costumer kits ready for production. Practice with professional resourcefulness to move from abstract to substantive problem solving, maintaining creative and collaborative environment while adhering to logistical obstacles and tasks. Concurrently scheduled with course C453D. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153D"
+  },
+  {
+    "course_code": "THEATER C153E",
+    "units": 4,
+    "title": "History of Costume Design in Movies",
+    "description": "Lecture, three hours; screenings, two to six hours. History of costume design within context of 20th-century fashion and film history, including evolution of role of costume designer since early days of film industry. Role of costume designer and contribution of costume design to cinematic storytelling. Concurrently scheduled with course C453E. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153E"
+  },
+  {
+    "course_code": "THEATER C153F",
+    "units": 4,
+    "title": "Practice of Costume Design for Film Productions",
+    "description": "Lecture, three hours. Introduction to costume design as tool for storytelling, exploring integration of costume design and filmmaking process and what it takes to bring characters to life. Skills needed to effectively costume short narrative films, including script breakdown, collaboration with directors and actors, and how to manage production challenges. Concurrently scheduled with course C453F. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC153F"
+  },
+  {
+    "course_code": "THEATER C154A",
+    "units": 4,
+    "title": "Sound Design",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Introduction to sound and audio in acoustic, audio, and digital domain. Study and practice of techniques for recording, editing, and creating soundscapes. May be repeated once for credit. Concurrently scheduled with course C454A. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154A"
+  },
+  {
+    "course_code": "THEATER C154B",
+    "units": 4,
+    "title": "Sound Design for Musicals",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C, C154A. Exploration of sound design for theater and techniques for mixing, reinforcement, and signal processing. Topics include use of delay, equalization, and microphone placement for theater sound reinforcement with focus on mixing musicals. Covers paperwork needed to complete show. Tuning space, equalization, and some advanced projects involving programming and mixing on various consoles. May be repeated once for credit. Concurrently scheduled with course C454B. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C",
+      "THEATER C154A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154B"
+  },
+  {
+    "course_code": "THEATER C154C",
+    "units": 4,
+    "title": "Sound for Film and Television",
+    "description": "Lecture/studio, four hours. Requisites: courses C154A, C154B. Study of current professional sound recording, rerecording, mixing, and synchronization practices for film and television. Concurrently scheduled with course C454C. Letter grading.",
+    "prerequisites": [
+      "THEATER C154A",
+      "THEATER C154B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154C"
+  },
+  {
+    "course_code": "THEATER C154D",
+    "units": 4,
+    "title": "Script Analysis for Sound Design",
+    "description": "(Formerly numbered C144C.) Lecture/studio, four hours. Requisites: courses C154A, C154B. Advanced study and practice in preparation of theater sound design with emphasis on analysis of script and score, conceptual development of design, and techniques to realize design. Concurrently scheduled with course C454D. Letter grading.",
+    "prerequisites": [
+      "THEATER C154A",
+      "THEATER C154B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154D"
+  },
+  {
+    "course_code": "THEATER C154F",
+    "units": 4,
+    "title": "Field Recording and Content Creation for Sound Designers",
+    "description": "Lecture/studio, four hours. Requisites: courses C154A, C154B. Advanced techniques for creating content, focused on field recording and capturing sounds and their application for performance. Concurrently scheduled with course C454F. Letter grading.",
+    "prerequisites": [
+      "THEATER C154A",
+      "THEATER C154B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154F"
+  },
+  {
+    "course_code": "THEATER C154G",
+    "units": 4,
+    "title": "Music Technology for Sound Design",
+    "description": "Lecture/studio, four hours. Requisites: courses C154A, C154B. Overview of music, musical genres, and their structure with goal of understanding music composition. Students use software to create musical ideas and sound design components. Concurrently scheduled with course C454G. Letter grading.",
+    "prerequisites": [
+      "THEATER C154A",
+      "THEATER C154B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC154G"
+  },
+  {
+    "course_code": "THEATER C155A",
+    "units": 2,
+    "title": "Graphic Representation of Design: Perspective Drawing",
+    "description": "Studio, four hours. Requisite: course 147A or 147B. Introduction to use of pencil and pen to communicate scenic designs, including one- and two-paint perspective, form light, shade, and textures. Concurrently scheduled with course C455A. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 147B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155A"
+  },
+  {
+    "course_code": "THEATER C155B",
+    "units": 2,
+    "title": "Graphic Representation of Design: Multimedia Rendering",
+    "description": "Studio, four hours. Study and practice of multimedia rendering techniques as they relate to interpretation of scenic, lighting, and costume renderings, with focus on human form in space. Weekly demonstrations of wide variety of art media, including watercolor, markers, pastel, and collage rendering. May be repeated twice for credit. Concurrently scheduled with course C455B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155B"
+  },
+  {
+    "course_code": "THEATER C155C",
+    "units": 2,
+    "title": "Graphic Representation of Design: Digital Rendering",
+    "description": "Studio, four hours. Study and practice in rendering costumes, lighting, and scenic elements with combination of hand and digital rendering techniques. Coverage of rendering from life, enhancing final rendering with variety of computer-assisted formats to create polished sophisticated presentations for theater, film, and television productions. May be repeated twice for credit. Concurrently scheduled with course C455C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155C"
+  },
+  {
+    "course_code": "THEATER C155D",
+    "units": 2,
+    "title": "Graphic Representation of Design: Model Making",
+    "description": "Studio, four hours. Requisite: course 147A or 147B. Study of model for representation of scenic designs from initial working prototypes to finished color models. Use of wide variety of materials and techniques for execution of model. Concurrently scheduled with course C455D. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 147B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155D"
+  },
+  {
+    "course_code": "THEATER C155E",
+    "units": 2,
+    "title": "Graphic Representation of Design: Life Drawing",
+    "description": "Studio, four hours. Requisite: course 147A or 147B. Study and practice in drawing of human form. May be repeated twice for credit. Concurrently scheduled with course C455E. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 147B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155E"
+  },
+  {
+    "course_code": "THEATER C155F",
+    "units": 2,
+    "title": "Graphic Representation of Design: Costume Rendering",
+    "description": "Studio, four hours. Requisite: course 147A or 147B. Study of techniques for rendering theatrical costumes, with emphasis on figure, clothing, and fabrics. May be repeated twice for credit. Concurrently scheduled with course C455F. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 147B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155F"
+  },
+  {
+    "course_code": "THEATER C155G",
+    "units": 2,
+    "title": "Graphic Representation of Design: Scene Painting Techniques",
+    "description": "Studio, four hours. Requisite: course 147A or 147B. Study of scenic painting techniques and materials and their realization of color design and elevations. May be repeated once for credit. Concurrently scheduled with course C455G. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 147B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155G"
+  },
+  {
+    "course_code": "THEATER C155H",
+    "units": 2,
+    "title": "Selected Topics in Graphic Representation of Design",
+    "description": "Studio, six hours. Group study of selected subjects in techniques for interpretation of design for theater. May be repeated once for credit. Concurrently scheduled with course C455H. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC155H"
+  },
+  {
+    "course_code": "THEATER C156A",
+    "units": 4,
+    "title": "Introduction to Computer-Assisted Drafting",
+    "description": "Studio, four hours. Requisite: course 147A. Investigation of drawing and editing techniques, drawing floor plan sections, and elevation drawings using AutoCAD. Concurrently scheduled with course C456A. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156A"
+  },
+  {
+    "course_code": "THEATER C156B",
+    "units": 4,
+    "title": "Advanced Computer-Assisted Drafting",
+    "description": "Studio, four hours. Requisite: course 147A. Investigation of drafting techniques for scenic and lighting designs using AutoCAD. Concurrently scheduled with course C456B. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156B"
+  },
+  {
+    "course_code": "THEATER C156C",
+    "units": 4,
+    "title": "Computer-Assisted Rendering",
+    "description": "Studio, four hours. Investigation of three-dimensional lighting and scenic design previsualization: wire-frame perspective drawing and photo-realistic computer rendering techniques using three-dimensional studio. Concurrently scheduled with course C456C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156C"
+  },
+  {
+    "course_code": "THEATER C156D",
+    "units": 4,
+    "title": "Introduction to Computer-Assisted Drafting",
+    "description": "Studio, four hours. Requisite: course 147A. Investigation of drawing and editing techniques, drawing floor plan sections, and elevation drawings using Vectorworks. Concurrently scheduled with course C456D. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156D"
+  },
+  {
+    "course_code": "THEATER C156E",
+    "units": 4,
+    "title": "Advanced Computer-Assisted Drafting",
+    "description": "Studio, four hours. Requisite: course 147A. Investigation of drafting techniques for scenic and lighting designs using Vectorworks. Concurrently scheduled with course C456E. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156E"
+  },
+  {
+    "course_code": "THEATER C156F",
+    "units": 4,
+    "title": "Introduction to Computer-Assisted Rendering",
+    "description": "Studio, four hours. Investigation of three-dimensional lighting and scenic design previsualization: wire-frame perspective drawing and photo-realistic computer rendering techniques using Vectorworks. Concurrently scheduled with course C456F. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156F"
+  },
+  {
+    "course_code": "THEATER C156G",
+    "units": 2,
+    "title": "Virtual Reality Rendering for Film",
+    "description": "Studio, four hours. Requisites: courses C155C, C155H, C156A, C156B, C156C. Preparation: basic 3D modeling and rendering skills. Students learn how to translate 3D models developed in Maya into Unreal virtual game engine environment, and utilize this platform as powerful tool for development, presentation, and staging of film and theater set design. Students primarily use, Autodesk Maya and Unreal gaming engine, but are also introduced to Zbrush, Blender, Quixel, and other ancillary resources. Concurrently scheduled with course C456G. Letter grading.",
+    "prerequisites": [
+      "THEATER C155C",
+      "THEATER C155H",
+      "THEATER C156A",
+      "THEATER C156B",
+      "THEATER C156C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC156G"
+  },
+  {
+    "course_code": "THEATER C157A",
+    "units": 2,
+    "title": "Costume Construction Techniques",
+    "description": "Studio, four hours. Requisites: courses 14A, 14B, 14C. Study of theory and application of drafting, pattern making, fitting, and construction techniques for period costumes and undergarments to achieve authentic-appearing costume using contemporary methods. Introduction to draping, pattern grading fitting, and slash and spread adaptation. May be repeated once for credit. Concurrently scheduled with course C457A. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC157A"
+  },
+  {
+    "course_code": "THEATER C157B",
+    "units": 2,
+    "title": "Costume Construction Techniques",
+    "description": "Studio, four hours. Requisite: course C157A. Study of theory and application of drafting, pattern making, fitting, and construction techniques for period costumes and undergarments to achieve authentic-appearing costume using contemporary methods. Introduction to costume drafting, construction of period undergarments. May be repeated once for credit. Concurrently scheduled with course C457B. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER C157A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC157B"
+  },
+  {
+    "course_code": "THEATER C157C",
+    "units": 2,
+    "title": "Costume Construction Techniques",
+    "description": "Studio, four hours. Requisites: courses C157A, C157B. Study of theory and application of drafting, pattern making, fitting, and construction techniques for period costumes and undergarments to achieve authentic-appearing costume using contemporary methods. Draping, patterning, and fitting techniques for period garments. May be repeated once for credit. Concurrently scheduled with course C457C. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER C157A",
+      "THEATER C157B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC157C"
+  },
+  {
+    "course_code": "THEATER C158A",
+    "units": 4,
+    "title": "Scenic Design Technology",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Investigation of materials, systems, and techniques for realization of scenic designs for theater, film, and television. Study of advanced techniques and materials for construction, finishing, and rigging of scenery and properties. Concurrently scheduled with course C458A. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC158A"
+  },
+  {
+    "course_code": "THEATER C158B",
+    "units": 4,
+    "title": "Lighting Design Technology",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Investigation of materials, systems, and techniques for realization of lighting designs for theater, film, and television. Study of design, operation, and performance of lighting instruments, dimming equipment, and control systems, including automated fixtures, projection equipment, and computer systems for lighting. Concurrently scheduled with course C458B. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC158B"
+  },
+  {
+    "course_code": "THEATER 159",
+    "units": 4,
+    "title": "Design Portfolio Project",
+    "description": "Lecture/studio, four hours. Requisites: courses 14A, 14B, 14C. Preparation of complete designs and drawings for production and assembly of design portfolio and r\u00e9sum\u00e9. Projects prepared under guidance of faculty adviser. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER159"
+  },
+  {
+    "course_code": "THEATER 160",
+    "units": 5,
+    "title": "Fundamentals of Play Direction",
+    "description": "Lecture, two hours; laboratory, four hours. Requisite: course 15 with grade of C or better. Course 121 may be taken concurrently. Basic theories of play direction and their application through preparation of scenes under rehearsal conditions. P/NP or letter grading.",
+    "prerequisites": [
+      "THEATER 15"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER160"
+  },
+  {
+    "course_code": "THEATER 163A",
+    "units": 4,
+    "title": "Directing for Stage",
+    "description": "Lecture, six hours. Requisites: courses 15, 160. Intensive development of primary directing skills and process, including text analysis and exploration of craft fundamentals as basis for director/actor communication and effective staging. Students direct scenes from plays under laboratory conditions. Letter grading.",
+    "prerequisites": [
+      "THEATER 15",
+      "THEATER 160"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER163A"
+  },
+  {
+    "course_code": "THEATER 163B",
+    "units": 4,
+    "title": "Directing for Stage",
+    "description": "Lecture/studio, four hours. Requisite: course 15. Further development of craft elements of directorial method, with additional emphasis on psychological aspects of director/actor communication. Students direct scenes under laboratory conditions in alternative stage configurations. Letter grading.",
+    "prerequisites": [
+      "THEATER 15"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER163B"
+  },
+  {
+    "course_code": "THEATER 163C",
+    "units": 4,
+    "title": "Directing for Stage",
+    "description": "Lecture/studio, four hours. Requisite: course 15. Culminating development of directorial methods, with particular emphasis on challenges of style in text and production. Students direct scenes under laboratory conditions in alternative stage configurations. Letter grading.",
+    "prerequisites": [
+      "THEATER 15"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER163C"
+  },
+  {
+    "course_code": "THEATER C163D",
+    "units": 5,
+    "title": "Directing Project for Stage",
+    "description": "Discussion, three hours; laboratory, four to eight hours. Requisites: courses 163A, 163B, 163C. Application of stage directing techniques in production of short play or project. Students direct one-act play or project. May be repeated once for credit. Concurrently scheduled with course C263D. Letter grading.",
+    "prerequisites": [
+      "THEATER 163A",
+      "THEATER 163B",
+      "THEATER 163C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC163D"
+  },
+  {
+    "course_code": "THEATER 165",
+    "units": 4,
+    "title": "Career Preparation for Integrated Studies",
+    "description": "Lecture, four to six hours. Focus on preparing for working professionally in theatre and performance after graduation for students in the integrated studies emphasis. Students learn about job searching and internships, creating resumes, interviews, creating a web site, pitching and presenting their own work, options for secondary higher education, etc. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER165"
+  },
+  {
+    "course_code": "THEATER 167A",
+    "units": 4,
+    "title": "Career Preparation for Actor",
+    "description": "Lecture/studio, four to six hours. Requisite: course 116B. Limited to seniors. Preparation for professional career as actor in film, television, theater, and commercials. Topics include audition preparation, head shots, r\u00e9sum\u00e9s, agents, managers, casting directors, producers, unions, survival skills, professional development. Letter grading.",
+    "prerequisites": [
+      "THEATER 116B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER167A"
+  },
+  {
+    "course_code": "THEATER 167B",
+    "units": 2,
+    "title": "Audition Preparation for Singing Actor",
+    "description": "Lecture/studio, three hours. Requisite: one course from 134A through 135F. Audition preparation for singing actor, providing various techniques to prepare for and successfully execute professional musical theater auditions. Letter grading.",
+    "prerequisites": [
+      "THEATER 134A",
+      "THEATER 135F"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER167B"
+  },
+  {
+    "course_code": "THEATER 170",
+    "units": 4,
+    "title": "Design and Production Project",
+    "description": "Laboratory, eight hours. Requisites: courses 14A, 14B, 14C. Experience as stage manager or designer, including participation in preparation and realization of scenic, lighting, costume, or sound designs, or stage management in production. May be repeated once for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER170"
+  },
+  {
+    "course_code": "THEATER 171A",
+    "units": 1,
+    "title": "Advanced Theater Laboratory",
+    "description": "Laboratory, to be arranged. Creative participation as actor or stage manager in public presentation of departmental productions. May be taken for maximum of 4 units. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER171A"
+  },
+  {
+    "course_code": "THEATER 171B",
+    "units": 1,
+    "title": "Advanced Theater Laboratory",
+    "description": "Laboratory, to be arranged. Creative participation in realization of production elements related to public presentation of departmental productions. May be taken for maximum of 4 units. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER171B"
+  },
+  {
+    "course_code": "THEATER 172",
+    "units": 1,
+    "title": "Production Practice in Theater, Film, Video, and Digital Media",
+    "description": "Studio, three to eight hours. Exploration and laboratory experience in one or more various aspects of production and postproduction practice for entertainment media, including theater, film, video, and digital media. May be repeated for maximum of 24 units. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER172"
+  },
+  {
+    "course_code": "THEATER 173A",
+    "units": 2,
+    "title": "Design Assignment: Assistant Designer",
+    "description": "Studio, six hours. Requisites: courses 14A, 14B, 14C. Laboratory experience as assistant designer, including participation in preparation and realization of scenic, lighting, costume, or sound designs. May be repeated twice. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER173A"
+  },
+  {
+    "course_code": "THEATER 173B",
+    "units": 2,
+    "title": "Production Design Assignment: Designer",
+    "description": "Studio, six hours. Requisites: courses 14A, 14B, 14C. Laboratory experience as designer, including preparation and realization of scenic, lighting, costume, or sound designs. May be repeated twice. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER173B"
+  },
+  {
+    "course_code": "THEATER 174A",
+    "units": 2,
+    "title": "Stage Managing Techniques",
+    "description": "Studio, six hours. Requisites: courses 14A, 14B, 14C. Professional duties of stage manager. Problems of unions, professional auditions, organization, scheduling, out-of-town openings, Broadway openings, and responsibilities of lengthy run. Letter grading.",
+    "prerequisites": [
+      "THEATER 14A",
+      "THEATER 14B",
+      "THEATER 14C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER174A"
+  },
+  {
+    "course_code": "THEATER 174B",
+    "units": 3,
+    "title": "Project in Stage Management",
+    "description": "Studio, nine hours. Requisite: course 174A. Laboratory experience in professional duties of assistant stage manager, including participation as assistant stage manager in preproduction, rehearsal, and performance phases of productions. May be repeated once for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER174B"
+  },
+  {
+    "course_code": "THEATER 174C",
+    "units": 4,
+    "title": "Project in Stage Management",
+    "description": "Studio, 12 hours. Requisite: course 174A. Laboratory experience in professional duties of stage manager, including participation as stage manager in preproduction, rehearsal, and performance phases of productions. Problems of unions, auditions, organization, scheduling, and responsibilities of lengthy run. May be repeated three times for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER174C"
+  },
+  {
+    "course_code": "THEATER 174D",
+    "units": 2,
+    "title": "Advanced Stage Management Techniques",
+    "description": "Lecture, two hours; studio, two hours. Requisites: courses 147A, 174A. Professional duties of stage management. Practical training, including paper techniques, dry techniques, cue 2 cue, preshow setup, performance reports, and quick change rehearsals. Letter grading.",
+    "prerequisites": [
+      "THEATER 147A",
+      "THEATER 174A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER174D"
+  },
+  {
+    "course_code": "THEATER 175A",
+    "units": 4,
+    "title": "Summer Theater Workshop",
+    "description": "Laboratory, 12 to 24 hours. Participation in various aspects of theater production and performance. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER175A"
+  },
+  {
+    "course_code": "THEATER 175B",
+    "units": 1,
+    "title": "Summer Theater Workshop",
+    "description": "Laboratory, three hours. Participation in various aspects of theater production and performance. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER175B"
+  },
+  {
+    "course_code": "THEATER 175C",
+    "units": 4,
+    "title": "Summer Theater Workshop",
+    "description": "Laboratory, 12 to 24 hours. Participation in various aspects of theater production and performance. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER175C"
+  },
+  {
+    "course_code": "THEATER 175D",
+    "units": 4,
+    "title": "Summer Theater Workshop",
+    "description": "Laboratory, 12 to 24 hours. Participation in various aspects of theater production and performance. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER175D"
+  },
+  {
+    "course_code": "THEATER C176A",
+    "units": 4,
+    "title": "Production Practice in Theater with Emerging Technologies I",
+    "description": "Studio/laboratory, four to six hours. Collaborative creative and technical development of all aspects of theatrical production incorporating emerging and/or advanced technologies, culminating in rehearsal and public presentation. Offered as series of up to three courses in cases where multiple quarters are needed to prepare production. May be repeated once for credit. Concurrently scheduled with course C476A. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC176A"
+  },
+  {
+    "course_code": "THEATER C176B",
+    "units": 4,
+    "title": "Production Practice in Theater with Emerging Technologies II",
+    "description": "Studio/laboratory, four to six hours. Collaborative creative and technical development of all aspects of theatrical production incorporating emerging and/or advanced technologies, culminating in rehearsal and public presentation. Offered as series of up to three courses in cases where multiple quarters are needed to prepare production. May be repeated once for credit. Concurrently scheduled with course C476B. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC176B"
+  },
+  {
+    "course_code": "THEATER C176C",
+    "units": 4,
+    "title": "Production Practice in Theater with Emerging Technologies III",
+    "description": "Studio/laboratory, four to six hours. Collaborative creative and technical development of all aspects of theatrical production incorporating emerging and/or advanced technologies, culminating in rehearsal and public presentation. Offered as series of up to three courses in cases where multiple quarters are needed to prepare production. May be repeated once for credit. Concurrently scheduled with course C476C. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC176C"
+  },
+  {
+    "course_code": "THEATER M178",
+    "units": 2,
+    "title": "Film and Television Acting Workshop",
+    "description": "(Same as Film and Television M177.) Laboratory, four hours. Workshop providing opportunities for students to rehearse, perform, and evaluate scenes. Three different production styles to which performers may need to adjust are (1) preproduction rehearsals with director, (2) single-camera experience, and (3) multiple-camera experience. May be repeated twice for credit. Letter grading.",
+    "cross_listed": [
+      "FILM TV M177"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM178"
+  },
+  {
+    "course_code": "THEATER 180",
+    "units": 4,
+    "title": "Senior Project",
+    "description": "Lecture or studio, three hours. Requisites: courses 101A, 101B. Preparation of conceptual or creative project to provide culminating experience in production of creative or research work. May be repeated twice for credit. Letter grading.",
+    "prerequisites": [
+      "THEATER 101A",
+      "THEATER 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER180"
+  },
+  {
+    "course_code": "THEATER 181",
+    "units": 2,
+    "title": "Career Development for Actors",
+    "description": "Lecture, three hours; fieldwork, three hours. Limited to seniors. Study of business practices, career entry, and development for actors. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER181"
+  },
+  {
+    "course_code": "THEATER C185A",
+    "units": 2,
+    "title": "Role of Producer in Professional Theater",
+    "description": "Lecture, three hours. Study of structure governing economic and artistic decision-making processes in professional theater of America. Concurrently scheduled with course C285A. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC185A"
+  },
+  {
+    "course_code": "THEATER C185B",
+    "units": 2,
+    "title": "Role of Management in Educational and Community Theater",
+    "description": "Lecture, three hours. Study of artistic, social, and economic criteria in administration of educational and community theater. Concurrently scheduled with course C285B. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERC185B"
+  },
+  {
+    "course_code": "THEATER M187",
+    "units": 4,
+    "title": "Art Alive: Art and Improvisation in Museums",
+    "description": "(Same as Honors Collegium M116.) Seminar, four hours. Offered in collaboration with Los Angeles County Museum of Art (LACMA). Interpretation of art in collection through acting, dialogues, movement, and music. Research into history and art history and production of creative performance piece required. P/NP or letter grading.",
+    "cross_listed": [
+      "HNRS M116"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATERM187"
+  },
+  {
+    "course_code": "THEATER 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER188SA"
+  },
+  {
+    "course_code": "THEATER 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "THEATER 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER188SB"
+  },
+  {
+    "course_code": "THEATER 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "THEATER 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER188SC"
+  },
+  {
+    "course_code": "THEATER 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER189"
+  },
+  {
+    "course_code": "THEATER 195",
+    "units": 2,
+    "title": "Community or Corporate Internships in Theater, Film, and Television",
+    "description": "Tutorial, eight, 16, or 24 hours. Limited to juniors/seniors. Internship at various theaters, studios, or entertainment organizations accentuating creative contributions, organization, and work of professionals in their various specialties. Students meet on regular basis with instructor and provide periodic reports of their experience. May be taken for maximum of 8 units. Individual contract with supervising faculty member required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER195"
+  },
+  {
+    "course_code": "THEATER 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Theater",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Research under guidance of faculty mentor. Supervised individual research or investigation. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/THEATER199"
+  }
+]

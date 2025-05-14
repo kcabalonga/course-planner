@@ -1,0 +1,1213 @@
+[
+  {
+    "course_code": "SOCIOL 1",
+    "units": 5,
+    "title": "Introductory Sociology",
+    "description": "Lecture, four hours; discussion, one hour. Survey of characteristics of social life, processes of social interaction, and tools of sociological investigation. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL1"
+  },
+  {
+    "course_code": "SOCIOL M5",
+    "units": 5,
+    "title": "Social Organization of Black Communities",
+    "description": "(Same as African American Studies M5.) Lecture, four hours; discussion, one hour; field trips. Analysis and interpretation of social organization of black communities, with focus on origins and development of black communities, competing theories and research findings, defining characteristics and contemporary issues. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "AF AMER M5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM5"
+  },
+  {
+    "course_code": "SOCIOL 10",
+    "units": 5,
+    "title": "Social Thought and Origins of Sociology",
+    "description": "Lecture, three hours; discussion, two hours. Introduction to history of social thought, with special emphasis on theoretical precursors to development of discipline of sociology. Exposition and analysis of selected social theorists and concepts, especially from the 17th to 19th centuries. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL10"
+  },
+  {
+    "course_code": "SOCIOL 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL19"
+  },
+  {
+    "course_code": "SOCIOL 20",
+    "units": 5,
+    "title": "Introduction to Sociological Research Methods",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to methods used in contemporary sociological research, with focus on issues of research design, data collection, and analysis of data. Fieldwork may be required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL20"
+  },
+  {
+    "course_code": "SOCIOL 40",
+    "units": 5,
+    "title": "American Racism: Psychosocial Analysis",
+    "description": "Lecture, four hours; discussion, one hour. Examination of long-standing history of American racism, beginning with institution of slavery, Jim Crow legislation, separate but equal doctrine, Brown versus Board of Education, Civil Rights legislation of 1960s, and Obama presidency. Focus on persistence over time of racist beliefs and mechanisms through which racism becomes passed on from one generation to next. Racism toward African Americans and harms it has inflicted on African American community, as well as on nation as whole. Examination of psychology and sociology of racism through video clips, social scientific texts, essays by prominent American humanists, and American literature that deals centrally with racism. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL40"
+  },
+  {
+    "course_code": "SOCIOL 51",
+    "units": 5,
+    "title": "Sociology of Migration",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to fundamental theories, themes, and research methods used in sociological research through comparative study of international migration. Examination of theoretical debates and empirical analysis of causes and consequences of transnational migration in countries of origin and destination, with focus on issues of race, ethnicity, social networks, development, citizenship, and state in comparative context. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL51"
+  },
+  {
+    "course_code": "SOCIOL M72A",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society",
+    "description": "(Same as Communication M72A, Clusters M72A, and Society and Genetics M72A.) Lecture, three hours; discussion, two hours. Course M72A is enforced requisite to M72B, which is enforced requisite to M72CW. Limited to first-year freshmen. Examination of many ways in which sex and sexual identity shape and are shaped by biological and social forces, approached from complementary perspectives of anthropology, biology, medicine, and sociology. Specific topics include biological origins of sex differences, intersex, gender identity, gender inequality, homosexuality, sex differences, sex/gender and law, and politics of sex research. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "CLUSTER M72A",
+      "SOC GEN M72A",
+      "COMM M72A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM72A"
+  },
+  {
+    "course_code": "SOCIOL M72B",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society",
+    "description": "(Same as Communication M72B, Clusters M72B, and Society and Genetics M72B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M72A. Limited to first-year freshmen. Examination of many ways in which sex and sexual identity shape and are shaped by biological and social forces, approached from complementary perspectives of anthropology, biology, medicine, and sociology. Specific topics include biological origins of sex differences, intersex, gender identity, gender inequality, homosexuality, sex differences, sex/gender and law, and politics of sex research. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "SOCIOL M72A"
+    ],
+    "cross_listed": [
+      "SOC GEN M72B",
+      "COMM M72B",
+      "CLUSTER M72B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM72B"
+  },
+  {
+    "course_code": "SOCIOL M72CW",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society: Special Topics",
+    "description": "(Same as Communication M72CW, Clusters M72CW, and Society and Genetics M72CW.) Seminar, three hours. Enforced requisite: course M72B. Limited to first-year freshmen. Topics may include politics of reproduction, sexuality, sexual identity, social construction of gender, and reproductive technologies. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Writing II"
+    ],
+    "prerequisites": [
+      "SOCIOL M72B"
+    ],
+    "cross_listed": [
+      "SOC GEN M72CW",
+      "COMM M72CW",
+      "CLUSTER M72CW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM72CW"
+  },
+  {
+    "course_code": "SOCIOL 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL89"
+  },
+  {
+    "course_code": "SOCIOL 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL89HC"
+  },
+  {
+    "course_code": "SOCIOL 97",
+    "units": 4,
+    "title": "Variable Topics Research Seminars: Sociology",
+    "description": "Seminar, three hours. Requisite: course 1. Designed for freshman/sophomores. Study of selected topics in sociology at introductory level. May be repeated for credit. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL97"
+  },
+  {
+    "course_code": "SOCIOL 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL99"
+  },
+  {
+    "course_code": "SOCIOL 101",
+    "units": 5,
+    "title": "Development of Sociological Theory",
+    "description": "Lecture, three hours; discussion, one hour. Comparative survey of basic concepts and theories in sociology from 1850 to 1920. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL101"
+  },
+  {
+    "course_code": "SOCIOL 102",
+    "units": 5,
+    "title": "Contemporary Sociological Theory",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 101. Critical examination of significant theoretical formulations from 1920 to present. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL102"
+  },
+  {
+    "course_code": "SOCIOL 106A",
+    "units": 6,
+    "title": "Field Research Methods I",
+    "description": "Lecture, two hours; discussion, two hours; fieldwork, eight to 10 hours. Research practicum in which students write field notes on their experiences in and observations of intensive internship field placement. Readings focus on fieldwork roles and relations, observing and describing, writing field notes, field interviewing, ethical issues, and preliminary data analysis. Fieldwork and extensive field notes required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL106A"
+  },
+  {
+    "course_code": "SOCIOL 106B",
+    "units": 6,
+    "title": "Field Research Methods II",
+    "description": "Lecture, two hours; discussion, two hours; fieldwork, 10 hours. Requisite: course 106A. Collection and analysis of both field notes and unstructured interview data from student field placement. Use of techniques of qualitative data analysis, including qualitative coding, analytic memoing, and grounded theory methods, to analyze these materials and to write ethnographic paper. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 106A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL106B"
+  },
+  {
+    "course_code": "SOCIOL 110",
+    "units": 4,
+    "title": "Comparative and Historical Methods",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisite: course 101. Introduction to range of comparative and historical methods alongside broader questions and issues in this area of sociology. Students learn about using theories to analyze real-world cases; making comparisons between societies and other social units; developing sociological explanations for historical events; and generalizing about social patterns and changes over time. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL110"
+  },
+  {
+    "course_code": "SOCIOL 111",
+    "units": 4,
+    "title": "Social Networks",
+    "description": "Lecture, three hours; laboratory, one hour. Analysis of how social networks create social structure, how social actors utilize them, and their unexpected effects. Topics include job search, firm efficiency, and social movements. Visualization programs, computer simulations, and research project. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL111"
+  },
+  {
+    "course_code": "SOCIOL 112",
+    "units": 4,
+    "title": "Introduction to Mathematical Sociology",
+    "description": "Lecture, three hours; laboratory, one hour. Requisites: Mathematics 2, 3A (course whose content includes introductions to probability theory, matrix algebra, and differential and integral calculus), Statistics 10. Mathematical treatment of several sociological phenomena, such as occupational mobility, population growth, organizational structure, and friendship patterns, each covered in some detail, including initial development and subsequent evaluation and modification (emphasizing both deductive and computational aspects of mathematics). Letter grading.",
+    "prerequisites": [
+      "MATH 2",
+      "MATH 3A",
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL112"
+  },
+  {
+    "course_code": "SOCIOL 113",
+    "units": 4,
+    "title": "Statistical and Computer Methods for Social Research",
+    "description": "Lecture, three hours; laboratory, one hour. Requisite: Statistics 10. Continuation of Statistics 10, covering more advanced statistical techniques such as multiple regression, analysis of variance, or factor analysis. Content varies. Students learn how to use computer and write papers analyzing prepared data sets. P/NP or letter grading.",
+    "prerequisites": [
+      "STATS 10"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL113"
+  },
+  {
+    "course_code": "SOCIOL 114",
+    "units": 4,
+    "title": "Social Data Science",
+    "description": "Lecture, three hours; discussion, one hour. Data analysis, and way social theory and data are linked. Covers data and computing environment, regression analysis, causal analysis, and machine learning. Offers tools for conducting quantitative analyses of social phenomenon, including emerging computational methods. Integrates substance and method. Draws on literature in social inequality to demonstrate applications of studied methods. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL114"
+  },
+  {
+    "course_code": "SOCIOL M115",
+    "units": 4,
+    "title": "Environmental Sociology",
+    "description": "(Same as Environment M133 and Society and Genetics M133.) Lecture, three hours; discussion, one hour. Relationship between society and environment. Analysis in detail of interrelations between social factors (such as class, race, gender, and religion) and environmental factors (such as pollution, waste disposal, sustainability, and global warming). P/NP or letter grading.",
+    "cross_listed": [
+      "ENVIRON M133",
+      "SOC GEN M133"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM115"
+  },
+  {
+    "course_code": "SOCIOL 116",
+    "units": 4,
+    "title": "Social Demography",
+    "description": "Lecture, three hours; discussion, one hour. Studies of past, present, and future trends in population growth. Sociological theories of causes and consequences of population growth and redistribution. Emphasis on correlates of fertility, mortality, and migration. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL116"
+  },
+  {
+    "course_code": "SOCIOL 117",
+    "units": 4,
+    "title": "Family Demography",
+    "description": "Lecture, three hours; discussion, one hour. Examination of demographic behaviors, such as marriage, divorce, and childbearing, associated with family and household organization. Sociological approach to understanding causes and consequences of trends and differentials in family formation and dissolution. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL117"
+  },
+  {
+    "course_code": "SOCIOL M118",
+    "units": 5,
+    "title": "Simulating Society: Exploring Artificial Communities",
+    "description": "(Same as Honors Collegium M148.) Seminar, three hours; computer laboratory, one hour. Examination of social behavior through computer simulations of behavior in artificial communities. P/NP or letter grading.",
+    "cross_listed": [
+      "HNRS M148"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM118"
+  },
+  {
+    "course_code": "SOCIOL 119",
+    "units": 4,
+    "title": "Primate Societies",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Selected topics on diverse behaviors and cultural forms of primate cousins, with special focus on baboons, chimpanzees, and gorillas. Examination of primate socioecology, sexual competition, demography and kinship, politics, communication, and interactions within and between groups. Implications for our lives as human primates. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL119"
+  },
+  {
+    "course_code": "SOCIOL M120",
+    "units": 4,
+    "title": "Disability Rights Law",
+    "description": "(Same as Disability Studies M149.) Lecture, four hours. Examination of disability-related issues impacting people of all ages across wide spectrum of settings in both public and private sectors\u2014from preschool to higher education, from military to workplace, and from intensely urban environments to online and virtual worlds. Topics range from persistent and recurring disputes to novel controversies fueled by new technologies and changing times. P/NP or letter grading.",
+    "cross_listed": [
+      "DIS STD M149"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM120"
+  },
+  {
+    "course_code": "SOCIOL 121",
+    "units": 4,
+    "title": "Sociology of Religion",
+    "description": "Lecture, three hours; discussion, one hour. Examination of classic and contemporary work in social scientific study of religion. Analysis of definition of religion, role of religion in modern life, and role of categories like Islam in contemporary U.S. politics. Focus on complicated question of what it means to say someone or something is religious: does that mean they are moral, believe in God, or are part of community of believers? Students gain better sense of how to think and talk about religion. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL121"
+  },
+  {
+    "course_code": "SOCIOL 122",
+    "units": 4,
+    "title": "Sociology of Violence",
+    "description": "Lecture, three hours; discussion, one hour. Exploration of macro-, meso-, and micro-level theories of violence, why states organize violence, why civilizations participate in violence, and physical, structural, and symbolic violence. Discussion of how various social categories such as race, ethnicity, religion, class, gender, and sex are implicated in violence and examination of cases of interstate war, genocide, civil war, terrorism, and pogroms from around world.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL122"
+  },
+  {
+    "course_code": "SOCIOL 123",
+    "units": 4,
+    "title": "Social Change",
+    "description": "Lecture, three hours; discussion, one hour. How does social change occur? This question is linked to fundamental debates in sociology about structure (degree to which individual\u2019s actions are constrained by social forces) and agency (degree to which individuals can choose their own courses of action). Major theories (Marxist, Weberian, demographic, and strategic action) of social change take different views of structure and agency. Consideration of these theoretical issues in context of social change by considering empirical examples. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL123"
+  },
+  {
+    "course_code": "SOCIOL CM124A",
+    "units": 4,
+    "title": "Conversational Structures I",
+    "description": "(Formerly numbered M124A.) (Same as Communication M144A.) Lecture, three hours; discussion, one hour. Introduction to various structures employed in organization of conversational interaction, such as turn-taking, action sequencing, and repair. Concurrently scheduled with course C244A. P/NP or letter grading.",
+    "cross_listed": [
+      "COMM M144A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLCM124A"
+  },
+  {
+    "course_code": "SOCIOL M124B",
+    "units": 4,
+    "title": "Conversational Structures II",
+    "description": "(Same as Communication M144B.) Lecture, three hours; discussion, one hour. Requisite: course M124A. Consideration of some more expanded sequence structures, story structures, topical sequences, and overall structural organization of single conversations. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL M124A"
+    ],
+    "cross_listed": [
+      "COMM M144B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM124B"
+  },
+  {
+    "course_code": "SOCIOL CM125",
+    "units": 4,
+    "title": "Talk and Social Institutions",
+    "description": "(Same as Communication M125.) Lecture, four hours; discussion, one hour. Designed for juniors/seniors. Practices of communication and social interaction in number of major institutional sites in contemporary society. Setting varies but may include emergency services, police and courts, medicine, news interviews, and political oratory. Concurrently scheduled with course C258. P/NP or letter grading.",
+    "cross_listed": [
+      "COMM M125"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLCM125"
+  },
+  {
+    "course_code": "SOCIOL 126",
+    "units": 4,
+    "title": "Study of Norms",
+    "description": "Lecture, three hours; discussion, one hour. Properties of norms, of normatively governed conduct, of lay and professional methods for describing, producing, using, and validating norms in contrasting settings of socially organized activities; relevance of these properties for programmatic problems of analytic sociology. Fieldwork required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL126"
+  },
+  {
+    "course_code": "SOCIOL 127",
+    "units": 4,
+    "title": "Mind and Society",
+    "description": "Lecture, two and one half hours; discussion, one hour. Requisite: course 1. Study of social production of modes of thought and forms of knowledge. Study of ways in which bodies of knowledge and cognitive styles are produced, used, and transformed in everyday, organizational, and extraordinary contexts. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL127"
+  },
+  {
+    "course_code": "SOCIOL 128",
+    "units": 4,
+    "title": "Sociology of Emotions",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 1. Designed for juniors/seniors. Sociological theories and explanations of social conditions shaping and producing emotional experiences; effects of individual expression of emotions on social conditions; relations between thought, sensations, and emotions; self and emotions; social construction of emotions. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL128"
+  },
+  {
+    "course_code": "SOCIOL 129",
+    "units": 4,
+    "title": "Sociology of Time",
+    "description": "Lecture, three hours; discussion, one hour. Conceptualizations of time seen from scientific, philosophical, historical, and sociological perspectives; cyclical and linear time in primitive, ancient, and medieval societies; ritual, the sacred, and experience of the eternal; structuring of urban, modern, and postmodern societies by clock, calendar, and schedule; future value orientation and notion of progress; time, labor, and social domination. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL129"
+  },
+  {
+    "course_code": "SOCIOL 130",
+    "units": 4,
+    "title": "Self and Society",
+    "description": "Lecture, three hours; discussion, one hour. Examination of social processes shaping experience, definition, and enactment of self and personal identity. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL130"
+  },
+  {
+    "course_code": "SOCIOL 131",
+    "units": 4,
+    "title": "Careers in Sociology",
+    "description": "Lecture, three hours. Limited to juniors/seniors. Examination of possible career paths for Sociology majors, including such fields as business, nonprofit sector, government, healthcare, entertainment, and other areas. Development of career-relevant materials and skills. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL131"
+  },
+  {
+    "course_code": "SOCIOL 132",
+    "units": 4,
+    "title": "Social Psychology: Sociological Approaches",
+    "description": "Lecture, three hours; discussion, one hour. Survey of contribution of sociologists to theory and research in social psychology, including theories of social control; conformity and deviation; reference groups; and interaction process. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL132"
+  },
+  {
+    "course_code": "SOCIOL 133",
+    "units": 4,
+    "title": "Collective Behavior",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 1. Designed for juniors/seniors. Characteristics of crowds, mobs, publics, social movements, and revolutions; their relation to social unrest and their role in developing and changing social organization. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL133"
+  },
+  {
+    "course_code": "SOCIOL 134",
+    "units": 4,
+    "title": "Culture and Personality",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 1. Designed for juniors/seniors. Theories of relation of variations in personality to culture and group life, in primitive and modern societies, and influence of social role on behavior. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL134"
+  },
+  {
+    "course_code": "SOCIOL 135",
+    "units": 4,
+    "title": "Sociology of Body",
+    "description": "Lecture, three hours; discussion, one hour. Examination of body as social construction that is situated within particular social and historical context. Students gain understanding of how bodies become gendered, raced, classed, and sexualized in ways that create and reinforce social institutions and relations of power. Analysis of reciprocal processes of structuration: how body is shaped by social expectations and symbolic exchange, how meanings are attached to bodies and different body parts, and how these interpretations in turn shape social relations. Critical evaluation of embodiment experience, and contribution of sociological theories and data to understanding this process. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL135"
+  },
+  {
+    "course_code": "SOCIOL M136",
+    "units": 4,
+    "title": "Eating Society: Science and Politics of Food from Individual to Planetary Health",
+    "description": "(Same as Food Studies M136 and Society and Genetics M136.) Lecture, three hours; discussion, one hour. Questions of food and health are both individual and social. Students gain tools for understanding relationships between individual eaters, medicine, and social organization of food production and processing through set of research frameworks newly emergent in range of social and health sciences. Topics include individual and social ramifications of microbiome science; understanding how human gut microbes and health are shaped by pasteurization, processing, and food safety practices; One Health approaches that encompass human and animal health, discussing examples such as antibiotic resistance and emerging infectious disease as effects of large-scale agriculture; planetary health frameworks that link individual human metabolic health to issues of sustainable agriculture, for example how pesticides and fertilizers tie diets to environments; and resilience of cultural food systems in face of environmental pollution as issue of reproductive health. Letter grading.",
+    "cross_listed": [
+      "SOC GEN M136",
+      "FOOD ST M136"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM136"
+  },
+  {
+    "course_code": "SOCIOL M137",
+    "units": 4,
+    "title": "Historical Sociology of Urban/Rural Relations and Food Production",
+    "description": "(Same as Food Studies M167.) Lecture, three hours; discussion, one hour. Historical examination of food supply and food production in relation to urban and rural regions. Topics include food logistics such as storage, transportation, and distribution, as well as human population growth and migration, famine and hunger, and agricultural advances and environmental impacts. P/NP or letter grading.",
+    "cross_listed": [
+      "FOOD ST M167"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM137"
+  },
+  {
+    "course_code": "SOCIOL 138",
+    "units": 4,
+    "title": "Death, Dying, and Afterlife",
+    "description": "(Formerly numbered M138.) Lecture, three hours; discussion, one hour. Social analysis of social inequities in death, understanding of what constitutes good death, how we make sense of bad deaths, how to dispose of death, and what constitutes appropriate grieving. Death remains at foundation of discipline of sociology. Suicide does not occur randomly but is stratified according to social factors such as age, gender, race, sexual orientation, and class. Review of strength of sociological argument and evaluation of explanatory potential of different theories to make sense of death. Examination of historic and contemporary studies to examine how research and conceptualizations of death and dying have changed, and social responses to these phenomena. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL138"
+  },
+  {
+    "course_code": "SOCIOL M139",
+    "units": 4,
+    "title": "Asian Community: Border-Crossing, Diasporic Formation, and Social Transformation",
+    "description": "(Same as Asian American Studies M179.) Lecture, three hours; discussion, one hour. Exploration of critical issues facing broad Asian community, in context of globalization and international migration, through social science lens of migration studies and diaspora studies. Examination of how movements of people, ideas, capital, and goods create new trends and patterns of diasporic formation, integration, and social transformation at individual, group, and societal levels in non-Western contexts. Students engage in intellectually stimulating discussions and debates on immigration and immigrant integration in Asian world; and on anxieties, tensions, conflicts, and accommodation in age of globalization. Students also discuss challenges, possibilities, and opportunities of building cohesive Asian community. P/NP or letter grading.",
+    "cross_listed": [
+      "ASIA AM M179"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM139"
+  },
+  {
+    "course_code": "SOCIOL 140",
+    "units": 4,
+    "title": "Negotiating Medical Care: Physician-Patient Conversations",
+    "description": "Lecture, three hours; discussion, one hour. Overview of how physician-patient interaction influences kinds of treatment patients receive. Focus on routine primary care medical visits and study of how some of our most significant health-care epidemics are affected by communication that takes place in these everyday medical visits. Topics include how communication between clinicians and patients has changed over years, normative structure of medical visit, and how communication adds to series of public health problems currently faced. Students learn how to analyze actual interactions between physicians and patients with hands-on exercises to give them tools to examine these conversations. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL140"
+  },
+  {
+    "course_code": "SOCIOL 141A",
+    "units": 5,
+    "title": "Migration and Labor in Mexico-U.S. Context",
+    "description": "Seminar, 20 hours. Mexico-U.S. migration is largest and oldest continuous international population flow of contemporary world. In recent decades, prompted by swift economic transformations, rural and urban Mexicans from every corner of Mexico have joined this migratory flow, settling well beyond southwestern region and into far-reaching areas of U.S. interior. Migration is binding U.S. and Mexico stronger than ever, putting this complex and multilayered phenomena at top of bilateral agenda. Examination of sociological dynamics of international migration and labor as they apply to Mexico-U.S. context, including demographic, political, and economic dynamics of migration, economic and social infrastructures that support cross-border mobility, and connections of migration with binational, national, regional, and local labor markets. Comparative insights to contrast this flow with other contemporary population streams. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL141A"
+  },
+  {
+    "course_code": "SOCIOL 141B",
+    "units": 5,
+    "title": "Migration and Labor in Mexico-U.S. Context: Research Seminar",
+    "description": "Seminar, 10 hours; fieldwork, 10 hours. Development of qualitative micro-study and research paper on migration and labor in Mexico-U.S. context. Research topic of interest to be selected so students become familiar with commonly employed qualitative methods of research. Designed to help students understand basics of methodological reasoning, how to formulate research questions, and how to frame and investigate one particular issue related to migration and labor. How to make ethical decisions about conducting research. Development of student abilities as researchers by conducting secondary and primary research culminating in final research paper to be presented to faculty members and peers. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL141B"
+  },
+  {
+    "course_code": "SOCIOL 143",
+    "units": 4,
+    "title": "Human Health and Society",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: courses 1, 20, 101. Exploration of long-run historical trends in relationship between human health and social organization, drawing on historical, anthropological, demographic, and sociological concepts, theories, and data. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1",
+      "SOCIOL 20",
+      "SOCIOL 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL143"
+  },
+  {
+    "course_code": "SOCIOL M144",
+    "units": 4,
+    "title": "Stress and Society: Biology and Inequality",
+    "description": "(Same as Society and Genetics M144.) Lecture, three hours; discussion, one hour. Integrative view of health disparities, one of most pressing problems of society, through investigation of effects of socioeconomic status (SES) on health and disease, using specific lens of stress biology. Topics include introduction to fundamentals of physiology of stress, integration of literature on poverty and SES with studies on physiological consequences of poverty, and introduction of concepts of life course by following stress biology through childhood development and into adulthood. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "SOC GEN M144"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM144"
+  },
+  {
+    "course_code": "SOCIOL 145",
+    "units": 4,
+    "title": "Sociology of Deviant Behavior",
+    "description": "Lecture, three hours; discussion, one hour. Examination of leading sociological approaches to study of deviation and general survey of major types of deviation in American society. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL145"
+  },
+  {
+    "course_code": "SOCIOL 147A",
+    "units": 4,
+    "title": "Sociology of Crime",
+    "description": "Lecture, three hours; discussion, one hour. Sociological theories of social origins, organization, and meanings of crime and criminal behaviors. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL147A"
+  },
+  {
+    "course_code": "SOCIOL 147B",
+    "units": 4,
+    "title": "Sociology of Criminal Justice",
+    "description": "Lecture, three hours; discussion, one hour. Examination of structures and routine decision-making processes of key criminal justice institutions, including police, courts, probation and parole, jails and prisons. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL147B"
+  },
+  {
+    "course_code": "SOCIOL M148",
+    "units": 4,
+    "title": "Sociology of Mental Illness",
+    "description": "(Same as Disability Studies M148.) Lecture, three hours; discussion, one hour. Analysis of major sociological and social psychological models of madness. Study of social processes involved in production, recognition, labeling, and treatment of mental illness. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "DIS STD M148"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM148"
+  },
+  {
+    "course_code": "SOCIOL 149",
+    "units": 4,
+    "title": "Youth, Trouble, and Juvenile Justice",
+    "description": "Lecture, three hours; discussion, one hour. Examination of processes through which youth become involved in juvenile justice system. Analysis of this system as people-processing and people-changing institution as context for considering critical issues in juvenile justice. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL149"
+  },
+  {
+    "course_code": "SOCIOL M150",
+    "units": 4,
+    "title": "Sociology of Aging",
+    "description": "(Same as Gerontology M150.) Lecture, three hours; discussion, one hour. Study of sociological processes shaping definition, experience, and response to aging in contemporary society. Topics include race, class, and gender in aging over life course; interpersonal relations and social worlds of aged; caregiving relations and institutions; professions concerned with aged and aging. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "cross_listed": [
+      "GRNTLGY M150"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM150"
+  },
+  {
+    "course_code": "SOCIOL 151",
+    "units": 4,
+    "title": "Comparative Immigration",
+    "description": "Lecture, three hours; discussion, one hour. Survey of immigration of Europeans, Asians, and Hispanics to the U.S. since the mid-19th century. Overview of immigration experience on ethno-racial groups that migrated voluntarily to this country, with emphasis on immediate postimmigration settlement. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL151"
+  },
+  {
+    "course_code": "SOCIOL 152",
+    "units": 4,
+    "title": "Comparative Acculturation and Assimilation",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 151. Comparison of acculturation and assimilation of Europeans, Africans, Mexicans, and Asians in the U.S., with emphasis on long-term cultural consequences of immigration. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 151"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL152"
+  },
+  {
+    "course_code": "SOCIOL M153",
+    "units": 4,
+    "title": "Chinese Immigration",
+    "description": "(Same as Asian American Studies M130C.) Lecture, three hours; discussion, one hour. Survey of sociological studies of Chinese immigration, with focus on international context, organization, and institutions of Chinese America and its interactions with social environment. P/NP or letter grading.",
+    "cross_listed": [
+      "ASIA AM M130C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM153"
+  },
+  {
+    "course_code": "SOCIOL 154",
+    "units": 4,
+    "title": "Race and Ethnicity in Latin America",
+    "description": "Lecture, three hours; discussion, one hour. Role of race and ethnicity in political, economic, and social lives of Latin American nations. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL154"
+  },
+  {
+    "course_code": "SOCIOL M155",
+    "units": 4,
+    "title": "Latinos in U.S.",
+    "description": "(Same as Chicana/o and Central American Studies M155A.) Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Exploration of history and social conditions of Latinos in Los Angeles as well as nationally, with particular emphasis on their location in larger social structure and on comparisons with other minority groups. Topics include migration, family, education, and work issues. P/NP or letter grading.",
+    "cross_listed": [
+      "CCAS M155A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM155"
+  },
+  {
+    "course_code": "SOCIOL 156",
+    "units": 4,
+    "title": "Race and Ethnicity in American Life",
+    "description": "Lecture, three hours; discussion, one hour. Role of race and ethnicity in the U.S., including interplay between racial and ethnic structures and meanings. Special attention to comparison of African American and European American experiences and to transformation of Asian American and Latino communities and the nation generally, wrought by renewal of mass migration in second half of the 20th century. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL156"
+  },
+  {
+    "course_code": "SOCIOL 157",
+    "units": 4,
+    "title": "Social Stratification",
+    "description": "Lecture, three hours; discussion, one hour. Analysis of American social structure in terms of evaluational differentiation. Topics include criteria for differentiation, bases for evaluation, types of stratification, composition of strata and status systems, mobility, consequences of stratification, and problems of methodology. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL157"
+  },
+  {
+    "course_code": "SOCIOL 158",
+    "units": 4,
+    "title": "Urban Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Description and analysis of urbanization and urbanism in the U.S. and world. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL158"
+  },
+  {
+    "course_code": "SOCIOL M161",
+    "units": 4,
+    "title": "Comparative American Indian Societies",
+    "description": "(Same as American Indian Studies M161.) Lecture, three hours. Requisite: course 1 or American Indian Studies M10. Comparative and historical study of political, economic, and cultural change in indigenous North American societies. Several theories of social change, applied to selected case studies. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SOCIOL 1",
+      "AM IND M10"
+    ],
+    "cross_listed": [
+      "AM IND M161"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM161"
+  },
+  {
+    "course_code": "SOCIOL M162",
+    "units": 5,
+    "title": "Sociology of Gender",
+    "description": "(Same as Gender Studies M162.) Lecture, three hours; discussion, one hour. Enforced requisite: course 1 or Gender Studies 10. Examination of processes by which gender is socially constructed. Topics include distinction between biological sex and sociological gender, causes and consequences of gender inequality, and recent changes in gender relations in modern industrial societies. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SOCIOL 1",
+      "GENDER 10"
+    ],
+    "cross_listed": [
+      "GENDER M162"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM162"
+  },
+  {
+    "course_code": "SOCIOL M163",
+    "units": 4,
+    "title": "Gender and Work",
+    "description": "(Same as Gender Studies M163.) Lecture, three hours. Requisite: course 1 or Gender Studies 10. Exploration of relationship of gender to work, concentrating on the U.S. experience but also including some comparative material. Particular emphasis on analysis of causes and consequences of job segregation by gender and of wage inequality. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1",
+      "GENDER 10"
+    ],
+    "cross_listed": [
+      "GENDER M163"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM163"
+  },
+  {
+    "course_code": "SOCIOL M164",
+    "units": 4,
+    "title": "Politics of Reproduction and Everyday Life",
+    "description": "(Same as Gender Studies M164.) Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Social and human reproduction is global policy issue. Government efforts to influence reproduction are important feature of modern state: political intervention into private life, intimacy, and sexuality. Exploration of politics of reproduction\u2014intersection between politics and life cycle or between public sphere and private lives\u2014and coverage of broad range of issues addressing prevention and promotion of reproduction from historical-comparative approach. Reading, discussion, and development of culminating project. P/NP or letter grading.",
+    "cross_listed": [
+      "GENDER M164"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM164"
+  },
+  {
+    "course_code": "SOCIOL M165",
+    "units": 4,
+    "title": "Sociology of Race and Labor",
+    "description": "(Same as African American Studies M165 and Labor Studies M165.) Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Exploration of relationship between race/ethnicity, employment, and U.S. labor movement. Analysis of underlying racial divisions in workforce and how they evolved historically. Consideration of circumstances under which workers and unions have excluded people of color from jobs and unions, as well as circumstances under which workers and unions have organized people of color into unions in efforts to improve their wages and working conditions. Impact of globalization on these dynamics. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER M165",
+      "LBR STD M165"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM165"
+  },
+  {
+    "course_code": "SOCIOL 168",
+    "units": 4,
+    "title": "Organizations and Society",
+    "description": "Lecture, three hours; discussion, one hour. Sociological analysis of organizations and their social environment. Introduction to basic theories, concepts, methods, and research on behavior of organizations in society. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL168"
+  },
+  {
+    "course_code": "SOCIOL 169",
+    "units": 4,
+    "title": "Law and Society",
+    "description": "Lecture, three hours; discussion, one hour. Specific topics may include law in preindustrial and industrialized societies, legalization of contemporary social relations, participants\u2019 experiences of legal processes, lay perceptions of justice, social movements toward equal justice, roles of lawyers and judges, social impact of court decisions. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL169"
+  },
+  {
+    "course_code": "SOCIOL 170",
+    "units": 4,
+    "title": "Medical Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 1. Provides majors in Sociology and other social sciences, as well as students preparing for health sciences careers, with understanding of health-seeking behavior and interpersonal and organizational relations that are involved in receipt and delivery of health services. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL170"
+  },
+  {
+    "course_code": "SOCIOL 171",
+    "units": 4,
+    "title": "Occupations and Professions",
+    "description": "Lecture, three hours; discussion, one hour. Description and analysis of representative occupations and professions, with emphasis on contemporary U.S. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL171"
+  },
+  {
+    "course_code": "SOCIOL 172",
+    "units": 4,
+    "title": "Entrepreneurship",
+    "description": "Lecture, three hours; discussion, one hour. Description and analysis of entrepreneurship, with special reference to historical origins, ideology, international comparisons, women and ethnic minority participation, legal and illegal forms, public and private auspices. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL172"
+  },
+  {
+    "course_code": "SOCIOL 173",
+    "units": 4,
+    "title": "Economy and Society",
+    "description": "Lecture, three hours; discussion, one hour. Sociology of economic life, with emphasis on principal economic institutions of the U.S. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL173"
+  },
+  {
+    "course_code": "SOCIOL M174",
+    "units": 4,
+    "title": "Sociology of Family",
+    "description": "(Same as Gender Studies M174.) Lecture, three hours; discussion, one hour. Theory and research dealing with modern family, its structure, and functions, including historical changes, variant family patterns, family as institution, and influence of contemporary society on family. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "GENDER M174"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM174"
+  },
+  {
+    "course_code": "SOCIOL M175",
+    "units": 5,
+    "title": "Sociology of Education",
+    "description": "(Same as Education M108.) Lecture, four hours; discussion, one hour. Study of how U.S. educational system both promotes socioeconomic opportunities and maintains socioeconomic inequalities: historical and theoretical perspectives on role of education in U.S. society; trends in educational attainment; ways in which family background, class, race, and gender affect educational achievement and attainment; stratification between and within schools; effects of education on socioeconomic attainment, family, health, attitudes, and social participation; educational policies to improve school quality and address socioeconomic inequalities. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "EDUC M108"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM175"
+  },
+  {
+    "course_code": "SOCIOL M176",
+    "units": 4,
+    "title": "Sociology of Mass Communication",
+    "description": "(Same as Communication M147.) Lecture, four hours; discussion, one hour (when scheduled). Studies in relationship between mass communication and social organization. Topics include history and organization of major media institutions, social forces that shape production of mass media news and entertainment, selected studies in media content, and effects of media on society. P/NP or letter grading.",
+    "cross_listed": [
+      "COMM M147"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM176"
+  },
+  {
+    "course_code": "SOCIOL M178",
+    "units": 4,
+    "title": "Sociology of Caribbean",
+    "description": "(Same as African American Studies M178.) Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Historical sociology of Caribbean, with emphasis on colonialism and decolonization, development and underdevelopment, race-making institutions and evolution of race relations, nationalism and migration. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER M178"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM178"
+  },
+  {
+    "course_code": "SOCIOL 180A",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180A"
+  },
+  {
+    "course_code": "SOCIOL 180B",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180B"
+  },
+  {
+    "course_code": "SOCIOL 180C",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180C"
+  },
+  {
+    "course_code": "SOCIOL 180D",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180D"
+  },
+  {
+    "course_code": "SOCIOL 180E",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180E"
+  },
+  {
+    "course_code": "SOCIOL 180F",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180F"
+  },
+  {
+    "course_code": "SOCIOL 180G",
+    "units": 4,
+    "title": "Special Topics in Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Limited to juniors/seniors. Study of selected topics of sociological interest. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL180G"
+  },
+  {
+    "course_code": "SOCIOL 181A",
+    "units": 4,
+    "title": "Sociology of Global China",
+    "description": "Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Analyses of how domestic developments create impetus for China\u2019s global expansion, and assessment of global China\u2019s variegated and uneven consequences. Concrete case studies include Belt and Road Initiative, soft power and cultural diplomacy, internal colonization of Hong Kong and Xinjiang, China in Africa, U.S.-China trade war, and New Cold War. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL181A"
+  },
+  {
+    "course_code": "SOCIOL 181B",
+    "units": 4,
+    "title": "Sociology of Contemporary China",
+    "description": "Lecture, three hours; discussion, one hour. Designed for juniors/seniors. Survey of changes in Chinese society from beginning of 20th century to present. Topics include social mobility and inequality, family and household, and population. Emphasis on changes post-Reform Era and in present. Focus on interaction of economic and political change plus family organization. Contrasts and similarities between China and West, China\u2019s place in social sciences, and challenges due to social organization that originated from studying Western societies. May be taken independently for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL181B"
+  },
+  {
+    "course_code": "SOCIOL 182",
+    "units": 4,
+    "title": "Political Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Contributions of sociology to study of politics, including analysis of political aspects of social systems, social context of action, and social bases of power. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL182"
+  },
+  {
+    "course_code": "SOCIOL 183",
+    "units": 4,
+    "title": "Comparative and Historical Sociology",
+    "description": "Lecture, three hours; discussion, one hour. Requisite: course 1. Survey of central themes of comparative and historical studies in sociology. Various aspects of development of modern society, including development of nation-state, emergence of capitalism, industrialization, and population growth. Variation in contemporary society, viewed from variety of theoretical perspectives. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL183"
+  },
+  {
+    "course_code": "SOCIOL 185",
+    "units": 4,
+    "title": "American Society",
+    "description": "Lecture, three hours; discussion, one hour. Analysis of major institutions in the U.S. in historical and international perspective, with emphasis on topics such as industrialization, work, state, politics, community, family, religion, and American culture. Theories of social change, conflict, and order applied to case of the U.S. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL185"
+  },
+  {
+    "course_code": "SOCIOL 186",
+    "units": 4,
+    "title": "Latin American Societies",
+    "description": "Lecture, three hours; discussion, one hour. Social structure and social conflict in Latin America, with special attention to racial and class structures and dilemmas of economic and political development. Country and specific focus varies each term. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL186"
+  },
+  {
+    "course_code": "SOCIOL 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL188SA"
+  },
+  {
+    "course_code": "SOCIOL 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL188SB"
+  },
+  {
+    "course_code": "SOCIOL 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL188SC"
+  },
+  {
+    "course_code": "SOCIOL 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL189"
+  },
+  {
+    "course_code": "SOCIOL 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL189HC"
+  },
+  {
+    "course_code": "SOCIOL 191A",
+    "units": 5,
+    "title": "Undergraduate Seminar: Self and Identity",
+    "description": "Seminar, three hours. Limited to junior/senior Sociology majors. Examination of cultural, historical, and interactional contexts shaping definition, enactment, and experience of self. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191A"
+  },
+  {
+    "course_code": "SOCIOL 191B",
+    "units": 5,
+    "title": "Undergraduate Seminar: Sociology of Humor and Laughter",
+    "description": "Seminar, three hours. Limited to junior/senior Sociology majors. Selected topics. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191B"
+  },
+  {
+    "course_code": "SOCIOL 191C",
+    "units": 5,
+    "title": "Undergraduate Seminar: Money and Emotions",
+    "description": "Seminar, three hours. Limited to junior/senior Sociology majors. Selected topics. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191C"
+  },
+  {
+    "course_code": "SOCIOL 191D",
+    "units": 5,
+    "title": "Undergraduate Seminar: Sociology of Development",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Taught in Spanish. Selected topics on development in Third World from global perspective. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191D"
+  },
+  {
+    "course_code": "SOCIOL M191DC",
+    "units": 8,
+    "title": "CAPPP Washington, DC, Research Seminars",
+    "description": "(Same as Communication M191DC, History M191DC, Political Science M191DC, and Public Affairs M191DC.) Seminar, three hours. Limited to CAPPP Program students. Seminars for undergraduate students in Center for American Politics and Public Policy\u2019s program in Washington, DC. Focus on development and execution of original empirical research based on experiences from Washington, DC\u2014based field placements. Study of variety of qualitative methods (observation, interviewing, etc.), with comparison to quantitative analysis. Examination of features of solid and significant research; intensive writing. Letter grading.",
+    "cross_listed": [
+      "PUB AFF M191DC",
+      "HIST M191DC",
+      "COMM M191DC",
+      "POL SCI M191DC"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM191DC"
+  },
+  {
+    "course_code": "SOCIOL 191E",
+    "units": 5,
+    "title": "Undergraduate Seminar: Population Growth Models",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Selected topics. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191E"
+  },
+  {
+    "course_code": "SOCIOL 191F",
+    "units": 5,
+    "title": "Undergraduate Seminar: Sociology of Globalization",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Great extension of social relations across globe has occurred over last 50 years. What are causes and mechanisms of this process, how far has it transformed human societies, and how far will it go in future? Economic, cultural, political, and military aspects of globalization, with focus on extent to which global expansion of capitalism, nation-state system, and American imperialism reinforce or undercut each other, producing new lines of division and conflict across world. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191F"
+  },
+  {
+    "course_code": "SOCIOL 191H",
+    "units": 4,
+    "title": "Honors Seminars: Sociology",
+    "description": "Seminar, three hours. In-depth introduction to process of producing scholarly sociological research for students who intend to write undergraduate thesis for departmental honors. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191H"
+  },
+  {
+    "course_code": "SOCIOL 191I",
+    "units": 5,
+    "title": "Undergraduate Seminar: Health and Inequality",
+    "description": "Seminar, three hours. Limited to juniors/seniors. During past century, social inequalities in health and survival were widening in the U.S. as in other developed societies. Broad overview of these trends and their causes. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191I"
+  },
+  {
+    "course_code": "SOCIOL 191J",
+    "units": 5,
+    "title": "Undergraduate Seminar: Mexican Society",
+    "description": "Seminar, three hours. Selected topics on contemporary Mexican society and vital transformations it has undergone in recent years. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191J"
+  },
+  {
+    "course_code": "SOCIOL 191K",
+    "units": 5,
+    "title": "Undergraduate Seminar: Cigarettes and Western Civilization\u2014Sociological History of Smoking",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Use of history of tobacco and cigarette smoking to explore important themes in sociology, history, and culture. History of tobacco from its roots in Native American culture, its contribution to foundation of European colonies in New World, its cultural incorporation in western Europe, its role in rise of industrial way of life and health consequences, and its demise as legitimate soft drug for modern urban people. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191K"
+  },
+  {
+    "course_code": "SOCIOL 191L",
+    "units": 5,
+    "title": "Undergraduate Seminar: Environmental Justice and Sustainability",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Sociological approach to study of environmental issues and problems. Topics include ecopolitics and ecofeminism, environmental racism, global environmental change, sustainable development, and society-environment interface. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191L"
+  },
+  {
+    "course_code": "SOCIOL 191M",
+    "units": 5,
+    "title": "Undergraduate Seminar: Social Ecology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Fundamentals of sociological approach to social ecology, also known as human ecology. Study of adaptation of population to its environment. Topics include density, maintaining personal space, space and territoriality, and effects of environment on humans. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191M"
+  },
+  {
+    "course_code": "SOCIOL C191N",
+    "units": 5,
+    "title": "Undergraduate Seminar: Urban and Suburban Sociology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. History and present condition of cities and suburbs in America, with stress on global cities such as New York and Los Angeles, and comparisons to London and Shanghai. Process of suburbanization as it began in early 19th century and still continues. Analysis of city politics, house and architectural styles, crime, urban terror, public housing and ghettos, segregation and integration of neighborhoods, question of gentrification, immigration, urban culture (especially art, museums, and movie and music industries), and environmentalism. Concurrently scheduled with course C297. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLC191N"
+  },
+  {
+    "course_code": "SOCIOL 191NY",
+    "units": 5,
+    "title": "Undergraduate Seminar: Urban and Suburban Sociology in New York City",
+    "description": "Seminar, eight hours. Limited to students in summer UCLA Travel Study Program. Cutting-edge urban issues in country\u2019s largest city, including New York\u2019s attempt to plan for city of 9.2 million, rebuilding of World Trade Center, Robert Moses (New York\u2019s master builder), urban economic development, green New York, transportation systems, urban politics, house and architectural styles, including New York\u2019s famous skyscrapers, historic preservation, crime and police departments, ghetto, education, urban poor, public housing, and search for affordable housing. Offered in summer only. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191NY"
+  },
+  {
+    "course_code": "SOCIOL 191O",
+    "units": 5,
+    "title": "Undergraduate Seminar: Ideals of Love in Historical Perspective",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Exploration of historically specific understandings of love. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191O"
+  },
+  {
+    "course_code": "SOCIOL 191P",
+    "units": 5,
+    "title": "Undergraduate Seminar: Politics of Reproduction",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Social and human reproduction is global policy issue. Government efforts to influence reproduction are important feature of modern state: political intervention into private life, intimacy, and sexuality. Exploration of politics of reproduction\u2014intersection between politics and life cycle or between public sphere and private lives\u2014and coverage of broad range of issues addressing prevention and promotion of reproduction from historical-comparative approach. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191P"
+  },
+  {
+    "course_code": "SOCIOL 191Q",
+    "units": 5,
+    "title": "Undergraduate Seminar: Communication in Medical Care",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Sociology dimensions of patient care in primary care context. Use of microsociological methods to examine main facets of American primary care medical visits, including detailed analysis of interactional conduct of those visits and development of microanalytical constructs into quantitative measures. Emphasis on direct contact with empirical materials and development of observational and analytic skills. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191Q"
+  },
+  {
+    "course_code": "SOCIOL 191R",
+    "units": 5,
+    "title": "Undergraduate Seminar: Cultural Sociology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Introduction to classic theoretical approaches and contemporary developments in study of social worlds dedicated to creating and handling cultural institutions such as literature, journalism, film/television, art, architecture, music, dance, and museums. Discussion of such issues as contemporary validity of distinction between high and popular/low culture, relationship of mainstream and marginal culture, how culture expresses and reinforces social inequality, organizational context of culture, and how people express and decipher meaning in cultural objects. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191R"
+  },
+  {
+    "course_code": "SOCIOL 191S",
+    "units": 5,
+    "title": "Undergraduate Seminar: Sociology of Gender and Sexuality",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Sexuality is important site for enactment of gender and gender identity. Sexual preference and sexual behavior can also form basis for social identity, repression, discrimination, and privilege, independent of gender. Social factors such as social class, ethnicity, generation, and networks shape our sexual practices and choice of partners. Reading and writing about variety of original sociological, historical, and anthropological texts and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191S"
+  },
+  {
+    "course_code": "SOCIOL 191T",
+    "units": 5,
+    "title": "Undergraduate Seminar: War and Society",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Study of relationship between society\u2019s military and its social organization in general, with particular attention to shock-based civic militarism characteristic of the West. Topics include honor, discipline, bureaucracy, conscription, logistics, total war, guerilla war, terrorism, and counterinsurgency. Reading, discussion, and development of culminating project. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191T"
+  },
+  {
+    "course_code": "SOCIOL 191V",
+    "units": 5,
+    "title": "Variable Topics Research Seminars: Sociology",
+    "description": "Seminar, three hours. Limited to juniors/seniors. Study of selected topics of sociological interest. Reading, discussion, and development of culminating project. Consult Schedule of Classes for topics and instructors. May be repeated for credit and may be applied as elective units toward Sociology major. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL191V"
+  },
+  {
+    "course_code": "SOCIOL 194",
+    "units": 2,
+    "title": "Research Group Seminars: Sociology",
+    "description": "Seminar, two hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL194"
+  },
+  {
+    "course_code": "SOCIOL M194DC",
+    "units": 4,
+    "title": "Quarter in Washington, DC, Research Seminar",
+    "description": "(Same as History M194DC and Political Science M194DC.) Seminar, three hours. Limited to Quarter in Washington students and other students enrolled in UC Washington Center programs. Seminars for undergraduate students in Center for American Politics and Public Policy\u2019s program in Washington, DC. Focus on development and execution of original empirical research based on experiences from Washington, DC-based field placements. Study of variety of qualitative methods (observation, interviewing, etc.), with comparison to quantitative analysis. Examination of features of solid and significant research; intensive writing. Letter grading.",
+    "cross_listed": [
+      "POL SCI M194DC",
+      "HIST M194DC"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM194DC"
+  },
+  {
+    "course_code": "SOCIOL 195",
+    "units": 4,
+    "title": "Community or Corporate Internships in Sociology",
+    "description": "Tutorial, three hours. Limited to juniors/seniors. Internship in community agency or business to be supervised jointly by Center for Community Learning and faculty adviser. Students meet on regular basis with instructor and provide weekly reports of their experience. Normally only 4 units of internship are allowed. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL195"
+  },
+  {
+    "course_code": "SOCIOL 195CE",
+    "units": 4,
+    "title": "Community and Corporate Internships in Sociology",
+    "description": "Tutorial, to be arranged; fieldwork, eight to 10 hours. Limited to juniors/seniors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Learning. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty sponsor and graduate student coordinator construct series of reading assignments that examine issues related to internship site. May be repeated for credit with consent of Center for Community Learning. No more than 4 units may be applied toward major; units applied must be taken for letter grade. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL195CE"
+  },
+  {
+    "course_code": "SOCIOL M195DC",
+    "units": 4,
+    "title": "Quarter in Washington, DC, Internships",
+    "description": "(Same as Community Engagement and Social Change M195DC, History M195DC, Political Science M195DC, and Public Affairs M195DC.) Tutorial, four hours. Limited to junior/senior Quarter in Washington program students. Internships in Washington, DC, through Center for American Politics and Public Policy. Students meet on regular basis with instructor and provide periodic reports of their experience. Individual contract with supervising faculty member required. P/NP grading.",
+    "cross_listed": [
+      "HIST M195DC",
+      "PUB AFF M195DC",
+      "CESC M195DC",
+      "POL SCI M195DC"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOLM195DC"
+  },
+  {
+    "course_code": "SOCIOL 198A",
+    "units": 4,
+    "title": "Honors Research in Sociology",
+    "description": "Tutorial, one hour. Requisite: course 191H. Limited to sociology honors program students. Design of research project to serve as student\u2019s honors thesis. Research proposal, detailed bibliography, and regular meetings with sponsoring faculty member required. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 191H"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL198A"
+  },
+  {
+    "course_code": "SOCIOL 198B",
+    "units": 4,
+    "title": "Honors Research in Sociology",
+    "description": "Tutorial, one hour. Requisites: courses 191H, 198A. Limited to sociology honors program students. Continuation of work initiated in course 198A. Development of honors thesis in consultation with instructor. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 191H",
+      "SOCIOL 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL198B"
+  },
+  {
+    "course_code": "SOCIOL 198C",
+    "units": 4,
+    "title": "Honors Research in Sociology",
+    "description": "Tutorial, one hour. Requisites: courses 191H, 198B. Limited to sociology honors program students. Completion of honors thesis under direct supervision of honors faculty director. May be repeated for credit. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "SOCIOL 191H",
+      "SOCIOL 198B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL198C"
+  },
+  {
+    "course_code": "SOCIOL 199",
+    "units": 2,
+    "title": "Directed Research in Sociology",
+    "description": "Tutorial, one hour. Preparation: 3.0 grade-point average in major. Requisites: course 1, and Political Science 6 or Statistics 10 or 13. Limited to junior/senior Sociology majors. Independent intensive study designed for students who want to do research under guidance of faculty mentor. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. May be repeated for maximum of 16 units, but only 8 units may be applied toward major. Individual contract required; see undergraduate counselor. P/NP or letter grading.",
+    "prerequisites": [
+      "SOCIOL 1",
+      "POL SCI 6",
+      "STATS 10",
+      "STATS 13"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL199"
+  },
+  {
+    "course_code": "SOCIOL 199A",
+    "units": 4,
+    "title": "Directed Research in Language and Social Behavior",
+    "description": "Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors. Independent intensive study designed for students who want to do research under guidance of member of Language and Social Behavior minor faculty advisory committee. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. Individual contract required; see undergraduate counselor. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL199A"
+  },
+  {
+    "course_code": "SOCIOL 199B",
+    "units": 4,
+    "title": "Directed Research in Language and Social Behavior",
+    "description": "Tutorial, one hour. Limited to junior/senior Language and Social Behavior minors. Independent intensive study designed for students who want to do research under guidance of member of Language and Social Behavior minor faculty advisory committee. Scheduled meetings to be arranged between faculty member and student. Culminating paper or project required. Individual contract required; see undergraduate counselor. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCIOL199B"
+  }
+]

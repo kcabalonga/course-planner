@@ -1,0 +1,638 @@
+[
+  {
+    "course_code": "SOC GEN 5",
+    "units": 5,
+    "title": "Integrative Approaches to Human Biology and Society",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to concept of problem-based approaches to study of biology and society and areas of concentration, such as bioethics and public science policy, evolutionary biology, culture, and behavior, historical and social studies of life sciences, medical genetics and public health, and population genetics and history, and central thematic issues shared across concentrations, such as commercialization of life and public understanding of science. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN5"
+  },
+  {
+    "course_code": "SOC GEN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN19"
+  },
+  {
+    "course_code": "SOC GEN M71A",
+    "units": 6,
+    "title": "Biotechnology and Society",
+    "description": "(Same as Clusters M71A.) Lecture, three hours; discussion, two hours. Course M71A is enforced requisite to M71B, which is enforced requisite to M71CW. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "CLUSTER M71A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM71A"
+  },
+  {
+    "course_code": "SOC GEN M71B",
+    "units": 6,
+    "title": "Biotechnology and Society",
+    "description": "(Same as Clusters M71B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M71A. Limited to first-year freshmen. Exploration of methods, applications, and implications of biotechnology and of ethical, social, and political implications as well as biological underpinnings. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "SOC GEN M71A"
+    ],
+    "cross_listed": [
+      "CLUSTER M71B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM71B"
+  },
+  {
+    "course_code": "SOC GEN M71CW",
+    "units": 6,
+    "title": "Biotechnology and Society: Special Topics",
+    "description": "(Same as Clusters M71CW.) Seminar, three hours. Enforced requisite: course M71B. Limited to first-year freshmen. Topics include in-depth examination of ethics and human genetics, bioweapons and biodefense, sex and biotechnology. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Writing II",
+      "General Education - Historical Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "SOC GEN M71B"
+    ],
+    "cross_listed": [
+      "CLUSTER M71CW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM71CW"
+  },
+  {
+    "course_code": "SOC GEN M72A",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society",
+    "description": "(Same as Communication M72A, Clusters M72A, and Sociology M72A.) Lecture, three hours; discussion, two hours. Course M72A is enforced requisite to M72B, which is enforced requisite to M72CW. Limited to first-year freshmen. Examination of many ways in which sex and sexual identity shape and are shaped by biological and social forces, approached from complementary perspectives of anthropology, biology, medicine, and sociology. Specific topics include biological origins of sex differences, intersex, gender identity, gender inequality, homosexuality, sex differences, sex/gender and law, and politics of sex research. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture",
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "cross_listed": [
+      "COMM M72A",
+      "SOCIOL M72A",
+      "CLUSTER M72A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM72A"
+  },
+  {
+    "course_code": "SOC GEN M72B",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society",
+    "description": "(Same as Communication M72B, Clusters M72B, and Sociology M72B.) Lecture, three hours; discussion, two hours. Enforced requisite: course M72A. Limited to first-year freshmen. Examination of many ways in which sex and sexual identity shape and are shaped by biological and social forces, approached from complementary perspectives of anthropology, biology, medicine, and sociology. Specific topics include biological origins of sex differences, intersex, gender identity, gender inequality, homosexuality, sex differences, sex/gender and law, and politics of sex research. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)",
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "SOC GEN M72A"
+    ],
+    "cross_listed": [
+      "COMM M72B",
+      "SOCIOL M72B",
+      "CLUSTER M72B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM72B"
+  },
+  {
+    "course_code": "SOC GEN M72CW",
+    "units": 6,
+    "title": "Sex from Biology to Gendered Society: Special Topics",
+    "description": "(Same as Communication M72CW, Clusters M72CW, and Sociology M72CW.) Seminar, three hours. Enforced requisite: course M72B. Limited to first-year freshmen. Topics may include politics of reproduction, sexuality, sexual identity, social construction of gender, and reproductive technologies. Satisfies Writing II requirement. Letter grading.",
+    "satisfies": [
+      "General Education - Historical Analysis (Society & Culture)",
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "Writing II",
+      "Diversity - Arts and Architecture",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "prerequisites": [
+      "SOC GEN M72B"
+    ],
+    "cross_listed": [
+      "CLUSTER M72CW",
+      "COMM M72CW",
+      "SOCIOL M72CW"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM72CW"
+  },
+  {
+    "course_code": "SOC GEN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN89"
+  },
+  {
+    "course_code": "SOC GEN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN89HC"
+  },
+  {
+    "course_code": "SOC GEN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN99"
+  },
+  {
+    "course_code": "SOC GEN 101",
+    "units": 5,
+    "title": "Genetic Concepts for Human Sciences",
+    "description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for Life Sciences 4. Focused treatment of selected complex genetic concepts from molecular biology, population and quantitative genetics, and evolutionary biology, with emphasis on gene-environment interaction at various levels and culminating in exploration of notion of coevolution of genetics and society. Basic science concepts presented through real-world issues and research problems. Current research on cancer, immune system and development, and how this research is performed and adds to knowledge. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN101"
+  },
+  {
+    "course_code": "SOC GEN 102",
+    "units": 5,
+    "title": "Societal and Medical Issues in Human Genetics",
+    "description": "Lecture, three hours; discussion, two hours. Sequence of entire human genome is now known. Consideration of how this knowledge impacts concepts of ourselves as individuals and of our place in biological universe, concepts of race/ethnicity and gender, ability of DNA-based forensics to identify specific individuals, ownership and commodification of genes, issues of privacy and confidentiality, issues of genetic discrimination, issues of predictive genetic testing. Discussion of human cloning for reproductive and therapeutic purposes. Exposure to medical genetics cases. Discussion of role of whole genome sequencing in clinical setting. Human Genome Project influence on medicine and on our concepts of self and identity. Letter grading.",
+    "satisfies": [
+      "General Education - Life Sciences without Lab Credit (Scientific Inquiry)",
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN102"
+  },
+  {
+    "course_code": "SOC GEN 105A",
+    "units": 4,
+    "title": "Ways of Knowing in Life and Human Sciences",
+    "description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 5 or M71A or M72A. Course 105A is not requisite to 105B. Introduction to study of epistemology to train students to recognize different ways of knowing what we know. In life and human sciences, instruments and methods are use to study, measure, and experiment. Exploration of how they are manifest in technologies that cut across disciplines to help students evaluate explanatory models, standards of proof, and qualitative versus quantitative studies. Explorations may include DNA sequencing, tissue cultures, bioinformatics, statistics, photography and cinema, charts, trees, and databases. DNA sequencing is used to study gene functions, evolutionary patterns, and disease and plays role in legal context to reconstruct aspects of human history or to trace identity of people. Databases play role in life sciences in administrative, commercial, and legal contexts. Photography is used in sciences and medicine (e.g., X-ray photography), as well as in art and forensics. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 5",
+      "SOC GEN M71A",
+      "SOC GEN M72A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN105A"
+  },
+  {
+    "course_code": "SOC GEN 105B",
+    "units": 4,
+    "title": "Problems of Identity at Biology/Society Interface",
+    "description": "Lecture, three hours; discussion, one hour. Requisites: course 101 or Anthropology 1, or Life Sciences 4 and 23L, or 7C (each may be taken concurrently). Course 105A is not requisite to 105B. Exploration of problems of human identity that are inherently biological and social. Topics vary and may include race, obesity and nutrition, autism, deafness or disability, gender, intelligence, or sexuality. Topics contain set of intertwined problems so complex, so difficult to define, and so wrapped up in conceptions of what it is to be human, that it has spawned research from variety of perspectives in biological and human sciences. Students critically engage various intellectual perspectives\u2014some competing, some complementary\u2014that intersect on one particular topic. Examination of how researchers from social/historical and biological sciences construct topic as intellectual problem, methods they bring to bear on it, and findings they have produced. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SOC GEN 101",
+      "ANTHRO 1",
+      "LIFESCI 4",
+      "LIFESCI 23L",
+      "LIFESCI 7C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN105B"
+  },
+  {
+    "course_code": "SOC GEN 108",
+    "units": 5,
+    "title": "Human Biology, Genetics, and Society",
+    "description": "Lecture, three hours; laboratory, two hours. Limited to senior Human Biology and Society majors. Lectures, readings, discussions, and development of collaborative culminating project. Group-based research projects in mapping and staging contemporary controversy at intersections of human biology, genetics, and society. Reading of large amounts of material to make sense of both scientific concepts and social and political issues, with original research project and presentation required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN108"
+  },
+  {
+    "course_code": "SOC GEN M110D",
+    "units": 4,
+    "title": "Posthumans",
+    "description": "(Same as African American Studies CM110D.) Seminar, three hours. Denaturalization of concept of human and with it uniquely western philosophical commitments that sustain imagined boundaries between human and non-human, modern and pre-modern, male and female, abled and disabled, chosen and condemned, indigenous and European, African and whiteness, religious and secular. Exploration of formation of human throughout long course of Euro-American intellectual history and its contemporary posthuman formations. Study is informed by range of theoretical work that covers meaning of modernity, liberalism, inter-species relationships, critical race theory, conceptual problems in evolutionary biology, and public health. P/NP or letter grading.",
+    "cross_listed": [
+      "AF AMER CM110D"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM110D"
+  },
+  {
+    "course_code": "SOC GEN M113",
+    "units": 2,
+    "title": "Ethical, Legal, and Societal Topics in Genetic Counseling",
+    "description": "(Same as Human Genetics CM113.) Lecture, two hours. Discussion of social, cultural, ethical, and legal issues in genetics and genetic counseling. Letter grading.",
+    "cross_listed": [
+      "HUM GEN CM113"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM113"
+  },
+  {
+    "course_code": "SOC GEN 120",
+    "units": 4,
+    "title": "Genetics and Human History",
+    "description": "Lecture, three hours. Enforced requisite: course 101 or Life Sciences 4. Advancements in genomic research have rapidly transformed traditional archaeological and historical investigations of human past. Drawing from recent research, focus on how genomic analysis has shed new light on old debates such as migration of Homo sapiens out of Africa, human interbreeding with Neanderthals, first migration to North America, ethnic expansions throughout Europe, and genetic legacy of historical figures such as Thomas Jefferson and Genghis Khan. Discussion of practical and theoretical issues surrounding genetic research on history of humans, including challenges of using ancient and modern DNA, population genetic theory, and ethical implications of genetic research for understanding ethnicity. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 101",
+      "LIFESCI 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN120"
+  },
+  {
+    "course_code": "SOC GEN 121",
+    "units": 4,
+    "title": "Race, Science, and Citizenship",
+    "description": "Seminar, three hours. Early development of scientific method and systematic exclusion of those in subordinate social groups from scientific practice. Interrogation of binaries that prop up scientific knowledge construction, and consideration of how norms and values embedded in Western science compare with indigenous or local knowledge systems. How medical research is motivated by competing assumptions of racial hierarchy and equality. Examination of governments\u2019 use of science to classify racially inferior and contaminated foreigners as threats to socionatural order. Exploration of how people use knowledge about their embodied experiences to demand rights and accept responsibility for their own health and vitality, either in opposition to or alliance with scientific experts. How contemporary developments in science and technology bring to light some central concerns of social and political theory. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN121"
+  },
+  {
+    "course_code": "SOC GEN 125",
+    "units": 4,
+    "title": "Critical Study of Health, Sickness, and Healing in Global Perspective",
+    "description": "(Formerly numbered 85.) Lecture, three hours; discussion, one hour. Introduction to sociocultural, historical, and global study of health and sickness. Use of case studies of globally important infectious and chronic diseases (diabetes, Ebola, HIV/AIDS) to analyze factors, including key dimensions of diversity (class, gender, urban/rural development) that influence how populations variably encounter, experience, understand, and cope with sickness. Special focus on relationships between Western medicine and traditional and alternative approaches to healing. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN125"
+  },
+  {
+    "course_code": "SOC GEN M126",
+    "units": 4,
+    "title": "Genes, Disease, and Culture",
+    "description": "(Same as Anthropology M126N.) Lecture, three hours; discussion, one hour (when scheduled). Introduction to genes, disease, and culture. Introduction to basic concepts in human genetics, expanding upon evolutionary genetic concepts learned in Anthropology 1, and survey of both inherited and infectious disease on global level. Wide range of topics include gene-culture co-evolution, niche construction theory, cultural perceptions of disease, cultural selection, biological and environmental determinism, and evolutionary origins of disease. Course is broken down into genes and genomes, Mendelian disease, complex disease, and infectious disease. Discussion of selected readings that integrate cultural perceptions with biological/genetic phenomena. P/NP or letter grading.",
+    "cross_listed": [
+      "ANTHRO M126N"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM126"
+  },
+  {
+    "course_code": "SOC GEN 130",
+    "units": 4,
+    "title": "Biotechnology and Society",
+    "description": "Lecture, three hours. Technical manipulation of living matter from humans, animals, and plants as scientific and social undertaking. How biotechnology came into existence. Questions, controversies, and changes that come with ability to make living technologies. Rise of engineering ideal in American biology. Biological modernism, ideas of immortality and technical suppression of death, molecularization of life, genetic engineering, food biotechnology, and control of reproduction. Practice and perception of living bodies as factories and machines. Changing economic and legal infrastructure of biological invention. Unfolding of contemporary social controversies concerning biotechnology. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN130"
+  },
+  {
+    "course_code": "SOC GEN 131",
+    "units": 4,
+    "title": "Data, Artificial Intelligence, and Algorithms in the Biosciences",
+    "description": "Lecture, three hours; discussion, one hour. Introduction to historical, ethical, and political aspects of data, artificial intelligence, and information in the biosciences. How data are produced, analyzed, and used in the biological and medical domains. How artificial intelligence (AI) or machine learning is being deployed in contemporary biosciences. Students learn to think at a high level about the values and goals of data, AI, and information practices; the political economy of data and AI; and some concrete details and practical limitations of these approaches. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN131"
+  },
+  {
+    "course_code": "SOC GEN M132",
+    "units": 5,
+    "title": "Food Cultures and Food Politics",
+    "description": "(Same as English M118F and Food Studies M132.) Lecture, four hours; discussion, one hour (when scheduled). Requisite: English Composition 3. Introduction to interdisciplinary field of food studies, with focus on how literature, art, science writing, and visual culture address political dimensions of food and agriculture in specific contexts. P/NP or letter grading.",
+    "prerequisites": [
+      "ENGCOMP 3"
+    ],
+    "cross_listed": [
+      "ENGL M118F",
+      "FOOD ST M132"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM132"
+  },
+  {
+    "course_code": "SOC GEN M133",
+    "units": 4,
+    "title": "Environmental Sociology",
+    "description": "(Same as Environment M133 and Sociology M115.) Lecture, three hours; discussion, one hour. Relationship between society and environment. Analysis in detail of interrelations between social factors (such as class, race, gender, and religion) and environmental factors (such as pollution, waste disposal, sustainability, and global warming). P/NP or letter grading.",
+    "cross_listed": [
+      "SOCIOL M115",
+      "ENVIRON M133"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM133"
+  },
+  {
+    "course_code": "SOC GEN 134",
+    "units": 4,
+    "title": "Food and Health in Global Perspective",
+    "description": "Lecture, three hours. Study problematizes and adds depth to common-sense understandings of healthy and unhealthy consumption by examination of relationship between food and health, from critical and holistic perspective, that accounts for interplay of biology and culture within broader historical, societal, and global contexts. Topics include what is meant by health, especially in terms of diet; relationship between food practices and evolutionary biology, as well as particular environments of societies, cultural systems, histories, and their health implications; how major global foods have come to their dominance and consequences for health; and influences of food production, distribution, and preparation on health. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN134"
+  },
+  {
+    "course_code": "SOC GEN M136",
+    "units": 4,
+    "title": "Eating Society: Science and Politics of Food from Individual to Planetary Health",
+    "description": "(Same as Food Studies M136 and Sociology M136.) Lecture, three hours; discussion, one hour. Questions of food and health are both individual and social. Students gain tools for understanding relationships between individual eaters, medicine, and social organization of food production and processing through set of research frameworks newly emergent in range of social and health sciences. Topics include individual and social ramifications of microbiome science; understanding how human gut microbes and health are shaped by pasteurization, processing, and food safety practices; One Health approaches that encompass human and animal health, discussing examples such as antibiotic resistance and emerging infectious disease as effects of large-scale agriculture; planetary health frameworks that link individual human metabolic health to issues of sustainable agriculture, for example how pesticides and fertilizers tie diets to environments; and resilience of cultural food systems in face of environmental pollution as issue of reproductive health. Letter grading.",
+    "cross_listed": [
+      "SOCIOL M136",
+      "FOOD ST M136"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM136"
+  },
+  {
+    "course_code": "SOC GEN 141",
+    "units": 4,
+    "title": "Nature versus Nurture: Genes and Environment",
+    "description": "Seminar, three hours. Comprehensive and practical examination of emerging science of gene-environment interaction. Discussion of primary components of field, including role of metabolic pathways in modifying environmental responses and importance of environmental influences in human disease. Exploration of selected hot topics in field such as importance of epigenetics and of microbiome. Course is highly useful for further study in medical field or public health. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN141"
+  },
+  {
+    "course_code": "SOC GEN M142",
+    "units": 4,
+    "title": "Primate Genetics, Ecology, and Conservation",
+    "description": "(Same as Anthropology M128S.) Seminar, three hours. Focus on genetic research on wild primates at different geographic scales, using readings from primary literature on primate genetics, ecology, and behavior. Study of paternity and kinship, intrapopulational variation, population genetics, biogeography, systematics, phylogenetics/phylogenomics and comparative genomics. Utility and appropriateness of various markers considered for different research questions, e.g., mitochondrial DNA, microsatellites, nuclear genes, Y-chromosome, as well as GWAS and genomic/next generation sequencing platforms, and epigenetic markers. Discussion of methods in fieldwork and lab work, including sampling techniques, collection techniques, wet lab techniques, software analysis packages, and statistical analyses. Introductory-level understanding of genetics expected; study further illuminates areas in molecular biology relevant to case studies analyzed. Letter grading.",
+    "cross_listed": [
+      "ANTHRO M128S"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM142"
+  },
+  {
+    "course_code": "SOC GEN M143",
+    "units": 4,
+    "title": "Amazon in Anthropocene",
+    "description": "(Same as Anthropology M128T.) Seminar, three hours. Consideration of major issues faced in Amazon region today using lenses of biology, geography, biological anthropology, primatology, cultural anthropology/ethnography, history, comparative literature, film studies, political science, and environmental science. Analysis of Amazon paleogeography and ecology over time to highlight charismatic species, biodiversity, and habitat types. Focus on human migration into Amazon, diversity of indigenous groups today, and historic/present interactions with environment. Study of European expeditions that carved out political boundaries within Amazon. Study of historic/current effects of human economy and land use on ecology. Exploration of changing power dynamics, inequity, and (un)sustainability of different cultural practices and technologies. Topics include rubber boom, indigenous resistance to oil exploration, hydroelectric dams and clean energy, deforestation arc, and international land grabs for soy plantations. Highlights value of different kinds of knowledge and expertise for interdisciplinary solutions for current crises in Amazon. Letter grading.",
+    "cross_listed": [
+      "ANTHRO M128T"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM143"
+  },
+  {
+    "course_code": "SOC GEN M144",
+    "units": 4,
+    "title": "Stress and Society: Biology and Inequality",
+    "description": "(Same as Sociology M144.) Lecture, three hours; discussion, one hour. Integrative view of health disparities, one of most pressing problems of society, through investigation of effects of socioeconomic status (SES) on health and disease, using specific lens of stress biology. Topics include introduction to fundamentals of physiology of stress, integration of literature on poverty and SES with studies on physiological consequences of poverty, and introduction of concepts of life course by following stress biology through childhood development and into adulthood. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "cross_listed": [
+      "SOCIOL M144"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM144"
+  },
+  {
+    "course_code": "SOC GEN 146",
+    "units": 4,
+    "title": "Evolution in Anthropocene",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisites: Life Sciences 7A, 7B, 7C. Study of evolution across world and tree of life that is being altered at incredible pace by humans. Exploration of incredible stories of surprising, amazing, sometimes heart-breaking ways humans are changing life, and how these things alter human culture, fashion trends, and history. Exploration of footprint that humans are leaving on other species, and astounding ways they have altered their evolutionary course to keep pace. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 7A",
+      "LIFESCI 7B",
+      "LIFESCI 7C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN146"
+  },
+  {
+    "course_code": "SOC GEN 150XP",
+    "units": 4,
+    "title": "Science, Mass Incarceration, and Accountability",
+    "description": "Lecture, three hours; discussion, one hour. Analysis of historical legacies of incarceration and its many intersections with science, and how incarceration exacerbates inequities within health and longevity. Learning about the ways that science has advanced or profited off mass incarceration and working with community partners are fundamental steps towards rebuilding the relationship between science and public safety and accountability. Incorporates community engagement, guest speakers, and laboratory-style meetings. Students pivot from acting as individuals to working as part of a team to make small and humble steps towards bending the arc of history away from structural racism and towards more robust systems of accountability. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN150XP"
+  },
+  {
+    "course_code": "SOC GEN M157",
+    "units": 4,
+    "title": "Biology of Superheroes: Exploring Limits of Form and Function",
+    "description": "(Same as Ecology and Evolutionary Biology M157.) Lecture, four hours; discussion, one hour. Requisites: Life Sciences 1 and 4, or 7A and 7B. Combines topics posed in popular graphic novels, movies, and television with primary scientific literature to explore bizarre phenomena in natural world and delve into basic scientific theory and principles. Topics covered include evolution, genetics, physiology, biomechanics, brain-machine interfacing, and artificial intelligence among others. Students synthesize primary literature on diverse subjects presented. Letter grading.",
+    "prerequisites": [
+      "LIFESCI 1",
+      "LIFESCI 4",
+      "LIFESCI 7A",
+      "LIFESCI 7B"
+    ],
+    "cross_listed": [
+      "EE BIOL M157"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM157"
+  },
+  {
+    "course_code": "SOC GEN 160",
+    "units": 4,
+    "title": "Politics of Heredity",
+    "description": "Seminar, three hours. Exploration of intersection of politics and genetics in liberal democracies and totalitarian regimes. How genetics has been used to consolidate and undermine political authority, and how political authority has been employed to both promote and restrict genetics. Consideration of several historical episodes such as rise to power in Soviet Union of T.D. Lysenko, peasant agronomist who rejected Mendelism in favor of quasi-Lamarckian approach to genetics; participation of geneticists in creation of racial state in Nazi Germany; and debates over compulsory sterilization of mental defectives in U.S., Canada, and Europe from 1920s to 1940s. Contemporary cases such as controversies over genetically modified foods and regulation and governance of reprogenetic technologies, and rise of disease advocacy groups as important players in determining funding and direction of genetic research. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN160"
+  },
+  {
+    "course_code": "SOC GEN 161",
+    "units": 4,
+    "title": "Controversy and Behavior Genetics",
+    "description": "Seminar, three hours. Behavior genetics is controversial and seeks genetic links to intelligence, personality, mental illness, and criminality, among many other traits. It explores differences between individuals, men and women, or racial groups, and what social policies might do about those differences. Analysis of causes and effects of controversy in behavior genetics using critical sociology and history. Consideration of scientific disputes between behavior geneticists and their critics, distinctive history and social organization of behavior genetics as group of scientists, and public reception of behavior genetics and disputes about its social and policy implications. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN161"
+  },
+  {
+    "course_code": "SOC GEN 162",
+    "units": 4,
+    "title": "Biotechnologies, Law, and Body",
+    "description": "Seminar, three hours. Notions of bodily integrity, privacy, right to life, and to choose to die have created perception that our bodies are protected by law, that somehow we possess ownership and control over our bodies, encompassing not only our physical being but intangible information contained within our materialized forms. Question of whether these rights to our own bodies exist and are secured by common and Constitutional law, in light of recent developments in biotechnology. Introduction to political and legal discourse of rights. Historical perspective of how law and policy have treated our bodies. Legal and policy issues emerging from new biotechnological developments. Examination of reproductive issues, including abortion, assisted reproduction, disputes regarding disposition of embryos, preimplantation genetic testing, cloning, and genetic enhancements. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN162"
+  },
+  {
+    "course_code": "SOC GEN 163",
+    "units": 4,
+    "title": "Science and Popular Movements: Controversy, Conflict, and Collaboration",
+    "description": "Seminar, three hours. Historical and philosophical analysis of myth of separation of science and people. Controversies in genetics and biotechnology, medical research, and environmentalism show examples of popular science where scientists and nonscientists interact in surprising ways: when nonscientists challenge scientists\u2019 authority and knowledge, where scientists act like social movement. and where scientists and regular people work together, sometimes cooperatively and sometimes competitively, to generate knowledge. Consideration of some implications and contradictions for politics and knowledge production that emerge from popular science. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN163"
+  },
+  {
+    "course_code": "SOC GEN 164",
+    "units": 4,
+    "title": "Ethics in Health and Research",
+    "description": "Lecture, three hours. Recommended requisite: course 102. How should life-saving organs be allocated in context of scarcity? What happens when doctor disagrees with patient on best treatment? Should researchers be allowed to experiment on human beings? Although medicine has always been faced with life-or-death decisions, new challenges arise in light of dramatic advances of biomedicine in 21st century. New possibilities for cures come with new moral issues. Biomedical research is full of promises, yet faces many ethical difficulties. Examination of complexity of decision making in bioethics by articulating point of views of all actors engaged in those decisions at local and international levels?doctors, nurses, patients, families, health policymakers, researchers, and citizens. Focus on case studies with reliance on philosophical essays and material from contemporary media. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SOC GEN 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN164"
+  },
+  {
+    "course_code": "SOC GEN 165",
+    "units": 4,
+    "title": "Introduction to Bioethics",
+    "description": "Lecture, three hours. Should one be allowed to choose sex of babies or whether they will be tall enough to be next basketball star? Should terminally ill be helped to die? Do human embryos have moral status? Examples of ethical questions that arise in light of dramatic advances of biomedicine in 21st century. While new knowledge and biotechnology give rise to great possibilities for improving care and finding cures, they also create new moral dilemmas and challenge us to redefine what is good life or family. Introduction to field of bioethics, with focus on case studies that rely on contemporary essays in philosophy and material from contemporary media. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN165"
+  },
+  {
+    "course_code": "SOC GEN M166",
+    "units": 4,
+    "title": "Health-Care Ethics",
+    "description": "(Same as Disability Studies M166.) Lecture, three hours; discussion, one hour. Consideration of critical ethical concepts as they apply to health-care practice, medical decision-making, and medical technology development and use. Consideration of concepts drawn from philosophy, literature and culture, and political history including freedom, equality, justice, vitality, knowledge, kinship, mercy, illness, and disability. Examination of how concept of human dignity should shape health-care decisions such as physician-aided dying or selective abortion; proper relationship between history and concept of human rights and distribution of medical resources; how political and ethical category equality should structure development and use of genetic editing; how health-care concept of patient autonomy relates to political concept of liberty or freedom; how to evaluate good life, or what philosophers call flourishing, in medical treatment decisions for individuals or development of therapies. P/NP or letter grading.",
+    "cross_listed": [
+      "DIS STD M166"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM166"
+  },
+  {
+    "course_code": "SOC GEN 174",
+    "units": 4,
+    "title": "What's Wrong with Science?",
+    "description": "Lecture, three hours; discussion, one hour. Recommended requisite: course 105A. Exploration of tangled issues linking science to contemporary post truth crisis. Drawing on ideas and frameworks from sociology, philosophy, anthropology, political psychology, and science and technology studies, consideration of range of materials including theoretical and empirical academic texts as well as commentaries and documents speaking to current events. Consideration of demarcation of science from pseudoscience, conditions turning scientific disagreement into public controversy, science\u2019s relationship to different publics and political cultures, crises of trust in contemporary science and efforts to reconstruct scientific integrity, and weaponization of science and pseudoscience in misinformation campaigns and conspiracy theories. Through engaging these complex matters, students become better armed to understand and advance productive relationships between science and political life. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 105A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN174"
+  },
+  {
+    "course_code": "SOC GEN 175",
+    "units": 4,
+    "title": "Current Directions in Social and Historical Study of Science",
+    "description": "Seminar, three hours. Preparation: some familiarity with field of science and technology studies. Investigation of recent work in history and social study of science and technology, with special emphasis on recent developments, possible future directions, and questions of disciplinarity and interdisciplinarity. Topics may include histories of recent and emerging science; biocapital, biocitizenship, biosecurity, and/or biopolitics; social and historical approaches to finance and money; and social and historical approaches to risk, preparedness, and safety. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN175"
+  },
+  {
+    "course_code": "SOC GEN 180",
+    "units": 4,
+    "title": "Special Courses in Society and Genetics",
+    "description": "Lecture, three hours. Departmentally sponsored experimental or temporary courses on selected topics, such as those taught by visiting faculty members. May be repeated for credit with topic change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN180"
+  },
+  {
+    "course_code": "SOC GEN M183",
+    "units": 5,
+    "title": "Being Human: Identity and Mental Illness",
+    "description": "(Same as Disability Studies M183 and Honors Collegium M183.) Seminar, three hours. Exploration of relationship between identity and mental illness through different approaches to nature and treatment of mental disorder, from biomedical accounts of brain-based pathology (and identity) to Mad Pride movement emphasis on mental diversity. Enduring philosophical questions regarding personal identity, consciousness, selfhood and mind-body relationship are investigated through consideration of conditions such as dissociative identity disorder, trauma, psychosis, autism, and depression. P/NP or letter grading.",
+    "cross_listed": [
+      "HNRS M183",
+      "DIS STD M183"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGENM183"
+  },
+  {
+    "course_code": "SOC GEN 188",
+    "units": 4,
+    "title": "Special Courses in Society and Genetics",
+    "description": "Seminar, three hours. Departmentally sponsored experimental or temporary courses on selected topics, such as those taught by visiting faculty members. May be repeated for credit with topic change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN188"
+  },
+  {
+    "course_code": "SOC GEN 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN188SA"
+  },
+  {
+    "course_code": "SOC GEN 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN188SB"
+  },
+  {
+    "course_code": "SOC GEN 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN188SC"
+  },
+  {
+    "course_code": "SOC GEN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN189"
+  },
+  {
+    "course_code": "SOC GEN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN189HC"
+  },
+  {
+    "course_code": "SOC GEN 190",
+    "units": 1,
+    "title": "Research Colloquia in Society and Genetics",
+    "description": "Seminar, one hour. Limited to juniors/seniors. Designed to bring together advanced undergraduate students undertaking faculty-supervised tutorial research to discuss their own work or related work in society and genetics. May be repeated once for credit with topic change. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN190"
+  },
+  {
+    "course_code": "SOC GEN 191",
+    "units": 5,
+    "title": "Variable Topics Research Seminars: Perspectives in Society and Genetics",
+    "description": "Seminar, three hours. Enforced requisites: courses 101 (or Life Sciences 4), M102. Discussion of genetics and society from historical perspective. How science of genetics itself is deeply social. Study of how biologists and anthropologists have conceptualized relations of genes and (social) environment. Reading of accounts of human nature, human flourishing, and dignity that seem to privilege nature as something that can guide ethical thought and action. How these accounts would encourage or discourage people from manipulating their genetic inheritance. Consideration of what is new in new genetics. Current discussions of promise and peril of genetics in relation to society. Culminating paper required. May be repeated once for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 101",
+      "LIFESCI 4",
+      "LIFESCI M102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN191"
+  },
+  {
+    "course_code": "SOC GEN 191R",
+    "units": 5,
+    "title": "Capstone Seminar: Human Biology and Society",
+    "description": "Seminar, three hours. Enforced requisites: courses 105A, 105B. Students bring their accumulated interdisciplinary knowledge and methodological tools to bear on one contemporary problem at intersection of biology and society. Student peers, whose major studies fall within different concentrations, share and learn from each others\u2019 multiple perspectives while working together on one topic presented in class. Topics vary and come from major concentrations. Culminating project is team writing assignment, such as grant proposal, report to Congress on contemporary issue, or business plan for new kind of company or nonprofit firm addressing issues in human biology and society. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 105A",
+      "SOC GEN 105B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN191R"
+  },
+  {
+    "course_code": "SOC GEN 191S",
+    "units": 5,
+    "title": "Capstone Seminar: Society and Genetics",
+    "description": "Seminar, three hours. Enforced requisites: courses 101 (or Life Sciences 4), M102. Discussion of genetics and society from historical perspective. How science of genetics itself is deeply social. Study of how biologists and anthropologists have conceptualized relations of genes and (social) environment. Reading of accounts of human nature, human flourishing, and dignity that seem to privilege nature as something that can guide ethical thought and action. How these accounts would encourage or discourage people from manipulating their genetic inheritance. Consideration of what is new in new genetics. Current discussions of promise and peril of genetics in relation to society. Culminating paper required. May be repeated once for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "SOC GEN 101",
+      "LIFESCI 4",
+      "LIFESCI M102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN191S"
+  },
+  {
+    "course_code": "SOC GEN 193",
+    "units": 1,
+    "title": "Journal Club Seminars: Society and Genetics",
+    "description": "Seminar, one hour. Limited to undergraduate students. Discussion of topics related to guest speaker series. May be repeated for credit. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN193"
+  },
+  {
+    "course_code": "SOC GEN 195CE",
+    "units": 4,
+    "title": "Community and Corporate Internships in Society and Genetics",
+    "description": "Tutorial, to be arranged; fieldwork, eight to 10 hours. Limited to juniors/seniors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Learning. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty sponsor and graduate student coordinator construct series of reading assignments that examine issues related to internship site. May be repeated for credit with consent of Center for Community Learning. Individual contract with supervising faculty member required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN195CE"
+  },
+  {
+    "course_code": "SOC GEN 196",
+    "units": 2,
+    "title": "Research Apprenticeship in Society and Genetics",
+    "description": "Tutorial, six hours. Limited to juniors/seniors. Entry-level research opportunities in society and genetics under guidance of faculty mentor. May be repeated for maximum of 4 units. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN196"
+  },
+  {
+    "course_code": "SOC GEN 197",
+    "units": 2,
+    "title": "Individual Studies in Society and Genetics",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned readings and tangible evidence of mastery of subject matter (paper or other product) required. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN197"
+  },
+  {
+    "course_code": "SOC GEN 199",
+    "units": 2,
+    "title": "Directed Research in Society and Genetics",
+    "description": "Tutorial, six to 12 hours. Preparation: submission of written proposal outlining study or research to be undertaken due to undergraduate adviser for department approval. Studies to involve laboratory research, not primarily literature surveys or library research. Proposal to be developed in consultation with instructor. Limited to juniors/seniors. Department majors may enroll with sponsorship from department faculty members or preapproved outside faculty members. Other juniors/seniors may enroll only with department faculty sponsors. Supervised individual research under guidance of faculty mentor. At end of term culminating paper describing progress of project and signed by student and instructor must be presented to department. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCGEN199"
+  }
+]

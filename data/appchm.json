@@ -1,0 +1,23 @@
+[
+  {
+    "course_code": "APP CHM C102",
+    "units": 4,
+    "title": "Data Management in Science",
+    "description": "Lecture, four hours. Trains students for different aspects of data management in science. Topics include introduction and application of statistical tests, using Python to help sort data, and brief explanation of machine learning and its role in data analysis. With real-life examples and interactive in-class discussions, students are equipped with necessary data-management skills in both academic and industrial settings. Concurrently scheduled with course C202. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC102"
+  },
+  {
+    "course_code": "APP CHM C106",
+    "units": 4,
+    "title": "Medicinal Chemistry and Drug Discovery",
+    "description": "Lecture, four hours. Provides students with knowledge of the drug discovery process. The range of topics gives key insight into the development of pharmaceuticals in the modern world, using relevant case-studies to demonstrate real-world applications of fundamentals. Students are required to have an appreciation of the synthetic methods. Concurrently scheduled with course C206. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC106"
+  },
+  {
+    "course_code": "APP CHM C107",
+    "units": 4,
+    "title": "Advanced Functional Materials",
+    "description": "Lecture, four hours. Examination of synthesis of polymeric materials and their characterization, and basics of 3D printing. Students complete a 3D printing project, in which they select a structure of an existing polymerization catalyst and learn basic CAD skills to transform it into a 3D printed object. Includes literature presentations on current scientific articles. Concurrently scheduled with course C207. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/APPCHMC107"
+  }
+]

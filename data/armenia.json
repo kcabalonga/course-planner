@@ -1,0 +1,404 @@
+[
+  {
+    "course_code": "ARMENIA 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA19"
+  },
+  {
+    "course_code": "ARMENIA 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA89"
+  },
+  {
+    "course_code": "ARMENIA 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA89HC"
+  },
+  {
+    "course_code": "ARMENIA 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA99"
+  },
+  {
+    "course_code": "ARMENIA 101A",
+    "units": 5,
+    "title": "Elementary Modern Western Armenian",
+    "description": "Lecture, five hours. Course 101A is recommended requisite to 101B, which is recommended requisite to 101C. Students with knowledge of Armenian should contact instructor to determine appropriate enrollment level. Armenian grammar, conversation, and exercises. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101A"
+  },
+  {
+    "course_code": "ARMENIA 101B",
+    "units": 5,
+    "title": "Elementary Modern Western Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 101A. Students with knowledge of Armenian should contact instructor to determine appropriate enrollment level. Armenian grammar, conversation, and exercises. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ARMENIA 101A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101B"
+  },
+  {
+    "course_code": "ARMENIA 101C",
+    "units": 5,
+    "title": "Elementary Modern Western Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 101B. Students with knowledge of Armenian should contact instructor to determine appropriate enrollment level. Armenian grammar, conversation, and exercises. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ARMENIA 101B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA101C"
+  },
+  {
+    "course_code": "ARMENIA 102A",
+    "units": 5,
+    "title": "Intermediate Modern Western Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 1C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Reading of selected texts, composition, and conversation. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102A"
+  },
+  {
+    "course_code": "ARMENIA 102B",
+    "units": 5,
+    "title": "Intermediate Modern Western Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 1C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Reading of selected texts, composition, and conversation. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102B"
+  },
+  {
+    "course_code": "ARMENIA 102C",
+    "units": 5,
+    "title": "Intermediate Modern Western Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 1C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Reading of selected texts, composition, and conversation. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA102C"
+  },
+  {
+    "course_code": "ARMENIA 103A",
+    "units": 4,
+    "title": "Advanced Modern Western Armenian",
+    "description": "Lecture, four hours. Recommended requisite: course 102C. Course 103A is recommended requisite to 103B, which is recommended requisite to 103C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Exploration of advanced Western Armenian in following areas of competency: fluency, literacy, accuracy, and proficiency. Use of language to engage literary themes and cultural issues of historical and contemporary significance for Armenian speakers. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103A"
+  },
+  {
+    "course_code": "ARMENIA 103B",
+    "units": 4,
+    "title": "Advanced Modern Western Armenian",
+    "description": "Lecture, four hours. Recommended requisite: course 103A. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Exploration of advanced Western Armenian in following areas of competency: fluency, literacy, accuracy, and proficiency. Use of language to engage literary themes and cultural issues of historical and contemporary significance for Armenian speakers. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 103A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103B"
+  },
+  {
+    "course_code": "ARMENIA 103C",
+    "units": 4,
+    "title": "Advanced Modern Western Armenian",
+    "description": "Lecture, four hours. Recommended requisite: course 103B. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Exploration of advanced Western Armenian in following areas of competency: fluency, literacy, accuracy, and proficiency. Use of language to engage literary themes and cultural issues of historical and contemporary significance for Armenian speakers. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 103B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA103C"
+  },
+  {
+    "course_code": "ARMENIA 104A",
+    "units": 5,
+    "title": "Elementary Modern Eastern Armenian",
+    "description": "Lecture, five hours. Course 104A is recommended requisite to 104B, which is recommended requisite to 104C. Students with knowledge of Western Armenian should contact instructor to determine appropriate enrollment level. Designed for students with little or no prior knowledge of Eastern Armenian, official idiom of Republic of Armenia. Introduction to basics of grammar and conversation. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104A"
+  },
+  {
+    "course_code": "ARMENIA 104B",
+    "units": 5,
+    "title": "Elementary Modern Eastern Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 104A. Students with knowledge of Western Armenian should contact instructor to determine appropriate enrollment level. Designed for students with little or no prior knowledge of Eastern Armenian, official idiom of Republic of Armenia. Introduction to basics of grammar and conversation. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "ARMENIA 104A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104B"
+  },
+  {
+    "course_code": "ARMENIA 104C",
+    "units": 5,
+    "title": "Elementary Modern Eastern Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 104B. Students with knowledge of Western Armenian should contact instructor to determine appropriate enrollment level. Designed for students with little or no prior knowledge of Eastern Armenian, official idiom of Republic of Armenia. Introduction to basics of grammar and conversation. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "ARMENIA 104B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA104C"
+  },
+  {
+    "course_code": "ARMENIA 105A",
+    "units": 5,
+    "title": "Intermediate Modern Eastern Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 4C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Continuing introduction to Armenian grammar, with greater attention to readings from short stories and simple newspaper articles and film viewing on video. Emphasis on improving students\u2019 self expression in idiom, both orally and in written form. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105A"
+  },
+  {
+    "course_code": "ARMENIA 105B",
+    "units": 5,
+    "title": "Intermediate Modern Eastern Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 4C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Continuing introduction to Armenian grammar, with greater attention to readings from short stories and simple newspaper articles and film viewing on video. Emphasis on improving students\u2019 self expression in idiom, both orally and in written form. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105B"
+  },
+  {
+    "course_code": "ARMENIA 105C",
+    "units": 5,
+    "title": "Intermediate Modern Eastern Armenian",
+    "description": "Lecture, five hours. Recommended requisite: course 4C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Continuing introduction to Armenian grammar, with greater attention to readings from short stories and simple newspaper articles and film viewing on video. Emphasis on improving students\u2019 self expression in idiom, both orally and in written form. May be taken independently for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA105C"
+  },
+  {
+    "course_code": "ARMENIA 106A",
+    "units": 4,
+    "title": "Armenian Society and Culture",
+    "description": "Lecture, four hours. Recommended requisite: course 105C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Discussion of contemporary Armenian social and cultural issues through readings from critical essays, editorials, short stories, and poems written since World War II and film showings. Emphasis on enhancing students\u2019 self expression orally and in written form. Each course may be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106A"
+  },
+  {
+    "course_code": "ARMENIA 106B",
+    "units": 4,
+    "title": "Armenian Society and Culture",
+    "description": "Lecture, four hours. Recommended requisite: course 105C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Discussion of contemporary Armenian social and cultural issues through readings from critical essays, editorials, short stories, and poems written since World War II and film showings. Emphasis on enhancing students\u2019 self expression orally and in written form. Each course may be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106B"
+  },
+  {
+    "course_code": "ARMENIA 106C",
+    "units": 4,
+    "title": "Armenian Society and Culture",
+    "description": "Lecture, four hours. Recommended requisite: course 105C. Students with knowledge of Eastern or Western Armenian (from elementary or high school) should contact instructor to determine appropriate enrollment level. Designed for students with advanced speaking fluency and reading abilities in Armenian. Discussion of contemporary Armenian social and cultural issues through readings from critical essays, editorials, short stories, and poems written since World War II and film showings. Emphasis on enhancing students\u2019 self expression orally and in written form. Each course may be taken independently for credit. Letter grading.",
+    "prerequisites": [
+      "ARMENIA 105C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA106C"
+  },
+  {
+    "course_code": "ARMENIA 110",
+    "units": 4,
+    "title": "History of Armenian Language",
+    "description": "Lecture, three hours. Requisite: course 1C or 4C. Exploration of history of Armenian language as reflected in literature created in Armenian throughout written period (5th through 20th centuries). Use of top-down approach beginning with modern state of Armenian language in its two standard versions (Western and Eastern), then retracing of historical development through formation of New Armenian (17th century), Middle Armenian (17th through 12th centuries), and earliest attested form, Grabar, literary version of ancient Armenian (11th through 5th centuries). Discussion of attempts at reconstructing major features of Armenian phonology and morphology in preliterary period. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C",
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA110"
+  },
+  {
+    "course_code": "ARMENIA 120",
+    "units": 4,
+    "title": "Language in Diaspora: Armenian as a Heritage Language",
+    "description": "Lecture, three hours. Comprehensive examination of status of Armenian as heritage language in diasporic context. Introduction to diaspora, particularly in Armenian context, and to heritage languages and heritage learners. Review of development of modern standards of Armenian (Eastern and Western) and special circumstances for each variety in order to position Armenian on sociolinguistic map of heritage languages. Exploration of issues such as linguistic features of heritage speakers, patterns and domains of language use, psychological restraints (i.e., anxiety, fear, etc.) connected with speaking heritage languages, language attitudes with ideologies, and role of language in Armenian identity construction. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA120"
+  },
+  {
+    "course_code": "ARMENIA 130",
+    "units": 4,
+    "title": "Armenian Civilization under Bagratid Dynasty, 884 to 1064",
+    "description": "Lecture, four hours. Interdisciplinary investigation of interface between sociopolitical and economic factors in creation of works of art (literature, art, architecture, etc.) and social function these works performed in this important period of Armenian history. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA130"
+  },
+  {
+    "course_code": "ARMENIA 131",
+    "units": 4,
+    "title": "Armenian Civilization in Cilician Period, 1080 to 1375",
+    "description": "Lecture, four hours. Interdisciplinary investigation of rise and fall of unique form of Armenian polity established outside homeland and examination of degree to which its social structure and cultural and aesthetic norms were impacted by those of West (Byzantium, Western Europe) and East (Crusader states, Seljuqs, Mamluks, Mongols). Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA131"
+  },
+  {
+    "course_code": "ARMENIA M134",
+    "units": 4,
+    "title": "Introduction to Armenian Music",
+    "description": "(Same as Ethnomusicology M134 and Music M134.) Lecture, three hours. Some amount of formal music study and experience as vocalist or instrumentalist desirable but not essential. Introduction to history, tradition, and scope of music of Armenia. Focus on number of different genres and approaches, and interactions between music and culture, society, and history. P/NP or letter grading.",
+    "cross_listed": [
+      "MUSC M134",
+      "ETHNMUS M134"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM134"
+  },
+  {
+    "course_code": "ARMENIA 150A",
+    "units": 4,
+    "title": "Survey of Armenian Literature in English",
+    "description": "Lecture, three hours. Knowledge of Armenian not required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA150A"
+  },
+  {
+    "course_code": "ARMENIA C151",
+    "units": 4,
+    "title": "Armenian Literature and Canon Formation",
+    "description": "Lecture, four hours. Discussion of fundamental themes and genres around which Armenian literary tradition evolved and modalities by which this has been transformed in course of last two centuries as result of exposure to European thought and expressive forms. Concurrently scheduled with course C251. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC151"
+  },
+  {
+    "course_code": "ARMENIA C152",
+    "units": 4,
+    "title": "Modern Armenian Drama as Vehicle for Social Critique",
+    "description": "Lecture, four hours. Readings of selected plays from 1668 to 1992 from three main genres of tragedy, comedy, and serious drama and featuring works by most significant Armenian playwrights, with focus on their role as commentators on contemporary mores and as agents for social reform. Concurrently scheduled with course C252. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC152"
+  },
+  {
+    "course_code": "ARMENIA C153",
+    "units": 4,
+    "title": "Art, Politics, and Nationalism in Modern Armenian Literature",
+    "description": "Lecture, four hours. Examination of role of literature in modern Armenian society in service to cause or causes, as propaganda for various ideologies, as art for art\u2019s sake, etc. Exploration of contrasting aesthetics implicit in these differing interpretations. Concurrently scheduled with course C253. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC153"
+  },
+  {
+    "course_code": "ARMENIA C155",
+    "units": 4,
+    "title": "Issues in Armenian American Literature and Culture",
+    "description": "Lecture, four hours. Preparation: reading knowledge of modern Eastern and Western Armenian. Theoretically informed exploration of some of most salient questions related to Armenian American community as reflected in its literature and other cultural artifacts in interaction with its pluralistic American ambience. Concurrently scheduled with course C255. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC155"
+  },
+  {
+    "course_code": "ARMENIA 160A",
+    "units": 4,
+    "title": "Armenian Literature of 19th and 20th Centuries",
+    "description": "Lecture, three hours. Requisites: courses 102A, 102B, 102C. Reading of texts and discussion of various genres of modern Armenian literature within context of Armenian cultural renaissance. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 102A",
+      "ARMENIA 102B",
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA160A"
+  },
+  {
+    "course_code": "ARMENIA 160B",
+    "units": 4,
+    "title": "Armenian Literature of 19th and 20th Centuries",
+    "description": "Lecture, three hours. Requisites: courses 102A, 102B, 102C. Reading of texts and discussion of various genres of modern Armenian literature within context of Armenian cultural renaissance. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 102A",
+      "ARMENIA 102B",
+      "ARMENIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA160B"
+  },
+  {
+    "course_code": "ARMENIA C166",
+    "units": 5,
+    "title": "Armenian Film and Culture",
+    "description": "Lecture, six hours. Requisite: course 1C or 4C. Overview of development of Armenian cinematography from first talkie to present, with focus on work of most seminal directors from Armenian Republic, as well as various voices from worldwide diaspora. Concurrently scheduled with course C266. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C",
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAC166"
+  },
+  {
+    "course_code": "ARMENIA 170",
+    "units": 4,
+    "title": "Armenian Poetry, 1880 to 1930",
+    "description": "Lecture, three hours. Requisite: course 1C or 4C. Examination of process behind creation of range and variety of poetic expression that developed in new literary formats and genres of what became standard modern Eastern and Western Armenian language in second half of 19th century. Special attention to crafting of central practitioners\u2019 individual voice, with particular consideration to poetics and aesthetics, continuity and innovation under impact of modernism, and employment of poetic structure as medium for expression of deeper philosophical values. All texts read in original language. P/NP or letter grading.",
+    "prerequisites": [
+      "ARMENIA 1C",
+      "ARMENIA 4C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA170"
+  },
+  {
+    "course_code": "ARMENIA 171",
+    "units": 4,
+    "title": "Variable Topics in Armenian Studies",
+    "description": "Lecture, three hours. Examination of major issues in Armenian studies. May be repeated for maximum of 16 units with topic and/or instructor change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA171"
+  },
+  {
+    "course_code": "ARMENIA M172",
+    "units": 4,
+    "title": "Medieval Armenian Art",
+    "description": "(Same as Art History M118A.) Lecture, three hours. Examination of cultural and historical impact of Armenian miniature paintings. P/NP or letter grading.",
+    "cross_listed": [
+      "ART HIS M118A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM172"
+  },
+  {
+    "course_code": "ARMENIA M173",
+    "units": 4,
+    "title": "Armenian Painting, 17th to 20th Century",
+    "description": "(Same as Art History M118B.) Lecture, three hours. Overview of development of modern Armenian painting out of its matrix in 17th and 18th centuries. P/NP or letter grading.",
+    "cross_listed": [
+      "ART HIS M118B",
+      "Armenian Painting, 17",
+      "Armenian Painting, 20"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIAM173"
+  },
+  {
+    "course_code": "ARMENIA 188",
+    "units": 4,
+    "title": "Variable Topics in Armenian",
+    "description": "Lecture, four hours. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA188"
+  },
+  {
+    "course_code": "ARMENIA 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA189"
+  },
+  {
+    "course_code": "ARMENIA 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA189HC"
+  },
+  {
+    "course_code": "ARMENIA 197",
+    "units": 2,
+    "title": "Individual Studies in Armenian",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA197"
+  },
+  {
+    "course_code": "ARMENIA 199",
+    "units": 2,
+    "title": "Directed Research or Senior Project in Armenian",
+    "description": "Tutorial, one hour. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ARMENIA199"
+  }
+]

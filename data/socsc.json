@@ -1,0 +1,40 @@
+[
+  {
+    "course_code": "SOC SC 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCSC19"
+  },
+  {
+    "course_code": "SOC SC 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCSC99"
+  },
+  {
+    "course_code": "SOC SC 110A",
+    "units": 4,
+    "title": "Social Science in Context: Perspectives and Methods in Study of Culture and Society",
+    "description": "Lecture, three hours. Introduction to social science perspectives and methods for study of culture and society through combination of theoretical discussions and practical exercises. Students gain understanding of interaction of persons, societies, cultures, environments, and time. Examination of relationships between language, culture, and society to gain insights into processes of social reproduction of identities, power relations, and inequality. Students are exposed to working parts of social research: ethics of studying people and communities, gathering and analyzing of data (e.g., observations, interviews, and surveys), and interpretation and presentation of findings. Students gain informed and responsible values and attitudes towards just society, intercultural understanding, informed and active citizenship, ethical research practices, and lifelong learning. Letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCSC110A"
+  },
+  {
+    "course_code": "SOC SC 110B",
+    "units": 4,
+    "title": "Social Science in Context: Understanding New Zealand from Colonialism to Neoliberalism",
+    "description": "Lecture, eight hours (four weeks). Offered as part of summer UCLA Travel Study Program to New Zealand. Examination of life in Aotearoa, also known as New Zealand. Focus on historical events and social processes as well as axes of difference such as ethnicity and class and ways in which they have shaped and continue to influence cultural, political, social structures, and norms and values in New Zealand. Students learn to employ social science theories and concepts to gain deeper understanding of issues New Zealand faces. Through readings, classroom discussions, field trips, which provide valuable firsthand experiences, local guest speakers, and unique opportunity of exploring forces that shape society and culture in context of one of most celebrated democracies in world, students gain greater insight into social and political relations and events elsewhere in world, including U.S. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCSC110B"
+  },
+  {
+    "course_code": "SOC SC 188",
+    "units": 1,
+    "title": "Academic Innovation in Industry",
+    "description": "Lecture, one hour (six weeks). Exploration of how to apply disciplinary knowledge to industry problems and technology trends. Students build skills to enable them to create novel ways of meeting challenges, build network intelligence, and communication their ideas and expertise. Students also learn problem-solving techniques like lean startup approach. Uses case study approach to show how social scientists have connected with recent technology trends to produce impactful innovation. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SOCSC188"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "course_code": "PUB HLT 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT19"
+  },
+  {
+    "course_code": "PUB HLT 50A",
+    "units": 5,
+    "title": "Introduction to Public Health I",
+    "description": "Lecture, four hours; discussion, one hour. Systematic exploration of history, philosophy, development, and scope of public health in U.S. and globally. Emphasis on scientific, social, and legal basis for public health practice, including strategies for advancing individual, community, and environmental public health. Survey of core public health functions and essential services with special focus on population health, health equity, environmental justice, and financing of health services. Letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT50A"
+  },
+  {
+    "course_code": "PUB HLT 50B",
+    "units": 5,
+    "title": "Introduction to Public Health II",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 50A. Exploration of contemporary public health issues and challenges in U.S. and elsewhere with goal to acquaint students with current public health functions, issues, policies, practices, and current strategies for advancing people\u2019s health. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 50A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT50B"
+  },
+  {
+    "course_code": "PUB HLT 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT99"
+  },
+  {
+    "course_code": "PUB HLT M106",
+    "units": 4,
+    "title": "Health in Chicano/Latino Population",
+    "description": "(Same as Chicana/o and Central American Studies CM106.) Lecture, four hours; discussion, one hour. Designed for juniors/seniors. Examination of Chicano/Latino health status through life expectancy, causes of death, reportable diseases, services utilization, provider supply, and risk behaviors within demographic/immigration changes. Binational review of health effects in U.S. and Mexico. Letter grading.",
+    "cross_listed": [
+      "CCAS CM106"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLTM106"
+  },
+  {
+    "course_code": "PUB HLT C150",
+    "units": 4,
+    "title": "Fundamentals of Public Health",
+    "description": "(Formerly numbered 150.) Lecture, four hours; discussion, one hour. Limited to nonmajors. Not open for credit to students with credit for course 50A. Exploration of foundations of public health by examining public health challenges at local, national, and global levels, and current strategies for advancing population health. Analysis of current public health issues and modern public health policies and practices. May be concurrently scheduled with course C201. Letter grading.",
+    "credit_exclusions": [
+      "PUB HLT 50A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLTC150"
+  },
+  {
+    "course_code": "PUB HLT 185A",
+    "units": 4,
+    "title": "Public Health Capstone I",
+    "description": "Seminar, three hours; discussion, one hour. Limited to Public Health majors. Enrollment by consent of school. Culminating experience for students to apply acquired content knowledge and skills to public health problem or issue. Students bring accumulated public health knowledge, skills, and methodological tools to individual or group project theme that is approved by instructor. Required weekly written assignments, participation in review and discussion of other students\u2019 work, and development of scope of work that outlines what is to be completed in course 185B. In Progress grading (credit to be given only on completion of course 185B).",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT185A"
+  },
+  {
+    "course_code": "PUB HLT 185B",
+    "units": 4,
+    "title": "Public Health Capstone II",
+    "description": "Seminar, three hours; discussion, one hour. Enforced requisite: course 185A. Students continue independent, or group work related on theme developed in course 185A. Students share in-progress work and continue to receive guidance from instructor and peer feedback. Students participate in school-sponsored poster session by presenting project outcomes to school and campus community. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 185A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT185B"
+  },
+  {
+    "course_code": "PUB HLT 188",
+    "units": 4,
+    "title": "Special Courses in Public Health",
+    "description": "Lecture, four hours. Program-sponsored experimental or temporary courses, such as those taught by visiting faculty members. May be repeated for credit with topic and instructor change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT188"
+  },
+  {
+    "course_code": "PUB HLT 188SA",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "HNRS 101E"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT188SA"
+  },
+  {
+    "course_code": "PUB HLT 188SB",
+    "units": 1,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 188SA"
+    ],
+    "corequisites": [
+      "HNRS 101E"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT188SB"
+  },
+  {
+    "course_code": "PUB HLT 188SC",
+    "units": 2,
+    "title": "Individual Studies for USIE Facilitators",
+    "description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading.",
+    "prerequisites": [
+      "PUB HLT 188SB"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT188SC"
+  },
+  {
+    "course_code": "PUB HLT 191",
+    "units": 5,
+    "title": "Variable Topics Research Seminar in Public Health",
+    "description": "Seminar, three hours. Research seminar on selected topics. Reading, discussion, and development of culminating project. May be repeated for credit with topic and instructor change. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT191"
+  },
+  {
+    "course_code": "PUB HLT 195",
+    "units": 4,
+    "title": "Community or Corporate Internship in Public Health",
+    "description": "Tutorial, one hour; fieldwork, eight to 10 hours. Limited to Public Health majors and minors. Internship in corporate, governmental, or nonprofit setting under the supervision of faculty sponsor. Students expected to complete reading and written assignments, meet with faculty sponsor, and write final paper. Individual contract with supervising faculty member required. May be repeated for credit with consent of program. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT195"
+  },
+  {
+    "course_code": "PUB HLT 195CE",
+    "units": 4,
+    "title": "Community and Corporate Internship in Public Health",
+    "description": "Tutorial, to be arranged; fieldwork, eight to 10 hours. Limited to Public Health majors and minors. Internship in corporate, governmental, or nonprofit setting coordinated through Center for Community Engagement. Students complete weekly written assignments, attend biweekly meetings with graduate student coordinator, and write final research paper. Faculty of record and graduate student instructor construct series of reading assignments that examine issues related to working in field of public health. Individual contract with supervising faculty member required. May be repeated with consent of program. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT195CE"
+  },
+  {
+    "course_code": "PUB HLT 196",
+    "units": 4,
+    "title": "Research Apprenticeship in Public Health",
+    "description": "Tutorial, one hour. Limited to junior/senior Public Health majors or minors. Entry-level research apprenticeship under guidance of faculty mentor. Collaboration with faculty mentor on research related to public health. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT196"
+  },
+  {
+    "course_code": "PUB HLT 197",
+    "units": 4,
+    "title": "Individual Studies in Public Health",
+    "description": "Tutorial, four hours. Limited to junior/senior Public Health majors or minors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT197"
+  },
+  {
+    "course_code": "PUB HLT 198",
+    "units": 4,
+    "title": "Honors Research in Public Health",
+    "description": "Tutorial, one hour. Limited to Public Health majors or minors. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT198"
+  },
+  {
+    "course_code": "PUB HLT 199",
+    "units": 4,
+    "title": "Directed Research in Public Health",
+    "description": "Tutorial, one hour. Limited to Public Health majors or minors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/PUBHLT199"
+  }
+]

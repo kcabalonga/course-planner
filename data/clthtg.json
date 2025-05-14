@@ -1,0 +1,44 @@
+[
+  {
+    "course_code": "CLT HTG 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTG19"
+  },
+  {
+    "course_code": "CLT HTG 25",
+    "units": 4,
+    "title": "Preservation of Cultural Heritage through Technology and Sustainability",
+    "description": "Lecture, three hours. Introduction to principles, ethics, methods, and challenges of conserving cultural heritage, including mobile and immobile heritage. Study of history and significance of cultural heritage, factors that contribute to its deterioration, and various approaches used to conserve and protect it. Addresses impact of climate change, global issues, digital technology, and need for sustainability by presenting case studies from around the world. Case studies include Michelangelo\u2019s Sistine Chapel ceiling, Abu Simbel temples, Parthenon marbles, Gullah Geechee Cultural Heritage Corridor, and Mark Rothko\u2019s murals at Harvard University. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTG25"
+  },
+  {
+    "course_code": "CLT HTG 30",
+    "units": 4,
+    "title": "Caring for Black History: Preservation of African American Cultural Heritage",
+    "description": "Lecture, three hours. Covers efforts to preserve African American cultural heritage from both within Black communities and in the wider American cultural heritage field. Discussion of how preservation of physical items and histories is linked to American values, connecting cultural heritage conservation to social movements. Study of 19th-century efforts by African American to preserve their own history, to current campaigns both within and outside of Black communities. Uncovers roots of current diversity, equity, and inclusion challenges in cultural heritage professions. Students play a part in the preservation of cultural heritage through hands-on projects with African American cultural items. Connects material with local, Los-Angeles-based community preservation efforts. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTG30"
+  },
+  {
+    "course_code": "CLT HTG 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTG99"
+  },
+  {
+    "course_code": "CLT HTG C120",
+    "units": 4,
+    "title": "Field Methods in Archaeological Conservation: Readiness, Response, and Recovery",
+    "description": "(Formerly numbered Conservation of Archaeological and Ethnographic Materials C120.) Laboratory, four hours. Overview of risks (direct and indirect) and materials vulnerability of in situ cultural heritage and movable archaeological materials in emergency situations (rescue excavations, disasters, conflicts), with emphasis on readiness, first aid response, and recovery. Readiness focuses on preparedness and preventive measures, including reburials, shelters, rescue excavations, and documentation as well as developing inventories and awareness campaigns. First aid response covers development of on-site emergency risk assessments to evaluate damage and putting triage theory into practice, salvage rescue operations, emergency temporary in situ stabilization and protection (using locally available materials), and training. Recovery is based on documentation, lifting methods, handling, transportation, and storage. Emphasis on finding practical solutions to prevent and mitigate damage and to recover and safeguard archaeological artifacts. Concurrently scheduled with course C220. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTGC120"
+  },
+  {
+    "course_code": "CLT HTG C142",
+    "units": 4,
+    "title": "Managing Collections for Museums, Libraries, and Archives",
+    "description": "(Formerly numbered Conservation of Archaeological and Ethnographic Materials C142.) Lecture, two hours; activity, two hours. How conservators work together with curators, collections managers, mount makers, designers, and registrars to permit collections to be both accessed and preserved. Concurrently scheduled with course C242. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/CLTHTGC142"
+  }
+]

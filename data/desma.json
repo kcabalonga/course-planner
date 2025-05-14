@@ -1,0 +1,432 @@
+[
+  {
+    "course_code": "DESMA 1",
+    "units": 4,
+    "title": "Social Software Studio: Art and Code",
+    "description": "Studio, 30 hours. Limited to high school students. Exploration of what code can do within the visual arts and what can be done with it. Focus on exercises with templates that can be modified and adjusted for new learners, and that can be extended by people with prior knowledge in this area. Includes series of short exercises covering a wide range of possibilities and a final project. Exploration of range of experiences including drawing, coding for the web, interactive performance, and generative art. Creation of software within visual arts realm. Builds a foundation for future learning. May be repeated for credit without limitation. Offered only as part of Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA1"
+  },
+  {
+    "course_code": "DESMA 2",
+    "units": 4,
+    "title": "Social Software Studio: Art and Artificial Intelligence",
+    "description": "Studio, 30 hours. Limited to high school students. Exploration of how artificial intelligence (AI) interacts with the visual arts, and automated algorithms as a tool for creative expression.\u00a0Starting from early collage and montage practices, exploration of how artists have used cultural fragments as their medium to explore meaning through juxtaposition and appropriation. Study of how computational methods enabled artists to explore such practices with increasing fidelity and magnitudes of data. Consideration of recent surge in interest in the field of AI, and what that might mean for understanding art. Discussion of topics such as perception, augmentation, deep fakes, surveillance, privacy, and automation. Includes short lectures, discussions, workshops, time to work in class, and feedback sessions. No prior programming or machine learning knowledge required. May be repeated for credit without limitation. Offered only as part of Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA2"
+  },
+  {
+    "course_code": "DESMA 3",
+    "units": 4,
+    "title": "Game Design",
+    "description": "Studio, 30 hours. Limited to high school students. Development of fundamental skills to create games and game art that express personal and subjective approach to game making. Artistic vision combined with technological expertise to teach students fundamentals of designing games, building game worlds, creating game characters, and making playable games for mobile platforms. Use of current software and technology, including Maya and Unity3D. Creation of game projects that students exhibit and can use for college applications. Offered only as part of UCLA Game Lab Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA3"
+  },
+  {
+    "course_code": "DESMA 4",
+    "units": 2,
+    "title": "Audio Video Design",
+    "description": "Studio, 30 hours. Limited to high school students. Creation of storyboard for short documentary, commercial, or music video. Students shoot and edit their own work by learning fundamentals of preproduction and postproduction using latest digital software, Adobe Premiere and After Effects, to create their work. Burning of DVD of finished production. Visits from professional video producer to help guide students in creating their own videos. May be repeated for credit without limitation. Offered only as part of Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA4"
+  },
+  {
+    "course_code": "DESMA 5",
+    "units": 4,
+    "title": "Introduction to Design | Media Arts",
+    "description": "Studio, 40 hours. Limited to high school students. Two-week summer course designed to meet needs of high school students interested in exploring their creative potential within fields of design media arts, with focus on concepts of narrative and storytelling. Introduction to and exploration of variety of media such as graphic, web, game, and video design with goal of combining and integrating these media to express and realize their narrative projects. Students work with most current software and technology in each discipline area, developing diverse skill sets while cultivating conceptual capabilities around storytelling project, and with experienced instructors and professionals in field to develop projects utilizing this comprehensive and integrative approach. Culminates in portfolios that may be used for college applications. Possible field trips. May be repeated for credit without limitation. Offered only as part of Summer Institute. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA5"
+  },
+  {
+    "course_code": "DESMA 6",
+    "units": 4,
+    "title": "Art/Science and Technology Studio/Laboratory",
+    "description": "Studio/laboratory, 40 hours. Limited to high school students. Two-week summer course, including lectures, required screenings, laboratory visits, field trips, and outside study. Exploration of creative aspects of scientific research and innovation to gain broad understanding of impact of science on contemporary art and popular culture, with focus on new sciences of biotechnology and nanotechnology. Development of proposals and ideas that could serve as prototypes for either art projects or scientific research study. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA6"
+  },
+  {
+    "course_code": "DESMA 7",
+    "units": 5,
+    "title": "Critical Game Culture",
+    "description": "Lecture, three hours; discussion, one hour; outside study, 11 hours. Introduction to critical issues in the culture and history of games. Consideration of games and game culture in relation to contemporary social issues such as economics and class, environment, violence, gender identity, and cross-cultural representation. Weekly focus on a different subject or topic related to games and games culture, combining reading, lecture, discussion, game examples, and opportunities for hands-on gameplay. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)",
+      "General Education - Social Analysis (Society & Culture)",
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA7"
+  },
+  {
+    "course_code": "DESMA 8",
+    "units": 5,
+    "title": "Media Histories",
+    "description": "Lecture, three hours; outside study, 12 hours. Synthetic overview of optical media and aesthetic movements covering past two centuries: photography and industrialization/Romanticism (1850 to 1900), cinema and modernism (1900 to 1950), television and postmodernism (1950 to 2000), and digital media and unimodernism (2000 to 2050). How such movements can inform generative work and how understanding these media becomes essential in emerging era of digital humanities. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Social Analysis (Society & Culture)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA8"
+  },
+  {
+    "course_code": "DESMA 9",
+    "units": 5,
+    "title": "Art, Science, and Technology",
+    "description": "Lecture, three hours; discussion, one hour; outside study, 11 hours. Exploration and survey of cultural impact of scientific and cultural innovations, technology-driven art inspired by science, and art/science collaborative projects. Introduction to vast array of cutting-edge research taking place on campus; scientific guest lecturers. Emphasis on art projects that use technology and respond to new scientific concepts. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA9"
+  },
+  {
+    "course_code": "DESMA 10",
+    "units": 5,
+    "title": "Design Culture",
+    "description": "Lecture, three hours; outside study, 12 hours. Open to nonmajors. Understanding design process, with emphasis on development of visual language; study of historic, scientific, technological, economic, and cultural factors influencing design in physical environment. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Visual & Performance Arts Analysis & Practice (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA10"
+  },
+  {
+    "course_code": "DESMA 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA19"
+  },
+  {
+    "course_code": "DESMA 21",
+    "units": 4,
+    "title": "Drawing and Color",
+    "description": "Studio, six hours; outside study, six hours. For drawing, exploration of relationship between concept and image creation while fostering development of sound drawing and observation skills. For color, exploration of development of fundamental skills in mixing and applying pigments with brush on watercolor paper, as well as use of computer as tool for working with colors. Combination of painting and software to be predominant way of exploring and presenting ideas regarding color. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA21"
+  },
+  {
+    "course_code": "DESMA 22",
+    "units": 4,
+    "title": "Form",
+    "description": "Studio, six hours; outside study, six hours. Interrelation of two-dimensional surfaces and three-dimensional forms with traditional and experimental materials as foundation for creativity; origination and solution of problems. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA22"
+  },
+  {
+    "course_code": "DESMA 24",
+    "units": 4,
+    "title": "Motion",
+    "description": "Studio, six hours; outside study, six hours. Introduction and integration of traditional design tools, camera, and digital technologies for application to visual thinking and fundamentals of design. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA24"
+  },
+  {
+    "course_code": "DESMA 25",
+    "units": 4,
+    "title": "Typography",
+    "description": "Studio, six hours; outside study, six hours. Focus on three typographic basics: letter, text, and grid. Introduction to fundamentals of typography. Assignments designed to develop understanding of form, scale, and shape of letters as single elements and as texture in layout. Emphasis on grid (structure and layout) and information hierarchy to create successful typographic messages. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA25"
+  },
+  {
+    "course_code": "DESMA 28",
+    "units": 4,
+    "title": "Interactivity",
+    "description": "Studio, six hours; outside study, six hours. Requisites: courses 21, 22, 25. Introduction to concept of interactivity and field of media art that follows history of computer as media for artistic exploration in relation to print, animation, and interactivity. Discussion of potential and ideas related to interactivity, with focus on required skills for creating interactive work. Development of programming skills in service of creating examples of media art. Concepts and skills taught enhance student ability to excel in future courses about Internet, animation, interactive media, and game design. Discussion and readings on four themes\u2014form/programming, motion, interactivity/programming, and interface. P/NP or letter grading.",
+    "prerequisites": [
+      "DESMA 21",
+      "DESMA 22",
+      "DESMA 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA28"
+  },
+  {
+    "course_code": "DESMA 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA89"
+  },
+  {
+    "course_code": "DESMA 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA99"
+  },
+  {
+    "course_code": "DESMA 101",
+    "units": 5,
+    "title": "Media Arts: Introduction",
+    "description": "Lecture, three hours; outside study, 12 hours. Limited to and required of Design | Media Arts majors. Survey of media arts, their history, aesthetics, and cultural roles from late-19th century to present. Investigation of media arts within broad historical and cultural framework. Discussion of parallels and links with other cultural forms, including history of technology and various art and design practices. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA101"
+  },
+  {
+    "course_code": "DESMA 104",
+    "units": 5,
+    "title": "Design Futures",
+    "description": "Lecture, three hours; outside study, 12 hours. Preparation: completion of preparation for major courses. Open to nonmajors with consent of instructor. Critical examination of design practice and theory of 20th and 21st centuries, incorporating historical as well as speculative methodologies. Consideration of how various design practices and techniques related to each other across cultures and media, with strong emphasis on communication design. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA104"
+  },
+  {
+    "course_code": "DESMA 110",
+    "units": 5,
+    "title": "Tangible Media",
+    "description": "(Formerly numbered 152.) Studio, six hours; outside study, nine hours. Requisites: courses 22, 28, and 101 or 104. Through workshops, readings, lectures, critiques, and discussions, reevaluation of role of desktop computers (and their mice, trackpads, keyboards, screens, and gamepads) plays in forming our understanding of what is technically possible, sensible, logical, foolish, magical, and intuitive. Letter grading.",
+    "prerequisites": [
+      "DESMA 22",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA110"
+  },
+  {
+    "course_code": "DESMA 111",
+    "units": 5,
+    "title": "Art and the Internet",
+    "description": "(Formerly numbered 161.) Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 28, 140. Exploration of creative, technical, and critical tools to realize Internet-based projects. Focus on students gaining deeper understanding of Internet as creative platform\u2014where did it come from, how does it work, how do you make things for it, and what do you want to say? Technical workshops on HTML, CSS, JavaScript, and design support development of series of studio projects using variety of network tools. Examination through discussion of cultural, social, political, and philosophical implications of Internet. Consideration of roles of race, gender, sexuality, disability, class, and influence within increasingly networked world, and strategies of response as artists and designers. Examination and challenging of structuring power relationships, inequities, and biases embedded within network tools, technologies, and media. Letter grading.",
+    "satisfies": [
+      "Diversity - Arts and Architecture"
+    ],
+    "prerequisites": [
+      "DESMA 28",
+      "DESMA 140"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA111"
+  },
+  {
+    "course_code": "DESMA 125",
+    "units": 5,
+    "title": "Game Design",
+    "description": "(Formerly numbered 157.) Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 24, 28, and 101 or 104. Introduction to game design, with focus on developing conceptual and practical skills that form basis for both digital and nondigital game development. Development of four playable game projects that explore various aspects of game design: rule design, game balance, multiplayer strategy, complexity, randomness, polemics, narrative, physical interaction, and aesthetic and pragmatic aspects of physical game design. Letter grading.",
+    "prerequisites": [
+      "DESMA 24",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA125"
+  },
+  {
+    "course_code": "DESMA 126",
+    "units": 5,
+    "title": "Game Engine",
+    "description": "(Formerly numbered 158.) Studio, six hours; outside study, nine hours. Requisites: courses 24, and 101 or 104. Introduction of fundamentals of programming interactive projects in game development software. Focus on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound. Letter grading.",
+    "prerequisites": [
+      "DESMA 24",
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA126"
+  },
+  {
+    "course_code": "DESMA 127",
+    "units": 5,
+    "title": "Interactive Animation",
+    "description": "(Formerly numbered 155.) Studio, six hours; outside study, nine hours. Requisites: courses 101 or 104, and 131. Exploration of traditional and experimental animation techniques that are central to 2D and 3D interactive digital projects and video games. Development of skills and concepts that are integral to animation workflows and game engine animation systems including traditional animation principles, 2D sprite animation, rigging 2D and 3D game objects, and character controller implementation. Students experiment with common and alternative input methods for real-time interactivity. Readings, screenings, and in-class gameplay sessions supplement lessons. P/NP or letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 131"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA127"
+  },
+  {
+    "course_code": "DESMA 131",
+    "units": 5,
+    "title": "Three-Dimensional Modeling and Motion",
+    "description": "(Formerly numbered 156.) Studio, six hours; outside study, nine hours. Requisite: course 101 or 104. Introduction to theories of three-dimensional form, spatial design, and lighting, using three-dimensional visualization and video tools. Tools originally designed for motion to be used to construct form. Use of aspects of time, such as speed and duration, to contemplate form and interaction. Exploration of virtual versus real form. Letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA131"
+  },
+  {
+    "course_code": "DESMA 140",
+    "units": 5,
+    "title": "Word + Image",
+    "description": "(Formerly numbered 154.) Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 21, 22, 25, and 101 or 104. Focus on relationship of type to content, image, and materials. Acquisition of knowledge of and sensitivity to typography in context of complex communication problems in print and digital media. Research, concept and content development, and articulation of methodology for visualization. Letter grading.",
+    "prerequisites": [
+      "DESMA 21",
+      "DESMA 22",
+      "DESMA 25",
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA140"
+  },
+  {
+    "course_code": "DESMA 144",
+    "units": 5,
+    "title": "Type in Motion",
+    "description": "Studio, six hours; outside study, nine hours. Requisites: courses 21, 22, 24, 25, 28, and 101 or 104. Typographic vocabulary is expanded through the use of time-based composition, sound, and animation. The application of kinetic media enables motion, scale change, and sequence to typographic communication. By experiencing the rhythmic and expressive use of type in motion, investigation of varying type size, weight, spatial relationships, form and counter form, and movement within a word, while preserving typographic principles. Students are exposed to a more interpretive use of typography, which can be applied to a variety of applications such as film and television titles, commercials, information kiosks, interactive signage, websites, and presentations. Letter grading.",
+    "prerequisites": [
+      "DESMA 21",
+      "DESMA 22",
+      "DESMA 24",
+      "DESMA 25",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA144"
+  },
+  {
+    "course_code": "DESMA 153",
+    "units": 5,
+    "title": "Video",
+    "description": "Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisite: course 101 or 104. Use of video technology (video systems, cameras, displays, editing, and storage) to integrate image, sound, time, and motion. Emphasis on expression, continuity, and sequential patterns for video communication. P/NP or letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA153"
+  },
+  {
+    "course_code": "DESMA 159",
+    "units": 5,
+    "title": "Capstone Senior Project in Design Media Arts",
+    "description": "(Formerly numbered 159A.) Studio, six hours; outside study, nine hours. Requisites: courses 8, 10, 21, 22, 24, 25, 28, 101, and 104, and 160, 171, 172, or 173. Preparation: completion of preparation for major courses. Students should have completed six core, upper-division studio courses. Limited to seniors and should be completed in last year. Focus on creating final project that can be showcased at Senior Show. Letter grading.",
+    "prerequisites": [
+      "DESMA 8",
+      "DESMA 10",
+      "DESMA 21",
+      "DESMA 22",
+      "DESMA 24",
+      "DESMA 25",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 160",
+      "DESMA 171",
+      "DESMA 172",
+      "DESMA 173"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA159"
+  },
+  {
+    "course_code": "DESMA 159B",
+    "units": 5,
+    "title": "Capstone Senior Project: Video and Animation",
+    "description": "Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 24, 28, 101, 104, 153, 156, and 160, 171, 172, or 173. Limited to seniors. Linear media, including storyboarding, video, animation, modeling, editing, postproduction, and lighting. Focus on creating final project that can be showcased at Senior Show. Students can take two different courses in different terms or the same course twice in different terms. Total units for courses 159A, 159B, and 159C may not exceed 10 units, with maximum of 5 units per term. Letter grading.",
+    "prerequisites": [
+      "DESMA 24",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 153",
+      "DESMA 156",
+      "DESMA 160",
+      "DESMA 171",
+      "DESMA 172",
+      "DESMA 173"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA159B"
+  },
+  {
+    "course_code": "DESMA 159C",
+    "units": 5,
+    "title": "Capstone Senior Project: Visual Communication and Image",
+    "description": "Studio, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisites: courses 24, 28, 101, 104, 154, and 160, 171, 172, or 173. Visual communication, editorial design, photography, typography, branding, and narrative environments. Limited to seniors. Visual communication, editorial design, photography, typography, branding, and narrative environments. Focus on creating final project that can be showcased at Senior Show. Students can take two different courses in different terms or the same course twice in different terms. Total units for courses 159A, 159B, and 159C may not exceed 10 units, with maximum of 5 units per term. Letter grading.",
+    "prerequisites": [
+      "DESMA 24",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 154",
+      "DESMA 160",
+      "DESMA 171",
+      "DESMA 172",
+      "DESMA 173"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA159C"
+  },
+  {
+    "course_code": "DESMA 160",
+    "units": 5,
+    "title": "Special Topics in Design | Media Arts",
+    "description": "Studio, six hours; outside study, nine hours. Completion of preparation for major and upper-division core courses required. Requisite: course 101 or 104. Selected topics in design and media arts explored through variety of approaches that may include projects, readings, discussion, research papers, and oral presentations. Topics announced in advance. May be repeated for credit with topic change. Letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA160"
+  },
+  {
+    "course_code": "DESMA 163",
+    "units": 5,
+    "title": "Narrative",
+    "description": "Lecture, six hours; outside study, nine hours. Preparation: completion of preparation for major courses. Requisite: course 101 or 104. Provides wider understanding of arts that parallels world of 20th-century visual languages. Study of threads that allow viewer to connect story of one art form to another in richer context. Letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA163"
+  },
+  {
+    "course_code": "DESMA 171",
+    "units": 5,
+    "title": "Topics in Interactivity and Games",
+    "description": "Studio, six hours; outside study, nine hours. Completion of preparation for major and upper-division core courses required. Requisites: courses 101 or 104, 157. Selected topics in interactive media and games explored through variety of approaches that may include projects, readings, discussion, research papers, and oral presentations. Topics announced in advance. May be repeated for maximum of 15 units. Letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 157"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA171"
+  },
+  {
+    "course_code": "DESMA 172",
+    "units": 5,
+    "title": "Topics in Video and Animation",
+    "description": "Studio, six hours; outside study, nine hours. Completion of preparation for major and upper-division core courses required. Requisites: courses 101 or 104, and 153 or 156. Selected topics in video and animation explored through variety of approaches that may include projects, readings, discussion, research papers, and oral presentations. Topics announced in advance. May be repeated for maximum of 15 units. Letter grading.",
+    "prerequisites": [
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 153",
+      "DESMA 156"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA172"
+  },
+  {
+    "course_code": "DESMA 173",
+    "units": 5,
+    "title": "Topics in Visual Communication and Image",
+    "description": "Studio, six hours; outside study, nine hours. Completion of preparation for major and upper-division core courses required. Requisites: courses 24, 28, 101 or 104, 154. Selected topics in visual communication and image explored through variety of approaches that may include projects, readings, discussion, research papers, and oral presentations. Topics announced in advance. May be repeated for maximum of 15 units. Letter grading.",
+    "prerequisites": [
+      "DESMA 24",
+      "DESMA 28",
+      "DESMA 101",
+      "DESMA 104",
+      "DESMA 154"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA173"
+  },
+  {
+    "course_code": "DESMA 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA189"
+  },
+  {
+    "course_code": "DESMA 195A",
+    "units": 2,
+    "title": "Community or Corporate Internships in Design | Media Arts",
+    "description": "Tutorial, six hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business related to design. Students meet on regular basis with instructor and provide periodic reports of their experience. Courses 195A and 195B may be repeated for combined maximum of 8 units. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA195A"
+  },
+  {
+    "course_code": "DESMA 195B",
+    "units": 4,
+    "title": "Community or Corporate Internships in Design | Media Arts",
+    "description": "Tutorial, 12 hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business related to design. Students meet on regular basis with instructor and provide periodic reports of their experience. Courses 195A and 195B may be repeated for combined maximum of 8 units. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA195B"
+  },
+  {
+    "course_code": "DESMA 198",
+    "units": 4,
+    "title": "Honors Research in Design | Media Arts",
+    "description": "Tutorial, two hours. Preparation: 3.0 grade-point average overall. Limited to juniors/seniors. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated once for credit. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA198"
+  },
+  {
+    "course_code": "DESMA 199",
+    "units": 2,
+    "title": "Directed Research in Design | Media Arts",
+    "description": "Tutorial, four hours. Preparation: 3.0 grade-point average in major. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/DESMA199"
+  }
+]

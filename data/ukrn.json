@@ -1,0 +1,200 @@
+[
+  {
+    "course_code": "UKRN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN19"
+  },
+  {
+    "course_code": "UKRN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN89"
+  },
+  {
+    "course_code": "UKRN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN89HC"
+  },
+  {
+    "course_code": "UKRN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN99"
+  },
+  {
+    "course_code": "UKRN 101A",
+    "units": 5,
+    "title": "Elementary Ukrainian",
+    "description": "Lecture, five hours. Course 101A is recommended preparation for 101B, which is recommended preparation for 101C. Each course may be waived with consent of instructor. Basic course in Ukrainian language. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN101A"
+  },
+  {
+    "course_code": "UKRN 101B",
+    "units": 5,
+    "title": "Elementary Ukrainian",
+    "description": "Lecture, five hours. Recommended preparation: course 101A (may be waived with consent of instructor). Basic course in Ukrainian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN101B"
+  },
+  {
+    "course_code": "UKRN 101C",
+    "units": 5,
+    "title": "Elementary Ukrainian",
+    "description": "Lecture, five hours. Recommended preparation: courses 101A, 101B (may be waived with consent of instructor). Basic course in Ukrainian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN101C"
+  },
+  {
+    "course_code": "UKRN 102A",
+    "units": 4,
+    "title": "Advanced Ukrainian",
+    "description": "Lecture, three hours. Recommended preparation: course 101C (may be waived with consent of instructor). Course 102A is recommended preparation for 102B, which is recommended preparation for 102C. Each course may be waived with consent of instructor. Development of advanced listening, speaking, reading, and writing skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN102A"
+  },
+  {
+    "course_code": "UKRN 102B",
+    "units": 4,
+    "title": "Advanced Ukrainian",
+    "description": "Lecture, three hours. Recommended preparation: course 102A (may be waived with consent of instructor). Development of advanced listening, speaking, reading, and writing skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN102B"
+  },
+  {
+    "course_code": "UKRN 102C",
+    "units": 4,
+    "title": "Advanced Ukrainian",
+    "description": "Lecture, three hours. Recommended preparation: courses 102A, 102B (may be waived with consent of instructor). Development of advanced listening, speaking, reading, and writing skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN102C"
+  },
+  {
+    "course_code": "UKRN CM124G",
+    "units": 4,
+    "title": "Studies in Russian Literature: Gogol",
+    "description": "(Same as Russian CM124G.) Lecture, three hours. Lectures and readings in English. Short stories, novel Dead Souls, and selected plays. Concurrently scheduled with course CM224G. P/NP or letter grading.",
+    "cross_listed": [
+      "RUSSN CM124G"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRNCM124G"
+  },
+  {
+    "course_code": "UKRN 152",
+    "units": 4,
+    "title": "Ukrainian Literature",
+    "description": "Lecture, three hours. Lectures and readings in English. Survey of writers, literary trends, and issues in Ukrainian literature from the late 18th century to the present. Special attention to works of such major figures as Kotlyarevsky, Shevchenko, Franko, Ukrainka, and Tychyna.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN152"
+  },
+  {
+    "course_code": "UKRN C180",
+    "units": 4,
+    "title": "Variable Topics in Ukrainian Literature",
+    "description": "Seminar, three hours. Reading knowledge of Ukrainian recommended but not required. Topics include major writers, genres, or periods. May be repeated for credit with topic change. Concurrently scheduled with course C280. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRNC180"
+  },
+  {
+    "course_code": "UKRN 187A",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: two years of Ukrainian and/or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187A"
+  },
+  {
+    "course_code": "UKRN 187B",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187B"
+  },
+  {
+    "course_code": "UKRN 187C",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187C"
+  },
+  {
+    "course_code": "UKRN 187D",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187D"
+  },
+  {
+    "course_code": "UKRN 187E",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187E"
+  },
+  {
+    "course_code": "UKRN 187F",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187F"
+  },
+  {
+    "course_code": "UKRN 187G",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187G"
+  },
+  {
+    "course_code": "UKRN 187I",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187I"
+  },
+  {
+    "course_code": "UKRN 187J",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187J"
+  },
+  {
+    "course_code": "UKRN 187K",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187K"
+  },
+  {
+    "course_code": "UKRN 187L",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187L"
+  },
+  {
+    "course_code": "UKRN 187M",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Ukrainian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Ukrainian placement test. Tutorial and guided independent study of advanced Ukrainian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN187M"
+  },
+  {
+    "course_code": "UKRN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN189"
+  },
+  {
+    "course_code": "UKRN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/UKRN189HC"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "course_code": "SWAHILI 1",
+    "units": 4,
+    "title": "Elementary Swahili",
+    "description": "Lecture, five hours. Major language of East Africa, particularly Tanzania. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI1"
+  },
+  {
+    "course_code": "SWAHILI 2",
+    "units": 4,
+    "title": "Elementary Swahili",
+    "description": "Lecture, five hours. Enforced requisite: course 1. Major language of East Africa, particularly Tanzania. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "SWAHILI 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI2"
+  },
+  {
+    "course_code": "SWAHILI 3",
+    "units": 4,
+    "title": "Elementary Swahili",
+    "description": "Lecture, five hours. Enforced requisite: course 2. Major language of East Africa, particularly Tanzania. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SWAHILI 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI3"
+  },
+  {
+    "course_code": "SWAHILI 4",
+    "units": 4,
+    "title": "Intermediate Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 3. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI4"
+  },
+  {
+    "course_code": "SWAHILI 5",
+    "units": 4,
+    "title": "Intermediate Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 4. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 4"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI5"
+  },
+  {
+    "course_code": "SWAHILI 6",
+    "units": 4,
+    "title": "Intermediate Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 5. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 5"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI6"
+  },
+  {
+    "course_code": "SWAHILI 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI19"
+  },
+  {
+    "course_code": "SWAHILI 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI89"
+  },
+  {
+    "course_code": "SWAHILI 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI89HC"
+  },
+  {
+    "course_code": "SWAHILI 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI99"
+  },
+  {
+    "course_code": "SWAHILI 101",
+    "units": 4,
+    "title": "Advanced Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 6. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 6"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI101"
+  },
+  {
+    "course_code": "SWAHILI 102",
+    "units": 4,
+    "title": "Advanced Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 101. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 101"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI102"
+  },
+  {
+    "course_code": "SWAHILI 103",
+    "units": 4,
+    "title": "Advanced Swahili",
+    "description": "Lecture, four hours. Enforced requisite: course 102. P/NP or letter grading.",
+    "prerequisites": [
+      "SWAHILI 102"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI103"
+  },
+  {
+    "course_code": "SWAHILI 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI189"
+  },
+  {
+    "course_code": "SWAHILI 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SWAHILI189HC"
+  }
+]

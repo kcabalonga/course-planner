@@ -1,0 +1,209 @@
+[
+  {
+    "course_code": "ROMANIA 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA19"
+  },
+  {
+    "course_code": "ROMANIA 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA89"
+  },
+  {
+    "course_code": "ROMANIA 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA89HC"
+  },
+  {
+    "course_code": "ROMANIA 90",
+    "units": 4,
+    "title": "Introduction to Romanian Civilization",
+    "description": "Lecture, three hours. Introductory survey of social and cultural institutions of Romanian people and their historical background. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA90"
+  },
+  {
+    "course_code": "ROMANIA 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA99"
+  },
+  {
+    "course_code": "ROMANIA 101A",
+    "units": 5,
+    "title": "Elementary Romanian",
+    "description": "Lecture, five hours. Course 101A is recommended preparation for 101B, which is recommended preparation for 101C. Each course may be waived with consent of instructor. Basic course in Romanian language. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA101A"
+  },
+  {
+    "course_code": "ROMANIA 101B",
+    "units": 5,
+    "title": "Elementary Romanian",
+    "description": "Lecture, five hours. Recommended preparation: course 101A (may be waived with consent of instructor). Basic course in Romanian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA101B"
+  },
+  {
+    "course_code": "ROMANIA 101C",
+    "units": 5,
+    "title": "Elementary Romanian",
+    "description": "Lecture, five hours. Recommended preparation: courses 101A, 101B (may be waived with consent of instructor). Basic course in Romanian language. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA101C"
+  },
+  {
+    "course_code": "ROMANIA 102A",
+    "units": 5,
+    "title": "Advanced Romanian",
+    "description": "Lecture, five hours. Recommended preparation: course 101C (may be waived with consent of instructor). Course 102A is recommended preparation for 102B, which is recommended preparation for 102C. Each course may be waived with consent of instructor. Differences between oral and written discourse, expansion of students\u2019 general and academic vocabulary, and increase of range of grammatical structures for use in speaking and writing. Cultural information to be included in readings. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA102A"
+  },
+  {
+    "course_code": "ROMANIA 102B",
+    "units": 5,
+    "title": "Advanced Romanian",
+    "description": "Lecture, five hours. Recommended preparation: course 102A (may be waived with consent of instructor). Differences between oral and written discourse, expansion of students\u2019 general and academic vocabulary, and increase of range of grammatical structures for use in speaking and writing. Cultural information to be included in readings. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA102B"
+  },
+  {
+    "course_code": "ROMANIA 102C",
+    "units": 5,
+    "title": "Advanced Romanian",
+    "description": "Lecture, five hours. Recommended preparation: courses 102A, 102B (may be waived with consent of instructor). Differences between oral and written discourse, expansion of students\u2019 general and academic vocabulary, and increase of range of grammatical structures for use in speaking and writing. Cultural information to be included in readings. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA102C"
+  },
+  {
+    "course_code": "ROMANIA 103",
+    "units": 12,
+    "title": "Intensive Elementary Romanian",
+    "description": "Lecture, 25 hours. Intensive basic course in Romanian equivalent to courses 101A, 101B, 101C. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA103"
+  },
+  {
+    "course_code": "ROMANIA 152",
+    "units": 4,
+    "title": "Survey of Romanian Literature",
+    "description": "Lecture, three hours. Lectures and readings in English. Survey of Romanian literature from Middle Ages to present. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA152"
+  },
+  {
+    "course_code": "ROMANIA 187A",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Enforced requisite: course 102C or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "ROMANIA 102C"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187A"
+  },
+  {
+    "course_code": "ROMANIA 187B",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187B"
+  },
+  {
+    "course_code": "ROMANIA 187C",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187C"
+  },
+  {
+    "course_code": "ROMANIA 187D",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187D"
+  },
+  {
+    "course_code": "ROMANIA 187E",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187E"
+  },
+  {
+    "course_code": "ROMANIA 187F",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187F"
+  },
+  {
+    "course_code": "ROMANIA 187G",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187G"
+  },
+  {
+    "course_code": "ROMANIA 187I",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187I"
+  },
+  {
+    "course_code": "ROMANIA 187J",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187J"
+  },
+  {
+    "course_code": "ROMANIA 187K",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187K"
+  },
+  {
+    "course_code": "ROMANIA 187L",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "equivalent_courses": [
+      "ROMANIA 187M"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187L"
+  },
+  {
+    "course_code": "ROMANIA 187M",
+    "units": 2,
+    "title": "Advanced Tutorial Instruction in Romanian",
+    "description": "Tutorial, one hour; laboratory, one hour. Preparation: prior course in sequence or Romanian placement test. Tutorial and guided independent study of advanced Romanian: advanced conversation, composition, vocabulary development, and review of selected grammar topics. May be repeated for credit with topic change. P/NP or letter grading.",
+    "equivalent_courses": [
+      "ROMANIA 187L"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA187M"
+  },
+  {
+    "course_code": "ROMANIA 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA189"
+  },
+  {
+    "course_code": "ROMANIA 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/ROMANIA189HC"
+  }
+]

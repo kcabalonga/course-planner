@@ -1,0 +1,676 @@
+[
+  {
+    "course_code": "SPAN 1",
+    "units": 4,
+    "title": "Elementary Spanish",
+    "description": "Lecture, three hours; laboratory, two hours. Taught in Spanish. Laboratory is online. Introductory Spanish language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN1"
+  },
+  {
+    "course_code": "SPAN 1G",
+    "units": 4,
+    "title": "Reading Course for Graduate Students",
+    "description": "Lecture, three hours. Knowledge of Spanish not required. May not be applied toward degree requirements. S/U grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN1G"
+  },
+  {
+    "course_code": "SPAN 2",
+    "units": 4,
+    "title": "Elementary Spanish",
+    "description": "Lecture, three hours; laboratory, two hours. Taught in Spanish. Laboratory is online. Introductory Spanish language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN2"
+  },
+  {
+    "course_code": "SPAN 2A",
+    "units": 4,
+    "title": "Intensive Spanish",
+    "description": "Lecture, 20 hours; laboratory, five hours. Enforced requisite: course 1 or one year of high school Spanish. Intensive basic course in Spanish, with cultural activities, field trips, luncheons. Offered in summer only. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN2A"
+  },
+  {
+    "course_code": "SPAN 2G",
+    "units": 4,
+    "title": "Reading Course for Graduate Students",
+    "description": "Lecture, three hours. Enforced requisite: course 1G. May not be applied toward degree requirements. S/U grading.",
+    "prerequisites": [
+      "SPAN 1G"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN2G"
+  },
+  {
+    "course_code": "SPAN 3",
+    "units": 4,
+    "title": "Elementary Spanish",
+    "description": "Lecture, three hours; laboratory, two hours. Enforced requisite: course 2 with grade of C or better or Spanish placement test. Taught in Spanish. Laboratory is online. Introductory Spanish language and culture course that is proficiency-oriented, communicative, and task-based to help develop communicative competence in four skill areas (listening, speaking, reading, and writing), as well as cultural competence. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 2"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN3"
+  },
+  {
+    "course_code": "SPAN 3A",
+    "units": 4,
+    "title": "Intensive Spanish",
+    "description": "Lecture, 20 hours; laboratory, five hours. Enforced requisite: course 1 or one year of high school Spanish. Intensive basic course in Spanish, with cultural activities, field trips, luncheons. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 1"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN3A"
+  },
+  {
+    "course_code": "SPAN 4",
+    "units": 4,
+    "title": "Intermediate Spanish",
+    "description": "Lecture, three hours; laboratory, two hours. Taught in Spanish. Laboratory is online. Intermediate Spanish language and culture course designed to increase communicative ability. Acquisition of cultural competence and introduction to study of literature. Comprehension of conversations and stretches of connected discourse, reading of texts with minimum use of dictionary, writing with increased grammatical accuracy and control of sentence structure, coherence, and text organization, talking about past, present, and future events, and expression of preferences, feelings, beliefs, and opinions. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN4"
+  },
+  {
+    "course_code": "SPAN 5",
+    "units": 4,
+    "title": "Intermediate Spanish",
+    "description": "Lecture, three hours; laboratory, two hours. Taught in Spanish. Laboratory is online. Intermediate Spanish language and culture course designed to increase communicative ability. Acquisition of cultural competence and introduction to study of literature. Comprehension of conversations and stretches of connected discourse, reading of texts with minimum use of dictionary, writing with increased grammatical accuracy and control of sentence structure, coherence, and text organization, talking about past, present, and future events, and expression of preferences, feelings, beliefs, and opinions. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN5"
+  },
+  {
+    "course_code": "SPAN 7A",
+    "units": 4,
+    "title": "Introductory Spanish for Heritage Speakers",
+    "description": "Lecture, three hours; laboratory, two hours. Laboratory is online. Designed for students who are from Spanish-speaking family background and have some knowledge of Spanish. Introductory course to further develop communicative abilities, both verbal and written, and to increase knowledge of grammatical structures and achieve communicative competence. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN7A"
+  },
+  {
+    "course_code": "SPAN 7B",
+    "units": 4,
+    "title": "Intermediate Spanish for Heritage Speakers",
+    "description": "Lecture, three hours; laboratory, two hours. Enforced requisite: course 3 or 7A or Spanish placement test. Laboratory is online. Designed for students who are from Spanish-speaking family background and have some knowledge of Spanish. Intermediate course to further develop communicative abilities, both verbal and written, and to increase knowledge of grammatical structures and achieve communicative competence. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 3",
+      "SPAN 7A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN7B"
+  },
+  {
+    "course_code": "SPAN 8A",
+    "units": 2,
+    "title": "Spanish Conversation",
+    "description": "Discussion, three hours. Course 8A is open to students with credit for course 4 or equivalent. Students who have completed course 3 with grade of B or better may be admitted. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN8A"
+  },
+  {
+    "course_code": "SPAN 8B",
+    "units": 2,
+    "title": "Spanish Conversation",
+    "description": "Discussion, three hours. Course 8A is open to students with credit for course 4 or equivalent. Students who have completed course 3 with grade of B or better may be admitted. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN8B"
+  },
+  {
+    "course_code": "SPAN 9A",
+    "units": 2,
+    "title": "Advanced Conversation",
+    "description": "Discussion, three hours. Enforced requisite: course 8B. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 8B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN9A"
+  },
+  {
+    "course_code": "SPAN 9B",
+    "units": 2,
+    "title": "Advanced Conversation",
+    "description": "Discussion, three hours. Enforced requisite: course 8B. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 8B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN9B"
+  },
+  {
+    "course_code": "SPAN 10",
+    "units": 12,
+    "title": "Intensive Elementary Spanish",
+    "description": "Lecture, 20 hours. Intensive elementary instruction in speaking, listening, reading, and writing equivalent to courses 1, 2, and 3, with emphasis on Spanish grammar and Hispanic culture. Offered in summer only. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN10"
+  },
+  {
+    "course_code": "SPAN 11A",
+    "units": 4,
+    "title": "Catalan Language and Culture I",
+    "description": "Lecture, six hours. Part one of two-term accelerated language sequence equivalent to three terms of traditional instruction. Introduction to Catalan language and culture from wide range of activities focused on task-based and communicative approaches. Study involves variety of activities, which are designed to develop learners\u2019 listening, reading, speaking, and writing skills. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN11A"
+  },
+  {
+    "course_code": "SPAN 11B",
+    "units": 4,
+    "title": "Catalan Language and Culture II",
+    "description": "Lecture, six hours. Requisite: course 11A or equivalent. Part two of two-term accelerated language sequence equivalent to three terms of traditional instruction. Study offers more advanced knowledge of Catalan language and culture from wide range of activities focused on task-based and communicative approaches. Study involves variety of activities, which are designed to develop learners\u2019 listening, reading, speaking, and writing skills. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 11A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN11B"
+  },
+  {
+    "course_code": "SPAN 12A",
+    "units": 4,
+    "title": "Basque Language and Culture I",
+    "description": "Lecture, five hours. Introduction to Basque language and culture. Part I of three-term language sequence with emphasis on listening, speaking, reading, writing, and cultural competence. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN12A"
+  },
+  {
+    "course_code": "SPAN 12B",
+    "units": 4,
+    "title": "Basque Language and Culture II",
+    "description": "Lecture, five hours. Requisite: course 12A. Introduction to Basque language and culture. Part II of three-term language sequence with emphasis on listening, speaking, reading, writing, and cultural competence. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 2"
+    ],
+    "prerequisites": [
+      "SPAN 12A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN12B"
+  },
+  {
+    "course_code": "SPAN 12C",
+    "units": 4,
+    "title": "Basque Language and Culture III",
+    "description": "Lecture, five hours. Requisite: course 12B. Introduction to Basque language and culture. Part III of three-term language sequence with emphasis on listening, speaking, reading, writing, and cultural competence. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 12B"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN12C"
+  },
+  {
+    "course_code": "SPAN 19",
+    "units": 1,
+    "title": "Fiat Lux Freshman Seminars",
+    "description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN19"
+  },
+  {
+    "course_code": "SPAN 25",
+    "units": 4,
+    "title": "Advanced Spanish Composition",
+    "description": "Lecture, three hours. Requisite: course 5. Emphasis on development of communicative abilities, both verbal and written, as well as on increasing comprehension of variety of forms of cultural production in Spanish language and on preparation for more advanced Spanish courses. P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 5"
+    ],
+    "equivalent_courses": [
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN25"
+  },
+  {
+    "course_code": "SPAN 27",
+    "units": 4,
+    "title": "Advanced Spanish Composition for Heritage Speakers",
+    "description": "Lecture, three hours. Requisite: course 5. Practice in reading and writing of Spanish for students with oral proficiency in Spanish (in lieu of course 25). P/NP or letter grading.",
+    "satisfies": [
+      "Foreign Language - Level 3"
+    ],
+    "prerequisites": [
+      "SPAN 5"
+    ],
+    "equivalent_courses": [
+      "SPAN 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN27"
+  },
+  {
+    "course_code": "SPAN 28A",
+    "units": 4,
+    "title": "Spanish for Special Purposes: Medical",
+    "description": "Lecture, three hours. Requisite: course 3. Practice in speaking, reading, and writing Spanish using appropriate vocabulary and cultural situations for students with special interest in fields such as medicine, business, law, etc. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN28A"
+  },
+  {
+    "course_code": "SPAN 28B",
+    "units": 4,
+    "title": "Spanish for Special Purposes: Business",
+    "description": "Lecture, three hours. Recommended requisite: course 3. Introduction to Spanish language and its diverse cultures in variety of business settings. Offers opportunities to practice simple language that may be useful in airports, hotels, restaurants, and informal and professional settings where Spanish is target language. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 3"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN28B"
+  },
+  {
+    "course_code": "SPAN M35",
+    "units": 5,
+    "title": "Spanish, Portuguese, and Nature of Language",
+    "description": "(Same as Portuguese M35.) Lecture, three hours; discussion, one hour. Introduction to language study within context of Romance languages, focusing on Spanish and Portuguese. Nature of language: structure, diversity, evolution, social and cultural settings, literary uses. Study of language and its relation to other areas of human knowledge. P/NP or letter grading.",
+    "satisfies": [
+      "General Education - Philosophical & Linguistic Analysis (Arts & Humanities)"
+    ],
+    "cross_listed": [
+      "PORTGSE M35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPANM35"
+  },
+  {
+    "course_code": "SPAN 42",
+    "units": 5,
+    "title": "Iberian Cultures",
+    "description": "Lecture, four hours; discussion, one hour. Required of majors. Lectures taught in English; discussion sections taught in either Spanish or English. Highlights of civilization of Spain, with emphasis on artistic, economic, social, and historical development as background for upper-division courses. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Literacy & Cultural Analysis (Arts & Humanities)"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN42"
+  },
+  {
+    "course_code": "SPAN 44",
+    "units": 5,
+    "title": "Latin American Cultures",
+    "description": "Lecture, four hours; discussion, one hour. Required of majors. Lectures taught in English; discussion sections taught in either Spanish or English. Highlights of civilization of Spanish America, with emphasis on artistic, economic, social, and historical development as background for upper-division courses. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs",
+      "General Education - Historical Analysis (Society & Culture)",
+      "Diversity - Arts and Architecture"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN44"
+  },
+  {
+    "course_code": "SPAN 60A",
+    "units": 4,
+    "title": "Hispanic Literatures in Translation: Spanish Literature",
+    "description": "Lecture, three hours. Class readings and analysis of selected works in translation. Classroom discussion, papers, and examinations in English.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN60A"
+  },
+  {
+    "course_code": "SPAN 60B",
+    "units": 4,
+    "title": "Hispanic Literatures in Translation: Spanish-American Literature",
+    "description": "Lecture, three hours. Class readings and analysis of selected works in translation. Classroom discussion, papers, and examinations in English.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN60B"
+  },
+  {
+    "course_code": "SPAN 60C",
+    "units": 4,
+    "title": "Hispanic Literatures in Translation: \"Don Quijote\"",
+    "description": "Lecture, three hours. Class readings and analysis of selected works in translation. Classroom discussion, papers, and examinations in English.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN60C"
+  },
+  {
+    "course_code": "SPAN 88",
+    "units": 4,
+    "title": "Lower-Division Seminar",
+    "description": "Seminar, three hours. Knowledge of Spanish not essential. Variable topics courses designed to explore various themes and issues pertinent to Hispanic literature and culture.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN88"
+  },
+  {
+    "course_code": "SPAN 89",
+    "units": 1,
+    "title": "Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN89"
+  },
+  {
+    "course_code": "SPAN 89HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN89HC"
+  },
+  {
+    "course_code": "SPAN 97",
+    "units": 2,
+    "title": "Variable Topics in Spanish",
+    "description": "Lecture, two hours. Variable topics course with lectures, discussions, and papers; consult Schedule of Classes or department counselor for topic to be offered in specific term. May be repeated for credit. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN97"
+  },
+  {
+    "course_code": "SPAN 99",
+    "units": 1,
+    "title": "Student Research Program",
+    "description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN99"
+  },
+  {
+    "course_code": "SPAN 100A",
+    "units": 4,
+    "title": "Introduction to Study of Spanish Grammar: Phonology and Morphology",
+    "description": "Lecture, four hours. Requisite: course M35. Analysis of phonemic and morphological systems of Spanish. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN M35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN100A"
+  },
+  {
+    "course_code": "SPAN 100B",
+    "units": 4,
+    "title": "Introduction to Study of Spanish Grammar: Syntax",
+    "description": "Lecture, four hours. Requisite: course M35. Study of syntactical systems of Spanish. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN M35"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN100B"
+  },
+  {
+    "course_code": "SPAN 105",
+    "units": 4,
+    "title": "Advanced Spanish Grammar",
+    "description": "Lecture, four hours. Requisite: course 25. Comprehensive review of Spanish grammar with attention given to advanced concepts and structures that are not covered in lower-level courses. Development of writing skills through application of grammar concepts. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN105"
+  },
+  {
+    "course_code": "SPAN 107",
+    "units": 4,
+    "title": "Advanced Spanish Grammar for Heritage Speakers",
+    "description": "Lecture, four hours. Requisite: course 27. Stresses acquisition of standard and formal registers and advanced grammatical structures, accentuation, orthography, and avoidance of vocabulary and sentence structure. Draws from existing linguistic background to perfect grammar and writing in Spanish. Comprehensive review of Spanish grammar with attention given to advanced concepts and structures that are not covered in lower-level courses. Development of writing skills through application of grammar concepts. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN107"
+  },
+  {
+    "course_code": "SPAN 119",
+    "units": 4,
+    "title": "Introduction to Literary Analysis",
+    "description": "Lecture, four hours. Requisite: course 25 or 27. Introduction to methods of analyzing literary work in Spanish, Spanish-American, and Chicana/Chicano literature. Special attention to four major genres: poetry, narrative, drama, and essay. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN119"
+  },
+  {
+    "course_code": "SPAN 120",
+    "units": 4,
+    "title": "Literature in Historical Context",
+    "description": "Lecture, four hours; discussion, one hour. Requisite: course 25 or 27. Introduction to different ways of looking at literary works as historical phenomena. Presentation of major models for writing history\u2014great narratives, cyclic, teleological, sacred, and profane conceptions. Traditional concepts of literary history and problems of mixed categories (historical epochs versus epochs of style, national history, and world literature). P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN120"
+  },
+  {
+    "course_code": "SPAN M122",
+    "units": 4,
+    "title": "Foundations in Visual Culture in Iberian, Latin American, and Luso-Brazilian Worlds",
+    "description": "(Same as Portuguese M122.) Lecture, four hours. Requisite: course 25 or 27 or Portuguese 25 or 26 or 27. Taught in English. Addresses specificities of visual culture in Spanish- and Portuguese-speaking worlds. Through critical engagement with wide range of visual materials\u2014from 16th-century maps of Americas to YouTube videos of street protects in Chile; from Modernist architectural designs for new national capitals to telenovelas and colonial photographs; and everything in between\u2014introduction to practices, processes, objects of study, and interdisciplinary critical frameworks of field of visual culture studies. By examining manifestations of visual culture from Iberian, Latin American, and Luso-Brazilian contexts, students gain culturally specific foundations of visual knowledge and skills of visual literacy. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "Portuguese 25",
+      "Portuguese 26",
+      "Portuguese 27"
+    ],
+    "cross_listed": [
+      "PORTGSE M122"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPANM122"
+  },
+  {
+    "course_code": "SPAN 130",
+    "units": 4,
+    "title": "Topics in Medieval Studies",
+    "description": "Lecture, four hours. Requisites: courses 25 or 27, and 119. Exploration of medieval Iberian literatures: lyric poetry, prose, and history of peninsula, with emphasis on its literary and linguistic diversity. Possible topics include Convivencia (peaceful coexistence), Europe and Orient, beginnings of Inquisition, oral versus written traditions, origins of Hispano-Christian expansion beyond peninsula, and flowering of Al-Andalus. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN130"
+  },
+  {
+    "course_code": "SPAN 135",
+    "units": 4,
+    "title": "Topics in Early Modern Studies",
+    "description": "Lecture, four hours; discussion, one hour (when scheduled). Enforced requisites: courses 25 or 27, and 119. Exploration of 16th and 17th centuries, with focus on early modern period of Spain and Spanish America. Possible topics include Spanish colonization and indigenous responses, transatlantic literary and visual baroque, race and religion in construction of early modern nation, transatlantic fictions, early modern identities and theatrical representations, literature and historiography, transatlantic poetics and poetry. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN135"
+  },
+  {
+    "course_code": "SPAN 140",
+    "units": 4,
+    "title": "Topics in Modern Studies",
+    "description": "Lecture, four hours. Requisites: courses 25 or 27, and 119. Exploration of major literary movements and writers of 18th and 19th centuries in Spain and Spanish America. Possible topics include Enlightenment, Romanticism, nation-building literature, realism and naturalism, and works by Cadalso, Concolorcorvo, Lizardi, Larra, Sarmiento, B\u00e9cquer, Isaacs, Mera, Villaverde, and Gald\u00f3s. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN140"
+  },
+  {
+    "course_code": "SPAN 150",
+    "units": 4,
+    "title": "Topics in Contemporary Studies",
+    "description": "Lecture, four hours; discussion, one hour (when scheduled). Requisites: courses 25 or 27, and 119. Exploration of main trends that characterize contemporary Latin American and Spanish literatures and cultures and main concepts used to address them. Possible topics include transculturation and heterogeneity, race and ethnicity, vanguard movements, lettered and popular cultures, literary modernization in Latin American boom, literature and revolution, autobiography, women\u2019s writing, border literature, and postmodernist fiction. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN150"
+  },
+  {
+    "course_code": "SPAN 155",
+    "units": 4,
+    "title": "Topics in U.S. Latina/o Studies",
+    "description": "(Formerly numbered 155C.) Lecture, four hours. Enforced requisite: course 25 or 27. Exploration of spread of Spanish-American literature and culture throughout North America, including literatures that are outgrowth of civil rights movements of 1960s, recent demographic changes, new transnational identities, and mixed citizenships of U.S. Latinas and Latinos. Chicano, Puerto Rican, Cuban American, Central American-American, South American-American, and Jewish Latino literatures may be included. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN155"
+  },
+  {
+    "course_code": "SPAN 160",
+    "units": 4,
+    "title": "Topics in Spanish Linguistics",
+    "description": "Lecture, four hours. Requisite: course 25 or 27. Exploration of origin of language, how Spanish is acquired, evolution of Spanish from Latin to early modern period, how Spanish varies in world, how to teach Spanish, Spanish in contact with other languages. Possible topics include Spanish in Los Angeles, history of Spanish language, first- and second-language acquisition, language and cognition. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN160"
+  },
+  {
+    "course_code": "SPAN M165XP",
+    "units": 5,
+    "title": "Taking It to Street: Spanish in Community",
+    "description": "(Same as Chicana/o and Central American Studies M167XP.) Seminar, three hours; fieldwork, 10 hours. Enforced requisite: course 25 or 27. Service learning course to give students opportunity to use cultural and linguistic knowledge acquired in Spanish classes in real-world settings. Students required to spend minimum of eight to 10 hours per week at agreed on site in Latino community. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "cross_listed": [
+      "CCAS M167XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPANM165XP"
+  },
+  {
+    "course_code": "SPAN 170",
+    "units": 4,
+    "title": "Topics in Interdisciplinary and Transhistorical Studies",
+    "description": "Lecture, four hours; discussion, one hour (when scheduled). Requisite: course 25 or 27, 119. Comparative study of cultural production in Latin American, Afro-Luso-Brazilian, and Iberian contexts across diverse historical periods, regional, and ethnic traditions, and aesthetic modes. Possible topics include Afrolatinidad; diaspora; feminism; folklore; gender; globalization; indigeneity and indigenous studies (Andean, Mesoamerican, Amazonian, Tupi, and Tapuia); migration and immigration; music (1960s Latin American protest songs, nueva canci\u00f3n, m\u00fasica regional, punk, rap, folk); popular culture; regionalisms. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN170"
+  },
+  {
+    "course_code": "SPAN M172XP",
+    "units": 5,
+    "title": "Topics in Community Engagement",
+    "description": "(Formerly numbered M172SL.) (Same as Chicana/o and Central American Studies M170XP.) Seminar, four hours; field project, four to six hours. Requisite: course 25. Introduction to community engagement in various forms. Exploration of methods of community involvement and change making processes within variety of professional contexts in community. Students engage in experiential research, service, and/or learning to broaden their understanding of Spanish-speaking and Latinx communities. Students have opportunity to use cultural and linguistic knowledge acquired in Spanish classes in real-world settings. Topics may include oral tradition, immigrant narratives, visual culture and community, language and identity in community, urban spaces, etc. May be repeated for credit with topic change. P/NP or letter grading.",
+    "satisfies": [
+      "Diversity - Letters and Science, Education and Information Studies, Music, Public Affairs"
+    ],
+    "prerequisites": [
+      "SPAN 25"
+    ],
+    "cross_listed": [
+      "CCAS M170XP"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPANM172XP"
+  },
+  {
+    "course_code": "SPAN 175",
+    "units": 4,
+    "title": "Topics in Creative Writing and Translation",
+    "description": "Seminar, three hours. Requisites: courses 25 or 27, and 119. Exploration of art of translation or creative writing. Guest speakers or instructors include professional literary translators, poets, novelists, playwrights, and filmmakers who discuss theory, methodology, and practice of their art. May be repeated for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN175"
+  },
+  {
+    "course_code": "SPAN 180",
+    "units": 4,
+    "title": "Topics in Visual Culture",
+    "description": "(Formerly numbered M180.) Lecture, four hours; discussion, one hour (when scheduled). Requisites: courses 25 or 27, 119. Study of visual knowledge production in Latin America and Iberia as complex relation between visual subjects, practices, and representation. Objects of analysis may include architecture and urban design, digital media and other technologies, documentaries, fashion, fictional and experimental films, graphic novels and other media, maps and cartography, photography, plastic arts and art history, theater and performance, video, among others. May be repeated four times for credit with topic change. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27",
+      "SPAN 119"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN180"
+  },
+  {
+    "course_code": "SPAN 187A",
+    "units": 1,
+    "title": "Advanced Tutorial in Community and Culture I",
+    "description": "Tutorial, one hour. Requisite: course 25 or 27. Designed as adjunct to upper-division course in Hispanic literature, language, and culture. Exploration of topics in greater depth through supplemental readings, papers, community service, or other activities. May be repeated once for credit. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN187A"
+  },
+  {
+    "course_code": "SPAN 187B",
+    "units": 2,
+    "title": "Advanced Tutorial in Community and Culture II",
+    "description": "Tutorial, one hour. Requisite: course 25 or 27. Designed as adjunct to upper-division course in Hispanic literature, language, and culture. Exploration of topics in greater depth through supplemental readings, papers, community service, or other activities. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN187B"
+  },
+  {
+    "course_code": "SPAN 189",
+    "units": 1,
+    "title": "Advanced Honors Seminars",
+    "description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN189"
+  },
+  {
+    "course_code": "SPAN 189HC",
+    "units": 1,
+    "title": "Honors Contracts",
+    "description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN189HC"
+  },
+  {
+    "course_code": "SPAN 191A",
+    "units": 4,
+    "title": "Variable Topics in Spanish: Studies in Hispanic Literature and Linguistics",
+    "description": "Seminar, three hours. Limited to 15 junior/senior Spanish majors. Variable topics course with readings, discussions, and development of culminating paper. Consult Schedule of Classes or department counselor for topic to be offered in specific term. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN191A"
+  },
+  {
+    "course_code": "SPAN 191B",
+    "units": 4,
+    "title": "Variable Topics in Spanish: Studies in Hispanic Culture and Civilization",
+    "description": "Seminar, three hours. Advanced variable topics course that studies diverse aspects of Hispanic culture, civilization, and history. Classroom discussions, development of culminating paper, and examinations in Spanish. May be repeated for credit with topic change. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN191B"
+  },
+  {
+    "course_code": "SPAN 191C",
+    "units": 4,
+    "title": "Senior Capstone Seminar",
+    "description": "Seminar, three hours. Enforced requisites: courses 119, 120, and at least three upper-division elective courses required for majors. Limited to senior Spanish majors. Knowledge from previous coursework used to address current trends in discipline; students work with one faculty member on one focused research topic. Culminating paper required. Letter grading.",
+    "prerequisites": [
+      "SPAN 119",
+      "SPAN 120"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN191C"
+  },
+  {
+    "course_code": "SPAN 195",
+    "units": 4,
+    "title": "Community Internships in Spanish",
+    "description": "Tutorial, one hour; fieldwork, 10 hours. Requisite: course 25 or 27. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide journal of their experience. Final research paper required. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25",
+      "SPAN 27"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN195"
+  },
+  {
+    "course_code": "SPAN 197",
+    "units": 2,
+    "title": "Individual Studies in Spanish",
+    "description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. Eight units of courses 197 and/or 199 may be applied toward major requirements. May be repeated for maximum of 8 units. Individual contract required. P/NP or letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN197"
+  },
+  {
+    "course_code": "SPAN 198A",
+    "units": 4,
+    "title": "Senior Honors Research in Spanish I",
+    "description": "Tutorial, to be arranged. Preparation: completion of minimum of six upper-division major core courses with 3.7 grade-point average. Course 198A is enforced requisite to 198B. Limited to juniors/seniors. Development and completion of honors thesis under direct supervision of faculty member. May not be applied toward major requirements. Individual contract required. Letter grading.",
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN198A"
+  },
+  {
+    "course_code": "SPAN 198B",
+    "units": 2,
+    "title": "Senior Honors Research in Spanish II",
+    "description": "Tutorial, to be arranged. Preparation: completion of minimum of six upper-division major core courses with 3.7 grade-point average. Enforced requisite: course 198A. Limited to juniors/seniors. Development and completion of honors thesis under direct supervision of faculty member. May not be applied toward major requirements. Individual contract required. Letter grading.",
+    "prerequisites": [
+      "SPAN 198A"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN198B"
+  },
+  {
+    "course_code": "SPAN 199",
+    "units": 2,
+    "title": "Directed Research in Spanish",
+    "description": "Tutorial, to be arranged. Requisite: course 25. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating paper required. Eight units of courses 197 and/or 199 may be applied toward major requirements. May be repeated for credit. Individual contract required. P/NP or letter grading.",
+    "prerequisites": [
+      "SPAN 25"
+    ],
+    "url": "https://catalog.registrar.ucla.edu/course/2024/SPAN199"
+  }
+]
